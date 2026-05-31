@@ -1,5 +1,5 @@
 import { corePokemon } from "./core";
-import { getPokemonDisplayName, isBrowsablePokedexPokemon } from "../presentation";
+import { getPokemonDisplayName, getPokemonFormKind, isBrowsablePokedexPokemon } from "../presentation";
 import type { PokemonEntry } from "../types";
 
 function normalizePokemonEntry(entry: PokemonEntry): PokemonEntry {
@@ -86,6 +86,76 @@ export function getPokedexListPokemon(): PokemonEntry[] {
     .map((entries) => entries.find((entry) => entry.dexNumber <= 905) ?? entries[0])
     .filter((entry): entry is PokemonEntry => Boolean(entry) && isBrowsablePokedexPokemon(entry))
     .sort((left, right) => left.dexNumber - right.dexNumber);
+}
+
+function statSignature(entry: PokemonEntry): string {
+  const stats = entry.baseStats;
+  return [
+    stats.hp,
+    stats.attack,
+    stats.defense,
+    stats.specialAttack,
+    stats.specialDefense,
+    stats.speed,
+  ].join("/");
+}
+
+function abilitySignature(entry: PokemonEntry): string {
+  if (entry.abilitySlots) {
+    return [
+      entry.abilitySlots.ability1 ?? "",
+      entry.abilitySlots.ability2 ?? "",
+      entry.abilitySlots.hiddenAbility ?? "",
+    ].join("/");
+  }
+
+  return entry.abilities.join("/");
+}
+
+function hasStatOrAbilityDifference(entry: PokemonEntry, baseEntry: PokemonEntry): boolean {
+  return statSignature(entry) !== statSignature(baseEntry) || abilitySignature(entry) !== abilitySignature(baseEntry);
+}
+
+export function getPokemonLandingListPokemon(): PokemonEntry[] {
+  return [...pokemonByBaseName.values()]
+    .flatMap((entries) => {
+      const browsable = entries.filter(isBrowsablePokedexPokemon);
+      const baseEntry = browsable.find((entry) => entry.dexNumber <= 905) ?? browsable[0];
+
+      if (!baseEntry) {
+        return [];
+      }
+
+      return browsable.filter((entry) => {
+        if (entry.id === baseEntry.id) {
+          return true;
+        }
+
+        return hasStatOrAbilityDifference(entry, baseEntry);
+      });
+    })
+    .sort((left, right) => {
+      const leftGroup = getPokemonFormGroup(left);
+      const rightGroup = getPokemonFormGroup(right);
+      const leftBase = leftGroup.find((entry) => entry.dexNumber <= 905) ?? leftGroup[0] ?? left;
+      const rightBase = rightGroup.find((entry) => entry.dexNumber <= 905) ?? rightGroup[0] ?? right;
+      const leftKind = getPokemonFormKind(left);
+      const rightKind = getPokemonFormKind(right);
+
+      if (leftBase.dexNumber !== rightBase.dexNumber) {
+        return leftBase.dexNumber - rightBase.dexNumber;
+      }
+
+      if (leftKind === "base" && rightKind !== "base") {
+        return -1;
+      }
+
+      if (rightKind === "base" && leftKind !== "base") {
+        return 1;
+      }
+
+      return getPokemonDisplayName(left).localeCompare(getPokemonDisplayName(right));
+    });
 }
 
 export function getPokemonFormGroup(entry: PokemonEntry): PokemonEntry[] {

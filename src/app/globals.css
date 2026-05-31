@@ -7,7 +7,7 @@
   --surface-muted: rgba(44, 46, 47, 0.72);
   --surface-elevated: rgba(18, 19, 19, 0.86);
   --surface-glass: linear-gradient(145deg, rgba(238, 241, 240, 0.12), rgba(150, 156, 156, 0.035));
-  --surface-table-header: linear-gradient(180deg, rgba(63, 66, 67, 0.94), rgba(39, 41, 42, 0.94));
+  --surface-table-header: linear-gradient(180deg, rgba(187, 145, 48, 0.96), rgba(112, 85, 28, 0.96));
   --text-body: #f0f1ef;
   --text-strong: #fbfcfa;
   --text-muted: #c4c8c7;
@@ -18,8 +18,8 @@
   --accent: #d8dcda;
   --accent-soft: rgba(218, 222, 220, 0.14);
   --accent-border: #f1f4f2;
-  --gold-accent: #d6b45c;
-  --gold-soft: rgba(214, 180, 92, 0.13);
+  --gold-accent: #d2ad48;
+  --gold-soft: rgba(210, 173, 72, 0.2);
   --button-text: #08090a;
   --shadow-soft: 0 12px 30px rgba(0, 0, 0, 0.28);
   --shadow-strong: 0 24px 60px rgba(0, 0, 0, 0.52);
@@ -155,13 +155,17 @@ section[style*="var(--surface-card)"] {
     align-items: center;
     justify-content: center;
     padding: 0 16px;
-    border: 1px solid rgba(214, 180, 92, 0.5);
+    border: 1px solid rgba(244, 214, 132, 0.72);
     border-radius: 999px;
-    background: rgba(22, 23, 23, 0.76);
-    color: var(--text-strong);
+    background: linear-gradient(180deg, #e7c86a, var(--gold-accent));
+    color: var(--button-text);
     box-shadow: 0 12px 34px rgba(0, 0, 0, 0.4), inset 0 1px 0 rgba(255, 255, 255, 0.08);
     backdrop-filter: blur(18px) saturate(1.12);
     font-weight: 800;
+  }
+
+  .scroll-to-top-button {
+    display: none !important;
   }
 
   .table-scroll th {

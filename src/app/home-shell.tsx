@@ -43,7 +43,7 @@ type HomeLocationRow = {
   id: string;
   slug: string;
   name: string;
-  region: string;
+  region?: string;
 };
 
 type HomeMoveRow = {
@@ -247,9 +247,10 @@ function sortButtonLabel(label: string, field: MoveSortField, sortKeys: MoveSort
 function moveSortButtonStyle(active: boolean) {
   return {
     border: "0",
-    padding: 0,
-    background: "transparent",
-    color: active ? "var(--accent-border)" : "var(--text-strong)",
+    padding: active ? "4px 9px" : 0,
+    borderRadius: "999px",
+    background: active ? "linear-gradient(180deg, #e7c86a, var(--gold-accent))" : "transparent",
+    color: active ? "var(--button-text)" : "var(--text-strong)",
     font: "inherit",
     fontWeight: 800,
     cursor: "pointer",
@@ -295,7 +296,7 @@ function LocalTabSearch({
           width: "100%",
           padding: "11px 14px",
           border: "1px solid var(--border-soft)",
-          borderRadius: "14px",
+          borderRadius: "16px",
           background: "var(--surface-glass)",
           color: "var(--text-body)",
           boxShadow: "inset 0 1px 0 rgba(255,255,255,0.04)",
@@ -316,7 +317,7 @@ function getMachineTypeIconSrc(type: string | null | undefined): string | null {
 function CompactLinkList({
   rows,
 }: {
-  rows: Array<{ id: string; href: string; title: string; meta: string }>;
+  rows: Array<{ id: string; href: string; title: string; meta?: string }>;
 }) {
   return (
     <div style={{ display: "grid", gap: "8px" }}>
@@ -326,7 +327,7 @@ function CompactLinkList({
           href={row.href}
           style={{
             display: "grid",
-            gridTemplateColumns: "1fr auto",
+            gridTemplateColumns: row.meta ? "1fr auto" : "1fr",
             alignItems: "center",
             gap: "16px",
             padding: "16px",
@@ -336,7 +337,7 @@ function CompactLinkList({
           }}
         >
           <span style={{ color: "var(--text-body)", fontWeight: 600 }}>{row.title}</span>
-          <span style={{ color: "var(--text-muted)", textAlign: "right" }}>{row.meta}</span>
+          {row.meta ? <span style={{ color: "var(--text-muted)", textAlign: "right" }}>{row.meta}</span> : null}
         </Link>
       ))}
     </div>
@@ -353,7 +354,7 @@ function HomePokedexTable({
   pokemonFilter: "all" | "mega" | "regional" | "alternate";
 }) {
   const visiblePokemon = pokemon;
-  const gridTemplateColumns = "56px 340px minmax(260px, 1fr) repeat(7, minmax(56px, 72px))";
+  const gridTemplateColumns = "340px minmax(260px, 1fr) repeat(7, minmax(56px, 72px))";
   const pokemonCellInnerWidth = "292px";
   const [stickyTop, setStickyTop] = useState(0);
 
@@ -386,9 +387,9 @@ function HomePokedexTable({
               style={{
                 padding: "8px 12px",
                 borderRadius: "999px",
-                border: active ? "1px solid var(--accent-border)" : "1px solid var(--border-soft)",
-                background: active ? "linear-gradient(180deg, rgba(245,248,247,0.16), rgba(190,198,196,0.09))" : "var(--surface-glass)",
-                color: active ? "var(--text-strong)" : "var(--text-body)",
+                border: active ? "1px solid rgba(244, 214, 132, 0.72)" : "1px solid var(--border-soft)",
+                background: active ? "linear-gradient(180deg, #e7c86a, var(--gold-accent))" : "var(--surface-glass)",
+                color: active ? "var(--button-text)" : "var(--text-body)",
                 fontWeight: 700,
                 textDecoration: "none",
               }}
@@ -415,7 +416,6 @@ function HomePokedexTable({
             overflow: "hidden",
           }}
         >
-          <div role="columnheader" style={headerGridCellStyle("right")}>#</div>
           <div role="columnheader" style={headerGridCellStyle("center")}>Pokemon</div>
           <div role="columnheader" style={headerGridCellStyle()}>Ability</div>
           <div role="columnheader" style={headerGridCellStyle("right")}>HP</div>
@@ -448,7 +448,6 @@ function HomePokedexTable({
                   scrollMarginTop: "96px",
                 }}
               >
-                <div role="cell" style={gridCellStyle("right")}>{entry.dexNumber}</div>
                 <div role="cell" style={{ ...gridCellStyle("center"), whiteSpace: "normal" }}>
                   <Link
                     href={href}
@@ -658,7 +657,6 @@ export default function HomeShell({
             id: entry.id,
             href: `/locations/${entry.slug}`,
             title: entry.name,
-            meta: entry.region,
           }))}
         />
       );

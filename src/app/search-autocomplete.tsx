@@ -323,7 +323,7 @@ export default function SearchAutocomplete({
               padding: "11px 16px",
               border: "1px solid var(--accent-border)",
               borderRadius: "12px",
-              background: "var(--accent)",
+              background: "linear-gradient(180deg, #e7c86a, var(--gold-accent))",
               color: "var(--button-text)",
               fontWeight: 700,
           cursor: "pointer",

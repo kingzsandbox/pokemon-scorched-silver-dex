@@ -5,7 +5,7 @@ import { getMachineBrowseEntries } from "../lib/data/compatibility";
 import { getBrowseItems } from "../lib/data/items";
 import { getLocationGroupSummary, getLocationGroups } from "../lib/data/locations";
 import { getMoves } from "../lib/data/moves";
-import { getBrowsablePokedexPokemon, getPokedexListPokemon, getPokemonFormGroup } from "../lib/data/pokemon";
+import { getBrowsablePokedexPokemon, getPokemonFormGroup, getPokemonLandingListPokemon } from "../lib/data/pokemon";
 import { getPokemonMiniSprite, getPokemonMiniSpriteSources } from "../lib/assets";
 import { getMoveEffectSummary, getPokemonAbilityDisplayRows } from "../lib/data/vanilla";
 import { getPokemonFormKind } from "../lib/presentation";
@@ -39,7 +39,7 @@ export default async function HomePage({ searchParams }: HomePageProps) {
 
   const pokemon =
     activeTab === "pokedex"
-      ? (pokemonFilter === "all" ? getPokedexListPokemon() : getBrowsablePokedexPokemon().filter((entry) => getPokemonFormKind(entry) === pokemonFilter))
+      ? (pokemonFilter === "all" ? getPokemonLandingListPokemon() : getBrowsablePokedexPokemon().filter((entry) => getPokemonFormKind(entry) === pokemonFilter))
           .map((entry) => {
             const formGroup = getPokemonFormGroup(entry);
             const formKinds = [

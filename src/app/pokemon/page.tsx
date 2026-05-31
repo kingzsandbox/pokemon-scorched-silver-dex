@@ -3,11 +3,11 @@ import ReferenceImage from "../../components/reference-image";
 import PageNavigation from "../../components/page-navigation";
 import { TypeBadgeList } from "../../components/dex-visuals";
 import { getPokemonMiniSpriteSources } from "../../lib/assets";
-import { getPokedexListPokemon, getPokemonFormGroup } from "../../lib/data/pokemon";
+import { getPokemonFormGroup, getPokemonLandingListPokemon } from "../../lib/data/pokemon";
 import { getPokemonDisplayName } from "../../lib/presentation";
 
 export default function PokemonListPage() {
-  const pokemon = getPokedexListPokemon();
+  const pokemon = getPokemonLandingListPokemon();
 
   return (
     <main style={{ margin: "0 auto", maxWidth: "980px", padding: "40px 24px 64px" }}>
