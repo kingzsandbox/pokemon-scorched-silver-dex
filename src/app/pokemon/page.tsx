@@ -13,9 +13,6 @@ export default function PokemonListPage() {
     <main style={{ margin: "0 auto", maxWidth: "980px", padding: "40px 24px 64px" }}>
       <PageNavigation />
       <h1 style={{ marginTop: 0 }}>Pokémon</h1>
-      <p style={{ color: "var(--text-muted)" }}>
-        Base Pokédex entries are listed here. Regional, Mega, and custom forms are available from each Pokémon page.
-      </p>
 
       <div style={{ display: "grid", gap: "12px", marginTop: "24px" }}>
         {pokemon.map((entry) => {

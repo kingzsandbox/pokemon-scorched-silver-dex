@@ -6,7 +6,7 @@ import SearchAutocomplete from "../app/search-autocomplete";
 import type { SearchResult } from "../lib/types";
 
 const navItems = [
-  { href: "/", label: "Pokedex", match: (pathname: string) => pathname === "/" },
+  { href: "/", label: "Pokemon", match: (pathname: string) => pathname === "/" },
   {
     href: "/?tab=locations",
     label: "Locations",
@@ -44,11 +44,11 @@ function navLinkStyle(active: boolean) {
     padding: "0 14px",
     borderRadius: "999px",
     border: active ? "1px solid var(--accent-border)" : "1px solid var(--border-soft)",
-    background: active ? "linear-gradient(180deg, #efd37f 0%, var(--accent) 100%)" : "var(--surface-glass)",
+    background: active ? "linear-gradient(180deg, #f3f6f4 0%, #c9cfcd 100%)" : "var(--surface-glass)",
     color: active ? "var(--button-text)" : "var(--text-body)",
     fontWeight: 700,
     textDecoration: "none",
-    boxShadow: active ? "0 10px 24px rgba(217,168,58,0.18)" : "var(--shadow-soft)",
+    boxShadow: active ? "0 10px 24px rgba(226,232,229,0.14)" : "var(--shadow-soft)",
   } as const;
 }
 
@@ -59,7 +59,7 @@ export default function GlobalHeader({ searchIndex }: GlobalHeaderProps) {
 
   function isActive(item: (typeof navItems)[number]) {
     if (pathname === "/") {
-      if (item.label === "Pokedex") {
+      if (item.label === "Pokemon") {
         return !activeRootTab || activeRootTab === "pokedex";
       }
       if (item.href.startsWith("/?tab=")) {
@@ -77,7 +77,7 @@ export default function GlobalHeader({ searchIndex }: GlobalHeaderProps) {
         top: 0,
         zIndex: 50,
         backdropFilter: "blur(22px) saturate(1.15)",
-        background: "linear-gradient(180deg, rgba(18,18,17,0.86), rgba(12,12,11,0.72))",
+        background: "linear-gradient(180deg, rgba(18,19,19,0.9), rgba(11,12,12,0.76))",
         borderBottom: "1px solid var(--border-header)",
         boxShadow: "0 16px 36px rgba(0,0,0,0.34)",
       }}

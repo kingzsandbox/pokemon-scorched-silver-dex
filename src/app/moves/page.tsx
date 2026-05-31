@@ -19,7 +19,7 @@ function headerCellStyle(align: "left" | "center" | "right" = "left") {
     position: "sticky",
     top: "126px",
     zIndex: 8,
-    background: "var(--surface-elevated)",
+    background: "var(--surface-table-header)",
     color: "var(--text-strong)",
     boxShadow: "0 10px 24px rgba(0,0,0,0.2)",
   } as const;
@@ -32,7 +32,7 @@ export default function MovesPage() {
     <main style={{ margin: "0 auto", maxWidth: "900px", padding: "40px 24px 64px" }}>
       <PageNavigation />
       <h1 style={{ marginTop: 0 }}>All Moves</h1>
-      <div style={{ overflowX: "auto", marginTop: "24px", border: "1px solid var(--border-soft)", borderRadius: "14px" }}>
+      <div className="table-scroll" style={{ marginTop: "24px" }}>
         <table style={{ width: "100%", borderCollapse: "separate", borderSpacing: 0 }}>
           <thead>
             <tr>

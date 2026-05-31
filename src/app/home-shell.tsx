@@ -5,7 +5,6 @@ import { useEffect, useMemo, useState, type ReactNode } from "react";
 import { MoveCategoryIcon, TypeBadgeList } from "../components/dex-visuals";
 import ItemsReference from "../components/items-reference";
 import ItemImage from "../components/item-image";
-import PageNavigation from "../components/page-navigation";
 import PokedexFocus from "./pokedex-focus";
 import ReferenceImage from "../components/reference-image";
 import { getPokemonDisplayName } from "../lib/presentation";
@@ -112,7 +111,7 @@ type HomeShellProps = {
 };
 
 const tabs: Array<{ key: HomeTabKey; label: string; href?: string }> = [
-  { key: "pokedex", label: "Pokedex" },
+  { key: "pokedex", label: "Pokemon" },
   { key: "locations", label: "Locations" },
   { key: "items", label: "Items" },
   { key: "moves", label: "All Moves" },
@@ -165,7 +164,8 @@ function gridCellStyle(align: "left" | "center" | "right" = "left") {
 function headerGridCellStyle(align: "left" | "center" | "right" = "left") {
   return {
     ...gridCellStyle(align),
-    background: "var(--surface-muted)",
+    background: "transparent",
+    color: "var(--text-strong)",
   } as const;
 }
 
@@ -175,9 +175,9 @@ function tableHeaderCellStyle(stickyTop: number, align: "left" | "center" | "rig
     position: "sticky",
     top: stickyTop,
     zIndex: 8,
-    background: "var(--surface-elevated)",
+    background: "var(--surface-table-header)",
     color: "var(--text-strong)",
-    boxShadow: "0 10px 24px rgba(0, 0, 0, 0.22)",
+    boxShadow: "0 10px 24px rgba(0, 0, 0, 0.2)",
   } as const;
 }
 
@@ -338,8 +338,8 @@ function HomePokedexTable({
                 padding: "8px 12px",
                 borderRadius: "999px",
                 border: active ? "1px solid var(--accent-border)" : "1px solid var(--border-soft)",
-                background: active ? "var(--accent-soft)" : "var(--surface-card)",
-                color: active ? "var(--accent-border)" : "var(--text-body)",
+                background: active ? "linear-gradient(180deg, rgba(245,248,247,0.16), rgba(190,198,196,0.09))" : "var(--surface-glass)",
+                color: active ? "var(--text-strong)" : "var(--text-body)",
                 fontWeight: 700,
                 textDecoration: "none",
               }}
@@ -350,7 +350,8 @@ function HomePokedexTable({
         })}
       </div>
       <PokedexFocus focusedSlug={focusedSlug} />
-      <div style={{ minWidth: "1160px" }}>
+      <div className="table-scroll">
+      <div role="table" style={{ minWidth: "1160px" }}>
         <div
           role="row"
           style={{
@@ -359,8 +360,10 @@ function HomePokedexTable({
             position: "sticky",
             top: stickyTop,
             zIndex: 100,
-            background: "var(--surface-muted)",
+            background: "var(--surface-table-header)",
             boxShadow: "0 1px 0 var(--border-soft), 0 10px 18px rgba(0, 0, 0, 0.34)",
+            borderRadius: "18px 18px 0 0",
+            overflow: "hidden",
           }}
         >
           <div role="columnheader" style={headerGridCellStyle("right")}>#</div>
@@ -493,6 +496,7 @@ function HomePokedexTable({
           })}
         </div>
       </div>
+      </div>
     </div>
   );
 }
@@ -560,7 +564,7 @@ export default function HomeShell({
       break;
     case "moves":
       tabContent = (
-        <div style={{ overflow: "visible" }}>
+        <div className="table-scroll">
           <table style={{ width: "100%", minWidth: "980px", borderCollapse: "separate", borderSpacing: 0 }}>
             <thead>
               <tr>
@@ -630,7 +634,7 @@ export default function HomeShell({
       break;
     case "machines":
       tabContent = (
-        <div style={{ overflow: "visible" }}>
+        <div className="table-scroll">
           <table style={{ width: "100%", minWidth: "980px", borderCollapse: "separate", borderSpacing: 0 }}>
             <thead>
               <tr>
@@ -688,15 +692,12 @@ export default function HomeShell({
 
   return (
     <main style={{ margin: "0 auto", maxWidth: "1400px", padding: "18px 18px 48px" }}>
-      {activeTab !== "pokedex" ? (
-        <PageNavigation backHref="/?tab=pokedex" backLabel="Back to Pokedex" homeHref="/" />
-      ) : null}
       <section
         aria-label={tabs.find((tab) => tab.key === activeTab)?.label ?? "Content"}
         style={{
           background: "var(--surface-card)",
           border: "1px solid var(--border-soft)",
-          borderRadius: "16px",
+          borderRadius: "22px",
           padding: "10px 12px 16px",
           overflow: "visible",
         }}
