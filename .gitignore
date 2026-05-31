@@ -1,0 +1,14 @@
+.next
+node_modules
+out
+dist
+.import-build
+*.log
+*.pid
+*.tsbuildinfo
+__pycache__/
+*.pyc
+tmp-edge-profile*
+temp-*
+contact-sheet*.jpg
+build-test.log

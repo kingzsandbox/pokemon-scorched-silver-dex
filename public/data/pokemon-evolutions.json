@@ -1,0 +1,3422 @@
+[
+  {
+    "id": "evo-0001-00",
+    "fromPokemonId": "pokemon-0001",
+    "toPokemonId": "pokemon-0002",
+    "method": "level_candidate: 16"
+  },
+  {
+    "id": "evo-0002-00",
+    "fromPokemonId": "pokemon-0002",
+    "toPokemonId": "pokemon-0003",
+    "method": "level_candidate: 32"
+  },
+  {
+    "id": "evo-0003-00",
+    "fromPokemonId": "pokemon-0003",
+    "toPokemonId": "pokemon-0906",
+    "method": "mega_stone_candidate: Venusaurite"
+  },
+  {
+    "id": "evo-0004-00",
+    "fromPokemonId": "pokemon-0004",
+    "toPokemonId": "pokemon-0005",
+    "method": "level_candidate: 16"
+  },
+  {
+    "id": "evo-0005-00",
+    "fromPokemonId": "pokemon-0005",
+    "toPokemonId": "pokemon-0006",
+    "method": "level_candidate: 36"
+  },
+  {
+    "id": "evo-0006-00",
+    "fromPokemonId": "pokemon-0006",
+    "toPokemonId": "pokemon-0907",
+    "method": "mega_stone_candidate: CharizarditeX"
+  },
+  {
+    "id": "evo-0006-01",
+    "fromPokemonId": "pokemon-0006",
+    "toPokemonId": "pokemon-0908",
+    "method": "mega_stone_candidate: CharizarditeY"
+  },
+  {
+    "id": "evo-0007-00",
+    "fromPokemonId": "pokemon-0007",
+    "toPokemonId": "pokemon-0008",
+    "method": "level_candidate: 16"
+  },
+  {
+    "id": "evo-0008-00",
+    "fromPokemonId": "pokemon-0008",
+    "toPokemonId": "pokemon-0009",
+    "method": "level_candidate: 36"
+  },
+  {
+    "id": "evo-0009-00",
+    "fromPokemonId": "pokemon-0009",
+    "toPokemonId": "pokemon-0909",
+    "method": "mega_stone_candidate: Blastoisinite"
+  },
+  {
+    "id": "evo-0010-00",
+    "fromPokemonId": "pokemon-0010",
+    "toPokemonId": "pokemon-0011",
+    "method": "level_candidate: 7"
+  },
+  {
+    "id": "evo-0011-00",
+    "fromPokemonId": "pokemon-0011",
+    "toPokemonId": "pokemon-0012",
+    "method": "level_candidate: 10"
+  },
+  {
+    "id": "evo-0013-00",
+    "fromPokemonId": "pokemon-0013",
+    "toPokemonId": "pokemon-0014",
+    "method": "level_candidate: 7"
+  },
+  {
+    "id": "evo-0014-00",
+    "fromPokemonId": "pokemon-0014",
+    "toPokemonId": "pokemon-0015",
+    "method": "level_candidate: 10"
+  },
+  {
+    "id": "evo-0015-00",
+    "fromPokemonId": "pokemon-0015",
+    "toPokemonId": "pokemon-0910",
+    "method": "mega_stone_candidate: Beedrillite"
+  },
+  {
+    "id": "evo-0016-00",
+    "fromPokemonId": "pokemon-0016",
+    "toPokemonId": "pokemon-0017",
+    "method": "level_candidate: 18"
+  },
+  {
+    "id": "evo-0017-00",
+    "fromPokemonId": "pokemon-0017",
+    "toPokemonId": "pokemon-0018",
+    "method": "level_candidate: 36"
+  },
+  {
+    "id": "evo-0018-00",
+    "fromPokemonId": "pokemon-0018",
+    "toPokemonId": "pokemon-0911",
+    "method": "mega_stone_candidate: Pidgeotite"
+  },
+  {
+    "id": "evo-0019-00",
+    "fromPokemonId": "pokemon-0019",
+    "toPokemonId": "pokemon-0020",
+    "method": "level_candidate: 20"
+  },
+  {
+    "id": "evo-0021-00",
+    "fromPokemonId": "pokemon-0021",
+    "toPokemonId": "pokemon-0022",
+    "method": "level_candidate: 20"
+  },
+  {
+    "id": "evo-0023-00",
+    "fromPokemonId": "pokemon-0023",
+    "toPokemonId": "pokemon-0024",
+    "method": "level_candidate: 22"
+  },
+  {
+    "id": "evo-0025-00",
+    "fromPokemonId": "pokemon-0025",
+    "toPokemonId": "pokemon-0026",
+    "method": "item_candidate: Thunder Stone"
+  },
+  {
+    "id": "evo-0025-01",
+    "fromPokemonId": "pokemon-0025",
+    "toPokemonId": "pokemon-0958",
+    "method": "item_candidate: Sun Stone"
+  },
+  {
+    "id": "evo-0027-00",
+    "fromPokemonId": "pokemon-0027",
+    "toPokemonId": "pokemon-0028",
+    "method": "level_candidate: 22"
+  },
+  {
+    "id": "evo-0029-00",
+    "fromPokemonId": "pokemon-0029",
+    "toPokemonId": "pokemon-0030",
+    "method": "level_candidate: 16"
+  },
+  {
+    "id": "evo-0030-00",
+    "fromPokemonId": "pokemon-0030",
+    "toPokemonId": "pokemon-0031",
+    "method": "item_candidate: Moon Stone"
+  },
+  {
+    "id": "evo-0032-00",
+    "fromPokemonId": "pokemon-0032",
+    "toPokemonId": "pokemon-0033",
+    "method": "level_candidate: 16"
+  },
+  {
+    "id": "evo-0033-00",
+    "fromPokemonId": "pokemon-0033",
+    "toPokemonId": "pokemon-0034",
+    "method": "item_candidate: Moon Stone"
+  },
+  {
+    "id": "evo-0035-00",
+    "fromPokemonId": "pokemon-0035",
+    "toPokemonId": "pokemon-0036",
+    "method": "item_candidate: Moon Stone"
+  },
+  {
+    "id": "evo-0037-00",
+    "fromPokemonId": "pokemon-0037",
+    "toPokemonId": "pokemon-0038",
+    "method": "item_candidate: Fire Stone"
+  },
+  {
+    "id": "evo-0039-00",
+    "fromPokemonId": "pokemon-0039",
+    "toPokemonId": "pokemon-0040",
+    "method": "item_candidate: Moon Stone"
+  },
+  {
+    "id": "evo-0041-00",
+    "fromPokemonId": "pokemon-0041",
+    "toPokemonId": "pokemon-0042",
+    "method": "level_candidate: 22"
+  },
+  {
+    "id": "evo-0042-00",
+    "fromPokemonId": "pokemon-0042",
+    "toPokemonId": "pokemon-0169",
+    "method": "friendship_candidate"
+  },
+  {
+    "id": "evo-0043-00",
+    "fromPokemonId": "pokemon-0043",
+    "toPokemonId": "pokemon-0044",
+    "method": "level_candidate: 21"
+  },
+  {
+    "id": "evo-0044-00",
+    "fromPokemonId": "pokemon-0044",
+    "toPokemonId": "pokemon-0045",
+    "method": "item_candidate: Leaf Stone"
+  },
+  {
+    "id": "evo-0044-01",
+    "fromPokemonId": "pokemon-0044",
+    "toPokemonId": "pokemon-0182",
+    "method": "item_candidate: Sun Stone"
+  },
+  {
+    "id": "evo-0046-00",
+    "fromPokemonId": "pokemon-0046",
+    "toPokemonId": "pokemon-0047",
+    "method": "level_candidate: 24"
+  },
+  {
+    "id": "evo-0048-00",
+    "fromPokemonId": "pokemon-0048",
+    "toPokemonId": "pokemon-0049",
+    "method": "level_candidate: 31"
+  },
+  {
+    "id": "evo-0050-00",
+    "fromPokemonId": "pokemon-0050",
+    "toPokemonId": "pokemon-0051",
+    "method": "level_candidate: 26"
+  },
+  {
+    "id": "evo-0052-00",
+    "fromPokemonId": "pokemon-0052",
+    "toPokemonId": "pokemon-0053",
+    "method": "level_candidate: 28"
+  },
+  {
+    "id": "evo-0054-00",
+    "fromPokemonId": "pokemon-0054",
+    "toPokemonId": "pokemon-0055",
+    "method": "level_candidate: 33"
+  },
+  {
+    "id": "evo-0056-00",
+    "fromPokemonId": "pokemon-0056",
+    "toPokemonId": "pokemon-0057",
+    "method": "level_candidate: 28"
+  },
+  {
+    "id": "evo-0058-00",
+    "fromPokemonId": "pokemon-0058",
+    "toPokemonId": "pokemon-0059",
+    "method": "item_candidate: Fire Stone"
+  },
+  {
+    "id": "evo-0060-00",
+    "fromPokemonId": "pokemon-0060",
+    "toPokemonId": "pokemon-0061",
+    "method": "level_candidate: 25"
+  },
+  {
+    "id": "evo-0061-00",
+    "fromPokemonId": "pokemon-0061",
+    "toPokemonId": "pokemon-0062",
+    "method": "item_candidate: Water Stone"
+  },
+  {
+    "id": "evo-0061-01",
+    "fromPokemonId": "pokemon-0061",
+    "toPokemonId": "pokemon-0186",
+    "method": "item_trade_or_item_use_candidate: King's Rock"
+  },
+  {
+    "id": "evo-0061-02",
+    "fromPokemonId": "pokemon-0061",
+    "toPokemonId": "pokemon-0186",
+    "method": "item_trade_or_item_use_candidate: King's Rock"
+  },
+  {
+    "id": "evo-0063-00",
+    "fromPokemonId": "pokemon-0063",
+    "toPokemonId": "pokemon-0064",
+    "method": "level_candidate: 16"
+  },
+  {
+    "id": "evo-0064-00",
+    "fromPokemonId": "pokemon-0064",
+    "toPokemonId": "pokemon-0065",
+    "method": "item_candidate: Trade Stone"
+  },
+  {
+    "id": "evo-0065-00",
+    "fromPokemonId": "pokemon-0065",
+    "toPokemonId": "pokemon-0912",
+    "method": "mega_stone_candidate: Alakazite"
+  },
+  {
+    "id": "evo-0066-00",
+    "fromPokemonId": "pokemon-0066",
+    "toPokemonId": "pokemon-0067",
+    "method": "level_candidate: 28"
+  },
+  {
+    "id": "evo-0067-00",
+    "fromPokemonId": "pokemon-0067",
+    "toPokemonId": "pokemon-0068",
+    "method": "item_candidate: Trade Stone"
+  },
+  {
+    "id": "evo-0069-00",
+    "fromPokemonId": "pokemon-0069",
+    "toPokemonId": "pokemon-0070",
+    "method": "level_candidate: 21"
+  },
+  {
+    "id": "evo-0070-00",
+    "fromPokemonId": "pokemon-0070",
+    "toPokemonId": "pokemon-0071",
+    "method": "item_candidate: Leaf Stone"
+  },
+  {
+    "id": "evo-0072-00",
+    "fromPokemonId": "pokemon-0072",
+    "toPokemonId": "pokemon-0073",
+    "method": "level_candidate: 30"
+  },
+  {
+    "id": "evo-0074-00",
+    "fromPokemonId": "pokemon-0074",
+    "toPokemonId": "pokemon-0075",
+    "method": "level_candidate: 25"
+  },
+  {
+    "id": "evo-0075-00",
+    "fromPokemonId": "pokemon-0075",
+    "toPokemonId": "pokemon-0076",
+    "method": "item_candidate: Trade Stone"
+  },
+  {
+    "id": "evo-0077-00",
+    "fromPokemonId": "pokemon-0077",
+    "toPokemonId": "pokemon-0078",
+    "method": "level_candidate: 40"
+  },
+  {
+    "id": "evo-0079-00",
+    "fromPokemonId": "pokemon-0079",
+    "toPokemonId": "pokemon-0080",
+    "method": "level_candidate: 37"
+  },
+  {
+    "id": "evo-0079-01",
+    "fromPokemonId": "pokemon-0079",
+    "toPokemonId": "pokemon-0199",
+    "method": "item_trade_or_item_use_candidate: King's Rock"
+  },
+  {
+    "id": "evo-0079-02",
+    "fromPokemonId": "pokemon-0079",
+    "toPokemonId": "pokemon-0199",
+    "method": "item_trade_or_item_use_candidate: King's Rock"
+  },
+  {
+    "id": "evo-0080-00",
+    "fromPokemonId": "pokemon-0080",
+    "toPokemonId": "pokemon-0913",
+    "method": "mega_stone_candidate: Slowbronite"
+  },
+  {
+    "id": "evo-0081-00",
+    "fromPokemonId": "pokemon-0081",
+    "toPokemonId": "pokemon-0082",
+    "method": "level_candidate: 30"
+  },
+  {
+    "id": "evo-0082-00",
+    "fromPokemonId": "pokemon-0082",
+    "toPokemonId": "pokemon-0462",
+    "method": "item_candidate: Thunder Stone"
+  },
+  {
+    "id": "evo-0084-00",
+    "fromPokemonId": "pokemon-0084",
+    "toPokemonId": "pokemon-0085",
+    "method": "level_candidate: 31"
+  },
+  {
+    "id": "evo-0086-00",
+    "fromPokemonId": "pokemon-0086",
+    "toPokemonId": "pokemon-0087",
+    "method": "level_candidate: 34"
+  },
+  {
+    "id": "evo-0088-00",
+    "fromPokemonId": "pokemon-0088",
+    "toPokemonId": "pokemon-0089",
+    "method": "level_candidate: 38"
+  },
+  {
+    "id": "evo-0090-00",
+    "fromPokemonId": "pokemon-0090",
+    "toPokemonId": "pokemon-0091",
+    "method": "item_candidate: Water Stone"
+  },
+  {
+    "id": "evo-0092-00",
+    "fromPokemonId": "pokemon-0092",
+    "toPokemonId": "pokemon-0093",
+    "method": "level_candidate: 25"
+  },
+  {
+    "id": "evo-0093-00",
+    "fromPokemonId": "pokemon-0093",
+    "toPokemonId": "pokemon-0094",
+    "method": "item_candidate: Trade Stone"
+  },
+  {
+    "id": "evo-0094-00",
+    "fromPokemonId": "pokemon-0094",
+    "toPokemonId": "pokemon-0914",
+    "method": "mega_stone_candidate: Gengarite"
+  },
+  {
+    "id": "evo-0095-00",
+    "fromPokemonId": "pokemon-0095",
+    "toPokemonId": "pokemon-0208",
+    "method": "item_trade_or_item_use_candidate: Metal Coat"
+  },
+  {
+    "id": "evo-0095-01",
+    "fromPokemonId": "pokemon-0095",
+    "toPokemonId": "pokemon-0208",
+    "method": "item_trade_or_item_use_candidate: Metal Coat"
+  },
+  {
+    "id": "evo-0096-00",
+    "fromPokemonId": "pokemon-0096",
+    "toPokemonId": "pokemon-0097",
+    "method": "level_candidate: 26"
+  },
+  {
+    "id": "evo-0098-00",
+    "fromPokemonId": "pokemon-0098",
+    "toPokemonId": "pokemon-0099",
+    "method": "level_candidate: 28"
+  },
+  {
+    "id": "evo-0100-00",
+    "fromPokemonId": "pokemon-0100",
+    "toPokemonId": "pokemon-0101",
+    "method": "level_candidate: 30"
+  },
+  {
+    "id": "evo-0102-00",
+    "fromPokemonId": "pokemon-0102",
+    "toPokemonId": "pokemon-0103",
+    "method": "item_candidate: Leaf Stone"
+  },
+  {
+    "id": "evo-0102-01",
+    "fromPokemonId": "pokemon-0102",
+    "toPokemonId": "pokemon-0972",
+    "method": "item_candidate: Sun Stone"
+  },
+  {
+    "id": "evo-0104-00",
+    "fromPokemonId": "pokemon-0104",
+    "toPokemonId": "pokemon-0105",
+    "method": "regional_or_time_level_variant_candidate: 28"
+  },
+  {
+    "id": "evo-0104-01",
+    "fromPokemonId": "pokemon-0104",
+    "toPokemonId": "pokemon-0973",
+    "method": "regional_or_time_level_variant_candidate: 28"
+  },
+  {
+    "id": "evo-0108-00",
+    "fromPokemonId": "pokemon-0108",
+    "toPokemonId": "pokemon-0463",
+    "method": "move_known_candidate: Rollout"
+  },
+  {
+    "id": "evo-0109-00",
+    "fromPokemonId": "pokemon-0109",
+    "toPokemonId": "pokemon-0110",
+    "method": "regional_or_time_level_variant_candidate: 35"
+  },
+  {
+    "id": "evo-0109-01",
+    "fromPokemonId": "pokemon-0109",
+    "toPokemonId": "pokemon-0980",
+    "method": "regional_or_time_level_variant_candidate: 35"
+  },
+  {
+    "id": "evo-0111-00",
+    "fromPokemonId": "pokemon-0111",
+    "toPokemonId": "pokemon-0112",
+    "method": "level_candidate: 42"
+  },
+  {
+    "id": "evo-0112-00",
+    "fromPokemonId": "pokemon-0112",
+    "toPokemonId": "pokemon-0464",
+    "method": "item_trade_or_item_use_candidate: Protector"
+  },
+  {
+    "id": "evo-0112-01",
+    "fromPokemonId": "pokemon-0112",
+    "toPokemonId": "pokemon-0464",
+    "method": "item_trade_or_item_use_candidate: Protector"
+  },
+  {
+    "id": "evo-0113-00",
+    "fromPokemonId": "pokemon-0113",
+    "toPokemonId": "pokemon-0242",
+    "method": "friendship_candidate"
+  },
+  {
+    "id": "evo-0114-00",
+    "fromPokemonId": "pokemon-0114",
+    "toPokemonId": "pokemon-0465",
+    "method": "move_known_candidate: AncientPower"
+  },
+  {
+    "id": "evo-0115-00",
+    "fromPokemonId": "pokemon-0115",
+    "toPokemonId": "pokemon-0915",
+    "method": "mega_stone_candidate: Kangaskhanite"
+  },
+  {
+    "id": "evo-0116-00",
+    "fromPokemonId": "pokemon-0116",
+    "toPokemonId": "pokemon-0117",
+    "method": "level_candidate: 32"
+  },
+  {
+    "id": "evo-0117-00",
+    "fromPokemonId": "pokemon-0117",
+    "toPokemonId": "pokemon-0230",
+    "method": "item_trade_or_item_use_candidate: Dragon Scale"
+  },
+  {
+    "id": "evo-0117-01",
+    "fromPokemonId": "pokemon-0117",
+    "toPokemonId": "pokemon-0230",
+    "method": "item_trade_or_item_use_candidate: Dragon Scale"
+  },
+  {
+    "id": "evo-0118-00",
+    "fromPokemonId": "pokemon-0118",
+    "toPokemonId": "pokemon-0119",
+    "method": "level_candidate: 33"
+  },
+  {
+    "id": "evo-0120-00",
+    "fromPokemonId": "pokemon-0120",
+    "toPokemonId": "pokemon-0121",
+    "method": "item_candidate: Water Stone"
+  },
+  {
+    "id": "evo-0123-00",
+    "fromPokemonId": "pokemon-0123",
+    "toPokemonId": "pokemon-0212",
+    "method": "item_trade_or_item_use_candidate: Metal Coat"
+  },
+  {
+    "id": "evo-0123-01",
+    "fromPokemonId": "pokemon-0123",
+    "toPokemonId": "pokemon-0212",
+    "method": "item_trade_or_item_use_candidate: Metal Coat"
+  },
+  {
+    "id": "evo-0123-02",
+    "fromPokemonId": "pokemon-0123",
+    "toPokemonId": "pokemon-0900",
+    "method": "item_candidate: Blk Augurite"
+  },
+  {
+    "id": "evo-0125-00",
+    "fromPokemonId": "pokemon-0125",
+    "toPokemonId": "pokemon-0466",
+    "method": "item_trade_or_item_use_candidate: Electirizer"
+  },
+  {
+    "id": "evo-0125-01",
+    "fromPokemonId": "pokemon-0125",
+    "toPokemonId": "pokemon-0466",
+    "method": "item_trade_or_item_use_candidate: Electirizer"
+  },
+  {
+    "id": "evo-0126-00",
+    "fromPokemonId": "pokemon-0126",
+    "toPokemonId": "pokemon-0467",
+    "method": "item_trade_or_item_use_candidate: Magmarizer"
+  },
+  {
+    "id": "evo-0126-01",
+    "fromPokemonId": "pokemon-0126",
+    "toPokemonId": "pokemon-0467",
+    "method": "item_trade_or_item_use_candidate: Magmarizer"
+  },
+  {
+    "id": "evo-0127-00",
+    "fromPokemonId": "pokemon-0127",
+    "toPokemonId": "pokemon-0916",
+    "method": "mega_stone_candidate: Pinsirite"
+  },
+  {
+    "id": "evo-0129-00",
+    "fromPokemonId": "pokemon-0129",
+    "toPokemonId": "pokemon-0130",
+    "method": "level_candidate: 20"
+  },
+  {
+    "id": "evo-0130-00",
+    "fromPokemonId": "pokemon-0130",
+    "toPokemonId": "pokemon-0917",
+    "method": "mega_stone_candidate: Gyaradosite"
+  },
+  {
+    "id": "evo-0133-00",
+    "fromPokemonId": "pokemon-0133",
+    "toPokemonId": "pokemon-0135",
+    "method": "item_candidate: Thunder Stone"
+  },
+  {
+    "id": "evo-0133-01",
+    "fromPokemonId": "pokemon-0133",
+    "toPokemonId": "pokemon-0134",
+    "method": "item_candidate: Water Stone"
+  },
+  {
+    "id": "evo-0133-02",
+    "fromPokemonId": "pokemon-0133",
+    "toPokemonId": "pokemon-0136",
+    "method": "item_candidate: Fire Stone"
+  },
+  {
+    "id": "evo-0133-03",
+    "fromPokemonId": "pokemon-0133",
+    "toPokemonId": "pokemon-0196",
+    "method": "friendship_day_candidate"
+  },
+  {
+    "id": "evo-0133-04",
+    "fromPokemonId": "pokemon-0133",
+    "toPokemonId": "pokemon-0197",
+    "method": "friendship_night_candidate"
+  },
+  {
+    "id": "evo-0133-05",
+    "fromPokemonId": "pokemon-0133",
+    "toPokemonId": "pokemon-0470",
+    "method": "location_candidate"
+  },
+  {
+    "id": "evo-0133-06",
+    "fromPokemonId": "pokemon-0133",
+    "toPokemonId": "pokemon-0470",
+    "method": "item_candidate: Leaf Stone"
+  },
+  {
+    "id": "evo-0133-07",
+    "fromPokemonId": "pokemon-0133",
+    "toPokemonId": "pokemon-0471",
+    "method": "location_candidate"
+  },
+  {
+    "id": "evo-0133-08",
+    "fromPokemonId": "pokemon-0133",
+    "toPokemonId": "pokemon-0471",
+    "method": "item_candidate: Ice Stone"
+  },
+  {
+    "id": "evo-0133-09",
+    "fromPokemonId": "pokemon-0133",
+    "toPokemonId": "pokemon-0700",
+    "method": "friendship_known_type_candidate"
+  },
+  {
+    "id": "evo-0137-00",
+    "fromPokemonId": "pokemon-0137",
+    "toPokemonId": "pokemon-0233",
+    "method": "item_trade_or_item_use_candidate: Upgrade"
+  },
+  {
+    "id": "evo-0137-01",
+    "fromPokemonId": "pokemon-0137",
+    "toPokemonId": "pokemon-0233",
+    "method": "item_trade_or_item_use_candidate: Upgrade"
+  },
+  {
+    "id": "evo-0138-00",
+    "fromPokemonId": "pokemon-0138",
+    "toPokemonId": "pokemon-0139",
+    "method": "level_candidate: 40"
+  },
+  {
+    "id": "evo-0140-00",
+    "fromPokemonId": "pokemon-0140",
+    "toPokemonId": "pokemon-0141",
+    "method": "level_candidate: 40"
+  },
+  {
+    "id": "evo-0142-00",
+    "fromPokemonId": "pokemon-0142",
+    "toPokemonId": "pokemon-0918",
+    "method": "mega_stone_candidate: Aerodactylite"
+  },
+  {
+    "id": "evo-0147-00",
+    "fromPokemonId": "pokemon-0147",
+    "toPokemonId": "pokemon-0148",
+    "method": "level_candidate: 30"
+  },
+  {
+    "id": "evo-0148-00",
+    "fromPokemonId": "pokemon-0148",
+    "toPokemonId": "pokemon-0149",
+    "method": "level_candidate: 55"
+  },
+  {
+    "id": "evo-0150-00",
+    "fromPokemonId": "pokemon-0150",
+    "toPokemonId": "pokemon-0919",
+    "method": "mega_stone_candidate: Mewtwonite X"
+  },
+  {
+    "id": "evo-0150-01",
+    "fromPokemonId": "pokemon-0150",
+    "toPokemonId": "pokemon-0920",
+    "method": "mega_stone_candidate: Mewtwonite Y"
+  },
+  {
+    "id": "evo-0152-00",
+    "fromPokemonId": "pokemon-0152",
+    "toPokemonId": "pokemon-0153",
+    "method": "level_candidate: 16"
+  },
+  {
+    "id": "evo-0153-00",
+    "fromPokemonId": "pokemon-0153",
+    "toPokemonId": "pokemon-0154",
+    "method": "level_candidate: 32"
+  },
+  {
+    "id": "evo-0154-00",
+    "fromPokemonId": "pokemon-0154",
+    "toPokemonId": "pokemon-1235",
+    "method": "mega_stone_candidate: Meganiumite"
+  },
+  {
+    "id": "evo-0155-00",
+    "fromPokemonId": "pokemon-0155",
+    "toPokemonId": "pokemon-0156",
+    "method": "level_candidate: 14"
+  },
+  {
+    "id": "evo-0156-00",
+    "fromPokemonId": "pokemon-0156",
+    "toPokemonId": "pokemon-0157",
+    "method": "regional_or_time_level_variant_candidate: 36"
+  },
+  {
+    "id": "evo-0156-01",
+    "fromPokemonId": "pokemon-0156",
+    "toPokemonId": "pokemon-0997",
+    "method": "regional_or_time_level_variant_candidate: 36"
+  },
+  {
+    "id": "evo-0157-00",
+    "fromPokemonId": "pokemon-0157",
+    "toPokemonId": "pokemon-1234",
+    "method": "mega_stone_candidate: Typhlosionite"
+  },
+  {
+    "id": "evo-0158-00",
+    "fromPokemonId": "pokemon-0158",
+    "toPokemonId": "pokemon-0159",
+    "method": "level_candidate: 18"
+  },
+  {
+    "id": "evo-0159-00",
+    "fromPokemonId": "pokemon-0159",
+    "toPokemonId": "pokemon-0160",
+    "method": "level_candidate: 30"
+  },
+  {
+    "id": "evo-0160-00",
+    "fromPokemonId": "pokemon-0160",
+    "toPokemonId": "pokemon-1236",
+    "method": "mega_stone_candidate: Feraligatite"
+  },
+  {
+    "id": "evo-0161-00",
+    "fromPokemonId": "pokemon-0161",
+    "toPokemonId": "pokemon-0162",
+    "method": "level_candidate: 15"
+  },
+  {
+    "id": "evo-0163-00",
+    "fromPokemonId": "pokemon-0163",
+    "toPokemonId": "pokemon-0164",
+    "method": "level_candidate: 20"
+  },
+  {
+    "id": "evo-0165-00",
+    "fromPokemonId": "pokemon-0165",
+    "toPokemonId": "pokemon-0166",
+    "method": "level_candidate: 18"
+  },
+  {
+    "id": "evo-0167-00",
+    "fromPokemonId": "pokemon-0167",
+    "toPokemonId": "pokemon-0168",
+    "method": "level_candidate: 22"
+  },
+  {
+    "id": "evo-0170-00",
+    "fromPokemonId": "pokemon-0170",
+    "toPokemonId": "pokemon-0171",
+    "method": "level_candidate: 27"
+  },
+  {
+    "id": "evo-0172-00",
+    "fromPokemonId": "pokemon-0172",
+    "toPokemonId": "pokemon-0025",
+    "method": "friendship_candidate"
+  },
+  {
+    "id": "evo-0173-00",
+    "fromPokemonId": "pokemon-0173",
+    "toPokemonId": "pokemon-0035",
+    "method": "friendship_candidate"
+  },
+  {
+    "id": "evo-0174-00",
+    "fromPokemonId": "pokemon-0174",
+    "toPokemonId": "pokemon-0039",
+    "method": "friendship_candidate"
+  },
+  {
+    "id": "evo-0175-00",
+    "fromPokemonId": "pokemon-0175",
+    "toPokemonId": "pokemon-0176",
+    "method": "friendship_candidate"
+  },
+  {
+    "id": "evo-0176-00",
+    "fromPokemonId": "pokemon-0176",
+    "toPokemonId": "pokemon-0468",
+    "method": "item_candidate: Shiny Stone"
+  },
+  {
+    "id": "evo-0177-00",
+    "fromPokemonId": "pokemon-0177",
+    "toPokemonId": "pokemon-0178",
+    "method": "level_candidate: 25"
+  },
+  {
+    "id": "evo-0179-00",
+    "fromPokemonId": "pokemon-0179",
+    "toPokemonId": "pokemon-0180",
+    "method": "level_candidate: 15"
+  },
+  {
+    "id": "evo-0180-00",
+    "fromPokemonId": "pokemon-0180",
+    "toPokemonId": "pokemon-0181",
+    "method": "level_candidate: 30"
+  },
+  {
+    "id": "evo-0181-00",
+    "fromPokemonId": "pokemon-0181",
+    "toPokemonId": "pokemon-0921",
+    "method": "mega_stone_candidate: Ampharosite"
+  },
+  {
+    "id": "evo-0183-00",
+    "fromPokemonId": "pokemon-0183",
+    "toPokemonId": "pokemon-0184",
+    "method": "level_candidate: 18"
+  },
+  {
+    "id": "evo-0187-00",
+    "fromPokemonId": "pokemon-0187",
+    "toPokemonId": "pokemon-0188",
+    "method": "level_candidate: 18"
+  },
+  {
+    "id": "evo-0188-00",
+    "fromPokemonId": "pokemon-0188",
+    "toPokemonId": "pokemon-0189",
+    "method": "level_candidate: 27"
+  },
+  {
+    "id": "evo-0190-00",
+    "fromPokemonId": "pokemon-0190",
+    "toPokemonId": "pokemon-0424",
+    "method": "move_known_candidate: Double Hit"
+  },
+  {
+    "id": "evo-0191-00",
+    "fromPokemonId": "pokemon-0191",
+    "toPokemonId": "pokemon-0192",
+    "method": "item_candidate: Sun Stone"
+  },
+  {
+    "id": "evo-0193-00",
+    "fromPokemonId": "pokemon-0193",
+    "toPokemonId": "pokemon-0469",
+    "method": "move_known_candidate: AncientPower"
+  },
+  {
+    "id": "evo-0194-00",
+    "fromPokemonId": "pokemon-0194",
+    "toPokemonId": "pokemon-0195",
+    "method": "level_candidate: 20"
+  },
+  {
+    "id": "evo-0198-00",
+    "fromPokemonId": "pokemon-0198",
+    "toPokemonId": "pokemon-0430",
+    "method": "item_candidate: Dusk Stone"
+  },
+  {
+    "id": "evo-0200-00",
+    "fromPokemonId": "pokemon-0200",
+    "toPokemonId": "pokemon-0429",
+    "method": "item_candidate: Dusk Stone"
+  },
+  {
+    "id": "evo-0204-00",
+    "fromPokemonId": "pokemon-0204",
+    "toPokemonId": "pokemon-0205",
+    "method": "level_candidate: 31"
+  },
+  {
+    "id": "evo-0207-00",
+    "fromPokemonId": "pokemon-0207",
+    "toPokemonId": "pokemon-0472",
+    "method": "item_trade_or_item_use_candidate: Razor Fang"
+  },
+  {
+    "id": "evo-0208-00",
+    "fromPokemonId": "pokemon-0208",
+    "toPokemonId": "pokemon-0922",
+    "method": "mega_stone_candidate: Steelixite"
+  },
+  {
+    "id": "evo-0209-00",
+    "fromPokemonId": "pokemon-0209",
+    "toPokemonId": "pokemon-0210",
+    "method": "level_candidate: 23"
+  },
+  {
+    "id": "evo-0212-00",
+    "fromPokemonId": "pokemon-0212",
+    "toPokemonId": "pokemon-0923",
+    "method": "mega_stone_candidate: Scizorite"
+  },
+  {
+    "id": "evo-0214-00",
+    "fromPokemonId": "pokemon-0214",
+    "toPokemonId": "pokemon-0924",
+    "method": "mega_stone_candidate: Heracronite"
+  },
+  {
+    "id": "evo-0215-00",
+    "fromPokemonId": "pokemon-0215",
+    "toPokemonId": "pokemon-0461",
+    "method": "item_trade_or_item_use_candidate: Razor Claw"
+  },
+  {
+    "id": "evo-0216-00",
+    "fromPokemonId": "pokemon-0216",
+    "toPokemonId": "pokemon-0217",
+    "method": "level_candidate: 30"
+  },
+  {
+    "id": "evo-0217-00",
+    "fromPokemonId": "pokemon-0217",
+    "toPokemonId": "pokemon-0901",
+    "method": "item_candidate: Peat Block"
+  },
+  {
+    "id": "evo-0218-00",
+    "fromPokemonId": "pokemon-0218",
+    "toPokemonId": "pokemon-0219",
+    "method": "level_candidate: 38"
+  },
+  {
+    "id": "evo-0220-00",
+    "fromPokemonId": "pokemon-0220",
+    "toPokemonId": "pokemon-0221",
+    "method": "level_candidate: 33"
+  },
+  {
+    "id": "evo-0221-00",
+    "fromPokemonId": "pokemon-0221",
+    "toPokemonId": "pokemon-0473",
+    "method": "move_known_candidate: AncientPower"
+  },
+  {
+    "id": "evo-0223-00",
+    "fromPokemonId": "pokemon-0223",
+    "toPokemonId": "pokemon-0224",
+    "method": "level_candidate: 25"
+  },
+  {
+    "id": "evo-0228-00",
+    "fromPokemonId": "pokemon-0228",
+    "toPokemonId": "pokemon-0229",
+    "method": "level_candidate: 24"
+  },
+  {
+    "id": "evo-0229-00",
+    "fromPokemonId": "pokemon-0229",
+    "toPokemonId": "pokemon-0925",
+    "method": "mega_stone_candidate: Houndoominite"
+  },
+  {
+    "id": "evo-0231-00",
+    "fromPokemonId": "pokemon-0231",
+    "toPokemonId": "pokemon-0232",
+    "method": "level_candidate: 25"
+  },
+  {
+    "id": "evo-0233-00",
+    "fromPokemonId": "pokemon-0233",
+    "toPokemonId": "pokemon-0474",
+    "method": "item_trade_or_item_use_candidate: Dubious Disc"
+  },
+  {
+    "id": "evo-0233-01",
+    "fromPokemonId": "pokemon-0233",
+    "toPokemonId": "pokemon-0474",
+    "method": "item_trade_or_item_use_candidate: Dubious Disc"
+  },
+  {
+    "id": "evo-0234-00",
+    "fromPokemonId": "pokemon-0234",
+    "toPokemonId": "pokemon-0899",
+    "method": "level_candidate: 30"
+  },
+  {
+    "id": "evo-0236-00",
+    "fromPokemonId": "pokemon-0236",
+    "toPokemonId": "pokemon-0107",
+    "method": "level_attack_lt_defense_candidate: 20"
+  },
+  {
+    "id": "evo-0236-01",
+    "fromPokemonId": "pokemon-0236",
+    "toPokemonId": "pokemon-0106",
+    "method": "level_attack_gt_defense_candidate: 20"
+  },
+  {
+    "id": "evo-0236-02",
+    "fromPokemonId": "pokemon-0236",
+    "toPokemonId": "pokemon-0237",
+    "method": "level_attack_eq_defense_candidate: 20"
+  },
+  {
+    "id": "evo-0238-00",
+    "fromPokemonId": "pokemon-0238",
+    "toPokemonId": "pokemon-0124",
+    "method": "level_candidate: 30"
+  },
+  {
+    "id": "evo-0239-00",
+    "fromPokemonId": "pokemon-0239",
+    "toPokemonId": "pokemon-0125",
+    "method": "level_candidate: 30"
+  },
+  {
+    "id": "evo-0240-00",
+    "fromPokemonId": "pokemon-0240",
+    "toPokemonId": "pokemon-0126",
+    "method": "level_candidate: 30"
+  },
+  {
+    "id": "evo-0246-00",
+    "fromPokemonId": "pokemon-0246",
+    "toPokemonId": "pokemon-0247",
+    "method": "level_candidate: 30"
+  },
+  {
+    "id": "evo-0247-00",
+    "fromPokemonId": "pokemon-0247",
+    "toPokemonId": "pokemon-0248",
+    "method": "level_candidate: 55"
+  },
+  {
+    "id": "evo-0248-00",
+    "fromPokemonId": "pokemon-0248",
+    "toPokemonId": "pokemon-0926",
+    "method": "mega_stone_candidate: Tyranitarite"
+  },
+  {
+    "id": "evo-0252-00",
+    "fromPokemonId": "pokemon-0252",
+    "toPokemonId": "pokemon-0253",
+    "method": "level_candidate: 16"
+  },
+  {
+    "id": "evo-0253-00",
+    "fromPokemonId": "pokemon-0253",
+    "toPokemonId": "pokemon-0254",
+    "method": "level_candidate: 36"
+  },
+  {
+    "id": "evo-0254-00",
+    "fromPokemonId": "pokemon-0254",
+    "toPokemonId": "pokemon-0927",
+    "method": "mega_stone_candidate: Sceptilite"
+  },
+  {
+    "id": "evo-0255-00",
+    "fromPokemonId": "pokemon-0255",
+    "toPokemonId": "pokemon-0256",
+    "method": "level_candidate: 16"
+  },
+  {
+    "id": "evo-0256-00",
+    "fromPokemonId": "pokemon-0256",
+    "toPokemonId": "pokemon-0257",
+    "method": "level_candidate: 36"
+  },
+  {
+    "id": "evo-0257-00",
+    "fromPokemonId": "pokemon-0257",
+    "toPokemonId": "pokemon-0928",
+    "method": "mega_stone_candidate: Blazikenite"
+  },
+  {
+    "id": "evo-0258-00",
+    "fromPokemonId": "pokemon-0258",
+    "toPokemonId": "pokemon-0259",
+    "method": "level_candidate: 16"
+  },
+  {
+    "id": "evo-0259-00",
+    "fromPokemonId": "pokemon-0259",
+    "toPokemonId": "pokemon-0260",
+    "method": "level_candidate: 36"
+  },
+  {
+    "id": "evo-0260-00",
+    "fromPokemonId": "pokemon-0260",
+    "toPokemonId": "pokemon-0929",
+    "method": "mega_stone_candidate: Swampertite"
+  },
+  {
+    "id": "evo-0261-00",
+    "fromPokemonId": "pokemon-0261",
+    "toPokemonId": "pokemon-0262",
+    "method": "level_candidate: 18"
+  },
+  {
+    "id": "evo-0263-00",
+    "fromPokemonId": "pokemon-0263",
+    "toPokemonId": "pokemon-0264",
+    "method": "level_candidate: 20"
+  },
+  {
+    "id": "evo-0265-00",
+    "fromPokemonId": "pokemon-0265",
+    "toPokemonId": "pokemon-0266",
+    "method": "wurmple_personality_a_candidate: 7"
+  },
+  {
+    "id": "evo-0265-01",
+    "fromPokemonId": "pokemon-0265",
+    "toPokemonId": "pokemon-0268",
+    "method": "wurmple_personality_b_candidate: 7"
+  },
+  {
+    "id": "evo-0266-00",
+    "fromPokemonId": "pokemon-0266",
+    "toPokemonId": "pokemon-0267",
+    "method": "level_candidate: 10"
+  },
+  {
+    "id": "evo-0268-00",
+    "fromPokemonId": "pokemon-0268",
+    "toPokemonId": "pokemon-0269",
+    "method": "level_candidate: 10"
+  },
+  {
+    "id": "evo-0270-00",
+    "fromPokemonId": "pokemon-0270",
+    "toPokemonId": "pokemon-0271",
+    "method": "level_candidate: 14"
+  },
+  {
+    "id": "evo-0271-00",
+    "fromPokemonId": "pokemon-0271",
+    "toPokemonId": "pokemon-0272",
+    "method": "item_candidate: Water Stone"
+  },
+  {
+    "id": "evo-0273-00",
+    "fromPokemonId": "pokemon-0273",
+    "toPokemonId": "pokemon-0274",
+    "method": "level_candidate: 14"
+  },
+  {
+    "id": "evo-0274-00",
+    "fromPokemonId": "pokemon-0274",
+    "toPokemonId": "pokemon-0275",
+    "method": "item_candidate: Leaf Stone"
+  },
+  {
+    "id": "evo-0276-00",
+    "fromPokemonId": "pokemon-0276",
+    "toPokemonId": "pokemon-0277",
+    "method": "level_candidate: 22"
+  },
+  {
+    "id": "evo-0278-00",
+    "fromPokemonId": "pokemon-0278",
+    "toPokemonId": "pokemon-0279",
+    "method": "level_candidate: 25"
+  },
+  {
+    "id": "evo-0280-00",
+    "fromPokemonId": "pokemon-0280",
+    "toPokemonId": "pokemon-0281",
+    "method": "level_candidate: 20"
+  },
+  {
+    "id": "evo-0281-00",
+    "fromPokemonId": "pokemon-0281",
+    "toPokemonId": "pokemon-0282",
+    "method": "level_candidate: 30"
+  },
+  {
+    "id": "evo-0281-01",
+    "fromPokemonId": "pokemon-0281",
+    "toPokemonId": "pokemon-0475",
+    "method": "dawn_stone_male_candidate: Dawn Stone"
+  },
+  {
+    "id": "evo-0282-00",
+    "fromPokemonId": "pokemon-0282",
+    "toPokemonId": "pokemon-0930",
+    "method": "mega_stone_candidate: Gardevoirite"
+  },
+  {
+    "id": "evo-0283-00",
+    "fromPokemonId": "pokemon-0283",
+    "toPokemonId": "pokemon-0284",
+    "method": "level_candidate: 22"
+  },
+  {
+    "id": "evo-0285-00",
+    "fromPokemonId": "pokemon-0285",
+    "toPokemonId": "pokemon-0286",
+    "method": "level_candidate: 23"
+  },
+  {
+    "id": "evo-0287-00",
+    "fromPokemonId": "pokemon-0287",
+    "toPokemonId": "pokemon-0288",
+    "method": "level_candidate: 18"
+  },
+  {
+    "id": "evo-0288-00",
+    "fromPokemonId": "pokemon-0288",
+    "toPokemonId": "pokemon-0289",
+    "method": "level_candidate: 36"
+  },
+  {
+    "id": "evo-0290-00",
+    "fromPokemonId": "pokemon-0290",
+    "toPokemonId": "pokemon-0291",
+    "method": "level_ninjask_candidate: 20"
+  },
+  {
+    "id": "evo-0290-01",
+    "fromPokemonId": "pokemon-0290",
+    "toPokemonId": "pokemon-0292",
+    "method": "shedinja_extra_evolution_candidate: 20"
+  },
+  {
+    "id": "evo-0293-00",
+    "fromPokemonId": "pokemon-0293",
+    "toPokemonId": "pokemon-0294",
+    "method": "level_candidate: 20"
+  },
+  {
+    "id": "evo-0294-00",
+    "fromPokemonId": "pokemon-0294",
+    "toPokemonId": "pokemon-0295",
+    "method": "level_candidate: 40"
+  },
+  {
+    "id": "evo-0296-00",
+    "fromPokemonId": "pokemon-0296",
+    "toPokemonId": "pokemon-0297",
+    "method": "level_candidate: 24"
+  },
+  {
+    "id": "evo-0298-00",
+    "fromPokemonId": "pokemon-0298",
+    "toPokemonId": "pokemon-0183",
+    "method": "friendship_candidate"
+  },
+  {
+    "id": "evo-0299-00",
+    "fromPokemonId": "pokemon-0299",
+    "toPokemonId": "pokemon-0476",
+    "method": "item_trade_or_item_use_candidate: Metal Coat"
+  },
+  {
+    "id": "evo-0299-01",
+    "fromPokemonId": "pokemon-0299",
+    "toPokemonId": "pokemon-0476",
+    "method": "item_trade_or_item_use_candidate: Metal Coat"
+  },
+  {
+    "id": "evo-0300-00",
+    "fromPokemonId": "pokemon-0300",
+    "toPokemonId": "pokemon-0301",
+    "method": "item_candidate: Moon Stone"
+  },
+  {
+    "id": "evo-0302-00",
+    "fromPokemonId": "pokemon-0302",
+    "toPokemonId": "pokemon-0931",
+    "method": "mega_stone_candidate: Sablenite"
+  },
+  {
+    "id": "evo-0303-00",
+    "fromPokemonId": "pokemon-0303",
+    "toPokemonId": "pokemon-0932",
+    "method": "mega_stone_candidate: Mawilite"
+  },
+  {
+    "id": "evo-0304-00",
+    "fromPokemonId": "pokemon-0304",
+    "toPokemonId": "pokemon-0305",
+    "method": "level_candidate: 32"
+  },
+  {
+    "id": "evo-0305-00",
+    "fromPokemonId": "pokemon-0305",
+    "toPokemonId": "pokemon-0306",
+    "method": "level_candidate: 42"
+  },
+  {
+    "id": "evo-0306-00",
+    "fromPokemonId": "pokemon-0306",
+    "toPokemonId": "pokemon-0933",
+    "method": "mega_stone_candidate: Aggronite"
+  },
+  {
+    "id": "evo-0307-00",
+    "fromPokemonId": "pokemon-0307",
+    "toPokemonId": "pokemon-0308",
+    "method": "level_candidate: 37"
+  },
+  {
+    "id": "evo-0308-00",
+    "fromPokemonId": "pokemon-0308",
+    "toPokemonId": "pokemon-0934",
+    "method": "mega_stone_candidate: Medichamite"
+  },
+  {
+    "id": "evo-0309-00",
+    "fromPokemonId": "pokemon-0309",
+    "toPokemonId": "pokemon-0310",
+    "method": "level_candidate: 26"
+  },
+  {
+    "id": "evo-0310-00",
+    "fromPokemonId": "pokemon-0310",
+    "toPokemonId": "pokemon-0935",
+    "method": "mega_stone_candidate: Manectite"
+  },
+  {
+    "id": "evo-0315-00",
+    "fromPokemonId": "pokemon-0315",
+    "toPokemonId": "pokemon-0407",
+    "method": "item_candidate: Shiny Stone"
+  },
+  {
+    "id": "evo-0316-00",
+    "fromPokemonId": "pokemon-0316",
+    "toPokemonId": "pokemon-0317",
+    "method": "level_candidate: 26"
+  },
+  {
+    "id": "evo-0318-00",
+    "fromPokemonId": "pokemon-0318",
+    "toPokemonId": "pokemon-0319",
+    "method": "level_candidate: 30"
+  },
+  {
+    "id": "evo-0319-00",
+    "fromPokemonId": "pokemon-0319",
+    "toPokemonId": "pokemon-0936",
+    "method": "mega_stone_candidate: Sharpedonite"
+  },
+  {
+    "id": "evo-0320-00",
+    "fromPokemonId": "pokemon-0320",
+    "toPokemonId": "pokemon-0321",
+    "method": "level_candidate: 40"
+  },
+  {
+    "id": "evo-0322-00",
+    "fromPokemonId": "pokemon-0322",
+    "toPokemonId": "pokemon-0323",
+    "method": "level_candidate: 33"
+  },
+  {
+    "id": "evo-0323-00",
+    "fromPokemonId": "pokemon-0323",
+    "toPokemonId": "pokemon-0937",
+    "method": "mega_stone_candidate: Cameruptite"
+  },
+  {
+    "id": "evo-0325-00",
+    "fromPokemonId": "pokemon-0325",
+    "toPokemonId": "pokemon-0326",
+    "method": "level_candidate: 32"
+  },
+  {
+    "id": "evo-0328-00",
+    "fromPokemonId": "pokemon-0328",
+    "toPokemonId": "pokemon-0329",
+    "method": "level_candidate: 35"
+  },
+  {
+    "id": "evo-0329-00",
+    "fromPokemonId": "pokemon-0329",
+    "toPokemonId": "pokemon-0330",
+    "method": "level_candidate: 45"
+  },
+  {
+    "id": "evo-0331-00",
+    "fromPokemonId": "pokemon-0331",
+    "toPokemonId": "pokemon-0332",
+    "method": "level_candidate: 32"
+  },
+  {
+    "id": "evo-0333-00",
+    "fromPokemonId": "pokemon-0333",
+    "toPokemonId": "pokemon-0334",
+    "method": "level_candidate: 35"
+  },
+  {
+    "id": "evo-0334-00",
+    "fromPokemonId": "pokemon-0334",
+    "toPokemonId": "pokemon-0938",
+    "method": "mega_stone_candidate: Altarianite"
+  },
+  {
+    "id": "evo-0339-00",
+    "fromPokemonId": "pokemon-0339",
+    "toPokemonId": "pokemon-0340",
+    "method": "level_candidate: 30"
+  },
+  {
+    "id": "evo-0341-00",
+    "fromPokemonId": "pokemon-0341",
+    "toPokemonId": "pokemon-0342",
+    "method": "level_candidate: 30"
+  },
+  {
+    "id": "evo-0343-00",
+    "fromPokemonId": "pokemon-0343",
+    "toPokemonId": "pokemon-0344",
+    "method": "level_candidate: 36"
+  },
+  {
+    "id": "evo-0345-00",
+    "fromPokemonId": "pokemon-0345",
+    "toPokemonId": "pokemon-0346",
+    "method": "level_candidate: 40"
+  },
+  {
+    "id": "evo-0347-00",
+    "fromPokemonId": "pokemon-0347",
+    "toPokemonId": "pokemon-0348",
+    "method": "level_candidate: 40"
+  },
+  {
+    "id": "evo-0349-00",
+    "fromPokemonId": "pokemon-0349",
+    "toPokemonId": "pokemon-0350",
+    "method": "item_trade_or_item_use_candidate: Armor Fossil"
+  },
+  {
+    "id": "evo-0349-01",
+    "fromPokemonId": "pokemon-0349",
+    "toPokemonId": "pokemon-0350",
+    "method": "item_trade_or_item_use_candidate: Prism Scale"
+  },
+  {
+    "id": "evo-0349-02",
+    "fromPokemonId": "pokemon-0349",
+    "toPokemonId": "pokemon-0350",
+    "method": "item_trade_or_item_use_candidate: Prism Scale"
+  },
+  {
+    "id": "evo-0353-00",
+    "fromPokemonId": "pokemon-0353",
+    "toPokemonId": "pokemon-0354",
+    "method": "level_candidate: 37"
+  },
+  {
+    "id": "evo-0354-00",
+    "fromPokemonId": "pokemon-0354",
+    "toPokemonId": "pokemon-0939",
+    "method": "mega_stone_candidate: Banettite"
+  },
+  {
+    "id": "evo-0355-00",
+    "fromPokemonId": "pokemon-0355",
+    "toPokemonId": "pokemon-0356",
+    "method": "level_candidate: 37"
+  },
+  {
+    "id": "evo-0356-00",
+    "fromPokemonId": "pokemon-0356",
+    "toPokemonId": "pokemon-0477",
+    "method": "item_trade_or_item_use_candidate: Reaper Cloth"
+  },
+  {
+    "id": "evo-0356-01",
+    "fromPokemonId": "pokemon-0356",
+    "toPokemonId": "pokemon-0477",
+    "method": "item_trade_or_item_use_candidate: Reaper Cloth"
+  },
+  {
+    "id": "evo-0359-00",
+    "fromPokemonId": "pokemon-0359",
+    "toPokemonId": "pokemon-0940",
+    "method": "mega_stone_candidate: Absolite"
+  },
+  {
+    "id": "evo-0360-00",
+    "fromPokemonId": "pokemon-0360",
+    "toPokemonId": "pokemon-0202",
+    "method": "level_candidate: 15"
+  },
+  {
+    "id": "evo-0361-00",
+    "fromPokemonId": "pokemon-0361",
+    "toPokemonId": "pokemon-0362",
+    "method": "level_candidate: 42"
+  },
+  {
+    "id": "evo-0361-01",
+    "fromPokemonId": "pokemon-0361",
+    "toPokemonId": "pokemon-0478",
+    "method": "dawn_stone_female_candidate: Dawn Stone"
+  },
+  {
+    "id": "evo-0362-00",
+    "fromPokemonId": "pokemon-0362",
+    "toPokemonId": "pokemon-0941",
+    "method": "mega_stone_candidate: Glalitite"
+  },
+  {
+    "id": "evo-0363-00",
+    "fromPokemonId": "pokemon-0363",
+    "toPokemonId": "pokemon-0364",
+    "method": "level_candidate: 32"
+  },
+  {
+    "id": "evo-0364-00",
+    "fromPokemonId": "pokemon-0364",
+    "toPokemonId": "pokemon-0365",
+    "method": "level_candidate: 44"
+  },
+  {
+    "id": "evo-0366-00",
+    "fromPokemonId": "pokemon-0366",
+    "toPokemonId": "pokemon-0367",
+    "method": "item_trade_or_item_use_candidate: DeepSeaTooth"
+  },
+  {
+    "id": "evo-0366-01",
+    "fromPokemonId": "pokemon-0366",
+    "toPokemonId": "pokemon-0367",
+    "method": "item_trade_or_item_use_candidate: DeepSeaTooth"
+  },
+  {
+    "id": "evo-0366-02",
+    "fromPokemonId": "pokemon-0366",
+    "toPokemonId": "pokemon-0368",
+    "method": "item_trade_or_item_use_candidate: DeepSeaScale"
+  },
+  {
+    "id": "evo-0366-03",
+    "fromPokemonId": "pokemon-0366",
+    "toPokemonId": "pokemon-0368",
+    "method": "item_trade_or_item_use_candidate: DeepSeaScale"
+  },
+  {
+    "id": "evo-0371-00",
+    "fromPokemonId": "pokemon-0371",
+    "toPokemonId": "pokemon-0372",
+    "method": "level_candidate: 30"
+  },
+  {
+    "id": "evo-0372-00",
+    "fromPokemonId": "pokemon-0372",
+    "toPokemonId": "pokemon-0373",
+    "method": "level_candidate: 50"
+  },
+  {
+    "id": "evo-0373-00",
+    "fromPokemonId": "pokemon-0373",
+    "toPokemonId": "pokemon-0942",
+    "method": "mega_stone_candidate: Salamencite"
+  },
+  {
+    "id": "evo-0374-00",
+    "fromPokemonId": "pokemon-0374",
+    "toPokemonId": "pokemon-0375",
+    "method": "level_candidate: 20"
+  },
+  {
+    "id": "evo-0375-00",
+    "fromPokemonId": "pokemon-0375",
+    "toPokemonId": "pokemon-0376",
+    "method": "level_candidate: 45"
+  },
+  {
+    "id": "evo-0376-00",
+    "fromPokemonId": "pokemon-0376",
+    "toPokemonId": "pokemon-0943",
+    "method": "mega_stone_candidate: Metagrossite"
+  },
+  {
+    "id": "evo-0380-00",
+    "fromPokemonId": "pokemon-0380",
+    "toPokemonId": "pokemon-0944",
+    "method": "mega_stone_candidate: Latiasite"
+  },
+  {
+    "id": "evo-0381-00",
+    "fromPokemonId": "pokemon-0381",
+    "toPokemonId": "pokemon-0945",
+    "method": "mega_stone_candidate: Latiosite"
+  },
+  {
+    "id": "evo-0382-00",
+    "fromPokemonId": "pokemon-0382",
+    "toPokemonId": "pokemon-0954",
+    "method": "primal_orb_candidate: Blue Orb"
+  },
+  {
+    "id": "evo-0383-00",
+    "fromPokemonId": "pokemon-0383",
+    "toPokemonId": "pokemon-0955",
+    "method": "primal_orb_candidate: Red Orb"
+  },
+  {
+    "id": "evo-0384-00",
+    "fromPokemonId": "pokemon-0384",
+    "toPokemonId": "pokemon-0953",
+    "method": "move_known_or_mega_move_candidate: DragonAscent"
+  },
+  {
+    "id": "evo-0387-00",
+    "fromPokemonId": "pokemon-0387",
+    "toPokemonId": "pokemon-0388",
+    "method": "level_candidate: 18"
+  },
+  {
+    "id": "evo-0388-00",
+    "fromPokemonId": "pokemon-0388",
+    "toPokemonId": "pokemon-0389",
+    "method": "level_candidate: 32"
+  },
+  {
+    "id": "evo-0390-00",
+    "fromPokemonId": "pokemon-0390",
+    "toPokemonId": "pokemon-0391",
+    "method": "level_candidate: 14"
+  },
+  {
+    "id": "evo-0391-00",
+    "fromPokemonId": "pokemon-0391",
+    "toPokemonId": "pokemon-0392",
+    "method": "level_candidate: 36"
+  },
+  {
+    "id": "evo-0393-00",
+    "fromPokemonId": "pokemon-0393",
+    "toPokemonId": "pokemon-0394",
+    "method": "level_candidate: 16"
+  },
+  {
+    "id": "evo-0394-00",
+    "fromPokemonId": "pokemon-0394",
+    "toPokemonId": "pokemon-0395",
+    "method": "level_candidate: 36"
+  },
+  {
+    "id": "evo-0396-00",
+    "fromPokemonId": "pokemon-0396",
+    "toPokemonId": "pokemon-0397",
+    "method": "level_candidate: 14"
+  },
+  {
+    "id": "evo-0397-00",
+    "fromPokemonId": "pokemon-0397",
+    "toPokemonId": "pokemon-0398",
+    "method": "level_candidate: 34"
+  },
+  {
+    "id": "evo-0399-00",
+    "fromPokemonId": "pokemon-0399",
+    "toPokemonId": "pokemon-0400",
+    "method": "level_candidate: 15"
+  },
+  {
+    "id": "evo-0401-00",
+    "fromPokemonId": "pokemon-0401",
+    "toPokemonId": "pokemon-0402",
+    "method": "level_candidate: 10"
+  },
+  {
+    "id": "evo-0403-00",
+    "fromPokemonId": "pokemon-0403",
+    "toPokemonId": "pokemon-0404",
+    "method": "level_candidate: 15"
+  },
+  {
+    "id": "evo-0404-00",
+    "fromPokemonId": "pokemon-0404",
+    "toPokemonId": "pokemon-0405",
+    "method": "level_candidate: 30"
+  },
+  {
+    "id": "evo-0406-00",
+    "fromPokemonId": "pokemon-0406",
+    "toPokemonId": "pokemon-0315",
+    "method": "friendship_candidate"
+  },
+  {
+    "id": "evo-0408-00",
+    "fromPokemonId": "pokemon-0408",
+    "toPokemonId": "pokemon-0409",
+    "method": "level_candidate: 30"
+  },
+  {
+    "id": "evo-0410-00",
+    "fromPokemonId": "pokemon-0410",
+    "toPokemonId": "pokemon-0411",
+    "method": "level_candidate: 30"
+  },
+  {
+    "id": "evo-0412-00",
+    "fromPokemonId": "pokemon-0412",
+    "toPokemonId": "pokemon-0413",
+    "method": "level_female_candidate: 20"
+  },
+  {
+    "id": "evo-0412-01",
+    "fromPokemonId": "pokemon-0412",
+    "toPokemonId": "pokemon-0414",
+    "method": "level_male_candidate: 20"
+  },
+  {
+    "id": "evo-0415-00",
+    "fromPokemonId": "pokemon-0415",
+    "toPokemonId": "pokemon-0416",
+    "method": "level_female_candidate: 21"
+  },
+  {
+    "id": "evo-0418-00",
+    "fromPokemonId": "pokemon-0418",
+    "toPokemonId": "pokemon-0419",
+    "method": "level_candidate: 26"
+  },
+  {
+    "id": "evo-0420-00",
+    "fromPokemonId": "pokemon-0420",
+    "toPokemonId": "pokemon-0421",
+    "method": "level_candidate: 25"
+  },
+  {
+    "id": "evo-0422-00",
+    "fromPokemonId": "pokemon-0422",
+    "toPokemonId": "pokemon-0423",
+    "method": "level_candidate: 30"
+  },
+  {
+    "id": "evo-0425-00",
+    "fromPokemonId": "pokemon-0425",
+    "toPokemonId": "pokemon-0426",
+    "method": "level_candidate: 28"
+  },
+  {
+    "id": "evo-0427-00",
+    "fromPokemonId": "pokemon-0427",
+    "toPokemonId": "pokemon-0428",
+    "method": "friendship_candidate"
+  },
+  {
+    "id": "evo-0428-00",
+    "fromPokemonId": "pokemon-0428",
+    "toPokemonId": "pokemon-0946",
+    "method": "mega_stone_candidate: Lopunnite"
+  },
+  {
+    "id": "evo-0431-00",
+    "fromPokemonId": "pokemon-0431",
+    "toPokemonId": "pokemon-0432",
+    "method": "level_candidate: 38"
+  },
+  {
+    "id": "evo-0433-00",
+    "fromPokemonId": "pokemon-0433",
+    "toPokemonId": "pokemon-0358",
+    "method": "friendship_night_candidate"
+  },
+  {
+    "id": "evo-0434-00",
+    "fromPokemonId": "pokemon-0434",
+    "toPokemonId": "pokemon-0435",
+    "method": "level_candidate: 34"
+  },
+  {
+    "id": "evo-0436-00",
+    "fromPokemonId": "pokemon-0436",
+    "toPokemonId": "pokemon-0437",
+    "method": "level_candidate: 33"
+  },
+  {
+    "id": "evo-0438-00",
+    "fromPokemonId": "pokemon-0438",
+    "toPokemonId": "pokemon-0185",
+    "method": "move_known_candidate: Mimic"
+  },
+  {
+    "id": "evo-0439-00",
+    "fromPokemonId": "pokemon-0439",
+    "toPokemonId": "pokemon-0122",
+    "method": "move_known_candidate: Mimic"
+  },
+  {
+    "id": "evo-0439-01",
+    "fromPokemonId": "pokemon-0439",
+    "toPokemonId": "pokemon-0981",
+    "method": "item_candidate: Ice Stone"
+  },
+  {
+    "id": "evo-0440-00",
+    "fromPokemonId": "pokemon-0440",
+    "toPokemonId": "pokemon-0113",
+    "method": "item_trade_or_item_use_candidate: Oval Stone"
+  },
+  {
+    "id": "evo-0443-00",
+    "fromPokemonId": "pokemon-0443",
+    "toPokemonId": "pokemon-0444",
+    "method": "level_candidate: 24"
+  },
+  {
+    "id": "evo-0444-00",
+    "fromPokemonId": "pokemon-0444",
+    "toPokemonId": "pokemon-0445",
+    "method": "level_candidate: 48"
+  },
+  {
+    "id": "evo-0445-00",
+    "fromPokemonId": "pokemon-0445",
+    "toPokemonId": "pokemon-0947",
+    "method": "mega_stone_candidate: Garchompite"
+  },
+  {
+    "id": "evo-0446-00",
+    "fromPokemonId": "pokemon-0446",
+    "toPokemonId": "pokemon-0143",
+    "method": "friendship_candidate"
+  },
+  {
+    "id": "evo-0447-00",
+    "fromPokemonId": "pokemon-0447",
+    "toPokemonId": "pokemon-0448",
+    "method": "friendship_day_candidate"
+  },
+  {
+    "id": "evo-0448-00",
+    "fromPokemonId": "pokemon-0448",
+    "toPokemonId": "pokemon-0948",
+    "method": "mega_stone_candidate: Lucarionite"
+  },
+  {
+    "id": "evo-0449-00",
+    "fromPokemonId": "pokemon-0449",
+    "toPokemonId": "pokemon-0450",
+    "method": "level_candidate: 34"
+  },
+  {
+    "id": "evo-0451-00",
+    "fromPokemonId": "pokemon-0451",
+    "toPokemonId": "pokemon-0452",
+    "method": "level_candidate: 40"
+  },
+  {
+    "id": "evo-0453-00",
+    "fromPokemonId": "pokemon-0453",
+    "toPokemonId": "pokemon-0454",
+    "method": "level_candidate: 37"
+  },
+  {
+    "id": "evo-0456-00",
+    "fromPokemonId": "pokemon-0456",
+    "toPokemonId": "pokemon-0457",
+    "method": "level_candidate: 31"
+  },
+  {
+    "id": "evo-0458-00",
+    "fromPokemonId": "pokemon-0458",
+    "toPokemonId": "pokemon-0226",
+    "method": "party_species_candidate"
+  },
+  {
+    "id": "evo-0459-00",
+    "fromPokemonId": "pokemon-0459",
+    "toPokemonId": "pokemon-0460",
+    "method": "level_candidate: 40"
+  },
+  {
+    "id": "evo-0460-00",
+    "fromPokemonId": "pokemon-0460",
+    "toPokemonId": "pokemon-0949",
+    "method": "mega_stone_candidate: Abomasite"
+  },
+  {
+    "id": "evo-0475-00",
+    "fromPokemonId": "pokemon-0475",
+    "toPokemonId": "pokemon-0950",
+    "method": "mega_stone_candidate: Galladite"
+  },
+  {
+    "id": "evo-0495-00",
+    "fromPokemonId": "pokemon-0495",
+    "toPokemonId": "pokemon-0496",
+    "method": "level_candidate: 17"
+  },
+  {
+    "id": "evo-0496-00",
+    "fromPokemonId": "pokemon-0496",
+    "toPokemonId": "pokemon-0497",
+    "method": "level_candidate: 36"
+  },
+  {
+    "id": "evo-0498-00",
+    "fromPokemonId": "pokemon-0498",
+    "toPokemonId": "pokemon-0499",
+    "method": "level_candidate: 17"
+  },
+  {
+    "id": "evo-0499-00",
+    "fromPokemonId": "pokemon-0499",
+    "toPokemonId": "pokemon-0500",
+    "method": "level_candidate: 36"
+  },
+  {
+    "id": "evo-0501-00",
+    "fromPokemonId": "pokemon-0501",
+    "toPokemonId": "pokemon-0502",
+    "method": "level_candidate: 17"
+  },
+  {
+    "id": "evo-0502-00",
+    "fromPokemonId": "pokemon-0502",
+    "toPokemonId": "pokemon-0503",
+    "method": "level_candidate: 36"
+  },
+  {
+    "id": "evo-0504-00",
+    "fromPokemonId": "pokemon-0504",
+    "toPokemonId": "pokemon-0505",
+    "method": "level_candidate: 20"
+  },
+  {
+    "id": "evo-0506-00",
+    "fromPokemonId": "pokemon-0506",
+    "toPokemonId": "pokemon-0507",
+    "method": "level_candidate: 16"
+  },
+  {
+    "id": "evo-0507-00",
+    "fromPokemonId": "pokemon-0507",
+    "toPokemonId": "pokemon-0508",
+    "method": "level_candidate: 32"
+  },
+  {
+    "id": "evo-0509-00",
+    "fromPokemonId": "pokemon-0509",
+    "toPokemonId": "pokemon-0510",
+    "method": "level_candidate: 20"
+  },
+  {
+    "id": "evo-0511-00",
+    "fromPokemonId": "pokemon-0511",
+    "toPokemonId": "pokemon-0512",
+    "method": "item_candidate: Leaf Stone"
+  },
+  {
+    "id": "evo-0513-00",
+    "fromPokemonId": "pokemon-0513",
+    "toPokemonId": "pokemon-0514",
+    "method": "item_candidate: Fire Stone"
+  },
+  {
+    "id": "evo-0515-00",
+    "fromPokemonId": "pokemon-0515",
+    "toPokemonId": "pokemon-0516",
+    "method": "item_candidate: Water Stone"
+  },
+  {
+    "id": "evo-0517-00",
+    "fromPokemonId": "pokemon-0517",
+    "toPokemonId": "pokemon-0518",
+    "method": "item_candidate: Moon Stone"
+  },
+  {
+    "id": "evo-0519-00",
+    "fromPokemonId": "pokemon-0519",
+    "toPokemonId": "pokemon-0520",
+    "method": "level_candidate: 21"
+  },
+  {
+    "id": "evo-0520-00",
+    "fromPokemonId": "pokemon-0520",
+    "toPokemonId": "pokemon-0521",
+    "method": "level_candidate: 32"
+  },
+  {
+    "id": "evo-0522-00",
+    "fromPokemonId": "pokemon-0522",
+    "toPokemonId": "pokemon-0523",
+    "method": "level_candidate: 27"
+  },
+  {
+    "id": "evo-0524-00",
+    "fromPokemonId": "pokemon-0524",
+    "toPokemonId": "pokemon-0525",
+    "method": "level_candidate: 25"
+  },
+  {
+    "id": "evo-0525-00",
+    "fromPokemonId": "pokemon-0525",
+    "toPokemonId": "pokemon-0526",
+    "method": "item_candidate: Trade Stone"
+  },
+  {
+    "id": "evo-0527-00",
+    "fromPokemonId": "pokemon-0527",
+    "toPokemonId": "pokemon-0528",
+    "method": "friendship_candidate"
+  },
+  {
+    "id": "evo-0529-00",
+    "fromPokemonId": "pokemon-0529",
+    "toPokemonId": "pokemon-0530",
+    "method": "level_candidate: 31"
+  },
+  {
+    "id": "evo-0531-00",
+    "fromPokemonId": "pokemon-0531",
+    "toPokemonId": "pokemon-0951",
+    "method": "mega_stone_candidate: Audinite"
+  },
+  {
+    "id": "evo-0532-00",
+    "fromPokemonId": "pokemon-0532",
+    "toPokemonId": "pokemon-0533",
+    "method": "level_candidate: 25"
+  },
+  {
+    "id": "evo-0533-00",
+    "fromPokemonId": "pokemon-0533",
+    "toPokemonId": "pokemon-0534",
+    "method": "item_candidate: Trade Stone"
+  },
+  {
+    "id": "evo-0535-00",
+    "fromPokemonId": "pokemon-0535",
+    "toPokemonId": "pokemon-0536",
+    "method": "level_candidate: 25"
+  },
+  {
+    "id": "evo-0536-00",
+    "fromPokemonId": "pokemon-0536",
+    "toPokemonId": "pokemon-0537",
+    "method": "level_candidate: 36"
+  },
+  {
+    "id": "evo-0540-00",
+    "fromPokemonId": "pokemon-0540",
+    "toPokemonId": "pokemon-0541",
+    "method": "level_candidate: 20"
+  },
+  {
+    "id": "evo-0541-00",
+    "fromPokemonId": "pokemon-0541",
+    "toPokemonId": "pokemon-0542",
+    "method": "friendship_candidate"
+  },
+  {
+    "id": "evo-0543-00",
+    "fromPokemonId": "pokemon-0543",
+    "toPokemonId": "pokemon-0544",
+    "method": "level_candidate: 22"
+  },
+  {
+    "id": "evo-0544-00",
+    "fromPokemonId": "pokemon-0544",
+    "toPokemonId": "pokemon-0545",
+    "method": "level_candidate: 30"
+  },
+  {
+    "id": "evo-0546-00",
+    "fromPokemonId": "pokemon-0546",
+    "toPokemonId": "pokemon-0547",
+    "method": "item_candidate: Sun Stone"
+  },
+  {
+    "id": "evo-0548-00",
+    "fromPokemonId": "pokemon-0548",
+    "toPokemonId": "pokemon-0549",
+    "method": "item_candidate: Sun Stone"
+  },
+  {
+    "id": "evo-0548-01",
+    "fromPokemonId": "pokemon-0548",
+    "toPokemonId": "pokemon-1001",
+    "method": "item_candidate: Leaf Stone"
+  },
+  {
+    "id": "evo-0551-00",
+    "fromPokemonId": "pokemon-0551",
+    "toPokemonId": "pokemon-0552",
+    "method": "level_candidate: 29"
+  },
+  {
+    "id": "evo-0552-00",
+    "fromPokemonId": "pokemon-0552",
+    "toPokemonId": "pokemon-0553",
+    "method": "level_candidate: 40"
+  },
+  {
+    "id": "evo-0554-00",
+    "fromPokemonId": "pokemon-0554",
+    "toPokemonId": "pokemon-0555",
+    "method": "level_candidate: 35"
+  },
+  {
+    "id": "evo-0557-00",
+    "fromPokemonId": "pokemon-0557",
+    "toPokemonId": "pokemon-0558",
+    "method": "level_candidate: 34"
+  },
+  {
+    "id": "evo-0559-00",
+    "fromPokemonId": "pokemon-0559",
+    "toPokemonId": "pokemon-0560",
+    "method": "level_candidate: 39"
+  },
+  {
+    "id": "evo-0562-00",
+    "fromPokemonId": "pokemon-0562",
+    "toPokemonId": "pokemon-0563",
+    "method": "level_candidate: 34"
+  },
+  {
+    "id": "evo-0564-00",
+    "fromPokemonId": "pokemon-0564",
+    "toPokemonId": "pokemon-0565",
+    "method": "level_candidate: 37"
+  },
+  {
+    "id": "evo-0566-00",
+    "fromPokemonId": "pokemon-0566",
+    "toPokemonId": "pokemon-0567",
+    "method": "level_candidate: 37"
+  },
+  {
+    "id": "evo-0568-00",
+    "fromPokemonId": "pokemon-0568",
+    "toPokemonId": "pokemon-0569",
+    "method": "level_candidate: 36"
+  },
+  {
+    "id": "evo-0570-00",
+    "fromPokemonId": "pokemon-0570",
+    "toPokemonId": "pokemon-0571",
+    "method": "level_candidate: 30"
+  },
+  {
+    "id": "evo-0572-00",
+    "fromPokemonId": "pokemon-0572",
+    "toPokemonId": "pokemon-0573",
+    "method": "item_candidate: Shiny Stone"
+  },
+  {
+    "id": "evo-0574-00",
+    "fromPokemonId": "pokemon-0574",
+    "toPokemonId": "pokemon-0575",
+    "method": "level_candidate: 32"
+  },
+  {
+    "id": "evo-0575-00",
+    "fromPokemonId": "pokemon-0575",
+    "toPokemonId": "pokemon-0576",
+    "method": "level_candidate: 41"
+  },
+  {
+    "id": "evo-0577-00",
+    "fromPokemonId": "pokemon-0577",
+    "toPokemonId": "pokemon-0578",
+    "method": "level_candidate: 32"
+  },
+  {
+    "id": "evo-0578-00",
+    "fromPokemonId": "pokemon-0578",
+    "toPokemonId": "pokemon-0579",
+    "method": "level_candidate: 41"
+  },
+  {
+    "id": "evo-0580-00",
+    "fromPokemonId": "pokemon-0580",
+    "toPokemonId": "pokemon-0581",
+    "method": "level_candidate: 35"
+  },
+  {
+    "id": "evo-0582-00",
+    "fromPokemonId": "pokemon-0582",
+    "toPokemonId": "pokemon-0583",
+    "method": "level_candidate: 35"
+  },
+  {
+    "id": "evo-0583-00",
+    "fromPokemonId": "pokemon-0583",
+    "toPokemonId": "pokemon-0584",
+    "method": "level_candidate: 47"
+  },
+  {
+    "id": "evo-0585-00",
+    "fromPokemonId": "pokemon-0585",
+    "toPokemonId": "pokemon-0586",
+    "method": "level_candidate: 34"
+  },
+  {
+    "id": "evo-0588-00",
+    "fromPokemonId": "pokemon-0588",
+    "toPokemonId": "pokemon-0589",
+    "method": "trade_for_species_candidate"
+  },
+  {
+    "id": "evo-0590-00",
+    "fromPokemonId": "pokemon-0590",
+    "toPokemonId": "pokemon-0591",
+    "method": "level_candidate: 39"
+  },
+  {
+    "id": "evo-0592-00",
+    "fromPokemonId": "pokemon-0592",
+    "toPokemonId": "pokemon-0593",
+    "method": "level_candidate: 40"
+  },
+  {
+    "id": "evo-0595-00",
+    "fromPokemonId": "pokemon-0595",
+    "toPokemonId": "pokemon-0596",
+    "method": "level_candidate: 36"
+  },
+  {
+    "id": "evo-0597-00",
+    "fromPokemonId": "pokemon-0597",
+    "toPokemonId": "pokemon-0598",
+    "method": "level_candidate: 40"
+  },
+  {
+    "id": "evo-0599-00",
+    "fromPokemonId": "pokemon-0599",
+    "toPokemonId": "pokemon-0600",
+    "method": "level_candidate: 38"
+  },
+  {
+    "id": "evo-0600-00",
+    "fromPokemonId": "pokemon-0600",
+    "toPokemonId": "pokemon-0601",
+    "method": "level_candidate: 49"
+  },
+  {
+    "id": "evo-0602-00",
+    "fromPokemonId": "pokemon-0602",
+    "toPokemonId": "pokemon-0603",
+    "method": "level_candidate: 39"
+  },
+  {
+    "id": "evo-0603-00",
+    "fromPokemonId": "pokemon-0603",
+    "toPokemonId": "pokemon-0604",
+    "method": "item_candidate: Thunder Stone"
+  },
+  {
+    "id": "evo-0605-00",
+    "fromPokemonId": "pokemon-0605",
+    "toPokemonId": "pokemon-0606",
+    "method": "level_candidate: 42"
+  },
+  {
+    "id": "evo-0607-00",
+    "fromPokemonId": "pokemon-0607",
+    "toPokemonId": "pokemon-0608",
+    "method": "level_candidate: 41"
+  },
+  {
+    "id": "evo-0608-00",
+    "fromPokemonId": "pokemon-0608",
+    "toPokemonId": "pokemon-0609",
+    "method": "item_candidate: Dusk Stone"
+  },
+  {
+    "id": "evo-0610-00",
+    "fromPokemonId": "pokemon-0610",
+    "toPokemonId": "pokemon-0611",
+    "method": "level_candidate: 38"
+  },
+  {
+    "id": "evo-0611-00",
+    "fromPokemonId": "pokemon-0611",
+    "toPokemonId": "pokemon-0612",
+    "method": "level_candidate: 48"
+  },
+  {
+    "id": "evo-0613-00",
+    "fromPokemonId": "pokemon-0613",
+    "toPokemonId": "pokemon-0614",
+    "method": "level_candidate: 37"
+  },
+  {
+    "id": "evo-0616-00",
+    "fromPokemonId": "pokemon-0616",
+    "toPokemonId": "pokemon-0617",
+    "method": "trade_for_species_candidate"
+  },
+  {
+    "id": "evo-0619-00",
+    "fromPokemonId": "pokemon-0619",
+    "toPokemonId": "pokemon-0620",
+    "method": "level_candidate: 50"
+  },
+  {
+    "id": "evo-0622-00",
+    "fromPokemonId": "pokemon-0622",
+    "toPokemonId": "pokemon-0623",
+    "method": "level_candidate: 43"
+  },
+  {
+    "id": "evo-0624-00",
+    "fromPokemonId": "pokemon-0624",
+    "toPokemonId": "pokemon-0625",
+    "method": "level_candidate: 52"
+  },
+  {
+    "id": "evo-0627-00",
+    "fromPokemonId": "pokemon-0627",
+    "toPokemonId": "pokemon-0628",
+    "method": "regional_or_time_level_variant_candidate: 54"
+  },
+  {
+    "id": "evo-0627-01",
+    "fromPokemonId": "pokemon-0627",
+    "toPokemonId": "pokemon-1004",
+    "method": "regional_or_time_level_variant_candidate: 54"
+  },
+  {
+    "id": "evo-0629-00",
+    "fromPokemonId": "pokemon-0629",
+    "toPokemonId": "pokemon-0630",
+    "method": "level_candidate: 54"
+  },
+  {
+    "id": "evo-0633-00",
+    "fromPokemonId": "pokemon-0633",
+    "toPokemonId": "pokemon-0634",
+    "method": "level_candidate: 50"
+  },
+  {
+    "id": "evo-0634-00",
+    "fromPokemonId": "pokemon-0634",
+    "toPokemonId": "pokemon-0635",
+    "method": "level_candidate: 64"
+  },
+  {
+    "id": "evo-0636-00",
+    "fromPokemonId": "pokemon-0636",
+    "toPokemonId": "pokemon-0637",
+    "method": "level_candidate: 59"
+  },
+  {
+    "id": "evo-0650-00",
+    "fromPokemonId": "pokemon-0650",
+    "toPokemonId": "pokemon-0651",
+    "method": "level_candidate: 16"
+  },
+  {
+    "id": "evo-0651-00",
+    "fromPokemonId": "pokemon-0651",
+    "toPokemonId": "pokemon-0652",
+    "method": "level_candidate: 36"
+  },
+  {
+    "id": "evo-0653-00",
+    "fromPokemonId": "pokemon-0653",
+    "toPokemonId": "pokemon-0654",
+    "method": "level_candidate: 16"
+  },
+  {
+    "id": "evo-0654-00",
+    "fromPokemonId": "pokemon-0654",
+    "toPokemonId": "pokemon-0655",
+    "method": "level_candidate: 36"
+  },
+  {
+    "id": "evo-0656-00",
+    "fromPokemonId": "pokemon-0656",
+    "toPokemonId": "pokemon-0657",
+    "method": "level_candidate: 16"
+  },
+  {
+    "id": "evo-0657-00",
+    "fromPokemonId": "pokemon-0657",
+    "toPokemonId": "pokemon-0658",
+    "method": "level_candidate: 36"
+  },
+  {
+    "id": "evo-0659-00",
+    "fromPokemonId": "pokemon-0659",
+    "toPokemonId": "pokemon-0660",
+    "method": "level_candidate: 20"
+  },
+  {
+    "id": "evo-0661-00",
+    "fromPokemonId": "pokemon-0661",
+    "toPokemonId": "pokemon-0662",
+    "method": "level_candidate: 17"
+  },
+  {
+    "id": "evo-0662-00",
+    "fromPokemonId": "pokemon-0662",
+    "toPokemonId": "pokemon-0663",
+    "method": "level_candidate: 35"
+  },
+  {
+    "id": "evo-0664-00",
+    "fromPokemonId": "pokemon-0664",
+    "toPokemonId": "pokemon-0665",
+    "method": "level_candidate: 9"
+  },
+  {
+    "id": "evo-0665-00",
+    "fromPokemonId": "pokemon-0665",
+    "toPokemonId": "pokemon-0666",
+    "method": "level_candidate: 12"
+  },
+  {
+    "id": "evo-0667-00",
+    "fromPokemonId": "pokemon-0667",
+    "toPokemonId": "pokemon-0668",
+    "method": "level_candidate: 35"
+  },
+  {
+    "id": "evo-0669-00",
+    "fromPokemonId": "pokemon-0669",
+    "toPokemonId": "pokemon-0670",
+    "method": "level_candidate: 19"
+  },
+  {
+    "id": "evo-0670-00",
+    "fromPokemonId": "pokemon-0670",
+    "toPokemonId": "pokemon-0671",
+    "method": "item_candidate: Shiny Stone"
+  },
+  {
+    "id": "evo-0672-00",
+    "fromPokemonId": "pokemon-0672",
+    "toPokemonId": "pokemon-0673",
+    "method": "level_candidate: 32"
+  },
+  {
+    "id": "evo-0674-00",
+    "fromPokemonId": "pokemon-0674",
+    "toPokemonId": "pokemon-0675",
+    "method": "party_dark_type_candidate: 32"
+  },
+  {
+    "id": "evo-0677-00",
+    "fromPokemonId": "pokemon-0677",
+    "toPokemonId": "pokemon-0678",
+    "method": "level_male_candidate: 25"
+  },
+  {
+    "id": "evo-0677-01",
+    "fromPokemonId": "pokemon-0677",
+    "toPokemonId": "pokemon-1155",
+    "method": "level_female_candidate: 25"
+  },
+  {
+    "id": "evo-0679-00",
+    "fromPokemonId": "pokemon-0679",
+    "toPokemonId": "pokemon-0680",
+    "method": "level_candidate: 35"
+  },
+  {
+    "id": "evo-0680-00",
+    "fromPokemonId": "pokemon-0680",
+    "toPokemonId": "pokemon-0681",
+    "method": "item_candidate: Dusk Stone"
+  },
+  {
+    "id": "evo-0682-00",
+    "fromPokemonId": "pokemon-0682",
+    "toPokemonId": "pokemon-0683",
+    "method": "item_trade_or_item_use_candidate: Sachet"
+  },
+  {
+    "id": "evo-0682-01",
+    "fromPokemonId": "pokemon-0682",
+    "toPokemonId": "pokemon-0683",
+    "method": "item_trade_or_item_use_candidate: Sachet"
+  },
+  {
+    "id": "evo-0684-00",
+    "fromPokemonId": "pokemon-0684",
+    "toPokemonId": "pokemon-0685",
+    "method": "item_trade_or_item_use_candidate: Whipped Dream"
+  },
+  {
+    "id": "evo-0684-01",
+    "fromPokemonId": "pokemon-0684",
+    "toPokemonId": "pokemon-0685",
+    "method": "item_trade_or_item_use_candidate: Whipped Dream"
+  },
+  {
+    "id": "evo-0686-00",
+    "fromPokemonId": "pokemon-0686",
+    "toPokemonId": "pokemon-0687",
+    "method": "level_candidate: 30"
+  },
+  {
+    "id": "evo-0688-00",
+    "fromPokemonId": "pokemon-0688",
+    "toPokemonId": "pokemon-0689",
+    "method": "level_candidate: 39"
+  },
+  {
+    "id": "evo-0690-00",
+    "fromPokemonId": "pokemon-0690",
+    "toPokemonId": "pokemon-0691",
+    "method": "level_candidate: 48"
+  },
+  {
+    "id": "evo-0692-00",
+    "fromPokemonId": "pokemon-0692",
+    "toPokemonId": "pokemon-0693",
+    "method": "level_candidate: 37"
+  },
+  {
+    "id": "evo-0694-00",
+    "fromPokemonId": "pokemon-0694",
+    "toPokemonId": "pokemon-0695",
+    "method": "item_candidate: Sun Stone"
+  },
+  {
+    "id": "evo-0696-00",
+    "fromPokemonId": "pokemon-0696",
+    "toPokemonId": "pokemon-0697",
+    "method": "regional_or_time_level_variant_candidate: 39"
+  },
+  {
+    "id": "evo-0698-00",
+    "fromPokemonId": "pokemon-0698",
+    "toPokemonId": "pokemon-0699",
+    "method": "regional_or_time_level_variant_candidate: 39"
+  },
+  {
+    "id": "evo-0704-00",
+    "fromPokemonId": "pokemon-0704",
+    "toPokemonId": "pokemon-0705",
+    "method": "regional_or_time_level_variant_candidate: 40"
+  },
+  {
+    "id": "evo-0704-01",
+    "fromPokemonId": "pokemon-0704",
+    "toPokemonId": "pokemon-1005",
+    "method": "regional_or_time_level_variant_candidate: 40"
+  },
+  {
+    "id": "evo-0705-00",
+    "fromPokemonId": "pokemon-0705",
+    "toPokemonId": "pokemon-0706",
+    "method": "level_rain_candidate: 50"
+  },
+  {
+    "id": "evo-0708-00",
+    "fromPokemonId": "pokemon-0708",
+    "toPokemonId": "pokemon-0709",
+    "method": "item_candidate: Trade Stone"
+  },
+  {
+    "id": "evo-0710-00",
+    "fromPokemonId": "pokemon-0710",
+    "toPokemonId": "pokemon-0711",
+    "method": "item_candidate: Trade Stone"
+  },
+  {
+    "id": "evo-0712-00",
+    "fromPokemonId": "pokemon-0712",
+    "toPokemonId": "pokemon-0713",
+    "method": "regional_or_time_level_variant_candidate: 37"
+  },
+  {
+    "id": "evo-0712-01",
+    "fromPokemonId": "pokemon-0712",
+    "toPokemonId": "pokemon-1007",
+    "method": "regional_or_time_level_variant_candidate: 37"
+  },
+  {
+    "id": "evo-0714-00",
+    "fromPokemonId": "pokemon-0714",
+    "toPokemonId": "pokemon-0715",
+    "method": "level_candidate: 48"
+  },
+  {
+    "id": "evo-0719-00",
+    "fromPokemonId": "pokemon-0719",
+    "toPokemonId": "pokemon-0952",
+    "method": "mega_stone_candidate: Diancite"
+  },
+  {
+    "id": "evo-0722-00",
+    "fromPokemonId": "pokemon-0722",
+    "toPokemonId": "pokemon-0723",
+    "method": "level_candidate: 17"
+  },
+  {
+    "id": "evo-0723-00",
+    "fromPokemonId": "pokemon-0723",
+    "toPokemonId": "pokemon-0724",
+    "method": "level_candidate: 34"
+  },
+  {
+    "id": "evo-0725-00",
+    "fromPokemonId": "pokemon-0725",
+    "toPokemonId": "pokemon-0726",
+    "method": "level_candidate: 17"
+  },
+  {
+    "id": "evo-0726-00",
+    "fromPokemonId": "pokemon-0726",
+    "toPokemonId": "pokemon-0727",
+    "method": "level_candidate: 34"
+  },
+  {
+    "id": "evo-0728-00",
+    "fromPokemonId": "pokemon-0728",
+    "toPokemonId": "pokemon-0729",
+    "method": "level_candidate: 17"
+  },
+  {
+    "id": "evo-0729-00",
+    "fromPokemonId": "pokemon-0729",
+    "toPokemonId": "pokemon-0730",
+    "method": "level_candidate: 34"
+  },
+  {
+    "id": "evo-0731-00",
+    "fromPokemonId": "pokemon-0731",
+    "toPokemonId": "pokemon-0732",
+    "method": "level_candidate: 14"
+  },
+  {
+    "id": "evo-0732-00",
+    "fromPokemonId": "pokemon-0732",
+    "toPokemonId": "pokemon-0733",
+    "method": "level_candidate: 28"
+  },
+  {
+    "id": "evo-0734-00",
+    "fromPokemonId": "pokemon-0734",
+    "toPokemonId": "pokemon-0735",
+    "method": "regional_or_time_level_variant_candidate: 20"
+  },
+  {
+    "id": "evo-0736-00",
+    "fromPokemonId": "pokemon-0736",
+    "toPokemonId": "pokemon-0737",
+    "method": "level_candidate: 20"
+  },
+  {
+    "id": "evo-0737-00",
+    "fromPokemonId": "pokemon-0737",
+    "toPokemonId": "pokemon-0738",
+    "method": "item_candidate: Thunder Stone"
+  },
+  {
+    "id": "evo-0739-00",
+    "fromPokemonId": "pokemon-0739",
+    "toPokemonId": "pokemon-0740",
+    "method": "item_candidate: Ice Stone"
+  },
+  {
+    "id": "evo-0742-00",
+    "fromPokemonId": "pokemon-0742",
+    "toPokemonId": "pokemon-0743",
+    "method": "level_candidate: 25"
+  },
+  {
+    "id": "evo-0744-00",
+    "fromPokemonId": "pokemon-0744",
+    "toPokemonId": "pokemon-0745",
+    "method": "regional_or_time_level_variant_candidate: 25"
+  },
+  {
+    "id": "evo-0744-01",
+    "fromPokemonId": "pokemon-0744",
+    "toPokemonId": "pokemon-1173",
+    "method": "regional_or_time_level_variant_candidate: 25"
+  },
+  {
+    "id": "evo-0747-00",
+    "fromPokemonId": "pokemon-0747",
+    "toPokemonId": "pokemon-0748",
+    "method": "level_candidate: 38"
+  },
+  {
+    "id": "evo-0749-00",
+    "fromPokemonId": "pokemon-0749",
+    "toPokemonId": "pokemon-0750",
+    "method": "level_candidate: 30"
+  },
+  {
+    "id": "evo-0751-00",
+    "fromPokemonId": "pokemon-0751",
+    "toPokemonId": "pokemon-0752",
+    "method": "level_candidate: 22"
+  },
+  {
+    "id": "evo-0753-00",
+    "fromPokemonId": "pokemon-0753",
+    "toPokemonId": "pokemon-0754",
+    "method": "regional_or_time_level_variant_candidate: 34"
+  },
+  {
+    "id": "evo-0755-00",
+    "fromPokemonId": "pokemon-0755",
+    "toPokemonId": "pokemon-0756",
+    "method": "level_candidate: 24"
+  },
+  {
+    "id": "evo-0757-00",
+    "fromPokemonId": "pokemon-0757",
+    "toPokemonId": "pokemon-0758",
+    "method": "level_female_candidate: 33"
+  },
+  {
+    "id": "evo-0759-00",
+    "fromPokemonId": "pokemon-0759",
+    "toPokemonId": "pokemon-0760",
+    "method": "level_candidate: 27"
+  },
+  {
+    "id": "evo-0761-00",
+    "fromPokemonId": "pokemon-0761",
+    "toPokemonId": "pokemon-0762",
+    "method": "level_candidate: 18"
+  },
+  {
+    "id": "evo-0762-00",
+    "fromPokemonId": "pokemon-0762",
+    "toPokemonId": "pokemon-0763",
+    "method": "move_known_candidate: Stomp"
+  },
+  {
+    "id": "evo-0767-00",
+    "fromPokemonId": "pokemon-0767",
+    "toPokemonId": "pokemon-0768",
+    "method": "level_candidate: 30"
+  },
+  {
+    "id": "evo-0769-00",
+    "fromPokemonId": "pokemon-0769",
+    "toPokemonId": "pokemon-0770",
+    "method": "level_candidate: 42"
+  },
+  {
+    "id": "evo-0772-00",
+    "fromPokemonId": "pokemon-0772",
+    "toPokemonId": "pokemon-0773",
+    "method": "friendship_candidate"
+  },
+  {
+    "id": "evo-0782-00",
+    "fromPokemonId": "pokemon-0782",
+    "toPokemonId": "pokemon-0783",
+    "method": "level_candidate: 35"
+  },
+  {
+    "id": "evo-0783-00",
+    "fromPokemonId": "pokemon-0783",
+    "toPokemonId": "pokemon-0784",
+    "method": "level_candidate: 45"
+  },
+  {
+    "id": "evo-0789-00",
+    "fromPokemonId": "pokemon-0789",
+    "toPokemonId": "pokemon-0790",
+    "method": "level_candidate: 43"
+  },
+  {
+    "id": "evo-0790-00",
+    "fromPokemonId": "pokemon-0790",
+    "toPokemonId": "pokemon-0791",
+    "method": "regional_or_time_level_variant_candidate: 53"
+  },
+  {
+    "id": "evo-0790-01",
+    "fromPokemonId": "pokemon-0790",
+    "toPokemonId": "pokemon-0792",
+    "method": "regional_or_time_level_variant_candidate: 53"
+  },
+  {
+    "id": "evo-0803-00",
+    "fromPokemonId": "pokemon-0803",
+    "toPokemonId": "pokemon-0804",
+    "method": "move_known_candidate: Dragon Pulse"
+  },
+  {
+    "id": "evo-0810-00",
+    "fromPokemonId": "pokemon-0810",
+    "toPokemonId": "pokemon-0811",
+    "method": "level_candidate: 16"
+  },
+  {
+    "id": "evo-0811-00",
+    "fromPokemonId": "pokemon-0811",
+    "toPokemonId": "pokemon-0812",
+    "method": "level_candidate: 35"
+  },
+  {
+    "id": "evo-0813-00",
+    "fromPokemonId": "pokemon-0813",
+    "toPokemonId": "pokemon-0814",
+    "method": "level_candidate: 16"
+  },
+  {
+    "id": "evo-0814-00",
+    "fromPokemonId": "pokemon-0814",
+    "toPokemonId": "pokemon-0815",
+    "method": "level_candidate: 35"
+  },
+  {
+    "id": "evo-0816-00",
+    "fromPokemonId": "pokemon-0816",
+    "toPokemonId": "pokemon-0817",
+    "method": "level_candidate: 16"
+  },
+  {
+    "id": "evo-0817-00",
+    "fromPokemonId": "pokemon-0817",
+    "toPokemonId": "pokemon-0818",
+    "method": "level_candidate: 35"
+  },
+  {
+    "id": "evo-0819-00",
+    "fromPokemonId": "pokemon-0819",
+    "toPokemonId": "pokemon-0820",
+    "method": "level_candidate: 24"
+  },
+  {
+    "id": "evo-0821-00",
+    "fromPokemonId": "pokemon-0821",
+    "toPokemonId": "pokemon-0822",
+    "method": "level_candidate: 18"
+  },
+  {
+    "id": "evo-0822-00",
+    "fromPokemonId": "pokemon-0822",
+    "toPokemonId": "pokemon-0823",
+    "method": "level_candidate: 38"
+  },
+  {
+    "id": "evo-0824-00",
+    "fromPokemonId": "pokemon-0824",
+    "toPokemonId": "pokemon-0825",
+    "method": "level_candidate: 10"
+  },
+  {
+    "id": "evo-0825-00",
+    "fromPokemonId": "pokemon-0825",
+    "toPokemonId": "pokemon-0826",
+    "method": "level_candidate: 30"
+  },
+  {
+    "id": "evo-0827-00",
+    "fromPokemonId": "pokemon-0827",
+    "toPokemonId": "pokemon-0828",
+    "method": "level_candidate: 18"
+  },
+  {
+    "id": "evo-0829-00",
+    "fromPokemonId": "pokemon-0829",
+    "toPokemonId": "pokemon-0830",
+    "method": "level_candidate: 20"
+  },
+  {
+    "id": "evo-0831-00",
+    "fromPokemonId": "pokemon-0831",
+    "toPokemonId": "pokemon-0832",
+    "method": "level_candidate: 24"
+  },
+  {
+    "id": "evo-0833-00",
+    "fromPokemonId": "pokemon-0833",
+    "toPokemonId": "pokemon-0834",
+    "method": "level_candidate: 22"
+  },
+  {
+    "id": "evo-0835-00",
+    "fromPokemonId": "pokemon-0835",
+    "toPokemonId": "pokemon-0836",
+    "method": "level_candidate: 25"
+  },
+  {
+    "id": "evo-0837-00",
+    "fromPokemonId": "pokemon-0837",
+    "toPokemonId": "pokemon-0838",
+    "method": "level_candidate: 18"
+  },
+  {
+    "id": "evo-0838-00",
+    "fromPokemonId": "pokemon-0838",
+    "toPokemonId": "pokemon-0839",
+    "method": "level_candidate: 34"
+  },
+  {
+    "id": "evo-0840-00",
+    "fromPokemonId": "pokemon-0840",
+    "toPokemonId": "pokemon-0841",
+    "method": "item_candidate: Tart Apple"
+  },
+  {
+    "id": "evo-0840-01",
+    "fromPokemonId": "pokemon-0840",
+    "toPokemonId": "pokemon-0842",
+    "method": "item_candidate: Sweet Apple"
+  },
+  {
+    "id": "evo-0843-00",
+    "fromPokemonId": "pokemon-0843",
+    "toPokemonId": "pokemon-0844",
+    "method": "level_candidate: 36"
+  },
+  {
+    "id": "evo-0846-00",
+    "fromPokemonId": "pokemon-0846",
+    "toPokemonId": "pokemon-0847",
+    "method": "level_candidate: 26"
+  },
+  {
+    "id": "evo-0848-00",
+    "fromPokemonId": "pokemon-0848",
+    "toPokemonId": "pokemon-0849",
+    "method": "toxtricity_form_level_candidate: 30"
+  },
+  {
+    "id": "evo-0848-01",
+    "fromPokemonId": "pokemon-0848",
+    "toPokemonId": "pokemon-1213",
+    "method": "toxtricity_form_level_candidate: 30"
+  },
+  {
+    "id": "evo-0850-00",
+    "fromPokemonId": "pokemon-0850",
+    "toPokemonId": "pokemon-0851",
+    "method": "level_candidate: 28"
+  },
+  {
+    "id": "evo-0852-00",
+    "fromPokemonId": "pokemon-0852",
+    "toPokemonId": "pokemon-0853",
+    "method": "move_known_candidate: Taunt"
+  },
+  {
+    "id": "evo-0854-00",
+    "fromPokemonId": "pokemon-0854",
+    "toPokemonId": "pokemon-0855",
+    "method": "item_candidate: Cracked Pot"
+  },
+  {
+    "id": "evo-0856-00",
+    "fromPokemonId": "pokemon-0856",
+    "toPokemonId": "pokemon-0857",
+    "method": "level_candidate: 32"
+  },
+  {
+    "id": "evo-0857-00",
+    "fromPokemonId": "pokemon-0857",
+    "toPokemonId": "pokemon-0858",
+    "method": "level_candidate: 42"
+  },
+  {
+    "id": "evo-0859-00",
+    "fromPokemonId": "pokemon-0859",
+    "toPokemonId": "pokemon-0860",
+    "method": "level_candidate: 32"
+  },
+  {
+    "id": "evo-0860-00",
+    "fromPokemonId": "pokemon-0860",
+    "toPokemonId": "pokemon-0861",
+    "method": "level_candidate: 42"
+  },
+  {
+    "id": "evo-0868-00",
+    "fromPokemonId": "pokemon-0868",
+    "toPokemonId": "pokemon-0869",
+    "method": "item_trade_or_item_use_candidate: StrwbrySweet"
+  },
+  {
+    "id": "evo-0868-01",
+    "fromPokemonId": "pokemon-0868",
+    "toPokemonId": "pokemon-0869",
+    "method": "item_trade_or_item_use_candidate: StrwbrySweet"
+  },
+  {
+    "id": "evo-0868-02",
+    "fromPokemonId": "pokemon-0868",
+    "toPokemonId": "pokemon-1216",
+    "method": "item_trade_or_item_use_candidate: Love Sweet"
+  },
+  {
+    "id": "evo-0868-03",
+    "fromPokemonId": "pokemon-0868",
+    "toPokemonId": "pokemon-1221",
+    "method": "item_trade_or_item_use_candidate: Love Sweet"
+  },
+  {
+    "id": "evo-0868-04",
+    "fromPokemonId": "pokemon-0868",
+    "toPokemonId": "pokemon-1217",
+    "method": "item_trade_or_item_use_candidate: Clover Sweet"
+  },
+  {
+    "id": "evo-0868-05",
+    "fromPokemonId": "pokemon-0868",
+    "toPokemonId": "pokemon-1218",
+    "method": "item_trade_or_item_use_candidate: Berry Sweet"
+  },
+  {
+    "id": "evo-0868-06",
+    "fromPokemonId": "pokemon-0868",
+    "toPokemonId": "pokemon-1219",
+    "method": "item_trade_or_item_use_candidate: Star Sweet"
+  },
+  {
+    "id": "evo-0868-07",
+    "fromPokemonId": "pokemon-0868",
+    "toPokemonId": "pokemon-1222",
+    "method": "item_trade_or_item_use_candidate: Star Sweet"
+  },
+  {
+    "id": "evo-0868-08",
+    "fromPokemonId": "pokemon-0868",
+    "toPokemonId": "pokemon-1220",
+    "method": "item_trade_or_item_use_candidate: Berry Sweet"
+  },
+  {
+    "id": "evo-0868-09",
+    "fromPokemonId": "pokemon-0868",
+    "toPokemonId": "pokemon-1223",
+    "method": "item_trade_or_item_use_candidate: Clover Sweet"
+  },
+  {
+    "id": "evo-0872-00",
+    "fromPokemonId": "pokemon-0872",
+    "toPokemonId": "pokemon-0873",
+    "method": "friendship_night_candidate"
+  },
+  {
+    "id": "evo-0878-00",
+    "fromPokemonId": "pokemon-0878",
+    "toPokemonId": "pokemon-0879",
+    "method": "level_candidate: 34"
+  },
+  {
+    "id": "evo-0885-00",
+    "fromPokemonId": "pokemon-0885",
+    "toPokemonId": "pokemon-0886",
+    "method": "level_candidate: 50"
+  },
+  {
+    "id": "evo-0886-00",
+    "fromPokemonId": "pokemon-0886",
+    "toPokemonId": "pokemon-0887",
+    "method": "level_candidate: 60"
+  },
+  {
+    "id": "evo-0891-00",
+    "fromPokemonId": "pokemon-0891",
+    "toPokemonId": "pokemon-0892",
+    "method": "kubfu_tower_form_candidate"
+  },
+  {
+    "id": "evo-0891-01",
+    "fromPokemonId": "pokemon-0891",
+    "toPokemonId": "pokemon-1230",
+    "method": "kubfu_tower_form_candidate"
+  },
+  {
+    "id": "evo-0956-00",
+    "fromPokemonId": "pokemon-0956",
+    "toPokemonId": "pokemon-0957",
+    "method": "regional_or_time_level_variant_candidate: 20"
+  },
+  {
+    "id": "evo-0959-00",
+    "fromPokemonId": "pokemon-0959",
+    "toPokemonId": "pokemon-0960",
+    "method": "item_candidate: Ice Stone"
+  },
+  {
+    "id": "evo-0961-00",
+    "fromPokemonId": "pokemon-0961",
+    "toPokemonId": "pokemon-0962",
+    "method": "item_candidate: Ice Stone"
+  },
+  {
+    "id": "evo-0963-00",
+    "fromPokemonId": "pokemon-0963",
+    "toPokemonId": "pokemon-0964",
+    "method": "level_candidate: 26"
+  },
+  {
+    "id": "evo-0965-00",
+    "fromPokemonId": "pokemon-0965",
+    "toPokemonId": "pokemon-0966",
+    "method": "friendship_candidate"
+  },
+  {
+    "id": "evo-0967-00",
+    "fromPokemonId": "pokemon-0967",
+    "toPokemonId": "pokemon-0968",
+    "method": "level_candidate: 25"
+  },
+  {
+    "id": "evo-0968-00",
+    "fromPokemonId": "pokemon-0968",
+    "toPokemonId": "pokemon-0969",
+    "method": "item_candidate: Trade Stone"
+  },
+  {
+    "id": "evo-0970-00",
+    "fromPokemonId": "pokemon-0970",
+    "toPokemonId": "pokemon-0971",
+    "method": "level_candidate: 38"
+  },
+  {
+    "id": "evo-0974-00",
+    "fromPokemonId": "pokemon-0974",
+    "toPokemonId": "pokemon-0863",
+    "method": "level_candidate: 28"
+  },
+  {
+    "id": "evo-0975-00",
+    "fromPokemonId": "pokemon-0975",
+    "toPokemonId": "pokemon-0976",
+    "method": "level_candidate: 40"
+  },
+  {
+    "id": "evo-0977-00",
+    "fromPokemonId": "pokemon-0977",
+    "toPokemonId": "pokemon-0978",
+    "method": "item_candidate: GalaricaCuff"
+  },
+  {
+    "id": "evo-0977-01",
+    "fromPokemonId": "pokemon-0977",
+    "toPokemonId": "pokemon-0985",
+    "method": "item_candidate: GalrcaWreath"
+  },
+  {
+    "id": "evo-0979-00",
+    "fromPokemonId": "pokemon-0979",
+    "toPokemonId": "pokemon-0865",
+    "method": "critical_hits_candidate"
+  },
+  {
+    "id": "evo-0981-00",
+    "fromPokemonId": "pokemon-0981",
+    "toPokemonId": "pokemon-0866",
+    "method": "level_candidate: 42"
+  },
+  {
+    "id": "evo-0986-00",
+    "fromPokemonId": "pokemon-0986",
+    "toPokemonId": "pokemon-0864",
+    "method": "level_candidate: 38"
+  },
+  {
+    "id": "evo-0987-00",
+    "fromPokemonId": "pokemon-0987",
+    "toPokemonId": "pokemon-0988",
+    "method": "level_candidate: 20"
+  },
+  {
+    "id": "evo-0988-00",
+    "fromPokemonId": "pokemon-0988",
+    "toPokemonId": "pokemon-0862",
+    "method": "regional_or_time_level_variant_candidate: 35"
+  },
+  {
+    "id": "evo-0989-00",
+    "fromPokemonId": "pokemon-0989",
+    "toPokemonId": "pokemon-0990",
+    "method": "item_candidate: Ice Stone"
+  },
+  {
+    "id": "evo-0991-00",
+    "fromPokemonId": "pokemon-0991",
+    "toPokemonId": "pokemon-0867",
+    "method": "damage_taken_location_candidate"
+  },
+  {
+    "id": "evo-0993-00",
+    "fromPokemonId": "pokemon-0993",
+    "toPokemonId": "pokemon-0994",
+    "method": "item_candidate: Fire Stone"
+  },
+  {
+    "id": "evo-0995-00",
+    "fromPokemonId": "pokemon-0995",
+    "toPokemonId": "pokemon-0996",
+    "method": "item_candidate: Leaf Stone"
+  },
+  {
+    "id": "evo-0997-00",
+    "fromPokemonId": "pokemon-0997",
+    "toPokemonId": "pokemon-1237",
+    "method": "mega_stone_candidate: Typhlosionite"
+  },
+  {
+    "id": "evo-0998-00",
+    "fromPokemonId": "pokemon-0998",
+    "toPokemonId": "pokemon-0904",
+    "method": "level_candidate: 30"
+  },
+  {
+    "id": "evo-0999-00",
+    "fromPokemonId": "pokemon-0999",
+    "toPokemonId": "pokemon-0903",
+    "method": "item_trade_or_item_use_candidate: Razor Claw"
+  },
+  {
+    "id": "evo-1002-00",
+    "fromPokemonId": "pokemon-1002",
+    "toPokemonId": "pokemon-1003",
+    "method": "level_candidate: 30"
+  },
+  {
+    "id": "evo-1005-00",
+    "fromPokemonId": "pokemon-1005",
+    "toPokemonId": "pokemon-1006",
+    "method": "level_rain_candidate: 50"
+  },
+  {
+    "id": "evo-1057-00",
+    "fromPokemonId": "pokemon-1057",
+    "toPokemonId": "pokemon-1059",
+    "method": "level_female_candidate: 20"
+  },
+  {
+    "id": "evo-1057-01",
+    "fromPokemonId": "pokemon-1057",
+    "toPokemonId": "pokemon-0414",
+    "method": "level_male_candidate: 20"
+  },
+  {
+    "id": "evo-1058-00",
+    "fromPokemonId": "pokemon-1058",
+    "toPokemonId": "pokemon-1060",
+    "method": "level_female_candidate: 20"
+  },
+  {
+    "id": "evo-1058-01",
+    "fromPokemonId": "pokemon-1058",
+    "toPokemonId": "pokemon-0414",
+    "method": "level_male_candidate: 20"
+  },
+  {
+    "id": "evo-1062-00",
+    "fromPokemonId": "pokemon-1062",
+    "toPokemonId": "pokemon-1063",
+    "method": "level_candidate: 30"
+  },
+  {
+    "id": "evo-1091-00",
+    "fromPokemonId": "pokemon-1091",
+    "toPokemonId": "pokemon-0902",
+    "method": "level_candidate: 30"
+  },
+  {
+    "id": "evo-1094-00",
+    "fromPokemonId": "pokemon-1094",
+    "toPokemonId": "pokemon-1097",
+    "method": "level_candidate: 34"
+  },
+  {
+    "id": "evo-1095-00",
+    "fromPokemonId": "pokemon-1095",
+    "toPokemonId": "pokemon-1098",
+    "method": "level_candidate: 34"
+  },
+  {
+    "id": "evo-1096-00",
+    "fromPokemonId": "pokemon-1096",
+    "toPokemonId": "pokemon-1099",
+    "method": "level_candidate: 34"
+  },
+  {
+    "id": "evo-1133-00",
+    "fromPokemonId": "pokemon-1133",
+    "toPokemonId": "pokemon-1137",
+    "method": "level_candidate: 19"
+  },
+  {
+    "id": "evo-1134-00",
+    "fromPokemonId": "pokemon-1134",
+    "toPokemonId": "pokemon-1138",
+    "method": "level_candidate: 19"
+  },
+  {
+    "id": "evo-1135-00",
+    "fromPokemonId": "pokemon-1135",
+    "toPokemonId": "pokemon-1139",
+    "method": "level_candidate: 19"
+  },
+  {
+    "id": "evo-1136-00",
+    "fromPokemonId": "pokemon-1136",
+    "toPokemonId": "pokemon-1140",
+    "method": "level_candidate: 19"
+  },
+  {
+    "id": "evo-1137-00",
+    "fromPokemonId": "pokemon-1137",
+    "toPokemonId": "pokemon-1142",
+    "method": "item_candidate: Shiny Stone"
+  },
+  {
+    "id": "evo-1138-00",
+    "fromPokemonId": "pokemon-1138",
+    "toPokemonId": "pokemon-1143",
+    "method": "item_candidate: Shiny Stone"
+  },
+  {
+    "id": "evo-1139-00",
+    "fromPokemonId": "pokemon-1139",
+    "toPokemonId": "pokemon-1144",
+    "method": "item_candidate: Shiny Stone"
+  },
+  {
+    "id": "evo-1140-00",
+    "fromPokemonId": "pokemon-1140",
+    "toPokemonId": "pokemon-1145",
+    "method": "item_candidate: Shiny Stone"
+  },
+  {
+    "id": "evo-1157-00",
+    "fromPokemonId": "pokemon-1157",
+    "toPokemonId": "pokemon-1160",
+    "method": "item_candidate: Trade Stone"
+  },
+  {
+    "id": "evo-1158-00",
+    "fromPokemonId": "pokemon-1158",
+    "toPokemonId": "pokemon-1161",
+    "method": "item_candidate: Trade Stone"
+  },
+  {
+    "id": "evo-1159-00",
+    "fromPokemonId": "pokemon-1159",
+    "toPokemonId": "pokemon-1162",
+    "method": "item_candidate: Trade Stone"
+  },
+  {
+    "id": "evo-1172-00",
+    "fromPokemonId": "pokemon-1172",
+    "toPokemonId": "pokemon-1174",
+    "method": "rockruff_dusk_level_candidate: 25"
+  },
+  {
+    "id": "evo-1214-00",
+    "fromPokemonId": "pokemon-1214",
+    "toPokemonId": "pokemon-1215",
+    "method": "item_candidate: Chipped Pot"
+  }
+]

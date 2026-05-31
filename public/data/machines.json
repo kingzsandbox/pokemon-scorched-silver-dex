@@ -1,0 +1,830 @@
+[
+  {
+    "id": "machine-tm01",
+    "slug": "tm01",
+    "name": "TM01 - Dark Pulse",
+    "code": "TM01",
+    "kind": "tm",
+    "moveId": "move-0399",
+    "location": null
+  },
+  {
+    "id": "machine-tm02",
+    "slug": "tm02",
+    "name": "TM02 - Dragon Claw",
+    "code": "TM02",
+    "kind": "tm",
+    "moveId": "move-0337",
+    "location": null
+  },
+  {
+    "id": "machine-tm03",
+    "slug": "tm03",
+    "name": "TM03 - Scald",
+    "code": "TM03",
+    "kind": "tm",
+    "moveId": "move-0503",
+    "location": null
+  },
+  {
+    "id": "machine-tm04",
+    "slug": "tm04",
+    "name": "TM04 - Calm Mind",
+    "code": "TM04",
+    "kind": "tm",
+    "moveId": "move-0347",
+    "location": null
+  },
+  {
+    "id": "machine-tm05",
+    "slug": "tm05",
+    "name": "TM05 - Roar",
+    "code": "TM05",
+    "kind": "tm",
+    "moveId": "move-0046",
+    "location": null
+  },
+  {
+    "id": "machine-tm06",
+    "slug": "tm06",
+    "name": "TM06 - Toxic",
+    "code": "TM06",
+    "kind": "tm",
+    "moveId": "move-0092",
+    "location": null
+  },
+  {
+    "id": "machine-tm07",
+    "slug": "tm07",
+    "name": "TM07 - Hail",
+    "code": "TM07",
+    "kind": "tm",
+    "moveId": "move-0258",
+    "location": null
+  },
+  {
+    "id": "machine-tm08",
+    "slug": "tm08",
+    "name": "TM08 - Bulk Up",
+    "code": "TM08",
+    "kind": "tm",
+    "moveId": "move-0339",
+    "location": null
+  },
+  {
+    "id": "machine-tm09",
+    "slug": "tm09",
+    "name": "TM09 - Grass Knot",
+    "code": "TM09",
+    "kind": "tm",
+    "moveId": "move-0447",
+    "location": null
+  },
+  {
+    "id": "machine-tm10",
+    "slug": "tm10",
+    "name": "TM10 - Hidden Power",
+    "code": "TM10",
+    "kind": "tm",
+    "moveId": "move-0237",
+    "location": null
+  },
+  {
+    "id": "machine-tm11",
+    "slug": "tm11",
+    "name": "TM11 - Sunny Day",
+    "code": "TM11",
+    "kind": "tm",
+    "moveId": "move-0241",
+    "location": null
+  },
+  {
+    "id": "machine-tm12",
+    "slug": "tm12",
+    "name": "TM12 - Taunt",
+    "code": "TM12",
+    "kind": "tm",
+    "moveId": "move-0269",
+    "location": null
+  },
+  {
+    "id": "machine-tm13",
+    "slug": "tm13",
+    "name": "TM13 - Ice Beam",
+    "code": "TM13",
+    "kind": "tm",
+    "moveId": "move-0058",
+    "location": null
+  },
+  {
+    "id": "machine-tm14",
+    "slug": "tm14",
+    "name": "TM14 - Blizzard",
+    "code": "TM14",
+    "kind": "tm",
+    "moveId": "move-0059",
+    "location": null
+  },
+  {
+    "id": "machine-tm15",
+    "slug": "tm15",
+    "name": "TM15 - Hyper Beam",
+    "code": "TM15",
+    "kind": "tm",
+    "moveId": "move-0063",
+    "location": null
+  },
+  {
+    "id": "machine-tm16",
+    "slug": "tm16",
+    "name": "TM16 - Light Screen",
+    "code": "TM16",
+    "kind": "tm",
+    "moveId": "move-0113",
+    "location": null
+  },
+  {
+    "id": "machine-tm17",
+    "slug": "tm17",
+    "name": "TM17 - Protect",
+    "code": "TM17",
+    "kind": "tm",
+    "moveId": "move-0182",
+    "location": null
+  },
+  {
+    "id": "machine-tm18",
+    "slug": "tm18",
+    "name": "TM18 - Rain Dance",
+    "code": "TM18",
+    "kind": "tm",
+    "moveId": "move-0240",
+    "location": null
+  },
+  {
+    "id": "machine-tm19",
+    "slug": "tm19",
+    "name": "TM19 - Giga Drain",
+    "code": "TM19",
+    "kind": "tm",
+    "moveId": "move-0202",
+    "location": null
+  },
+  {
+    "id": "machine-tm20",
+    "slug": "tm20",
+    "name": "TM20 - Safeguard",
+    "code": "TM20",
+    "kind": "tm",
+    "moveId": "move-0219",
+    "location": null
+  },
+  {
+    "id": "machine-tm21",
+    "slug": "tm21",
+    "name": "TM21 - Frustration",
+    "code": "TM21",
+    "kind": "tm",
+    "moveId": "move-0218",
+    "location": null
+  },
+  {
+    "id": "machine-tm22",
+    "slug": "tm22",
+    "name": "TM22 - Solar Beam",
+    "code": "TM22",
+    "kind": "tm",
+    "moveId": "move-0076",
+    "location": null
+  },
+  {
+    "id": "machine-tm23",
+    "slug": "tm23",
+    "name": "TM23 - Roost",
+    "code": "TM23",
+    "kind": "tm",
+    "moveId": "move-0355",
+    "location": null
+  },
+  {
+    "id": "machine-tm24",
+    "slug": "tm24",
+    "name": "TM24 - Thunderbolt",
+    "code": "TM24",
+    "kind": "tm",
+    "moveId": "move-0085",
+    "location": null
+  },
+  {
+    "id": "machine-tm25",
+    "slug": "tm25",
+    "name": "TM25 - Thunder",
+    "code": "TM25",
+    "kind": "tm",
+    "moveId": "move-0087",
+    "location": null
+  },
+  {
+    "id": "machine-tm26",
+    "slug": "tm26",
+    "name": "TM26 - Earthquake",
+    "code": "TM26",
+    "kind": "tm",
+    "moveId": "move-0089",
+    "location": null
+  },
+  {
+    "id": "machine-tm27",
+    "slug": "tm27",
+    "name": "TM27 - Return",
+    "code": "TM27",
+    "kind": "tm",
+    "moveId": "move-0216",
+    "location": null
+  },
+  {
+    "id": "machine-tm28",
+    "slug": "tm28",
+    "name": "TM28 - Dig",
+    "code": "TM28",
+    "kind": "tm",
+    "moveId": "move-0091",
+    "location": null
+  },
+  {
+    "id": "machine-tm29",
+    "slug": "tm29",
+    "name": "TM29 - Psychic",
+    "code": "TM29",
+    "kind": "tm",
+    "moveId": "move-0094",
+    "location": null
+  },
+  {
+    "id": "machine-tm30",
+    "slug": "tm30",
+    "name": "TM30 - Shadow Ball",
+    "code": "TM30",
+    "kind": "tm",
+    "moveId": "move-0247",
+    "location": null
+  },
+  {
+    "id": "machine-tm31",
+    "slug": "tm31",
+    "name": "TM31 - Brick Break",
+    "code": "TM31",
+    "kind": "tm",
+    "moveId": "move-0280",
+    "location": null
+  },
+  {
+    "id": "machine-tm32",
+    "slug": "tm32",
+    "name": "TM32 - Double Team",
+    "code": "TM32",
+    "kind": "tm",
+    "moveId": "move-0104",
+    "location": null
+  },
+  {
+    "id": "machine-tm33",
+    "slug": "tm33",
+    "name": "TM33 - Reflect",
+    "code": "TM33",
+    "kind": "tm",
+    "moveId": "move-0115",
+    "location": null
+  },
+  {
+    "id": "machine-tm34",
+    "slug": "tm34",
+    "name": "TM34 - X-Scissor",
+    "code": "TM34",
+    "kind": "tm",
+    "moveId": "move-0404",
+    "location": null
+  },
+  {
+    "id": "machine-tm35",
+    "slug": "tm35",
+    "name": "TM35 - Flamethrower",
+    "code": "TM35",
+    "kind": "tm",
+    "moveId": "move-0053",
+    "location": null
+  },
+  {
+    "id": "machine-tm36",
+    "slug": "tm36",
+    "name": "TM36 - Sludge Bomb",
+    "code": "TM36",
+    "kind": "tm",
+    "moveId": "move-0188",
+    "location": null
+  },
+  {
+    "id": "machine-tm37",
+    "slug": "tm37",
+    "name": "TM37 - Sandstorm",
+    "code": "TM37",
+    "kind": "tm",
+    "moveId": "move-0201",
+    "location": null
+  },
+  {
+    "id": "machine-tm38",
+    "slug": "tm38",
+    "name": "TM38 - Fire Blast",
+    "code": "TM38",
+    "kind": "tm",
+    "moveId": "move-0126",
+    "location": null
+  },
+  {
+    "id": "machine-tm39",
+    "slug": "tm39",
+    "name": "TM39 - Stone Edge",
+    "code": "TM39",
+    "kind": "tm",
+    "moveId": "move-0444",
+    "location": null
+  },
+  {
+    "id": "machine-tm40",
+    "slug": "tm40",
+    "name": "TM40 - Aerial Ace",
+    "code": "TM40",
+    "kind": "tm",
+    "moveId": "move-0332",
+    "location": null
+  },
+  {
+    "id": "machine-tm41",
+    "slug": "tm41",
+    "name": "TM41 - Torment",
+    "code": "TM41",
+    "kind": "tm",
+    "moveId": "move-0259",
+    "location": null
+  },
+  {
+    "id": "machine-tm42",
+    "slug": "tm42",
+    "name": "TM42 - Facade",
+    "code": "TM42",
+    "kind": "tm",
+    "moveId": "move-0263",
+    "location": null
+  },
+  {
+    "id": "machine-tm43",
+    "slug": "tm43",
+    "name": "TM43 - DrainingKiss",
+    "code": "TM43",
+    "kind": "tm",
+    "moveId": "move-0577",
+    "location": null
+  },
+  {
+    "id": "machine-tm44",
+    "slug": "tm44",
+    "name": "TM44 - Rest",
+    "code": "TM44",
+    "kind": "tm",
+    "moveId": "move-0156",
+    "location": null
+  },
+  {
+    "id": "machine-tm45",
+    "slug": "tm45",
+    "name": "TM45 - Attract",
+    "code": "TM45",
+    "kind": "tm",
+    "moveId": "move-0213",
+    "location": null
+  },
+  {
+    "id": "machine-tm46",
+    "slug": "tm46",
+    "name": "TM46 - Thief",
+    "code": "TM46",
+    "kind": "tm",
+    "moveId": "move-0168",
+    "location": null
+  },
+  {
+    "id": "machine-tm47",
+    "slug": "tm47",
+    "name": "TM47 - Steel Wing",
+    "code": "TM47",
+    "kind": "tm",
+    "moveId": "move-0211",
+    "location": null
+  },
+  {
+    "id": "machine-tm48",
+    "slug": "tm48",
+    "name": "TM48 - U-turn",
+    "code": "TM48",
+    "kind": "tm",
+    "moveId": "move-0369",
+    "location": null
+  },
+  {
+    "id": "machine-tm49",
+    "slug": "tm49",
+    "name": "TM49 - DazzlngGleam",
+    "code": "TM49",
+    "kind": "tm",
+    "moveId": "move-0605",
+    "location": null
+  },
+  {
+    "id": "machine-tm50",
+    "slug": "tm50",
+    "name": "TM50 - Overheat",
+    "code": "TM50",
+    "kind": "tm",
+    "moveId": "move-0315",
+    "location": null
+  },
+  {
+    "id": "machine-hm01",
+    "slug": "hm01",
+    "name": "HM01 - Cut",
+    "code": "HM01",
+    "kind": "hm",
+    "moveId": "move-0015",
+    "location": null
+  },
+  {
+    "id": "machine-hm02",
+    "slug": "hm02",
+    "name": "HM02 - Fly",
+    "code": "HM02",
+    "kind": "hm",
+    "moveId": "move-0019",
+    "location": null
+  },
+  {
+    "id": "machine-hm03",
+    "slug": "hm03",
+    "name": "HM03 - Surf",
+    "code": "HM03",
+    "kind": "hm",
+    "moveId": "move-0057",
+    "location": null
+  },
+  {
+    "id": "machine-hm04",
+    "slug": "hm04",
+    "name": "HM04 - Strength",
+    "code": "HM04",
+    "kind": "hm",
+    "moveId": "move-0070",
+    "location": null
+  },
+  {
+    "id": "machine-hm05",
+    "slug": "hm05",
+    "name": "HM05 - Flash",
+    "code": "HM05",
+    "kind": "hm",
+    "moveId": "move-0148",
+    "location": null
+  },
+  {
+    "id": "machine-hm06",
+    "slug": "hm06",
+    "name": "HM06 - Rock Smash",
+    "code": "HM06",
+    "kind": "hm",
+    "moveId": "move-0249",
+    "location": null
+  },
+  {
+    "id": "machine-hm07",
+    "slug": "hm07",
+    "name": "HM07 - Waterfall",
+    "code": "HM07",
+    "kind": "hm",
+    "moveId": "move-0127",
+    "location": null
+  },
+  {
+    "id": "machine-hm08",
+    "slug": "hm08",
+    "name": "HM08 - Dive",
+    "code": "HM08",
+    "kind": "hm",
+    "moveId": "move-0291",
+    "location": null
+  },
+  {
+    "id": "machine-mt01",
+    "slug": "mt01",
+    "name": "MT01 - Frost Breath",
+    "code": "MT01",
+    "kind": "mt",
+    "moveId": "move-0524",
+    "location": "Whirl Islands"
+  },
+  {
+    "id": "machine-mt02",
+    "slug": "mt02",
+    "name": "MT02 - Wild Charge",
+    "code": "MT02",
+    "kind": "mt",
+    "moveId": "move-0528",
+    "location": "Whirl Islands"
+  },
+  {
+    "id": "machine-mt03",
+    "slug": "mt03",
+    "name": "MT03 - Sand Attack",
+    "code": "MT03",
+    "kind": "mt",
+    "moveId": "move-0028",
+    "location": "Surf Cherrygrove"
+  },
+  {
+    "id": "machine-mt04",
+    "slug": "mt04",
+    "name": "MT04 - Spacial Rend",
+    "code": "MT04",
+    "kind": "mt",
+    "moveId": "move-0460",
+    "location": "Route 32"
+  },
+  {
+    "id": "machine-mt05",
+    "slug": "mt05",
+    "name": "MT05 - SteamErption",
+    "code": "MT05",
+    "kind": "mt",
+    "moveId": "move-0592",
+    "location": "Route 32"
+  },
+  {
+    "id": "machine-mt06",
+    "slug": "mt06",
+    "name": "MT06 - Boomburst",
+    "code": "MT06",
+    "kind": "mt",
+    "moveId": "move-0586",
+    "location": "Route 45"
+  },
+  {
+    "id": "machine-mt07",
+    "slug": "mt07",
+    "name": "MT07 - Fairy Wind",
+    "code": "MT07",
+    "kind": "mt",
+    "moveId": "move-0584",
+    "location": "Map 4/1"
+  },
+  {
+    "id": "machine-mt08",
+    "slug": "mt08",
+    "name": "MT08 - Fairy Wind",
+    "code": "MT08",
+    "kind": "mt",
+    "moveId": "move-0584",
+    "location": "Map 4/1"
+  },
+  {
+    "id": "machine-mt09",
+    "slug": "mt09",
+    "name": "MT09 - DarkstLariat",
+    "code": "MT09",
+    "kind": "mt",
+    "moveId": "move-0626",
+    "location": "Map 6/0"
+  },
+  {
+    "id": "machine-mt10",
+    "slug": "mt10",
+    "name": "MT10 - BabyDollEyes",
+    "code": "MT10",
+    "kind": "mt",
+    "moveId": "move-0608",
+    "location": "Map 7/3"
+  },
+  {
+    "id": "machine-mt11",
+    "slug": "mt11",
+    "name": "MT11 - MagneticFlux",
+    "code": "MT11",
+    "kind": "mt",
+    "moveId": "move-0602",
+    "location": "Map 7/3"
+  },
+  {
+    "id": "machine-mt12",
+    "slug": "mt12",
+    "name": "MT12 - Shore Up",
+    "code": "MT12",
+    "kind": "mt",
+    "moveId": "move-0622",
+    "location": "Map 9/2"
+  },
+  {
+    "id": "machine-mt13",
+    "slug": "mt13",
+    "name": "MT13 - Dark Pulse",
+    "code": "MT13",
+    "kind": "mt",
+    "moveId": "move-0399",
+    "location": "Map 9/9"
+  },
+  {
+    "id": "machine-mt14",
+    "slug": "mt14",
+    "name": "MT14 - Poison Jab",
+    "code": "MT14",
+    "kind": "mt",
+    "moveId": "move-0398",
+    "location": "Map 9/9"
+  },
+  {
+    "id": "machine-mt15",
+    "slug": "mt15",
+    "name": "MT15 - Lunar Dance",
+    "code": "MT15",
+    "kind": "mt",
+    "moveId": "move-0461",
+    "location": "Map 11/2"
+  },
+  {
+    "id": "machine-mt16",
+    "slug": "mt16",
+    "name": "MT16 - HyprspceFury",
+    "code": "MT16",
+    "kind": "mt",
+    "moveId": "move-0621",
+    "location": "Map 12/1"
+  },
+  {
+    "id": "machine-mt17",
+    "slug": "mt17",
+    "name": "MT17 - HyprspceFury",
+    "code": "MT17",
+    "kind": "mt",
+    "moveId": "move-0621",
+    "location": "Map 12/1"
+  },
+  {
+    "id": "machine-mt18",
+    "slug": "mt18",
+    "name": "MT18 - Return",
+    "code": "MT18",
+    "kind": "mt",
+    "moveId": "move-0216",
+    "location": "Map 14/9"
+  },
+  {
+    "id": "machine-mt19",
+    "slug": "mt19",
+    "name": "MT19 - Return",
+    "code": "MT19",
+    "kind": "mt",
+    "moveId": "move-0216",
+    "location": "Map 14/9"
+  },
+  {
+    "id": "machine-mt20",
+    "slug": "mt20",
+    "name": "MT20 - Play Rough",
+    "code": "MT20",
+    "kind": "mt",
+    "moveId": "move-0583",
+    "location": "Map 15/0"
+  },
+  {
+    "id": "machine-mt21",
+    "slug": "mt21",
+    "name": "MT21 - Play Rough",
+    "code": "MT21",
+    "kind": "mt",
+    "moveId": "move-0583",
+    "location": "Map 15/0"
+  },
+  {
+    "id": "machine-mt22",
+    "slug": "mt22",
+    "name": "MT22 - Bullet Punch",
+    "code": "MT22",
+    "kind": "mt",
+    "moveId": "move-0418",
+    "location": "Map 18/0"
+  },
+  {
+    "id": "machine-mt23",
+    "slug": "mt23",
+    "name": "MT23 - Ice Hammer",
+    "code": "MT23",
+    "kind": "mt",
+    "moveId": "move-0628",
+    "location": "Dark Cave"
+  },
+  {
+    "id": "machine-mt24",
+    "slug": "mt24",
+    "name": "MT24 - HighHorsepwr",
+    "code": "MT24",
+    "kind": "mt",
+    "moveId": "move-0630",
+    "location": "Map 25/42"
+  },
+  {
+    "id": "machine-mt25",
+    "slug": "mt25",
+    "name": "MT25 - PetalBlizzrd",
+    "code": "MT25",
+    "kind": "mt",
+    "moveId": "move-0572",
+    "location": "Map 26/46"
+  },
+  {
+    "id": "machine-mt26",
+    "slug": "mt26",
+    "name": "MT26 - Freeze-Dry",
+    "code": "MT26",
+    "kind": "mt",
+    "moveId": "move-0573",
+    "location": "Map 26/46"
+  },
+  {
+    "id": "machine-mt27",
+    "slug": "mt27",
+    "name": "MT27 - Gear Grind",
+    "code": "MT27",
+    "kind": "mt",
+    "moveId": "move-0544",
+    "location": "Map 31/0"
+  },
+  {
+    "id": "machine-mt28",
+    "slug": "mt28",
+    "name": "MT28 - Searing Shot",
+    "code": "MT28",
+    "kind": "mt",
+    "moveId": "move-0545",
+    "location": "Map 31/0"
+  },
+  {
+    "id": "machine-mt29",
+    "slug": "mt29",
+    "name": "MT29 - Techno Blast",
+    "code": "MT29",
+    "kind": "mt",
+    "moveId": "move-0546",
+    "location": "Map 31/0"
+  },
+  {
+    "id": "machine-mt30",
+    "slug": "mt30",
+    "name": "MT30 - Relic Song",
+    "code": "MT30",
+    "kind": "mt",
+    "moveId": "move-0547",
+    "location": "Map 31/0"
+  },
+  {
+    "id": "machine-mt31",
+    "slug": "mt31",
+    "name": "MT31 - Secret Sword",
+    "code": "MT31",
+    "kind": "mt",
+    "moveId": "move-0548",
+    "location": "Map 31/0"
+  },
+  {
+    "id": "machine-mt32",
+    "slug": "mt32",
+    "name": "MT32 - BanefulBunkr",
+    "code": "MT32",
+    "kind": "mt",
+    "moveId": "move-0624",
+    "location": null
+  },
+  {
+    "id": "machine-mt33",
+    "slug": "mt33",
+    "name": "MT33 - Swords Dance",
+    "code": "MT33",
+    "kind": "mt",
+    "moveId": "move-0014",
+    "location": null
+  },
+  {
+    "id": "machine-mt34",
+    "slug": "mt34",
+    "name": "MT34 - Swords Dance",
+    "code": "MT34",
+    "kind": "mt",
+    "moveId": "move-0014",
+    "location": null
+  }
+]

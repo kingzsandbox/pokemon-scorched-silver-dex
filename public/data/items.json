@@ -1,0 +1,6058 @@
+[
+  {
+    "id": "item-0001",
+    "slug": "1-pok-ball",
+    "name": "Pok\u00e9 Ball",
+    "rawName": "Pok<0x1B> Ball",
+    "category": "poke balls candidate",
+    "description": "A tool used for catching wild Pok\u00e9mon."
+  },
+  {
+    "id": "item-0002",
+    "slug": "2-great-ball",
+    "name": "Great Ball",
+    "rawName": "Great Ball",
+    "category": "poke balls candidate",
+    "description": "A good Ball with a higher catch rate than a Pok\u00e9 Ball."
+  },
+  {
+    "id": "item-0003",
+    "slug": "3-ultra-ball",
+    "name": "Ultra Ball",
+    "rawName": "Ultra Ball",
+    "category": "poke balls candidate",
+    "description": "A better Ball with a higher catch rate than a Great Ball."
+  },
+  {
+    "id": "item-0004",
+    "slug": "4-master-ball",
+    "name": "Master Ball",
+    "rawName": "Master Ball",
+    "category": "poke balls candidate",
+    "description": "The best Ball that catches a Pok\u00e9mon without fail."
+  },
+  {
+    "id": "item-0005",
+    "slug": "5-premier-ball",
+    "name": "Premier Ball",
+    "rawName": "Premier Ball",
+    "category": "poke balls candidate",
+    "description": "A rare Ball made in commemoration of some event."
+  },
+  {
+    "id": "item-0006",
+    "slug": "6-heal-ball",
+    "name": "Heal Ball",
+    "rawName": "Heal Ball",
+    "category": "poke balls candidate",
+    "description": "A remedial Ball that restores caught Pok\u00e9mon."
+  },
+  {
+    "id": "item-0007",
+    "slug": "7-net-ball",
+    "name": "Net Ball",
+    "rawName": "Net Ball",
+    "category": "poke balls candidate",
+    "description": "A Ball that works well on Water- and Bug-type Pok\u00e9mon."
+  },
+  {
+    "id": "item-0008",
+    "slug": "8-nest-ball",
+    "name": "Nest Ball",
+    "rawName": "Nest Ball",
+    "category": "poke balls candidate",
+    "description": "A Ball that works better on weaker Pok\u00e9mon."
+  },
+  {
+    "id": "item-0009",
+    "slug": "9-dive-ball",
+    "name": "Dive Ball",
+    "rawName": "Dive Ball",
+    "category": "poke balls candidate",
+    "description": "A Ball that works better on Pok\u00e9mon on the ocean floor."
+  },
+  {
+    "id": "item-0010",
+    "slug": "10-dusk-ball",
+    "name": "Dusk Ball",
+    "rawName": "Dusk Ball",
+    "category": "poke balls candidate",
+    "description": "Works well if used in a dark place."
+  },
+  {
+    "id": "item-0011",
+    "slug": "11-timer-ball",
+    "name": "Timer Ball",
+    "rawName": "Timer Ball",
+    "category": "poke balls candidate",
+    "description": "A Ball that gains power in battles taking many turns."
+  },
+  {
+    "id": "item-0012",
+    "slug": "12-quick-ball",
+    "name": "Quick Ball",
+    "rawName": "Quick Ball",
+    "category": "poke balls candidate",
+    "description": "Works well if used on the first turn."
+  },
+  {
+    "id": "item-0013",
+    "slug": "13-repeat-ball",
+    "name": "Repeat Ball",
+    "rawName": "Repeat Ball",
+    "category": "poke balls candidate",
+    "description": "A Ball that works better on Pok\u00e9mon caught before."
+  },
+  {
+    "id": "item-0014",
+    "slug": "14-luxury-ball",
+    "name": "Luxury Ball",
+    "rawName": "Luxury Ball",
+    "category": "poke balls candidate",
+    "description": "A cozy Ball that makes Pok\u00e9mon more friendly."
+  },
+  {
+    "id": "item-0015",
+    "slug": "15-level-ball",
+    "name": "Level Ball",
+    "rawName": "Level Ball",
+    "category": "poke balls candidate",
+    "description": "A Ball that works well on lower level Pok\u00e9mon."
+  },
+  {
+    "id": "item-0016",
+    "slug": "16-lure-ball",
+    "name": "Lure Ball",
+    "rawName": "Lure Ball",
+    "category": "poke balls candidate",
+    "description": "A Ball that works well on fished up Pok\u00e9mon."
+  },
+  {
+    "id": "item-0017",
+    "slug": "17-moon-ball",
+    "name": "Moon Ball",
+    "rawName": "Moon Ball",
+    "category": "poke balls candidate",
+    "description": "A Ball that works well on Moon Stone users."
+  },
+  {
+    "id": "item-0018",
+    "slug": "18-friend-ball",
+    "name": "Friend Ball",
+    "rawName": "Friend Ball",
+    "category": "poke balls candidate",
+    "description": "A Ball that makes a Pok\u00e9mon friendly when caught."
+  },
+  {
+    "id": "item-0019",
+    "slug": "19-love-ball",
+    "name": "Love Ball",
+    "rawName": "Love Ball",
+    "category": "poke balls candidate",
+    "description": "Works well on Pok\u00e9mon of the opposite gender."
+  },
+  {
+    "id": "item-0020",
+    "slug": "20-fast-ball",
+    "name": "Fast Ball",
+    "rawName": "Fast Ball",
+    "category": "poke balls candidate",
+    "description": "Works well on very fast Pok\u00e9mon."
+  },
+  {
+    "id": "item-0021",
+    "slug": "21-heavy-ball",
+    "name": "Heavy Ball",
+    "rawName": "Heavy Ball",
+    "category": "poke balls candidate",
+    "description": "Works well on very heavy Pok\u00e9mon."
+  },
+  {
+    "id": "item-0022",
+    "slug": "22-dream-ball",
+    "name": "Dream Ball",
+    "rawName": "Dream Ball",
+    "category": "poke balls candidate",
+    "description": "A Ball that works well on sleeping Pok\u00e9mon."
+  },
+  {
+    "id": "item-0023",
+    "slug": "23-safari-ball",
+    "name": "Safari Ball",
+    "rawName": "Safari Ball",
+    "category": "poke balls candidate",
+    "description": "A special Ball that is used only in the Safari Zone."
+  },
+  {
+    "id": "item-0024",
+    "slug": "24-sport-ball",
+    "name": "Sport Ball",
+    "rawName": "Sport Ball",
+    "category": "poke balls candidate",
+    "description": "A special Ball used in the Bug-Catching Contest."
+  },
+  {
+    "id": "item-0025",
+    "slug": "25-park-ball",
+    "name": "Park Ball",
+    "rawName": "Park Ball",
+    "category": "poke balls candidate",
+    "description": "A special Ball for the Pal Park."
+  },
+  {
+    "id": "item-0026",
+    "slug": "26-beast-ball",
+    "name": "Beast Ball",
+    "rawName": "Beast Ball",
+    "category": "poke balls candidate",
+    "description": "A Ball designed to catch Ultra Beasts."
+  },
+  {
+    "id": "item-0027",
+    "slug": "27-cherish-ball",
+    "name": "Cherish Ball",
+    "rawName": "Cherish Ball",
+    "category": "poke balls candidate",
+    "description": "A rare Ball made in commemoration of some event."
+  },
+  {
+    "id": "item-0028",
+    "slug": "28-potion",
+    "name": "Potion",
+    "rawName": "Potion",
+    "category": "items or general candidate",
+    "description": "Restores the HP of a Pok\u00e9mon by 20 points."
+  },
+  {
+    "id": "item-0029",
+    "slug": "29-super-potion",
+    "name": "Super Potion",
+    "rawName": "Super Potion",
+    "category": "items or general candidate",
+    "description": "Restores the HP of a Pok\u00e9mon by 60 points."
+  },
+  {
+    "id": "item-0030",
+    "slug": "30-hyper-potion",
+    "name": "Hyper Potion",
+    "rawName": "Hyper Potion",
+    "category": "items or general candidate",
+    "description": "Restores the HP of a Pok\u00e9mon by 120 points."
+  },
+  {
+    "id": "item-0031",
+    "slug": "31-max-potion",
+    "name": "Max Potion",
+    "rawName": "Max Potion",
+    "category": "items or general candidate",
+    "description": "Fully restores the HP of a Pok\u00e9mon."
+  },
+  {
+    "id": "item-0032",
+    "slug": "32-full-restore",
+    "name": "Full Restore",
+    "rawName": "Full Restore",
+    "category": "items or general candidate",
+    "description": "Fully restores the HP and status of a Pok\u00e9mon."
+  },
+  {
+    "id": "item-0033",
+    "slug": "33-revive",
+    "name": "Revive",
+    "rawName": "Revive",
+    "category": "items or general candidate",
+    "description": "Revives a fainted Pok\u00e9mon with half its HP."
+  },
+  {
+    "id": "item-0034",
+    "slug": "34-max-revive",
+    "name": "Max Revive",
+    "rawName": "Max Revive",
+    "category": "items or general candidate",
+    "description": "Revives a fainted Pok\u00e9mon with all its HP."
+  },
+  {
+    "id": "item-0035",
+    "slug": "35-fresh-water",
+    "name": "Fresh Water",
+    "rawName": "Fresh Water",
+    "category": "items or general candidate",
+    "description": "A mineral water that restores HP by 30 points."
+  },
+  {
+    "id": "item-0036",
+    "slug": "36-soda-pop",
+    "name": "Soda Pop",
+    "rawName": "Soda Pop",
+    "category": "items or general candidate",
+    "description": "A fizzy soda drink that restores HP by 50 points."
+  },
+  {
+    "id": "item-0037",
+    "slug": "37-lemonade",
+    "name": "Lemonade",
+    "rawName": "Lemonade",
+    "category": "items or general candidate",
+    "description": "A very sweet drink that restores HP by 70 points."
+  },
+  {
+    "id": "item-0038",
+    "slug": "38-moomoo-milk",
+    "name": "Moomoo Milk",
+    "rawName": "Moomoo Milk",
+    "category": "items or general candidate",
+    "description": "A nutritious milk that restores HP by 100 points."
+  },
+  {
+    "id": "item-0039",
+    "slug": "39-energy-powder",
+    "name": "Energy Powder",
+    "rawName": "Energy Powder",
+    "category": "items or general candidate",
+    "description": "A bitter powder that restores HP by 60 points."
+  },
+  {
+    "id": "item-0040",
+    "slug": "40-energy-root",
+    "name": "Energy Root",
+    "rawName": "Energy Root",
+    "category": "items or general candidate",
+    "description": "A bitter root that restores HP by 120 points."
+  },
+  {
+    "id": "item-0041",
+    "slug": "41-heal-powder",
+    "name": "Heal Powder",
+    "rawName": "Heal Powder",
+    "category": "items or general candidate",
+    "description": "A bitter powder that heals all status problems."
+  },
+  {
+    "id": "item-0042",
+    "slug": "42-revival-herb",
+    "name": "Revival Herb",
+    "rawName": "Revival Herb",
+    "category": "items or general candidate",
+    "description": "A very bitter herb that revives a fainted Pok\u00e9mon."
+  },
+  {
+    "id": "item-0043",
+    "slug": "43-antidote",
+    "name": "Antidote",
+    "rawName": "Antidote",
+    "category": "items or general candidate",
+    "description": "Heals a poisoned Pok\u00e9mon."
+  },
+  {
+    "id": "item-0044",
+    "slug": "44-paralyze-heal",
+    "name": "Paralyze Heal",
+    "rawName": "Paralyze Heal",
+    "category": "items or general candidate",
+    "description": "Heals a paralyzed Pok\u00e9mon."
+  },
+  {
+    "id": "item-0045",
+    "slug": "45-burn-heal",
+    "name": "Burn Heal",
+    "rawName": "Burn Heal",
+    "category": "items or general candidate",
+    "description": "Heals Pok\u00e9mon of a burn."
+  },
+  {
+    "id": "item-0046",
+    "slug": "46-ice-heal",
+    "name": "Ice Heal",
+    "rawName": "Ice Heal",
+    "category": "items or general candidate",
+    "description": "Defrosts a frozen Pok\u00e9mon."
+  },
+  {
+    "id": "item-0047",
+    "slug": "47-awakening",
+    "name": "Awakening",
+    "rawName": "Awakening",
+    "category": "items or general candidate",
+    "description": "Awakens a sleeping Pok\u00e9mon."
+  },
+  {
+    "id": "item-0048",
+    "slug": "48-full-heal",
+    "name": "Full Heal",
+    "rawName": "Full Heal",
+    "category": "items or general candidate",
+    "description": "Heals all the status problems of one Pok\u00e9mon."
+  },
+  {
+    "id": "item-0049",
+    "slug": "49-ether",
+    "name": "Ether",
+    "rawName": "Ether",
+    "category": "items or general candidate",
+    "description": "Restores the PP of a selected move by 10."
+  },
+  {
+    "id": "item-0050",
+    "slug": "50-max-ether",
+    "name": "Max Ether",
+    "rawName": "Max Ether",
+    "category": "items or general candidate",
+    "description": "Fully restores the PP of a selected move."
+  },
+  {
+    "id": "item-0051",
+    "slug": "51-elixir",
+    "name": "Elixir",
+    "rawName": "Elixir",
+    "category": "items or general candidate",
+    "description": "Restores the PP of all moves by 10."
+  },
+  {
+    "id": "item-0052",
+    "slug": "52-max-elixir",
+    "name": "Max Elixir",
+    "rawName": "Max Elixir",
+    "category": "items or general candidate",
+    "description": "Fully restores the PP of a Pok\u00e9mon's moves."
+  },
+  {
+    "id": "item-0053",
+    "slug": "53-berry-juice",
+    "name": "Berry Juice",
+    "rawName": "Berry Juice",
+    "category": "items or general candidate",
+    "description": "A 100 pure juice that restores HP by 20 points."
+  },
+  {
+    "id": "item-0054",
+    "slug": "54-sacred-ash",
+    "name": "Sacred Ash",
+    "rawName": "Sacred Ash",
+    "category": "items or general candidate",
+    "description": "Fully revives and restores all fainted Pok\u00e9mon."
+  },
+  {
+    "id": "item-0055",
+    "slug": "55-sweet-heart",
+    "name": "Sweet Heart",
+    "rawName": "Sweet Heart",
+    "category": "items or general candidate",
+    "description": "A sweet chocolate that restores HP by 20 points."
+  },
+  {
+    "id": "item-0056",
+    "slug": "56-max-honey",
+    "name": "Max Honey",
+    "rawName": "Max Honey",
+    "category": "items or general candidate",
+    "description": "Revives a fainted Pok\u00e9mon with all its HP."
+  },
+  {
+    "id": "item-0057",
+    "slug": "57-pewtrcrnches",
+    "name": "PewtrCrnches",
+    "rawName": "PewtrCrnches",
+    "category": "items or general candidate",
+    "description": "Heals all the status problems of one Pok\u00e9mon."
+  },
+  {
+    "id": "item-0058",
+    "slug": "58-ragecandybar",
+    "name": "RageCandyBar",
+    "rawName": "RageCandyBar",
+    "category": "items or general candidate",
+    "description": "Heals all the status problems of one Pok\u00e9mon."
+  },
+  {
+    "id": "item-0059",
+    "slug": "59-lava-cookie",
+    "name": "Lava Cookie",
+    "rawName": "Lava Cookie",
+    "category": "items or general candidate",
+    "description": "A local specialty that heals all status problems."
+  },
+  {
+    "id": "item-0060",
+    "slug": "60-old-gateau",
+    "name": "Old Gateau",
+    "rawName": "Old Gateau",
+    "category": "items or general candidate",
+    "description": "Heals all the status problems of one Pok\u00e9mon."
+  },
+  {
+    "id": "item-0061",
+    "slug": "61-casteliacone",
+    "name": "Casteliacone",
+    "rawName": "Casteliacone",
+    "category": "items or general candidate",
+    "description": "Heals all the status problems of one Pok\u00e9mon."
+  },
+  {
+    "id": "item-0062",
+    "slug": "62-lumioseglete",
+    "name": "LumioseGlete",
+    "rawName": "LumioseGlete",
+    "category": "items or general candidate",
+    "description": "Heals all the status problems of one Pok\u00e9mon."
+  },
+  {
+    "id": "item-0063",
+    "slug": "63-shaloursable",
+    "name": "ShalourSable",
+    "rawName": "ShalourSable",
+    "category": "items or general candidate",
+    "description": "Heals all the status problems of one Pok\u00e9mon."
+  },
+  {
+    "id": "item-0064",
+    "slug": "64-big-malasada",
+    "name": "Big Malasada",
+    "rawName": "Big Malasada",
+    "category": "items or general candidate",
+    "description": "Heals all the status problems of one Pok\u00e9mon."
+  },
+  {
+    "id": "item-0065",
+    "slug": "65-hp-up",
+    "name": "HP Up",
+    "rawName": "HP Up",
+    "category": "items or general candidate",
+    "description": "Raises the base HP of one Pok\u00e9mon."
+  },
+  {
+    "id": "item-0066",
+    "slug": "66-protein",
+    "name": "Protein",
+    "rawName": "Protein",
+    "category": "items or general candidate",
+    "description": "Raises the base Attack stat of one Pok\u00e9mon."
+  },
+  {
+    "id": "item-0067",
+    "slug": "67-iron",
+    "name": "Iron",
+    "rawName": "Iron",
+    "category": "items or general candidate",
+    "description": "Raises the base Defense stat of one Pok\u00e9mon."
+  },
+  {
+    "id": "item-0068",
+    "slug": "68-calcium",
+    "name": "Calcium",
+    "rawName": "Calcium",
+    "category": "items or general candidate",
+    "description": "Raises the base Sp. Atk stat of one Pok\u00e9mon."
+  },
+  {
+    "id": "item-0069",
+    "slug": "69-zinc",
+    "name": "Zinc",
+    "rawName": "Zinc",
+    "category": "items or general candidate",
+    "description": "Raises the base Sp. Def stat of one Pok\u00e9mon."
+  },
+  {
+    "id": "item-0070",
+    "slug": "70-carbos",
+    "name": "Carbos",
+    "rawName": "Carbos",
+    "category": "items or general candidate",
+    "description": "Raises the base Speed stat of one Pok\u00e9mon."
+  },
+  {
+    "id": "item-0071",
+    "slug": "71-pp-up",
+    "name": "PP Up",
+    "rawName": "PP Up",
+    "category": "items or general candidate",
+    "description": "Raises the maximum PP of a selected move."
+  },
+  {
+    "id": "item-0072",
+    "slug": "72-pp-max",
+    "name": "PP Max",
+    "rawName": "PP Max",
+    "category": "items or general candidate",
+    "description": "Raises the PP of a move to its maximum points."
+  },
+  {
+    "id": "item-0073",
+    "slug": "73-healthfeather",
+    "name": "HealthFeather",
+    "rawName": "HealthFeather",
+    "category": "items or general candidate",
+    "description": "An item that raises the base HP of a Pok\u00e9mon."
+  },
+  {
+    "id": "item-0074",
+    "slug": "74-musclefeather",
+    "name": "MuscleFeather",
+    "rawName": "MuscleFeather",
+    "category": "items or general candidate",
+    "description": "An item that raises the base Attack of a Pok\u00e9mon."
+  },
+  {
+    "id": "item-0075",
+    "slug": "75-resistfeather",
+    "name": "ResistFeather",
+    "rawName": "ResistFeather",
+    "category": "items or general candidate",
+    "description": "An item that raises the base Defense of a Pok\u00e9mon."
+  },
+  {
+    "id": "item-0076",
+    "slug": "76-geniusfeather",
+    "name": "GeniusFeather",
+    "rawName": "GeniusFeather",
+    "category": "items or general candidate",
+    "description": "An item that raises the base Sp. Atk. of a Pok\u00e9mon."
+  },
+  {
+    "id": "item-0077",
+    "slug": "77-cleverfeather",
+    "name": "CleverFeather",
+    "rawName": "CleverFeather",
+    "category": "items or general candidate",
+    "description": "An item that raises the base Sp. Def. of a Pok\u00e9mon."
+  },
+  {
+    "id": "item-0078",
+    "slug": "78-swiftfeather",
+    "name": "SwiftFeather",
+    "rawName": "SwiftFeather",
+    "category": "items or general candidate",
+    "description": "An item that raises the base Speed of a Pok\u00e9mon."
+  },
+  {
+    "id": "item-0079",
+    "slug": "79-abilitycapsle",
+    "name": "AbilityCapsle",
+    "rawName": "AbilityCapsle",
+    "category": "items or general candidate",
+    "description": "Switches a Pok\u00e9- mon's ability."
+  },
+  {
+    "id": "item-0080",
+    "slug": "80-abilitypatch",
+    "name": "AbilityPatch",
+    "rawName": "AbilityPatch",
+    "category": "items or general candidate",
+    "description": "Switches ability between a normal and rare ability."
+  },
+  {
+    "id": "item-0081",
+    "slug": "81-lonely-mint",
+    "name": "Lonely Mint",
+    "rawName": "Lonely Mint",
+    "category": "items or general candidate",
+    "description": "Can be smelled. It ups Attack, but reduces Defense."
+  },
+  {
+    "id": "item-0082",
+    "slug": "82-adamant-mint",
+    "name": "Adamant Mint",
+    "rawName": "Adamant Mint",
+    "category": "items or general candidate",
+    "description": "Can be smelled. It ups Attack, but reduces Sp. Atk."
+  },
+  {
+    "id": "item-0083",
+    "slug": "83-naughty-mint",
+    "name": "Naughty Mint",
+    "rawName": "Naughty Mint",
+    "category": "items or general candidate",
+    "description": "Can be smelled. It ups Attack, but reduces Sp. Def."
+  },
+  {
+    "id": "item-0084",
+    "slug": "84-brave-mint",
+    "name": "Brave Mint",
+    "rawName": "Brave Mint",
+    "category": "items or general candidate",
+    "description": "Can be smelled. It ups Attack, but reduces Speed."
+  },
+  {
+    "id": "item-0085",
+    "slug": "85-bold-mint",
+    "name": "Bold Mint",
+    "rawName": "Bold Mint",
+    "category": "items or general candidate",
+    "description": "Can be smelled. It ups Defense, but reduces Attack."
+  },
+  {
+    "id": "item-0086",
+    "slug": "86-impish-mint",
+    "name": "Impish Mint",
+    "rawName": "Impish Mint",
+    "category": "items or general candidate",
+    "description": "Can be smelled. It ups Defense, but reduces Sp. Atk."
+  },
+  {
+    "id": "item-0087",
+    "slug": "87-lax-mint",
+    "name": "Lax Mint",
+    "rawName": "Lax Mint",
+    "category": "items or general candidate",
+    "description": "Can be smelled. It ups Defense, but reduces Sp. Def."
+  },
+  {
+    "id": "item-0088",
+    "slug": "88-relaxed-mint",
+    "name": "Relaxed Mint",
+    "rawName": "Relaxed Mint",
+    "category": "items or general candidate",
+    "description": "Can be smelled. It ups Defense, but reduces Speed."
+  },
+  {
+    "id": "item-0089",
+    "slug": "89-modest-mint",
+    "name": "Modest Mint",
+    "rawName": "Modest Mint",
+    "category": "items or general candidate",
+    "description": "Can be smelled. It ups Sp. Atk, but reduces Attack."
+  },
+  {
+    "id": "item-0090",
+    "slug": "90-mild-mint",
+    "name": "Mild Mint",
+    "rawName": "Mild Mint",
+    "category": "items or general candidate",
+    "description": "Can be smelled. It ups Sp. Atk, but reduces Defense."
+  },
+  {
+    "id": "item-0091",
+    "slug": "91-rash-mint",
+    "name": "Rash Mint",
+    "rawName": "Rash Mint",
+    "category": "items or general candidate",
+    "description": "Can be smelled. It ups Sp. Atk, but reduces Sp. Def."
+  },
+  {
+    "id": "item-0092",
+    "slug": "92-quiet-mint",
+    "name": "Quiet Mint",
+    "rawName": "Quiet Mint",
+    "category": "items or general candidate",
+    "description": "Can be smelled. It ups Sp. Atk, but reduces Speed."
+  },
+  {
+    "id": "item-0093",
+    "slug": "93-calm-mint",
+    "name": "Calm Mint",
+    "rawName": "Calm Mint",
+    "category": "items or general candidate",
+    "description": "Can be smelled. It ups Sp. Def, but reduces Attack."
+  },
+  {
+    "id": "item-0094",
+    "slug": "94-gentle-mint",
+    "name": "Gentle Mint",
+    "rawName": "Gentle Mint",
+    "category": "items or general candidate",
+    "description": "Can be smelled. It ups Sp. Def, but reduces Defense."
+  },
+  {
+    "id": "item-0095",
+    "slug": "95-careful-mint",
+    "name": "Careful Mint",
+    "rawName": "Careful Mint",
+    "category": "items or general candidate",
+    "description": "Can be smelled. It ups Sp. Def, but reduces Sp. Atk."
+  },
+  {
+    "id": "item-0096",
+    "slug": "96-sassy-mint",
+    "name": "Sassy Mint",
+    "rawName": "Sassy Mint",
+    "category": "items or general candidate",
+    "description": "Can be smelled. It ups Sp. Def, but reduces Speed."
+  },
+  {
+    "id": "item-0097",
+    "slug": "97-timid-mint",
+    "name": "Timid Mint",
+    "rawName": "Timid Mint",
+    "category": "items or general candidate",
+    "description": "Can be smelled. It ups Speed, but reduces Attack."
+  },
+  {
+    "id": "item-0098",
+    "slug": "98-hasty-mint",
+    "name": "Hasty Mint",
+    "rawName": "Hasty Mint",
+    "category": "items or general candidate",
+    "description": "Can be smelled. It ups Speed, but reduces Defense."
+  },
+  {
+    "id": "item-0099",
+    "slug": "99-jolly-mint",
+    "name": "Jolly Mint",
+    "rawName": "Jolly Mint",
+    "category": "items or general candidate",
+    "description": "Can be smelled. It ups Speed, but reduces Sp. Atk."
+  },
+  {
+    "id": "item-0100",
+    "slug": "100-naive-mint",
+    "name": "Naive Mint",
+    "rawName": "Naive Mint",
+    "category": "items or general candidate",
+    "description": "Can be smelled. It ups Speed, but reduces Sp. Def."
+  },
+  {
+    "id": "item-0101",
+    "slug": "101-serious-mint",
+    "name": "Serious Mint",
+    "rawName": "Serious Mint",
+    "category": "items or general candidate",
+    "description": "Can be smelled. It ups Speed, but reduces Attack."
+  },
+  {
+    "id": "item-0102",
+    "slug": "102-rare-candy",
+    "name": "Rare Candy",
+    "rawName": "Rare Candy",
+    "category": "items or general candidate",
+    "description": "Raises the level of a Pok\u00e9mon by one."
+  },
+  {
+    "id": "item-0103",
+    "slug": "103-exp-candy-xs",
+    "name": "Exp.Candy XS",
+    "rawName": "Exp.Candy XS",
+    "category": "items or general candidate",
+    "description": "Gives a very small amount of Exp. to a single Pok\u00e9mon."
+  },
+  {
+    "id": "item-0104",
+    "slug": "104-exp-candy-s",
+    "name": "Exp.Candy S",
+    "rawName": "Exp.Candy S",
+    "category": "items or general candidate",
+    "description": "Gives a very small amount of Exp. to a single Pok\u00e9mon."
+  },
+  {
+    "id": "item-0105",
+    "slug": "105-exp-candy-m",
+    "name": "Exp.Candy M",
+    "rawName": "Exp.Candy M",
+    "category": "items or general candidate",
+    "description": "Gives a moderate amount of Exp. to a single Pok\u00e9mon."
+  },
+  {
+    "id": "item-0106",
+    "slug": "106-exp-candy-l",
+    "name": "Exp.Candy L",
+    "rawName": "Exp.Candy L",
+    "category": "items or general candidate",
+    "description": "Gives a large amount of Exp. to a single Pok\u00e9mon."
+  },
+  {
+    "id": "item-0107",
+    "slug": "107-exp-candy-xl",
+    "name": "Exp.Candy XL",
+    "rawName": "Exp.Candy XL",
+    "category": "items or general candidate",
+    "description": "Gives a very large amount of Exp. to a single Pok\u00e9mon."
+  },
+  {
+    "id": "item-0108",
+    "slug": "108-dynamaxcandy",
+    "name": "DynamaxCandy",
+    "rawName": "DynamaxCandy",
+    "category": "items or general candidate",
+    "description": "Raises the Dynamax Level of a single Pok\u00e9mon by one."
+  },
+  {
+    "id": "item-0109",
+    "slug": "109-blue-flute",
+    "name": "Blue Flute",
+    "rawName": "Blue Flute",
+    "category": "items or general candidate",
+    "description": "A glass flute that awakens sleeping Pok\u00e9mon."
+  },
+  {
+    "id": "item-0110",
+    "slug": "110-yellow-flute",
+    "name": "Yellow Flute",
+    "rawName": "Yellow Flute",
+    "category": "items or general candidate",
+    "description": "A glass flute that snaps Pok\u00e9mon out of confusion."
+  },
+  {
+    "id": "item-0111",
+    "slug": "111-red-flute",
+    "name": "Red Flute",
+    "rawName": "Red Flute",
+    "category": "items or general candidate",
+    "description": "A glass flute that snaps Pok\u00e9mon out of attraction."
+  },
+  {
+    "id": "item-0112",
+    "slug": "112-black-flute",
+    "name": "Black Flute",
+    "rawName": "Black Flute",
+    "category": "items or general candidate",
+    "description": "A glass flute that keeps away wild Pok\u00e9mon."
+  },
+  {
+    "id": "item-0113",
+    "slug": "113-white-flute",
+    "name": "White Flute",
+    "rawName": "White Flute",
+    "category": "items or general candidate",
+    "description": "A glass flute that lures wild Pok\u00e9mon."
+  },
+  {
+    "id": "item-0114",
+    "slug": "114-repel",
+    "name": "Repel",
+    "rawName": "Repel",
+    "category": "items or general candidate",
+    "description": "Repels weak wild Pok\u00e9mon for 100 steps."
+  },
+  {
+    "id": "item-0115",
+    "slug": "115-super-repel",
+    "name": "Super Repel",
+    "rawName": "Super Repel",
+    "category": "items or general candidate",
+    "description": "Repels weak wild Pok\u00e9mon for 200 steps."
+  },
+  {
+    "id": "item-0116",
+    "slug": "116-max-repel",
+    "name": "Max Repel",
+    "rawName": "Max Repel",
+    "category": "items or general candidate",
+    "description": "Repels weak wild Pok\u00e9mon for 250 steps."
+  },
+  {
+    "id": "item-0117",
+    "slug": "117-lure",
+    "name": "Lure",
+    "rawName": "Lure",
+    "category": "items or general candidate",
+    "description": "Makes Pok\u00e9mon more likely to appear for 100 steps."
+  },
+  {
+    "id": "item-0118",
+    "slug": "118-super-lure",
+    "name": "Super Lure",
+    "rawName": "Super Lure",
+    "category": "items or general candidate",
+    "description": "Makes Pok\u00e9mon more likely to appear for 200 steps."
+  },
+  {
+    "id": "item-0119",
+    "slug": "119-max-lure",
+    "name": "Max Lure",
+    "rawName": "Max Lure",
+    "category": "items or general candidate",
+    "description": "Makes Pok\u00e9mon more likely to appear for 250 steps."
+  },
+  {
+    "id": "item-0120",
+    "slug": "120-escape-rope",
+    "name": "Escape Rope",
+    "rawName": "Escape Rope",
+    "category": "items or general candidate",
+    "description": "Use to escape instantly from a cave or a dungeon."
+  },
+  {
+    "id": "item-0121",
+    "slug": "121-x-attack",
+    "name": "X Attack",
+    "rawName": "X Attack",
+    "category": "items or general candidate",
+    "description": "Sharply raises stat Attack during one battle."
+  },
+  {
+    "id": "item-0122",
+    "slug": "122-x-defense",
+    "name": "X Defense",
+    "rawName": "X Defense",
+    "category": "items or general candidate",
+    "description": "Sharply raises stat Defense during one battle."
+  },
+  {
+    "id": "item-0123",
+    "slug": "123-x-sp-atk",
+    "name": "X Sp. Atk",
+    "rawName": "X Sp. Atk",
+    "category": "items or general candidate",
+    "description": "Sharply raises stat Sp. Atk during one battle."
+  },
+  {
+    "id": "item-0124",
+    "slug": "124-x-sp-def",
+    "name": "X Sp. Def",
+    "rawName": "X Sp. Def",
+    "category": "items or general candidate",
+    "description": "Sharply raises stat Sp. Def during one battle."
+  },
+  {
+    "id": "item-0125",
+    "slug": "125-x-speed",
+    "name": "X Speed",
+    "rawName": "X Speed",
+    "category": "items or general candidate",
+    "description": "Sharply raises stat Speed during one battle."
+  },
+  {
+    "id": "item-0126",
+    "slug": "126-x-accuracy",
+    "name": "X Accuracy",
+    "rawName": "X Accuracy",
+    "category": "items or general candidate",
+    "description": "Sharply raises move accuracy during one battle."
+  },
+  {
+    "id": "item-0127",
+    "slug": "127-dire-hit",
+    "name": "Dire Hit",
+    "rawName": "Dire Hit",
+    "category": "items or general candidate",
+    "description": "Raises the critical-hit ratio during one battle."
+  },
+  {
+    "id": "item-0128",
+    "slug": "128-guard-spec",
+    "name": "Guard Spec.",
+    "rawName": "Guard Spec.",
+    "category": "items or general candidate",
+    "description": "Prevents stat reduction when used in battle."
+  },
+  {
+    "id": "item-0129",
+    "slug": "129-pok-doll",
+    "name": "Pok\u00e9 Doll",
+    "rawName": "Pok<0x1B> Doll",
+    "category": "items or general candidate",
+    "description": "Use to flee from any battle with a wild Pok\u00e9mon."
+  },
+  {
+    "id": "item-0130",
+    "slug": "130-fluffy-tail",
+    "name": "Fluffy Tail",
+    "rawName": "Fluffy Tail",
+    "category": "items or general candidate",
+    "description": "Use to flee from any battle with a wild Pok\u00e9mon."
+  },
+  {
+    "id": "item-0131",
+    "slug": "131-pok-toy",
+    "name": "Pok\u00e9 Toy",
+    "rawName": "Pok<0x1B> Toy",
+    "category": "items or general candidate",
+    "description": "Use to flee from any battle with a wild Pok\u00e9mon."
+  },
+  {
+    "id": "item-0132",
+    "slug": "132-maxmushrooms",
+    "name": "MaxMushrooms",
+    "rawName": "MaxMushrooms",
+    "category": "items or general candidate",
+    "description": "Raises every stat during one battle by one stage."
+  },
+  {
+    "id": "item-0133",
+    "slug": "133-bottle-cap",
+    "name": "Bottle Cap",
+    "rawName": "Bottle Cap",
+    "category": "items or general candidate",
+    "description": "A beautiful bottle cap that gives off a silver gleam."
+  },
+  {
+    "id": "item-0134",
+    "slug": "134-goldbottlcap",
+    "name": "GoldBottlCap",
+    "rawName": "GoldBottlCap",
+    "category": "items or general candidate",
+    "description": "A beautiful bottle cap that gives off a golden gleam."
+  },
+  {
+    "id": "item-0135",
+    "slug": "135-nugget",
+    "name": "Nugget",
+    "rawName": "Nugget",
+    "category": "items or general candidate",
+    "description": "A nugget of pure gold. Can be sold at a high price."
+  },
+  {
+    "id": "item-0136",
+    "slug": "136-big-nugget",
+    "name": "Big Nugget",
+    "rawName": "Big Nugget",
+    "category": "items or general candidate",
+    "description": "A big nugget made of gold, sellable at a high price."
+  },
+  {
+    "id": "item-0137",
+    "slug": "137-tiny-mushroom",
+    "name": "Tiny Mushroom",
+    "rawName": "Tiny Mushroom",
+    "category": "items or general candidate",
+    "description": "A plain mushroom that would sell at a cheap price."
+  },
+  {
+    "id": "item-0138",
+    "slug": "138-big-mushroom",
+    "name": "Big Mushroom",
+    "rawName": "Big Mushroom",
+    "category": "items or general candidate",
+    "description": "A rare mushroom that would sell at a high price."
+  },
+  {
+    "id": "item-0139",
+    "slug": "139-balm-mushroom",
+    "name": "Balm Mushroom",
+    "rawName": "Balm Mushroom",
+    "category": "items or general candidate",
+    "description": "A rare mushroom that would sell at a high price."
+  },
+  {
+    "id": "item-0140",
+    "slug": "140-pearl",
+    "name": "Pearl",
+    "rawName": "Pearl",
+    "category": "items or general candidate",
+    "description": "A pretty pearl that would sell at a cheap price."
+  },
+  {
+    "id": "item-0141",
+    "slug": "141-big-pearl",
+    "name": "Big Pearl",
+    "rawName": "Big Pearl",
+    "category": "items or general candidate",
+    "description": "A lovely large pearl that would sell at a high price."
+  },
+  {
+    "id": "item-0142",
+    "slug": "142-pearl-string",
+    "name": "Pearl String",
+    "rawName": "Pearl String",
+    "category": "items or general candidate",
+    "description": "Very large pearls that would sell at a high price."
+  },
+  {
+    "id": "item-0143",
+    "slug": "143-stardust",
+    "name": "Stardust",
+    "rawName": "Stardust",
+    "category": "items or general candidate",
+    "description": "Beautiful red sand. Can be sold at a high price."
+  },
+  {
+    "id": "item-0144",
+    "slug": "144-star-piece",
+    "name": "Star Piece",
+    "rawName": "Star Piece",
+    "category": "items or general candidate",
+    "description": "A red gem shard. It would sell for a very high price."
+  },
+  {
+    "id": "item-0145",
+    "slug": "145-comet-shard",
+    "name": "Comet Shard",
+    "rawName": "Comet Shard",
+    "category": "items or general candidate",
+    "description": "A comet's shard. It would sell for a high price."
+  },
+  {
+    "id": "item-0146",
+    "slug": "146-shoal-salt",
+    "name": "Shoal Salt",
+    "rawName": "Shoal Salt",
+    "category": "items or general candidate",
+    "description": "Salt obtained from deep inside the Shoal Cave."
+  },
+  {
+    "id": "item-0147",
+    "slug": "147-shoal-shell",
+    "name": "Shoal Shell",
+    "rawName": "Shoal Shell",
+    "category": "items or general candidate",
+    "description": "A seashell found deep inside the Shoal Cave."
+  },
+  {
+    "id": "item-0148",
+    "slug": "148-red-shard",
+    "name": "Red Shard",
+    "rawName": "Red Shard",
+    "category": "items or general candidate",
+    "description": "A shard from an ancient item. Can be sold cheaply."
+  },
+  {
+    "id": "item-0149",
+    "slug": "149-blue-shard",
+    "name": "Blue Shard",
+    "rawName": "Blue Shard",
+    "category": "items or general candidate",
+    "description": "A shard from an ancient item. Can be sold cheaply."
+  },
+  {
+    "id": "item-0150",
+    "slug": "150-yellow-shard",
+    "name": "Yellow Shard",
+    "rawName": "Yellow Shard",
+    "category": "items or general candidate",
+    "description": "A shard from an ancient item. Can be sold cheaply."
+  },
+  {
+    "id": "item-0151",
+    "slug": "151-green-shard",
+    "name": "Green Shard",
+    "rawName": "Green Shard",
+    "category": "items or general candidate",
+    "description": "A shard from an ancient item. Can be sold cheaply."
+  },
+  {
+    "id": "item-0152",
+    "slug": "152-heart-scale",
+    "name": "Heart Scale",
+    "rawName": "Heart Scale",
+    "category": "items or general candidate",
+    "description": "A lovely scale. It is coveted by collectors."
+  },
+  {
+    "id": "item-0153",
+    "slug": "153-honey",
+    "name": "Honey",
+    "rawName": "Honey",
+    "category": "items or general candidate",
+    "description": "Sweet honey that attracts wild Pok\u00e9mon when used."
+  },
+  {
+    "id": "item-0154",
+    "slug": "154-rare-bone",
+    "name": "Rare Bone",
+    "rawName": "Rare Bone",
+    "category": "items or general candidate",
+    "description": "A very rare bone. It can be sold at a high price."
+  },
+  {
+    "id": "item-0155",
+    "slug": "155-odd-keystone",
+    "name": "Odd Keystone",
+    "rawName": "Odd Keystone",
+    "category": "items or general candidate",
+    "description": "Voices can be heard from this odd stone occasionally."
+  },
+  {
+    "id": "item-0156",
+    "slug": "156-prettyfeather",
+    "name": "PrettyFeather",
+    "rawName": "PrettyFeather",
+    "category": "items or general candidate",
+    "description": "A beautiful yet plain feather that does nothing."
+  },
+  {
+    "id": "item-0157",
+    "slug": "157-relic-copper",
+    "name": "Relic Copper",
+    "rawName": "Relic Copper",
+    "category": "items or general candidate",
+    "description": "A copper coin used long ago. It sells at a high price."
+  },
+  {
+    "id": "item-0158",
+    "slug": "158-relic-silver",
+    "name": "Relic Silver",
+    "rawName": "Relic Silver",
+    "category": "items or general candidate",
+    "description": "A silver coin used long ago. It sells at a high price."
+  },
+  {
+    "id": "item-0159",
+    "slug": "159-relic-gold",
+    "name": "Relic Gold",
+    "rawName": "Relic Gold",
+    "category": "items or general candidate",
+    "description": "A gold coin used long ago. It sells at a high price."
+  },
+  {
+    "id": "item-0160",
+    "slug": "160-relic-vase",
+    "name": "Relic Vase",
+    "rawName": "Relic Vase",
+    "category": "items or general candidate",
+    "description": "A vase made long ago. It sells at a high price."
+  },
+  {
+    "id": "item-0161",
+    "slug": "161-relic-band",
+    "name": "Relic Band",
+    "rawName": "Relic Band",
+    "category": "items or general candidate",
+    "description": "An old bracelet. It sells at a high price."
+  },
+  {
+    "id": "item-0162",
+    "slug": "162-relic-statue",
+    "name": "Relic Statue",
+    "rawName": "Relic Statue",
+    "category": "items or general candidate",
+    "description": "An old statue. It sells at a high price."
+  },
+  {
+    "id": "item-0163",
+    "slug": "163-relic-crown",
+    "name": "Relic Crown",
+    "rawName": "Relic Crown",
+    "category": "items or general candidate",
+    "description": "An old crown. It sells at a high price."
+  },
+  {
+    "id": "item-0164",
+    "slug": "164-strngesouvnr",
+    "name": "StrngeSouvnr",
+    "rawName": "StrngeSouvnr",
+    "category": "items or general candidate",
+    "description": "An ornament that depicts a Pok\u00e9mon from Alola."
+  },
+  {
+    "id": "item-0165",
+    "slug": "165-helix-fossil",
+    "name": "Helix Fossil",
+    "rawName": "Helix Fossil",
+    "category": "key items candidate",
+    "description": "A piece of an ancient marine Pok\u00e9mon's seashell."
+  },
+  {
+    "id": "item-0166",
+    "slug": "166-dome-fossil",
+    "name": "Dome Fossil",
+    "rawName": "Dome Fossil",
+    "category": "key items candidate",
+    "description": "A piece of an ancient marine Pok\u00e9mon's shell."
+  },
+  {
+    "id": "item-0167",
+    "slug": "167-old-amber",
+    "name": "Old Amber",
+    "rawName": "Old Amber",
+    "category": "key items candidate",
+    "description": "A stone containing the genes of an ancient Pok\u00e9mon."
+  },
+  {
+    "id": "item-0168",
+    "slug": "168-root-fossil",
+    "name": "Root Fossil",
+    "rawName": "Root Fossil",
+    "category": "key items candidate",
+    "description": "A fossil of an ancient, seafloor- dwelling Pok\u00e9mon."
+  },
+  {
+    "id": "item-0169",
+    "slug": "169-claw-fossil",
+    "name": "Claw Fossil",
+    "rawName": "Claw Fossil",
+    "category": "key items candidate",
+    "description": "A fossil of an ancient, seafloor- dwelling Pok\u00e9mon."
+  },
+  {
+    "id": "item-0170",
+    "slug": "170-armor-fossil",
+    "name": "Armor Fossil",
+    "rawName": "Armor Fossil",
+    "category": "key items candidate",
+    "description": "A piece of a prehistoric Pok\u00e9- mon's head."
+  },
+  {
+    "id": "item-0171",
+    "slug": "171-skull-fossil",
+    "name": "Skull Fossil",
+    "rawName": "Skull Fossil",
+    "category": "key items candidate",
+    "description": "A piece of a prehistoric Pok\u00e9- mon's head."
+  },
+  {
+    "id": "item-0172",
+    "slug": "172-cover-fossil",
+    "name": "Cover Fossil",
+    "rawName": "Cover Fossil",
+    "category": "key items candidate",
+    "description": "A piece of a prehistoric Pok\u00e9- mon's back."
+  },
+  {
+    "id": "item-0173",
+    "slug": "173-plume-fossil",
+    "name": "Plume Fossil",
+    "rawName": "Plume Fossil",
+    "category": "key items candidate",
+    "description": "A piece of a prehistoric Pok\u00e9- mon's wing."
+  },
+  {
+    "id": "item-0174",
+    "slug": "174-jaw-fossil",
+    "name": "Jaw Fossil",
+    "rawName": "Jaw Fossil",
+    "category": "key items candidate",
+    "description": "A piece of a prehis- toric Pok\u00e9mon's large jaw."
+  },
+  {
+    "id": "item-0175",
+    "slug": "175-sail-fossil",
+    "name": "Sail Fossil",
+    "rawName": "Sail Fossil",
+    "category": "key items candidate",
+    "description": "A piece of a prehis- toric Pok\u00e9mon's skin sail."
+  },
+  {
+    "id": "item-0176",
+    "slug": "176-fosslzedbird",
+    "name": "FosslzedBird",
+    "rawName": "FosslzedBird",
+    "category": "items or general candidate",
+    "description": "A fossil of an ancient, sky- soaring Pok\u00e9mon."
+  },
+  {
+    "id": "item-0177",
+    "slug": "177-fosslzedfish",
+    "name": "FosslzedFish",
+    "rawName": "FosslzedFish",
+    "category": "items or general candidate",
+    "description": "A fossil of an ancient, sea- dwelling Pok\u00e9mon."
+  },
+  {
+    "id": "item-0178",
+    "slug": "178-fosslzeddrke",
+    "name": "FosslzedDrke",
+    "rawName": "FosslzedDrke",
+    "category": "items or general candidate",
+    "description": "A fossil of an ancient, land- roaming Pok\u00e9mon."
+  },
+  {
+    "id": "item-0179",
+    "slug": "179-fosslzeddino",
+    "name": "FosslzedDino",
+    "rawName": "FosslzedDino",
+    "category": "items or general candidate",
+    "description": "A fossil of an ancient, sea- dwelling Pok\u00e9mon."
+  },
+  {
+    "id": "item-0180",
+    "slug": "180-growth-mulch",
+    "name": "Growth Mulch",
+    "rawName": "Growth Mulch",
+    "category": "items or general candidate",
+    "description": "A fertilizer that accelerates the growth of Berries."
+  },
+  {
+    "id": "item-0181",
+    "slug": "181-damp-mulch",
+    "name": "Damp Mulch",
+    "rawName": "Damp Mulch",
+    "category": "items or general candidate",
+    "description": "A fertilizer that decelerates the growth of Berries."
+  },
+  {
+    "id": "item-0182",
+    "slug": "182-stable-mulch",
+    "name": "Stable Mulch",
+    "rawName": "Stable Mulch",
+    "category": "items or general candidate",
+    "description": "A fertilizer that ups the life time of Berry trees."
+  },
+  {
+    "id": "item-0183",
+    "slug": "183-gooey-mulch",
+    "name": "Gooey Mulch",
+    "rawName": "Gooey Mulch",
+    "category": "items or general candidate",
+    "description": "A fertilizer that makes more Berries regrow after fall."
+  },
+  {
+    "id": "item-0184",
+    "slug": "184-rich-mulch",
+    "name": "Rich Mulch",
+    "rawName": "Rich Mulch",
+    "category": "items or general candidate",
+    "description": "A fertilizer that ups the number of Berries harvested."
+  },
+  {
+    "id": "item-0185",
+    "slug": "185-surprsemulch",
+    "name": "SurprseMulch",
+    "rawName": "SurprseMulch",
+    "category": "items or general candidate",
+    "description": "A fertilizer that ups the chance of Berry mutations."
+  },
+  {
+    "id": "item-0186",
+    "slug": "186-boost-mulch",
+    "name": "Boost Mulch",
+    "rawName": "Boost Mulch",
+    "category": "items or general candidate",
+    "description": "A fertilizer that ups the dry speed of soft soil."
+  },
+  {
+    "id": "item-0187",
+    "slug": "187-amaze-mulch",
+    "name": "Amaze Mulch",
+    "rawName": "Amaze Mulch",
+    "category": "items or general candidate",
+    "description": "A fertilizer Rich Surprising and Boosting as well."
+  },
+  {
+    "id": "item-0188",
+    "slug": "188-red-apricorn",
+    "name": "Red Apricorn",
+    "rawName": "Red Apricorn",
+    "category": "items or general candidate",
+    "description": "A red apricorn. It assails your nostrils."
+  },
+  {
+    "id": "item-0189",
+    "slug": "189-blue-apricorn",
+    "name": "Blue Apricorn",
+    "rawName": "Blue Apricorn",
+    "category": "items or general candidate",
+    "description": "A blue apricorn. It smells a bit like grass."
+  },
+  {
+    "id": "item-0190",
+    "slug": "190-yellwapricorn",
+    "name": "YellwApricorn",
+    "rawName": "YellwApricorn",
+    "category": "items or general candidate",
+    "description": "A yellow apricorn. It has an invigor- ating scent."
+  },
+  {
+    "id": "item-0191",
+    "slug": "191-greenapricorn",
+    "name": "GreenApricorn",
+    "rawName": "GreenApricorn",
+    "category": "items or general candidate",
+    "description": "A green apricorn. It has a strange, aromatic scent."
+  },
+  {
+    "id": "item-0192",
+    "slug": "192-pink-apricorn",
+    "name": "Pink Apricorn",
+    "rawName": "Pink Apricorn",
+    "category": "items or general candidate",
+    "description": "A pink apricorn. It has a nice, sweet scent."
+  },
+  {
+    "id": "item-0193",
+    "slug": "193-whiteapricorn",
+    "name": "WhiteApricorn",
+    "rawName": "WhiteApricorn",
+    "category": "items or general candidate",
+    "description": "A white apricorn. It doesn't smell like anything."
+  },
+  {
+    "id": "item-0194",
+    "slug": "194-blackapricorn",
+    "name": "BlackApricorn",
+    "rawName": "BlackApricorn",
+    "category": "items or general candidate",
+    "description": "A black apricorn. It has an inde- scribable scent."
+  },
+  {
+    "id": "item-0195",
+    "slug": "195-wishingpiece",
+    "name": "WishingPiece",
+    "rawName": "WishingPiece",
+    "category": "items or general candidate",
+    "description": "Throw into a Den to attract Dynamax Pok\u00e9mon."
+  },
+  {
+    "id": "item-0196",
+    "slug": "196-galaricatwig",
+    "name": "GalaricaTwig",
+    "rawName": "GalaricaTwig",
+    "category": "items or general candidate",
+    "description": "A twig from a tree in Galar called Galarica."
+  },
+  {
+    "id": "item-0197",
+    "slug": "197-armorite-ore",
+    "name": "Armorite Ore",
+    "rawName": "Armorite Ore",
+    "category": "items or general candidate",
+    "description": "A rare ore. Can be found in the Isle of Armor at Galar."
+  },
+  {
+    "id": "item-0198",
+    "slug": "198-dynite-ore",
+    "name": "Dynite Ore",
+    "rawName": "Dynite Ore",
+    "category": "items or general candidate",
+    "description": "A mysterious ore. It can be found in Galar's Max Lair."
+  },
+  {
+    "id": "item-0199",
+    "slug": "199-orange-mail",
+    "name": "Orange Mail",
+    "rawName": "Orange Mail",
+    "category": "items or general candidate",
+    "description": "A Zigzagoon-print Mail to be held by a Pok\u00e9mon."
+  },
+  {
+    "id": "item-0200",
+    "slug": "200-harbor-mail",
+    "name": "Harbor Mail",
+    "rawName": "Harbor Mail",
+    "category": "items or general candidate",
+    "description": "A Wingull-print Mail to be held by a Pok\u00e9mon."
+  },
+  {
+    "id": "item-0201",
+    "slug": "201-glitter-mail",
+    "name": "Glitter Mail",
+    "rawName": "Glitter Mail",
+    "category": "items or general candidate",
+    "description": "A Pikachu-print Mail to be held by a Pok\u00e9mon."
+  },
+  {
+    "id": "item-0202",
+    "slug": "202-mech-mail",
+    "name": "Mech Mail",
+    "rawName": "Mech Mail",
+    "category": "items or general candidate",
+    "description": "A Magnemite-print Mail to be held by a Pok\u00e9mon."
+  },
+  {
+    "id": "item-0203",
+    "slug": "203-wood-mail",
+    "name": "Wood Mail",
+    "rawName": "Wood Mail",
+    "category": "items or general candidate",
+    "description": "A Slakoth-print Mail to be held by a Pok\u00e9mon."
+  },
+  {
+    "id": "item-0204",
+    "slug": "204-wave-mail",
+    "name": "Wave Mail",
+    "rawName": "Wave Mail",
+    "category": "items or general candidate",
+    "description": "A Wailmer-print Mail to be held by a Pok\u00e9mon."
+  },
+  {
+    "id": "item-0205",
+    "slug": "205-bead-mail",
+    "name": "Bead Mail",
+    "rawName": "Bead Mail",
+    "category": "items or general candidate",
+    "description": "Mail featuring a sketch of the holding Pok\u00e9mon."
+  },
+  {
+    "id": "item-0206",
+    "slug": "206-shadow-mail",
+    "name": "Shadow Mail",
+    "rawName": "Shadow Mail",
+    "category": "items or general candidate",
+    "description": "A Duskull-print Mail to be held by a Pok\u00e9mon."
+  },
+  {
+    "id": "item-0207",
+    "slug": "207-tropic-mail",
+    "name": "Tropic Mail",
+    "rawName": "Tropic Mail",
+    "category": "items or general candidate",
+    "description": "A Bellossom-print Mail to be held by a Pok\u00e9mon."
+  },
+  {
+    "id": "item-0208",
+    "slug": "208-dream-mail",
+    "name": "Dream Mail",
+    "rawName": "Dream Mail",
+    "category": "items or general candidate",
+    "description": "Mail featuring a sketch of the holding Pok\u00e9mon."
+  },
+  {
+    "id": "item-0209",
+    "slug": "209-fab-mail",
+    "name": "Fab Mail",
+    "rawName": "Fab Mail",
+    "category": "items or general candidate",
+    "description": "A gorgeous-print Mail to be held by a Pok\u00e9mon."
+  },
+  {
+    "id": "item-0210",
+    "slug": "210-retro-mail",
+    "name": "Retro Mail",
+    "rawName": "Retro Mail",
+    "category": "items or general candidate",
+    "description": "Mail featuring the drawings of three Pok\u00e9mon."
+  },
+  {
+    "id": "item-0211",
+    "slug": "211-fire-stone",
+    "name": "Fire Stone",
+    "rawName": "Fire Stone",
+    "category": "items or general candidate",
+    "description": "Makes certain species of Pok\u00e9mon evolve."
+  },
+  {
+    "id": "item-0212",
+    "slug": "212-water-stone",
+    "name": "Water Stone",
+    "rawName": "Water Stone",
+    "category": "items or general candidate",
+    "description": "Makes certain species of Pok\u00e9mon evolve."
+  },
+  {
+    "id": "item-0213",
+    "slug": "213-thunder-stone",
+    "name": "Thunder Stone",
+    "rawName": "Thunder Stone",
+    "category": "items or general candidate",
+    "description": "Makes certain species of Pok\u00e9mon evolve."
+  },
+  {
+    "id": "item-0214",
+    "slug": "214-leaf-stone",
+    "name": "Leaf Stone",
+    "rawName": "Leaf Stone",
+    "category": "items or general candidate",
+    "description": "Makes certain species of Pok\u00e9mon evolve."
+  },
+  {
+    "id": "item-0215",
+    "slug": "215-ice-stone",
+    "name": "Ice Stone",
+    "rawName": "Ice Stone",
+    "category": "items or general candidate",
+    "description": "Makes certain species of Pok\u00e9mon evolve."
+  },
+  {
+    "id": "item-0216",
+    "slug": "216-sun-stone",
+    "name": "Sun Stone",
+    "rawName": "Sun Stone",
+    "category": "items or general candidate",
+    "description": "Makes certain species of Pok\u00e9mon evolve."
+  },
+  {
+    "id": "item-0217",
+    "slug": "217-moon-stone",
+    "name": "Moon Stone",
+    "rawName": "Moon Stone",
+    "category": "items or general candidate",
+    "description": "Makes certain species of Pok\u00e9mon evolve."
+  },
+  {
+    "id": "item-0218",
+    "slug": "218-shiny-stone",
+    "name": "Shiny Stone",
+    "rawName": "Shiny Stone",
+    "category": "items or general candidate",
+    "description": "Makes certain species of Pok\u00e9mon evolve."
+  },
+  {
+    "id": "item-0219",
+    "slug": "219-dusk-stone",
+    "name": "Dusk Stone",
+    "rawName": "Dusk Stone",
+    "category": "items or general candidate",
+    "description": "Makes certain species of Pok\u00e9mon evolve."
+  },
+  {
+    "id": "item-0220",
+    "slug": "220-dawn-stone",
+    "name": "Dawn Stone",
+    "rawName": "Dawn Stone",
+    "category": "items or general candidate",
+    "description": "Makes certain species of Pok\u00e9mon evolve."
+  },
+  {
+    "id": "item-0221",
+    "slug": "221-sweet-apple",
+    "name": "Sweet Apple",
+    "rawName": "Sweet Apple",
+    "category": "items or general candidate",
+    "description": "A very sweet apple that makes certain Pok\u00e9mon evolve."
+  },
+  {
+    "id": "item-0222",
+    "slug": "222-tart-apple",
+    "name": "Tart Apple",
+    "rawName": "Tart Apple",
+    "category": "items or general candidate",
+    "description": "A very tart apple that makes certain Pok\u00e9mon evolve."
+  },
+  {
+    "id": "item-0223",
+    "slug": "223-cracked-pot",
+    "name": "Cracked Pot",
+    "rawName": "Cracked Pot",
+    "category": "items or general candidate",
+    "description": "A cracked teapot that makes certain Pok\u00e9mon evolve."
+  },
+  {
+    "id": "item-0224",
+    "slug": "224-chipped-pot",
+    "name": "Chipped Pot",
+    "rawName": "Chipped Pot",
+    "category": "items or general candidate",
+    "description": "A chipped teapot that makes certain Pok\u00e9mon evolve."
+  },
+  {
+    "id": "item-0225",
+    "slug": "225-galaricacuff",
+    "name": "GalaricaCuff",
+    "rawName": "GalaricaCuff",
+    "category": "items or general candidate",
+    "description": "A cuff from Galar that makes certain Pok\u00e9mon evolve."
+  },
+  {
+    "id": "item-0226",
+    "slug": "226-galrcawreath",
+    "name": "GalrcaWreath",
+    "rawName": "GalrcaWreath",
+    "category": "items or general candidate",
+    "description": "A wreath made in Galar. Makes some Pok\u00e9mon evolve."
+  },
+  {
+    "id": "item-0227",
+    "slug": "227-dragon-scale",
+    "name": "Dragon Scale",
+    "rawName": "Dragon Scale",
+    "category": "items or general candidate",
+    "description": "A strange scale held by Dragon- type Pok\u00e9mon."
+  },
+  {
+    "id": "item-0228",
+    "slug": "228-upgrade",
+    "name": "Upgrade",
+    "rawName": "Upgrade",
+    "category": "items or general candidate",
+    "description": "A peculiar box made by Silph Co."
+  },
+  {
+    "id": "item-0229",
+    "slug": "229-protector",
+    "name": "Protector",
+    "rawName": "Protector",
+    "category": "items or general candidate",
+    "description": "Loved by a certain Pok\u00e9mon. It's stiff and heavy."
+  },
+  {
+    "id": "item-0230",
+    "slug": "230-electirizer",
+    "name": "Electirizer",
+    "rawName": "Electirizer",
+    "category": "items or general candidate",
+    "description": "Loved by a certain Pok\u00e9mon. It's full of electric energy."
+  },
+  {
+    "id": "item-0231",
+    "slug": "231-magmarizer",
+    "name": "Magmarizer",
+    "rawName": "Magmarizer",
+    "category": "items or general candidate",
+    "description": "Loved by a certain Pok\u00e9mon. It's full of magma energy."
+  },
+  {
+    "id": "item-0232",
+    "slug": "232-dubious-disc",
+    "name": "Dubious Disc",
+    "rawName": "Dubious Disc",
+    "category": "items or general candidate",
+    "description": "A transparent device overflowing with dubious data."
+  },
+  {
+    "id": "item-0233",
+    "slug": "233-reaper-cloth",
+    "name": "Reaper Cloth",
+    "rawName": "Reaper Cloth",
+    "category": "items or general candidate",
+    "description": "Loved by a certain Pok\u00e9mon. Imbued with spiritual energy."
+  },
+  {
+    "id": "item-0234",
+    "slug": "234-prism-scale",
+    "name": "Prism Scale",
+    "rawName": "Prism Scale",
+    "category": "items or general candidate",
+    "description": "A mysterious scale that evolves certain Pok\u00e9mon. It shines."
+  },
+  {
+    "id": "item-0235",
+    "slug": "235-whipped-dream",
+    "name": "Whipped Dream",
+    "rawName": "Whipped Dream",
+    "category": "items or general candidate",
+    "description": "A soft and sweet treat loved by a certain Pok\u00e9mon."
+  },
+  {
+    "id": "item-0236",
+    "slug": "236-sachet",
+    "name": "Sachet",
+    "rawName": "Sachet",
+    "category": "items or general candidate",
+    "description": "A sachet filled with perfumes loved by a certain Pok\u00e9mon."
+  },
+  {
+    "id": "item-0237",
+    "slug": "237-oval-stone",
+    "name": "Oval Stone",
+    "rawName": "Oval Stone",
+    "category": "items or general candidate",
+    "description": "Makes a certain Pok\u00e9mon evolve. It's shaped like an egg."
+  },
+  {
+    "id": "item-0238",
+    "slug": "238-strwbrysweet",
+    "name": "StrwbrySweet",
+    "rawName": "StrwbrySweet",
+    "category": "items or general candidate",
+    "description": "Strawberry-shaped sweet loved by Milcery."
+  },
+  {
+    "id": "item-0239",
+    "slug": "239-love-sweet",
+    "name": "Love Sweet",
+    "rawName": "Love Sweet",
+    "category": "items or general candidate",
+    "description": "A heart-shaped sweet loved by Milcery."
+  },
+  {
+    "id": "item-0240",
+    "slug": "240-berry-sweet",
+    "name": "Berry Sweet",
+    "rawName": "Berry Sweet",
+    "category": "items or general candidate",
+    "description": "A berry-shaped sweet loved by Milcery."
+  },
+  {
+    "id": "item-0241",
+    "slug": "241-clover-sweet",
+    "name": "Clover Sweet",
+    "rawName": "Clover Sweet",
+    "category": "items or general candidate",
+    "description": "A clover-shaped sweet loved by Milcery."
+  },
+  {
+    "id": "item-0242",
+    "slug": "242-flower-sweet",
+    "name": "Flower Sweet",
+    "rawName": "Flower Sweet",
+    "category": "items or general candidate",
+    "description": "A flower-shaped sweet loved by Milcery."
+  },
+  {
+    "id": "item-0243",
+    "slug": "243-star-sweet",
+    "name": "Star Sweet",
+    "rawName": "Star Sweet",
+    "category": "items or general candidate",
+    "description": "A star-shaped sweet loved by Milcery."
+  },
+  {
+    "id": "item-0244",
+    "slug": "244-ribbon-sweet",
+    "name": "Ribbon Sweet",
+    "rawName": "Ribbon Sweet",
+    "category": "items or general candidate",
+    "description": "A ribbon-shaped sweet loved by Milcery."
+  },
+  {
+    "id": "item-0245",
+    "slug": "245-everstone",
+    "name": "Everstone",
+    "rawName": "Everstone",
+    "category": "items or general candidate",
+    "description": "A wondrous hold item that prevents evolution."
+  },
+  {
+    "id": "item-0246",
+    "slug": "246-red-nectar",
+    "name": "Red Nectar",
+    "rawName": "Red Nectar",
+    "category": "items or general candidate",
+    "description": "Flower nectar that changes the form of certain Pok\u00e9mon."
+  },
+  {
+    "id": "item-0247",
+    "slug": "247-yellow-nectar",
+    "name": "Yellow Nectar",
+    "rawName": "Yellow Nectar",
+    "category": "items or general candidate",
+    "description": "Flower nectar that changes the form of certain Pok\u00e9mon."
+  },
+  {
+    "id": "item-0248",
+    "slug": "248-pink-nectar",
+    "name": "Pink Nectar",
+    "rawName": "Pink Nectar",
+    "category": "items or general candidate",
+    "description": "Flower nectar that changes the form of certain Pok\u00e9mon."
+  },
+  {
+    "id": "item-0249",
+    "slug": "249-purple-nectar",
+    "name": "Purple Nectar",
+    "rawName": "Purple Nectar",
+    "category": "items or general candidate",
+    "description": "Flower nectar that changes the form of certain Pok\u00e9mon."
+  },
+  {
+    "id": "item-0250",
+    "slug": "250-flame-plate",
+    "name": "Flame Plate",
+    "rawName": "Flame Plate",
+    "category": "items or general candidate",
+    "description": "A tablet that ups the power of Fire-type moves."
+  },
+  {
+    "id": "item-0251",
+    "slug": "251-splash-plate",
+    "name": "Splash Plate",
+    "rawName": "Splash Plate",
+    "category": "items or general candidate",
+    "description": "A tablet that ups the power of Water-type moves."
+  },
+  {
+    "id": "item-0252",
+    "slug": "252-zap-plate",
+    "name": "Zap Plate",
+    "rawName": "Zap Plate",
+    "category": "items or general candidate",
+    "description": "A tablet that ups the power of Elec- tric-type moves."
+  },
+  {
+    "id": "item-0253",
+    "slug": "253-meadow-plate",
+    "name": "Meadow Plate",
+    "rawName": "Meadow Plate",
+    "category": "items or general candidate",
+    "description": "A tablet that ups the power of Grass-type moves."
+  },
+  {
+    "id": "item-0254",
+    "slug": "254-icicle-plate",
+    "name": "Icicle Plate",
+    "rawName": "Icicle Plate",
+    "category": "items or general candidate",
+    "description": "A tablet that ups the power of Ice-type moves."
+  },
+  {
+    "id": "item-0255",
+    "slug": "255-fist-plate",
+    "name": "Fist Plate",
+    "rawName": "Fist Plate",
+    "category": "items or general candidate",
+    "description": "A tablet that ups the power of Fight- ing-type moves."
+  },
+  {
+    "id": "item-0256",
+    "slug": "256-toxic-plate",
+    "name": "Toxic Plate",
+    "rawName": "Toxic Plate",
+    "category": "items or general candidate",
+    "description": "A tablet that ups the power of Poison-type moves."
+  },
+  {
+    "id": "item-0257",
+    "slug": "257-earth-plate",
+    "name": "Earth Plate",
+    "rawName": "Earth Plate",
+    "category": "items or general candidate",
+    "description": "A tablet that ups the power of Ground-type moves."
+  },
+  {
+    "id": "item-0258",
+    "slug": "258-sky-plate",
+    "name": "Sky Plate",
+    "rawName": "Sky Plate",
+    "category": "items or general candidate",
+    "description": "A tablet that ups the power of Flying-type moves."
+  },
+  {
+    "id": "item-0259",
+    "slug": "259-mind-plate",
+    "name": "Mind Plate",
+    "rawName": "Mind Plate",
+    "category": "items or general candidate",
+    "description": "A tablet that ups the power of Psy chic-type moves."
+  },
+  {
+    "id": "item-0260",
+    "slug": "260-insect-plate",
+    "name": "Insect Plate",
+    "rawName": "Insect Plate",
+    "category": "items or general candidate",
+    "description": "A tablet that ups the power of Bug-type moves."
+  },
+  {
+    "id": "item-0261",
+    "slug": "261-stone-plate",
+    "name": "Stone Plate",
+    "rawName": "Stone Plate",
+    "category": "items or general candidate",
+    "description": "A tablet that ups the power of Rock-type moves."
+  },
+  {
+    "id": "item-0262",
+    "slug": "262-spooky-plate",
+    "name": "Spooky Plate",
+    "rawName": "Spooky Plate",
+    "category": "items or general candidate",
+    "description": "A tablet that ups the power of Ghost-type moves."
+  },
+  {
+    "id": "item-0263",
+    "slug": "263-draco-plate",
+    "name": "Draco Plate",
+    "rawName": "Draco Plate",
+    "category": "items or general candidate",
+    "description": "A tablet that ups the power of Dragon-type moves."
+  },
+  {
+    "id": "item-0264",
+    "slug": "264-dread-plate",
+    "name": "Dread Plate",
+    "rawName": "Dread Plate",
+    "category": "items or general candidate",
+    "description": "A tablet that ups the power of Dark-type moves."
+  },
+  {
+    "id": "item-0265",
+    "slug": "265-iron-plate",
+    "name": "Iron Plate",
+    "rawName": "Iron Plate",
+    "category": "items or general candidate",
+    "description": "A tablet that ups the power of Steel-type moves."
+  },
+  {
+    "id": "item-0266",
+    "slug": "266-pixie-plate",
+    "name": "Pixie Plate",
+    "rawName": "Pixie Plate",
+    "category": "items or general candidate",
+    "description": "A stone tablet that boosts the power of Fairy-type moves."
+  },
+  {
+    "id": "item-0267",
+    "slug": "267-douse-drive",
+    "name": "Douse Drive",
+    "rawName": "Douse Drive",
+    "category": "items or general candidate",
+    "description": "Changes Genesect's Techno Blast to Water-type."
+  },
+  {
+    "id": "item-0268",
+    "slug": "268-shock-drive",
+    "name": "Shock Drive",
+    "rawName": "Shock Drive",
+    "category": "items or general candidate",
+    "description": "Changes Genesect's Techno Blast to Electric-type."
+  },
+  {
+    "id": "item-0269",
+    "slug": "269-burn-drive",
+    "name": "Burn Drive",
+    "rawName": "Burn Drive",
+    "category": "items or general candidate",
+    "description": "Changes Genesect's Techno Blast to Fire-type."
+  },
+  {
+    "id": "item-0270",
+    "slug": "270-chill-drive",
+    "name": "Chill Drive",
+    "rawName": "Chill Drive",
+    "category": "items or general candidate",
+    "description": "Changes Genesect's Techno Blast to Ice-type."
+  },
+  {
+    "id": "item-0271",
+    "slug": "271-fire-memory",
+    "name": "Fire Memory",
+    "rawName": "Fire Memory",
+    "category": "items or general candidate",
+    "description": "A disc with Fire type data. It swaps Silvally's type."
+  },
+  {
+    "id": "item-0272",
+    "slug": "272-water-memory",
+    "name": "Water Memory",
+    "rawName": "Water Memory",
+    "category": "items or general candidate",
+    "description": "A disc with Water type data. It swaps Silvally's type."
+  },
+  {
+    "id": "item-0273",
+    "slug": "273-electrcmemory",
+    "name": "ElectrcMemory",
+    "rawName": "ElectrcMemory",
+    "category": "items or general candidate",
+    "description": "A disc with Electric type data. It swaps Silvally's type."
+  },
+  {
+    "id": "item-0274",
+    "slug": "274-grass-memory",
+    "name": "Grass Memory",
+    "rawName": "Grass Memory",
+    "category": "items or general candidate",
+    "description": "A disc with Grass type data. It swaps Silvally's type."
+  },
+  {
+    "id": "item-0275",
+    "slug": "275-ice-memory",
+    "name": "Ice Memory",
+    "rawName": "Ice Memory",
+    "category": "items or general candidate",
+    "description": "A disc with Ice type data. It swaps Silvally's type."
+  },
+  {
+    "id": "item-0276",
+    "slug": "276-fightngmemory",
+    "name": "FightngMemory",
+    "rawName": "FightngMemory",
+    "category": "items or general candidate",
+    "description": "A disc with Fighting type data. It swaps Silvally's type."
+  },
+  {
+    "id": "item-0277",
+    "slug": "277-poison-memory",
+    "name": "Poison Memory",
+    "rawName": "Poison Memory",
+    "category": "items or general candidate",
+    "description": "A disc with Poison type data. It swaps Silvally's type."
+  },
+  {
+    "id": "item-0278",
+    "slug": "278-ground-memory",
+    "name": "Ground Memory",
+    "rawName": "Ground Memory",
+    "category": "items or general candidate",
+    "description": "A disc with Ground type data. It swaps Silvally's type."
+  },
+  {
+    "id": "item-0279",
+    "slug": "279-flying-memory",
+    "name": "Flying Memory",
+    "rawName": "Flying Memory",
+    "category": "items or general candidate",
+    "description": "A disc with Flying type data. It swaps Silvally's type."
+  },
+  {
+    "id": "item-0280",
+    "slug": "280-psychicmemory",
+    "name": "PsychicMemory",
+    "rawName": "PsychicMemory",
+    "category": "items or general candidate",
+    "description": "A disc with Psychic type data. It swaps Silvally's type."
+  },
+  {
+    "id": "item-0281",
+    "slug": "281-bug-memory",
+    "name": "Bug Memory",
+    "rawName": "Bug Memory",
+    "category": "items or general candidate",
+    "description": "A disc with Bug type data. It swaps Silvally's type."
+  },
+  {
+    "id": "item-0282",
+    "slug": "282-rock-memory",
+    "name": "Rock Memory",
+    "rawName": "Rock Memory",
+    "category": "items or general candidate",
+    "description": "A disc with Rock type data. It swaps Silvally's type."
+  },
+  {
+    "id": "item-0283",
+    "slug": "283-ghost-memory",
+    "name": "Ghost Memory",
+    "rawName": "Ghost Memory",
+    "category": "items or general candidate",
+    "description": "A disc with Ghost type data. It swaps Silvally's type."
+  },
+  {
+    "id": "item-0284",
+    "slug": "284-dragon-memory",
+    "name": "Dragon Memory",
+    "rawName": "Dragon Memory",
+    "category": "items or general candidate",
+    "description": "A disc with Dragon type data. It swaps Silvally's type."
+  },
+  {
+    "id": "item-0285",
+    "slug": "285-dark-memory",
+    "name": "Dark Memory",
+    "rawName": "Dark Memory",
+    "category": "items or general candidate",
+    "description": "A disc with Dark type data. It swaps Silvally's type."
+  },
+  {
+    "id": "item-0286",
+    "slug": "286-steel-memory",
+    "name": "Steel Memory",
+    "rawName": "Steel Memory",
+    "category": "items or general candidate",
+    "description": "A disc with Steel type data. It swaps Silvally's type."
+  },
+  {
+    "id": "item-0287",
+    "slug": "287-fairy-memory",
+    "name": "Fairy Memory",
+    "rawName": "Fairy Memory",
+    "category": "items or general candidate",
+    "description": "A disc with Fairy type data. It swaps Silvally's type."
+  },
+  {
+    "id": "item-0288",
+    "slug": "288-rustedsword",
+    "name": "RustedSword",
+    "rawName": "RustedSword",
+    "category": "items or general candidate",
+    "description": "A rusty sword. A hero used it to halt a disaster."
+  },
+  {
+    "id": "item-0289",
+    "slug": "289-rustedshield",
+    "name": "RustedShield",
+    "rawName": "RustedShield",
+    "category": "items or general candidate",
+    "description": "A rusty shield. A hero used it to halt a disaster."
+  },
+  {
+    "id": "item-0290",
+    "slug": "290-red-orb",
+    "name": "Red Orb",
+    "rawName": "Red Orb",
+    "category": "items or general candidate",
+    "description": "A red, glowing orb said to contain an ancient power."
+  },
+  {
+    "id": "item-0291",
+    "slug": "291-blue-orb",
+    "name": "Blue Orb",
+    "rawName": "Blue Orb",
+    "category": "items or general candidate",
+    "description": "A blue, glowing orb said to contain an ancient power."
+  },
+  {
+    "id": "item-0292",
+    "slug": "292-venusaurite",
+    "name": "Venusaurite",
+    "rawName": "Venusaurite",
+    "category": "items or general candidate",
+    "description": "This stone enables Venusaur to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0293",
+    "slug": "293-charizarditex",
+    "name": "CharizarditeX",
+    "rawName": "CharizarditeX",
+    "category": "items or general candidate",
+    "description": "This stone enables Charizard to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0294",
+    "slug": "294-charizarditey",
+    "name": "CharizarditeY",
+    "rawName": "CharizarditeY",
+    "category": "items or general candidate",
+    "description": "This stone enables Charizard to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0295",
+    "slug": "295-blastoisinite",
+    "name": "Blastoisinite",
+    "rawName": "Blastoisinite",
+    "category": "items or general candidate",
+    "description": "This stone enables Blastoise to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0296",
+    "slug": "296-beedrillite",
+    "name": "Beedrillite",
+    "rawName": "Beedrillite",
+    "category": "items or general candidate",
+    "description": "This stone enables Beedrill to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0297",
+    "slug": "297-pidgeotite",
+    "name": "Pidgeotite",
+    "rawName": "Pidgeotite",
+    "category": "items or general candidate",
+    "description": "This stone enables Pidgeot to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0298",
+    "slug": "298-alakazite",
+    "name": "Alakazite",
+    "rawName": "Alakazite",
+    "category": "items or general candidate",
+    "description": "This stone enables Alakazam to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0299",
+    "slug": "299-slowbronite",
+    "name": "Slowbronite",
+    "rawName": "Slowbronite",
+    "category": "items or general candidate",
+    "description": "This stone enables Slowbro to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0300",
+    "slug": "300-gengarite",
+    "name": "Gengarite",
+    "rawName": "Gengarite",
+    "category": "items or general candidate",
+    "description": "This stone enables Gengar to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0301",
+    "slug": "301-kangaskhanite",
+    "name": "Kangaskhanite",
+    "rawName": "Kangaskhanite",
+    "category": "items or general candidate",
+    "description": "This stone enables Kangaskhan to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0302",
+    "slug": "302-pinsirite",
+    "name": "Pinsirite",
+    "rawName": "Pinsirite",
+    "category": "items or general candidate",
+    "description": "This stone enables Pinsir to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0303",
+    "slug": "303-gyaradosite",
+    "name": "Gyaradosite",
+    "rawName": "Gyaradosite",
+    "category": "items or general candidate",
+    "description": "This stone enables Gyarados to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0304",
+    "slug": "304-aerodactylite",
+    "name": "Aerodactylite",
+    "rawName": "Aerodactylite",
+    "category": "items or general candidate",
+    "description": "This stone enables Aerodactyl to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0305",
+    "slug": "305-mewtwonite-x",
+    "name": "Mewtwonite X",
+    "rawName": "Mewtwonite X",
+    "category": "items or general candidate",
+    "description": "This stone enables Mewtwo to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0306",
+    "slug": "306-mewtwonite-y",
+    "name": "Mewtwonite Y",
+    "rawName": "Mewtwonite Y",
+    "category": "items or general candidate",
+    "description": "This stone enables Mewtwo to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0307",
+    "slug": "307-ampharosite",
+    "name": "Ampharosite",
+    "rawName": "Ampharosite",
+    "category": "items or general candidate",
+    "description": "This stone enables Ampharos to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0308",
+    "slug": "308-steelixite",
+    "name": "Steelixite",
+    "rawName": "Steelixite",
+    "category": "items or general candidate",
+    "description": "This stone enables Steelix to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0309",
+    "slug": "309-scizorite",
+    "name": "Scizorite",
+    "rawName": "Scizorite",
+    "category": "items or general candidate",
+    "description": "This stone enables Scizor to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0310",
+    "slug": "310-heracronite",
+    "name": "Heracronite",
+    "rawName": "Heracronite",
+    "category": "items or general candidate",
+    "description": "This stone enables Heracross to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0311",
+    "slug": "311-houndoominite",
+    "name": "Houndoominite",
+    "rawName": "Houndoominite",
+    "category": "items or general candidate",
+    "description": "This stone enables Houndoom to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0312",
+    "slug": "312-tyranitarite",
+    "name": "Tyranitarite",
+    "rawName": "Tyranitarite",
+    "category": "items or general candidate",
+    "description": "This stone enables Tyranitar to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0313",
+    "slug": "313-sceptilite",
+    "name": "Sceptilite",
+    "rawName": "Sceptilite",
+    "category": "items or general candidate",
+    "description": "This stone enables Sceptile to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0314",
+    "slug": "314-blazikenite",
+    "name": "Blazikenite",
+    "rawName": "Blazikenite",
+    "category": "items or general candidate",
+    "description": "This stone enables Blaziken to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0315",
+    "slug": "315-swampertite",
+    "name": "Swampertite",
+    "rawName": "Swampertite",
+    "category": "items or general candidate",
+    "description": "This stone enables Swampert to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0316",
+    "slug": "316-gardevoirite",
+    "name": "Gardevoirite",
+    "rawName": "Gardevoirite",
+    "category": "items or general candidate",
+    "description": "This stone enables Gardevoir to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0317",
+    "slug": "317-sablenite",
+    "name": "Sablenite",
+    "rawName": "Sablenite",
+    "category": "items or general candidate",
+    "description": "This stone enables Sableye to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0318",
+    "slug": "318-mawilite",
+    "name": "Mawilite",
+    "rawName": "Mawilite",
+    "category": "items or general candidate",
+    "description": "This stone enables Mawile to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0319",
+    "slug": "319-aggronite",
+    "name": "Aggronite",
+    "rawName": "Aggronite",
+    "category": "items or general candidate",
+    "description": "This stone enables Aggron to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0320",
+    "slug": "320-medichamite",
+    "name": "Medichamite",
+    "rawName": "Medichamite",
+    "category": "items or general candidate",
+    "description": "This stone enables Medicham to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0321",
+    "slug": "321-manectite",
+    "name": "Manectite",
+    "rawName": "Manectite",
+    "category": "items or general candidate",
+    "description": "This stone enables Manectric to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0322",
+    "slug": "322-sharpedonite",
+    "name": "Sharpedonite",
+    "rawName": "Sharpedonite",
+    "category": "items or general candidate",
+    "description": "This stone enables Sharpedo to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0323",
+    "slug": "323-cameruptite",
+    "name": "Cameruptite",
+    "rawName": "Cameruptite",
+    "category": "items or general candidate",
+    "description": "This stone enables Camerupt to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0324",
+    "slug": "324-altarianite",
+    "name": "Altarianite",
+    "rawName": "Altarianite",
+    "category": "items or general candidate",
+    "description": "This stone enables Altaria to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0325",
+    "slug": "325-banettite",
+    "name": "Banettite",
+    "rawName": "Banettite",
+    "category": "items or general candidate",
+    "description": "This stone enables Banette to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0326",
+    "slug": "326-absolite",
+    "name": "Absolite",
+    "rawName": "Absolite",
+    "category": "items or general candidate",
+    "description": "This stone enables Absol to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0327",
+    "slug": "327-glalitite",
+    "name": "Glalitite",
+    "rawName": "Glalitite",
+    "category": "items or general candidate",
+    "description": "This stone enables Glalie to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0328",
+    "slug": "328-salamencite",
+    "name": "Salamencite",
+    "rawName": "Salamencite",
+    "category": "items or general candidate",
+    "description": "This stone enables Salamence to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0329",
+    "slug": "329-metagrossite",
+    "name": "Metagrossite",
+    "rawName": "Metagrossite",
+    "category": "items or general candidate",
+    "description": "This stone enables Metagross to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0330",
+    "slug": "330-latiasite",
+    "name": "Latiasite",
+    "rawName": "Latiasite",
+    "category": "items or general candidate",
+    "description": "This stone enables Latias to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0331",
+    "slug": "331-latiosite",
+    "name": "Latiosite",
+    "rawName": "Latiosite",
+    "category": "items or general candidate",
+    "description": "This stone enables Latios to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0332",
+    "slug": "332-lopunnite",
+    "name": "Lopunnite",
+    "rawName": "Lopunnite",
+    "category": "items or general candidate",
+    "description": "This stone enables Lopunny to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0333",
+    "slug": "333-garchompite",
+    "name": "Garchompite",
+    "rawName": "Garchompite",
+    "category": "items or general candidate",
+    "description": "This stone enables Garchomp to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0334",
+    "slug": "334-lucarionite",
+    "name": "Lucarionite",
+    "rawName": "Lucarionite",
+    "category": "items or general candidate",
+    "description": "This stone enables Lucario to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0335",
+    "slug": "335-abomasite",
+    "name": "Abomasite",
+    "rawName": "Abomasite",
+    "category": "items or general candidate",
+    "description": "This stone enables Abomasnow to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0336",
+    "slug": "336-galladite",
+    "name": "Galladite",
+    "rawName": "Galladite",
+    "category": "items or general candidate",
+    "description": "This stone enables Gallade to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0337",
+    "slug": "337-audinite",
+    "name": "Audinite",
+    "rawName": "Audinite",
+    "category": "items or general candidate",
+    "description": "This stone enables Audino to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0338",
+    "slug": "338-diancite",
+    "name": "Diancite",
+    "rawName": "Diancite",
+    "category": "items or general candidate",
+    "description": "This stone enables Diancie to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0339",
+    "slug": "339-normal-gem",
+    "name": "Normal Gem",
+    "rawName": "Normal Gem",
+    "category": "items or general candidate",
+    "description": "Increases the power of Normal Type moves."
+  },
+  {
+    "id": "item-0340",
+    "slug": "340-fire-gem",
+    "name": "Fire Gem",
+    "rawName": "Fire Gem",
+    "category": "items or general candidate",
+    "description": "Increases the power of Fire Type moves."
+  },
+  {
+    "id": "item-0341",
+    "slug": "341-water-gem",
+    "name": "Water Gem",
+    "rawName": "Water Gem",
+    "category": "items or general candidate",
+    "description": "Increases the power of Water Type moves."
+  },
+  {
+    "id": "item-0342",
+    "slug": "342-electric-gem",
+    "name": "Electric Gem",
+    "rawName": "Electric Gem",
+    "category": "items or general candidate",
+    "description": "Increases the power of Electric Type moves."
+  },
+  {
+    "id": "item-0343",
+    "slug": "343-grass-gem",
+    "name": "Grass Gem",
+    "rawName": "Grass Gem",
+    "category": "items or general candidate",
+    "description": "Increases the power of Grass Type moves."
+  },
+  {
+    "id": "item-0344",
+    "slug": "344-ice-gem",
+    "name": "Ice Gem",
+    "rawName": "Ice Gem",
+    "category": "items or general candidate",
+    "description": "Increases the power of Ice Type moves."
+  },
+  {
+    "id": "item-0345",
+    "slug": "345-fighting-gem",
+    "name": "Fighting Gem",
+    "rawName": "Fighting Gem",
+    "category": "items or general candidate",
+    "description": "Increases the power of Fighting Type moves."
+  },
+  {
+    "id": "item-0346",
+    "slug": "346-poison-gem",
+    "name": "Poison Gem",
+    "rawName": "Poison Gem",
+    "category": "items or general candidate",
+    "description": "Increases the power of Poison Type moves."
+  },
+  {
+    "id": "item-0347",
+    "slug": "347-ground-gem",
+    "name": "Ground Gem",
+    "rawName": "Ground Gem",
+    "category": "items or general candidate",
+    "description": "Increases the power of Ground Type moves."
+  },
+  {
+    "id": "item-0348",
+    "slug": "348-flying-gem",
+    "name": "Flying Gem",
+    "rawName": "Flying Gem",
+    "category": "items or general candidate",
+    "description": "Increases the power of Flying Type moves."
+  },
+  {
+    "id": "item-0349",
+    "slug": "349-psychic-gem",
+    "name": "Psychic Gem",
+    "rawName": "Psychic Gem",
+    "category": "items or general candidate",
+    "description": "Increases the power of Psychic Type moves."
+  },
+  {
+    "id": "item-0350",
+    "slug": "350-bug-gem",
+    "name": "Bug Gem",
+    "rawName": "Bug Gem",
+    "category": "items or general candidate",
+    "description": "Increases the power of Bug Type moves."
+  },
+  {
+    "id": "item-0351",
+    "slug": "351-rock-gem",
+    "name": "Rock Gem",
+    "rawName": "Rock Gem",
+    "category": "items or general candidate",
+    "description": "Increases the power of Rock Type moves."
+  },
+  {
+    "id": "item-0352",
+    "slug": "352-ghost-gem",
+    "name": "Ghost Gem",
+    "rawName": "Ghost Gem",
+    "category": "items or general candidate",
+    "description": "Increases the power of Ghost Type moves."
+  },
+  {
+    "id": "item-0353",
+    "slug": "353-dragon-gem",
+    "name": "Dragon Gem",
+    "rawName": "Dragon Gem",
+    "category": "items or general candidate",
+    "description": "Increases the power of Dragon Type moves."
+  },
+  {
+    "id": "item-0354",
+    "slug": "354-dark-gem",
+    "name": "Dark Gem",
+    "rawName": "Dark Gem",
+    "category": "items or general candidate",
+    "description": "Increases the power of Dark Type moves."
+  },
+  {
+    "id": "item-0355",
+    "slug": "355-steel-gem",
+    "name": "Steel Gem",
+    "rawName": "Steel Gem",
+    "category": "items or general candidate",
+    "description": "Increases the power of Steel Type moves."
+  },
+  {
+    "id": "item-0356",
+    "slug": "356-fairy-gem",
+    "name": "Fairy Gem",
+    "rawName": "Fairy Gem",
+    "category": "items or general candidate",
+    "description": "Increases the power of Fairy Type moves."
+  },
+  {
+    "id": "item-0357",
+    "slug": "357-normalium-z",
+    "name": "Normalium Z",
+    "rawName": "Normalium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Normal- type moves into Z-Moves."
+  },
+  {
+    "id": "item-0358",
+    "slug": "358-firium-z",
+    "name": "Firium Z",
+    "rawName": "Firium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Fire- type moves into Z-Moves."
+  },
+  {
+    "id": "item-0359",
+    "slug": "359-waterium-z",
+    "name": "Waterium Z",
+    "rawName": "Waterium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Water- type moves into Z-Moves."
+  },
+  {
+    "id": "item-0360",
+    "slug": "360-electrium-z",
+    "name": "Electrium Z",
+    "rawName": "Electrium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Electric- type moves into Z-Moves."
+  },
+  {
+    "id": "item-0361",
+    "slug": "361-grassium-z",
+    "name": "Grassium Z",
+    "rawName": "Grassium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Grass- type moves into Z-Moves."
+  },
+  {
+    "id": "item-0362",
+    "slug": "362-icium-z",
+    "name": "Icium Z",
+    "rawName": "Icium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Ice- type moves into Z-Moves."
+  },
+  {
+    "id": "item-0363",
+    "slug": "363-fightinium-z",
+    "name": "Fightinium Z",
+    "rawName": "Fightinium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Fighting- type moves into Z-Moves."
+  },
+  {
+    "id": "item-0364",
+    "slug": "364-poisonium-z",
+    "name": "Poisonium Z",
+    "rawName": "Poisonium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Poison- type moves into Z-Moves."
+  },
+  {
+    "id": "item-0365",
+    "slug": "365-groundium-z",
+    "name": "Groundium Z",
+    "rawName": "Groundium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Ground- type moves into Z-Moves."
+  },
+  {
+    "id": "item-0366",
+    "slug": "366-flyinium-z",
+    "name": "Flyinium Z",
+    "rawName": "Flyinium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Flying- type moves into Z-Moves."
+  },
+  {
+    "id": "item-0367",
+    "slug": "367-psychium-z",
+    "name": "Psychium Z",
+    "rawName": "Psychium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Psychic- type moves into Z-Moves."
+  },
+  {
+    "id": "item-0368",
+    "slug": "368-buginium-z",
+    "name": "Buginium Z",
+    "rawName": "Buginium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Bug- type moves into Z-Moves."
+  },
+  {
+    "id": "item-0369",
+    "slug": "369-rockium-z",
+    "name": "Rockium Z",
+    "rawName": "Rockium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Rock- type moves into Z-Moves."
+  },
+  {
+    "id": "item-0370",
+    "slug": "370-ghostium-z",
+    "name": "Ghostium Z",
+    "rawName": "Ghostium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Ghost- type moves into Z-Moves."
+  },
+  {
+    "id": "item-0371",
+    "slug": "371-dragonium-z",
+    "name": "Dragonium Z",
+    "rawName": "Dragonium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Dragon- type moves into Z-Moves."
+  },
+  {
+    "id": "item-0372",
+    "slug": "372-darkinium-z",
+    "name": "Darkinium Z",
+    "rawName": "Darkinium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Dark- type moves into Z-Moves."
+  },
+  {
+    "id": "item-0373",
+    "slug": "373-steelium-z",
+    "name": "Steelium Z",
+    "rawName": "Steelium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Steel- type moves into Z-Moves."
+  },
+  {
+    "id": "item-0374",
+    "slug": "374-fairium-z",
+    "name": "Fairium Z",
+    "rawName": "Fairium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Fairy- type moves into Z-Moves."
+  },
+  {
+    "id": "item-0375",
+    "slug": "375-pikanium-z",
+    "name": "Pikanium Z",
+    "rawName": "Pikanium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Pikachu's Volt Tackle into a Z-Move."
+  },
+  {
+    "id": "item-0376",
+    "slug": "376-eevium-z",
+    "name": "Eevium Z",
+    "rawName": "Eevium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Eevee's Last Resort into a Z-Move."
+  },
+  {
+    "id": "item-0377",
+    "slug": "377-snorlium-z",
+    "name": "Snorlium Z",
+    "rawName": "Snorlium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Snorlax's Giga Impact into a Z-Move."
+  },
+  {
+    "id": "item-0378",
+    "slug": "378-mewnium-z",
+    "name": "Mewnium Z",
+    "rawName": "Mewnium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Mew's Psychic into a Z-Move."
+  },
+  {
+    "id": "item-0379",
+    "slug": "379-decidium-z",
+    "name": "Decidium Z",
+    "rawName": "Decidium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Decidu- eye's Spirit Sha- ckle into a Z-Move."
+  },
+  {
+    "id": "item-0380",
+    "slug": "380-incinium-z",
+    "name": "Incinium Z",
+    "rawName": "Incinium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Incine- roar's Darkest La- riat into a Z-Move."
+  },
+  {
+    "id": "item-0381",
+    "slug": "381-primarium-z",
+    "name": "Primarium Z",
+    "rawName": "Primarium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Primarina's Sparkling Aria into a Z-Move."
+  },
+  {
+    "id": "item-0382",
+    "slug": "382-lycanium-z",
+    "name": "Lycanium Z",
+    "rawName": "Lycanium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Lycanroc's Stone Edge into a Z-Move."
+  },
+  {
+    "id": "item-0383",
+    "slug": "383-mimikium-z",
+    "name": "Mimikium Z",
+    "rawName": "Mimikium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Mimikyu's Play Rough into a Z-Move."
+  },
+  {
+    "id": "item-0384",
+    "slug": "384-kommonium-z",
+    "name": "Kommonium Z",
+    "rawName": "Kommonium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Kommo-o's Clanging Scales into a Z-Move."
+  },
+  {
+    "id": "item-0385",
+    "slug": "385-tapunium-z",
+    "name": "Tapunium Z",
+    "rawName": "Tapunium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade the tapu's Nature's Madness into a Z-Move."
+  },
+  {
+    "id": "item-0386",
+    "slug": "386-solganium-z",
+    "name": "Solganium Z",
+    "rawName": "Solganium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Solgaleo's Sunsteel Strike into a Z-Move."
+  },
+  {
+    "id": "item-0387",
+    "slug": "387-lunalium-z",
+    "name": "Lunalium Z",
+    "rawName": "Lunalium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Lunala's Moongeist Beam into a Z-Move."
+  },
+  {
+    "id": "item-0388",
+    "slug": "388-marshadium-z",
+    "name": "Marshadium Z",
+    "rawName": "Marshadium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Marsha- dow's Spectral Thi- ef into a Z-Move."
+  },
+  {
+    "id": "item-0389",
+    "slug": "389-aloraichium-z",
+    "name": "Aloraichium Z",
+    "rawName": "Aloraichium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Alolan Raichu's Thunder- bolt into a Z-Move."
+  },
+  {
+    "id": "item-0390",
+    "slug": "390-pikashunium-z",
+    "name": "Pikashunium Z",
+    "rawName": "Pikashunium Z",
+    "category": "items or general candidate",
+    "description": "Upgrade Pikachu w/ a cap's Thunderbolt into a Z-Move."
+  },
+  {
+    "id": "item-0391",
+    "slug": "391-u-necrozium-z",
+    "name": "U-Necrozium Z",
+    "rawName": "U-Necrozium Z",
+    "category": "items or general candidate",
+    "description": "A crystal to turn fused Necrozma into a new form."
+  },
+  {
+    "id": "item-0392",
+    "slug": "392-light-ball",
+    "name": "Light Ball",
+    "rawName": "Light Ball",
+    "category": "items or general candidate",
+    "description": "A hold item that raises the Atk and Sp. Atk of Pikachu."
+  },
+  {
+    "id": "item-0393",
+    "slug": "393-leek",
+    "name": "Leek",
+    "rawName": "Leek",
+    "category": "items or general candidate",
+    "description": "A hold item that raises Farfetch'd's critical-hit ratio."
+  },
+  {
+    "id": "item-0394",
+    "slug": "394-thick-club",
+    "name": "Thick Club",
+    "rawName": "Thick Club",
+    "category": "items or general candidate",
+    "description": "A hold item that raises Cubone or Marowak's Attack."
+  },
+  {
+    "id": "item-0395",
+    "slug": "395-lucky-punch",
+    "name": "Lucky Punch",
+    "rawName": "Lucky Punch",
+    "category": "items or general candidate",
+    "description": "A hold item that raises Chansey's critical-hit rate."
+  },
+  {
+    "id": "item-0396",
+    "slug": "396-metal-powder",
+    "name": "Metal Powder",
+    "rawName": "Metal Powder",
+    "category": "items or general candidate",
+    "description": "A hold item that raises Ditto's Defense."
+  },
+  {
+    "id": "item-0397",
+    "slug": "397-quick-powder",
+    "name": "Quick Powder",
+    "rawName": "Quick Powder",
+    "category": "items or general candidate",
+    "description": "An item to be held by Ditto. This odd powder boosts Speed."
+  },
+  {
+    "id": "item-0398",
+    "slug": "398-deepseascale",
+    "name": "DeepSeaScale",
+    "rawName": "DeepSeaScale",
+    "category": "items or general candidate",
+    "description": "A hold item that raises the Sp. Def of Clamperl."
+  },
+  {
+    "id": "item-0399",
+    "slug": "399-deepseatooth",
+    "name": "DeepSeaTooth",
+    "rawName": "DeepSeaTooth",
+    "category": "items or general candidate",
+    "description": "A hold item that raises the Sp. Atk of Clamperl."
+  },
+  {
+    "id": "item-0400",
+    "slug": "400-soul-dew",
+    "name": "Soul Dew",
+    "rawName": "Soul Dew",
+    "category": "items or general candidate",
+    "description": "Powers up Latios' Latias' Psychic and Dragon-type moves."
+  },
+  {
+    "id": "item-0401",
+    "slug": "401-adamant-orb",
+    "name": "Adamant Orb",
+    "rawName": "Adamant Orb",
+    "category": "items or general candidate",
+    "description": "Boosts the power of Dialga's Dragon and Steel-type moves."
+  },
+  {
+    "id": "item-0402",
+    "slug": "402-lustrous-orb",
+    "name": "Lustrous Orb",
+    "rawName": "Lustrous Orb",
+    "category": "items or general candidate",
+    "description": "Boosts the power of Palkia's Dragon and Water-type moves."
+  },
+  {
+    "id": "item-0403",
+    "slug": "403-griseous-orb",
+    "name": "Griseous Orb",
+    "rawName": "Griseous Orb",
+    "category": "items or general candidate",
+    "description": "Powers up Giratina's Dragon and Ghost- type moves."
+  },
+  {
+    "id": "item-0404",
+    "slug": "404-sea-incense",
+    "name": "Sea Incense",
+    "rawName": "Sea Incense",
+    "category": "items or general candidate",
+    "description": "A hold item that slightly boosts Water-type moves."
+  },
+  {
+    "id": "item-0405",
+    "slug": "405-lax-incense",
+    "name": "Lax Incense",
+    "rawName": "Lax Incense",
+    "category": "items or general candidate",
+    "description": "A hold item that slightly lowers the foe's accuracy."
+  },
+  {
+    "id": "item-0406",
+    "slug": "406-odd-incense",
+    "name": "Odd Incense",
+    "rawName": "Odd Incense",
+    "category": "items or general candidate",
+    "description": "A hold item that boosts Psychic- type moves."
+  },
+  {
+    "id": "item-0407",
+    "slug": "407-rock-incense",
+    "name": "Rock Incense",
+    "rawName": "Rock Incense",
+    "category": "items or general candidate",
+    "description": "A hold item that raises the power of Rock-type moves."
+  },
+  {
+    "id": "item-0408",
+    "slug": "408-full-incense",
+    "name": "Full Incense",
+    "rawName": "Full Incense",
+    "category": "items or general candidate",
+    "description": "A held item that makes the holder move slower."
+  },
+  {
+    "id": "item-0409",
+    "slug": "409-wave-incense",
+    "name": "Wave Incense",
+    "rawName": "Wave Incense",
+    "category": "items or general candidate",
+    "description": "A hold item that slightly boosts Water-type moves."
+  },
+  {
+    "id": "item-0410",
+    "slug": "410-rose-incense",
+    "name": "Rose Incense",
+    "rawName": "Rose Incense",
+    "category": "items or general candidate",
+    "description": "A hold item that raises the power of Grass-type moves."
+  },
+  {
+    "id": "item-0411",
+    "slug": "411-luck-incense",
+    "name": "Luck Incense",
+    "rawName": "Luck Incense",
+    "category": "items or general candidate",
+    "description": "Doubles money in battle if the holder takes part."
+  },
+  {
+    "id": "item-0412",
+    "slug": "412-pure-incense",
+    "name": "Pure Incense",
+    "rawName": "Pure Incense",
+    "category": "items or general candidate",
+    "description": "A hold item that helps repel wild Pok\u00e9mon."
+  },
+  {
+    "id": "item-0413",
+    "slug": "413-red-scarf",
+    "name": "Red Scarf",
+    "rawName": "Red Scarf",
+    "category": "items or general candidate",
+    "description": "A hold item that raises Cool in Contests."
+  },
+  {
+    "id": "item-0414",
+    "slug": "414-blue-scarf",
+    "name": "Blue Scarf",
+    "rawName": "Blue Scarf",
+    "category": "items or general candidate",
+    "description": "A hold item that raises Beauty in Contests."
+  },
+  {
+    "id": "item-0415",
+    "slug": "415-pink-scarf",
+    "name": "Pink Scarf",
+    "rawName": "Pink Scarf",
+    "category": "items or general candidate",
+    "description": "A hold item that raises Cute in Contests."
+  },
+  {
+    "id": "item-0416",
+    "slug": "416-green-scarf",
+    "name": "Green Scarf",
+    "rawName": "Green Scarf",
+    "category": "items or general candidate",
+    "description": "A hold item that raises Smart in Contests."
+  },
+  {
+    "id": "item-0417",
+    "slug": "417-yellow-scarf",
+    "name": "Yellow Scarf",
+    "rawName": "Yellow Scarf",
+    "category": "items or general candidate",
+    "description": "A hold item that raises Tough in Contests."
+  },
+  {
+    "id": "item-0418",
+    "slug": "418-macho-brace",
+    "name": "Macho Brace",
+    "rawName": "Macho Brace",
+    "category": "items or general candidate",
+    "description": "A hold item that promotes growth, but reduces Speed."
+  },
+  {
+    "id": "item-0419",
+    "slug": "419-power-weight",
+    "name": "Power Weight",
+    "rawName": "Power Weight",
+    "category": "items or general candidate",
+    "description": "A hold item that promotes HP gain, but reduces Speed."
+  },
+  {
+    "id": "item-0420",
+    "slug": "420-power-bracer",
+    "name": "Power Bracer",
+    "rawName": "Power Bracer",
+    "category": "items or general candidate",
+    "description": "A hold item that promotes Atk gain, but reduces Speed."
+  },
+  {
+    "id": "item-0421",
+    "slug": "421-power-belt",
+    "name": "Power Belt",
+    "rawName": "Power Belt",
+    "category": "items or general candidate",
+    "description": "A hold item that promotes Def gain, but reduces Speed."
+  },
+  {
+    "id": "item-0422",
+    "slug": "422-power-lens",
+    "name": "Power Lens",
+    "rawName": "Power Lens",
+    "category": "items or general candidate",
+    "description": "Hold item that pro- motes Sp. Atk gain, but reduces Speed."
+  },
+  {
+    "id": "item-0423",
+    "slug": "423-power-band",
+    "name": "Power Band",
+    "rawName": "Power Band",
+    "category": "items or general candidate",
+    "description": "Hold item that pro- motes Sp. Def gain, but reduces Speed."
+  },
+  {
+    "id": "item-0424",
+    "slug": "424-power-anklet",
+    "name": "Power Anklet",
+    "rawName": "Power Anklet",
+    "category": "items or general candidate",
+    "description": "A hold item that promotes Spd gain, but reduces Speed."
+  },
+  {
+    "id": "item-0425",
+    "slug": "425-silk-scarf",
+    "name": "Silk Scarf",
+    "rawName": "Silk Scarf",
+    "category": "items or general candidate",
+    "description": "A hold item that raises the power of Normal-type moves."
+  },
+  {
+    "id": "item-0426",
+    "slug": "426-charcoal",
+    "name": "Charcoal",
+    "rawName": "Charcoal",
+    "category": "items or general candidate",
+    "description": "A hold item that raises the power of Fire-type moves."
+  },
+  {
+    "id": "item-0427",
+    "slug": "427-mystic-water",
+    "name": "Mystic Water",
+    "rawName": "Mystic Water",
+    "category": "items or general candidate",
+    "description": "A hold item that raises the power of Water-type moves."
+  },
+  {
+    "id": "item-0428",
+    "slug": "428-magnet",
+    "name": "Magnet",
+    "rawName": "Magnet",
+    "category": "items or general candidate",
+    "description": "A hold item that boosts Electric- type moves."
+  },
+  {
+    "id": "item-0429",
+    "slug": "429-miracle-seed",
+    "name": "Miracle Seed",
+    "rawName": "Miracle Seed",
+    "category": "items or general candidate",
+    "description": "A hold item that raises the power of Grass-type moves."
+  },
+  {
+    "id": "item-0430",
+    "slug": "430-never-meltice",
+    "name": "Never-MeltIce",
+    "rawName": "Never-MeltIce",
+    "category": "items or general candidate",
+    "description": "A hold item that raises the power of Ice-type moves."
+  },
+  {
+    "id": "item-0431",
+    "slug": "431-black-belt",
+    "name": "Black Belt",
+    "rawName": "Black Belt",
+    "category": "items or general candidate",
+    "description": "A hold item that boosts Fighting- type moves."
+  },
+  {
+    "id": "item-0432",
+    "slug": "432-poison-barb",
+    "name": "Poison Barb",
+    "rawName": "Poison Barb",
+    "category": "items or general candidate",
+    "description": "A hold item that raises the power of Poison-type moves."
+  },
+  {
+    "id": "item-0433",
+    "slug": "433-soft-sand",
+    "name": "Soft Sand",
+    "rawName": "Soft Sand",
+    "category": "items or general candidate",
+    "description": "A hold item that raises the power of Ground-type moves."
+  },
+  {
+    "id": "item-0434",
+    "slug": "434-sharp-beak",
+    "name": "Sharp Beak",
+    "rawName": "Sharp Beak",
+    "category": "items or general candidate",
+    "description": "A hold item that raises the power of Flying-type moves."
+  },
+  {
+    "id": "item-0435",
+    "slug": "435-twisted-spoon",
+    "name": "Twisted Spoon",
+    "rawName": "Twisted Spoon",
+    "category": "items or general candidate",
+    "description": "A hold item that boosts Psychic- type moves."
+  },
+  {
+    "id": "item-0436",
+    "slug": "436-silver-powder",
+    "name": "Silver Powder",
+    "rawName": "Silver Powder",
+    "category": "items or general candidate",
+    "description": "A hold item that raises the power of Bug-type moves."
+  },
+  {
+    "id": "item-0437",
+    "slug": "437-hard-stone",
+    "name": "Hard Stone",
+    "rawName": "Hard Stone",
+    "category": "items or general candidate",
+    "description": "A hold item that raises the power of Rock-type moves."
+  },
+  {
+    "id": "item-0438",
+    "slug": "438-spell-tag",
+    "name": "Spell Tag",
+    "rawName": "Spell Tag",
+    "category": "items or general candidate",
+    "description": "A hold item that raises the power of Ghost-type moves."
+  },
+  {
+    "id": "item-0439",
+    "slug": "439-dragon-fang",
+    "name": "Dragon Fang",
+    "rawName": "Dragon Fang",
+    "category": "items or general candidate",
+    "description": "A hold item that raises the power of Dragon-type moves."
+  },
+  {
+    "id": "item-0440",
+    "slug": "440-black-glasses",
+    "name": "Black Glasses",
+    "rawName": "Black Glasses",
+    "category": "items or general candidate",
+    "description": "A hold item that raises the power of Dark-type moves."
+  },
+  {
+    "id": "item-0441",
+    "slug": "441-metal-coat",
+    "name": "Metal Coat",
+    "rawName": "Metal Coat",
+    "category": "items or general candidate",
+    "description": "A hold item that raises the power of Steel-type moves."
+  },
+  {
+    "id": "item-0442",
+    "slug": "442-choice-band",
+    "name": "Choice Band",
+    "rawName": "Choice Band",
+    "category": "items or general candidate",
+    "description": "Raises a move's power, but permits only that move."
+  },
+  {
+    "id": "item-0443",
+    "slug": "443-choice-specs",
+    "name": "Choice Specs",
+    "rawName": "Choice Specs",
+    "category": "items or general candidate",
+    "description": "Boosts Sp. Atk, but allows the use of only one move."
+  },
+  {
+    "id": "item-0444",
+    "slug": "444-choice-scarf",
+    "name": "Choice Scarf",
+    "rawName": "Choice Scarf",
+    "category": "items or general candidate",
+    "description": "Boosts Speed, but allows the use of only one move."
+  },
+  {
+    "id": "item-0445",
+    "slug": "445-flame-orb",
+    "name": "Flame Orb",
+    "rawName": "Flame Orb",
+    "category": "items or general candidate",
+    "description": "A bizarre orb that inflicts a burn on holder in battle."
+  },
+  {
+    "id": "item-0446",
+    "slug": "446-toxic-orb",
+    "name": "Toxic Orb",
+    "rawName": "Toxic Orb",
+    "category": "items or general candidate",
+    "description": "A bizarre orb that badly poisons the holder in battle."
+  },
+  {
+    "id": "item-0447",
+    "slug": "447-damp-rock",
+    "name": "Damp Rock",
+    "rawName": "Damp Rock",
+    "category": "items or general candidate",
+    "description": "Extends the length of Rain Dance if used by the holder."
+  },
+  {
+    "id": "item-0448",
+    "slug": "448-heat-rock",
+    "name": "Heat Rock",
+    "rawName": "Heat Rock",
+    "category": "items or general candidate",
+    "description": "Extends the length of Sunny Day if used by the holder."
+  },
+  {
+    "id": "item-0449",
+    "slug": "449-smooth-rock",
+    "name": "Smooth Rock",
+    "rawName": "Smooth Rock",
+    "category": "items or general candidate",
+    "description": "Extends the length of Sandstorm if used by the holder."
+  },
+  {
+    "id": "item-0450",
+    "slug": "450-icy-rock",
+    "name": "Icy Rock",
+    "rawName": "Icy Rock",
+    "category": "items or general candidate",
+    "description": "Extends the length of the move Hail used by the holder."
+  },
+  {
+    "id": "item-0451",
+    "slug": "451-electric-seed",
+    "name": "Electric Seed",
+    "rawName": "Electric Seed",
+    "category": "items or general candidate",
+    "description": "Boosts Defense on Electric Terrain, but only one time."
+  },
+  {
+    "id": "item-0452",
+    "slug": "452-psychic-seed",
+    "name": "Psychic Seed",
+    "rawName": "Psychic Seed",
+    "category": "items or general candidate",
+    "description": "Boosts Sp. Def. on Psychic Terrain, but only one time."
+  },
+  {
+    "id": "item-0453",
+    "slug": "453-misty-seed",
+    "name": "Misty Seed",
+    "rawName": "Misty Seed",
+    "category": "items or general candidate",
+    "description": "Boosts Sp. Def. on Misty Terrain, but only one time."
+  },
+  {
+    "id": "item-0454",
+    "slug": "454-grassy-seed",
+    "name": "Grassy Seed",
+    "rawName": "Grassy Seed",
+    "category": "items or general candidate",
+    "description": "Boosts Defense on Grassy Terrain, but only one time."
+  },
+  {
+    "id": "item-0455",
+    "slug": "455-absorb-bulb",
+    "name": "Absorb Bulb",
+    "rawName": "Absorb Bulb",
+    "category": "items or general candidate",
+    "description": "Raises Sp. Atk if the holder is hit by a Water-type move."
+  },
+  {
+    "id": "item-0456",
+    "slug": "456-cell-battery",
+    "name": "Cell Battery",
+    "rawName": "Cell Battery",
+    "category": "items or general candidate",
+    "description": "Raises Atk if the holder is hit by an Electric-type move."
+  },
+  {
+    "id": "item-0457",
+    "slug": "457-luminous-moss",
+    "name": "Luminous Moss",
+    "rawName": "Luminous Moss",
+    "category": "items or general candidate",
+    "description": "Raises Sp. Def if the holder is hit by a Water-type move."
+  },
+  {
+    "id": "item-0458",
+    "slug": "458-snowball",
+    "name": "Snowball",
+    "rawName": "Snowball",
+    "category": "items or general candidate",
+    "description": "Raises Atk if its holder is hit by an Ice-type move."
+  },
+  {
+    "id": "item-0459",
+    "slug": "459-bright-powder",
+    "name": "Bright Powder",
+    "rawName": "Bright Powder",
+    "category": "items or general candidate",
+    "description": "A hold item that casts a glare to reduce accuracy."
+  },
+  {
+    "id": "item-0460",
+    "slug": "460-white-herb",
+    "name": "White Herb",
+    "rawName": "White Herb",
+    "category": "items or general candidate",
+    "description": "A hold item that restores any lowered stat."
+  },
+  {
+    "id": "item-0461",
+    "slug": "461-exp-share",
+    "name": "Exp. Share",
+    "rawName": "Exp. Share",
+    "category": "items or general candidate",
+    "description": "A hold item that gets Exp. points from battles."
+  },
+  {
+    "id": "item-0462",
+    "slug": "462-quick-claw",
+    "name": "Quick Claw",
+    "rawName": "Quick Claw",
+    "category": "items or general candidate",
+    "description": "A hold item that occasionally allows the first strike."
+  },
+  {
+    "id": "item-0463",
+    "slug": "463-soothe-bell",
+    "name": "Soothe Bell",
+    "rawName": "Soothe Bell",
+    "category": "items or general candidate",
+    "description": "A hold item that calms spirits and fosters friendship."
+  },
+  {
+    "id": "item-0464",
+    "slug": "464-mental-herb",
+    "name": "Mental Herb",
+    "rawName": "Mental Herb",
+    "category": "items or general candidate",
+    "description": "Snaps Pok\u00e9mon out of move-binding effects."
+  },
+  {
+    "id": "item-0465",
+    "slug": "465-king-s-rock",
+    "name": "King's Rock",
+    "rawName": "King's Rock",
+    "category": "items or general candidate",
+    "description": "A hold item that may cause flinching when the foe is hit."
+  },
+  {
+    "id": "item-0466",
+    "slug": "466-amulet-coin",
+    "name": "Amulet Coin",
+    "rawName": "Amulet Coin",
+    "category": "items or general candidate",
+    "description": "Doubles money in battle if the holder takes part."
+  },
+  {
+    "id": "item-0467",
+    "slug": "467-cleanse-tag",
+    "name": "Cleanse Tag",
+    "rawName": "Cleanse Tag",
+    "category": "items or general candidate",
+    "description": "A hold item that helps repel wild Pok\u00e9mon."
+  },
+  {
+    "id": "item-0468",
+    "slug": "468-smoke-ball",
+    "name": "Smoke Ball",
+    "rawName": "Smoke Ball",
+    "category": "items or general candidate",
+    "description": "A hold item that assures fleeing from wild Pok\u00e9mon."
+  },
+  {
+    "id": "item-0469",
+    "slug": "469-focus-band",
+    "name": "Focus Band",
+    "rawName": "Focus Band",
+    "category": "items or general candidate",
+    "description": "A hold item that occasionally prevents fainting."
+  },
+  {
+    "id": "item-0470",
+    "slug": "470-lucky-egg",
+    "name": "Lucky Egg",
+    "rawName": "Lucky Egg",
+    "category": "items or general candidate",
+    "description": "A hold item that boosts Exp. points earned in battle."
+  },
+  {
+    "id": "item-0471",
+    "slug": "471-scope-lens",
+    "name": "Scope Lens",
+    "rawName": "Scope Lens",
+    "category": "items or general candidate",
+    "description": "A hold item that improves the critical-hit rate."
+  },
+  {
+    "id": "item-0472",
+    "slug": "472-leftovers",
+    "name": "Leftovers",
+    "rawName": "Leftovers",
+    "category": "items or general candidate",
+    "description": "A hold item that gradually restores HP in battle."
+  },
+  {
+    "id": "item-0473",
+    "slug": "473-shell-bell",
+    "name": "Shell Bell",
+    "rawName": "Shell Bell",
+    "category": "items or general candidate",
+    "description": "A hold item that restores HP upon striking the foe."
+  },
+  {
+    "id": "item-0474",
+    "slug": "474-wide-lens",
+    "name": "Wide Lens",
+    "rawName": "Wide Lens",
+    "category": "items or general candidate",
+    "description": "A magnifying lens that boosts the accuracy of moves."
+  },
+  {
+    "id": "item-0475",
+    "slug": "475-muscle-band",
+    "name": "Muscle Band",
+    "rawName": "Muscle Band",
+    "category": "items or general candidate",
+    "description": "A headband that boosts the power of physical moves."
+  },
+  {
+    "id": "item-0476",
+    "slug": "476-wise-glasses",
+    "name": "Wise Glasses",
+    "rawName": "Wise Glasses",
+    "category": "items or general candidate",
+    "description": "A pair of glasses that ups the power of special moves."
+  },
+  {
+    "id": "item-0477",
+    "slug": "477-expert-belt",
+    "name": "Expert Belt",
+    "rawName": "Expert Belt",
+    "category": "items or general candidate",
+    "description": "A belt that boosts the power of super effective moves."
+  },
+  {
+    "id": "item-0478",
+    "slug": "478-light-clay",
+    "name": "Light Clay",
+    "rawName": "Light Clay",
+    "category": "items or general candidate",
+    "description": "Extends the length of barrier moves used by the holder."
+  },
+  {
+    "id": "item-0479",
+    "slug": "479-life-orb",
+    "name": "Life Orb",
+    "rawName": "Life Orb",
+    "category": "items or general candidate",
+    "description": "Boosts the power of moves at the cost of some HP per turn."
+  },
+  {
+    "id": "item-0480",
+    "slug": "480-power-herb",
+    "name": "Power Herb",
+    "rawName": "Power Herb",
+    "category": "items or general candidate",
+    "description": "Allows immediate use of a move that charges first."
+  },
+  {
+    "id": "item-0481",
+    "slug": "481-focus-sash",
+    "name": "Focus Sash",
+    "rawName": "Focus Sash",
+    "category": "items or general candidate",
+    "description": "If the holder has full HP, it endures KO hits with 1 HP."
+  },
+  {
+    "id": "item-0482",
+    "slug": "482-zoom-lens",
+    "name": "Zoom Lens",
+    "rawName": "Zoom Lens",
+    "category": "items or general candidate",
+    "description": "If the holder moves after the foe, it'll boost accuracy."
+  },
+  {
+    "id": "item-0483",
+    "slug": "483-metronome",
+    "name": "Metronome",
+    "rawName": "Metronome",
+    "category": "items or general candidate",
+    "description": "A held item that boosts a move used consecutively."
+  },
+  {
+    "id": "item-0484",
+    "slug": "484-iron-ball",
+    "name": "Iron Ball",
+    "rawName": "Iron Ball",
+    "category": "items or general candidate",
+    "description": "Cuts Speed and lets Flying-types be hit by Ground moves."
+  },
+  {
+    "id": "item-0485",
+    "slug": "485-lagging-tail",
+    "name": "Lagging Tail",
+    "rawName": "Lagging Tail",
+    "category": "items or general candidate",
+    "description": "A held item that makes the holder move slower."
+  },
+  {
+    "id": "item-0486",
+    "slug": "486-destiny-knot",
+    "name": "Destiny Knot",
+    "rawName": "Destiny Knot",
+    "category": "items or general candidate",
+    "description": "If the holder falls in love, the foe does too."
+  },
+  {
+    "id": "item-0487",
+    "slug": "487-black-sludge",
+    "name": "Black Sludge",
+    "rawName": "Black Sludge",
+    "category": "items or general candidate",
+    "description": "Gradually restores HP of Poison-types. Damages others."
+  },
+  {
+    "id": "item-0488",
+    "slug": "488-grip-claw",
+    "name": "Grip Claw",
+    "rawName": "Grip Claw",
+    "category": "items or general candidate",
+    "description": "Makes binding moves used by the holder go on for 7 turns."
+  },
+  {
+    "id": "item-0489",
+    "slug": "489-sticky-barb",
+    "name": "Sticky Barb",
+    "rawName": "Sticky Barb",
+    "category": "items or general candidate",
+    "description": "Damages the holder each turn. May latch on to foes."
+  },
+  {
+    "id": "item-0490",
+    "slug": "490-shed-shell",
+    "name": "Shed Shell",
+    "rawName": "Shed Shell",
+    "category": "items or general candidate",
+    "description": "Enables the holder to switch out of battle without fail."
+  },
+  {
+    "id": "item-0491",
+    "slug": "491-big-root",
+    "name": "Big Root",
+    "rawName": "Big Root",
+    "category": "items or general candidate",
+    "description": "A held item that boosts the power of HP-stealing moves."
+  },
+  {
+    "id": "item-0492",
+    "slug": "492-razor-claw",
+    "name": "Razor Claw",
+    "rawName": "Razor Claw",
+    "category": "items or general candidate",
+    "description": "A hooked claw that ups the holder's critical-hit ratio."
+  },
+  {
+    "id": "item-0493",
+    "slug": "493-razor-fang",
+    "name": "Razor Fang",
+    "rawName": "Razor Fang",
+    "category": "items or general candidate",
+    "description": "A hold item that may cause flinching when the foe is hit."
+  },
+  {
+    "id": "item-0494",
+    "slug": "494-eviolite",
+    "name": "Eviolite",
+    "rawName": "Eviolite",
+    "category": "items or general candidate",
+    "description": "Raises the Def and Sp. Def of Pok\u00e9mon that can evolve."
+  },
+  {
+    "id": "item-0495",
+    "slug": "495-float-stone",
+    "name": "Float Stone",
+    "rawName": "Float Stone",
+    "category": "items or general candidate",
+    "description": "It's so light that when held, it halves a Pok\u00e9mon's weight."
+  },
+  {
+    "id": "item-0496",
+    "slug": "496-rocky-helmet",
+    "name": "Rocky Helmet",
+    "rawName": "Rocky Helmet",
+    "category": "items or general candidate",
+    "description": "Hurts the foe if they touch its holder."
+  },
+  {
+    "id": "item-0497",
+    "slug": "497-air-balloon",
+    "name": "Air Balloon",
+    "rawName": "Air Balloon",
+    "category": "items or general candidate",
+    "description": "Elevates the holder in the air. If hit, this item will burst."
+  },
+  {
+    "id": "item-0498",
+    "slug": "498-red-card",
+    "name": "Red Card",
+    "rawName": "Red Card",
+    "category": "items or general candidate",
+    "description": "Switches out the foe if they hit the holder."
+  },
+  {
+    "id": "item-0499",
+    "slug": "499-ring-target",
+    "name": "Ring Target",
+    "rawName": "Ring Target",
+    "category": "items or general candidate",
+    "description": "Moves that wouldn't have effect will land on its holder."
+  },
+  {
+    "id": "item-0500",
+    "slug": "500-binding-band",
+    "name": "Binding Band",
+    "rawName": "Binding Band",
+    "category": "items or general candidate",
+    "description": "Increases the power of binding moves when held."
+  },
+  {
+    "id": "item-0501",
+    "slug": "501-eject-button",
+    "name": "Eject Button",
+    "rawName": "Eject Button",
+    "category": "items or general candidate",
+    "description": "Switches out the user if they're hit by the foe."
+  },
+  {
+    "id": "item-0502",
+    "slug": "502-weaknsspolicy",
+    "name": "WeaknssPolicy",
+    "rawName": "WeaknssPolicy",
+    "category": "items or general candidate",
+    "description": "If hit by a Super Effective move, ups Atk and Sp. Atk."
+  },
+  {
+    "id": "item-0503",
+    "slug": "503-assault-vest",
+    "name": "Assault Vest",
+    "rawName": "Assault Vest",
+    "category": "items or general candidate",
+    "description": "Raises Sp. Def but prevents the use of status moves."
+  },
+  {
+    "id": "item-0504",
+    "slug": "504-safetygoggles",
+    "name": "SafetyGoggles",
+    "rawName": "SafetyGoggles",
+    "category": "items or general candidate",
+    "description": "Protect from weather damage and powder moves."
+  },
+  {
+    "id": "item-0505",
+    "slug": "505-adrenalineorb",
+    "name": "AdrenalineOrb",
+    "rawName": "AdrenalineOrb",
+    "category": "items or general candidate",
+    "description": "Boosts Speed if the user is intimidated, but only one time."
+  },
+  {
+    "id": "item-0506",
+    "slug": "506-terainextendr",
+    "name": "TerainExtendr",
+    "rawName": "TerainExtendr",
+    "category": "items or general candidate",
+    "description": "Extends the length of the active battle terrain."
+  },
+  {
+    "id": "item-0507",
+    "slug": "507-protectvepads",
+    "name": "ProtectvePads",
+    "rawName": "ProtectvePads",
+    "category": "items or general candidate",
+    "description": "Guard the holder from contact move effects."
+  },
+  {
+    "id": "item-0508",
+    "slug": "508-throat-spray",
+    "name": "Throat Spray",
+    "rawName": "Throat Spray",
+    "category": "items or general candidate",
+    "description": "Raises Sp. Atk. if a Pok\u00e9mon is hit by a sound-based move."
+  },
+  {
+    "id": "item-0509",
+    "slug": "509-eject-pack",
+    "name": "Eject Pack",
+    "rawName": "Eject Pack",
+    "category": "items or general candidate",
+    "description": "Forces the user to switch if its stats are lowered."
+  },
+  {
+    "id": "item-0510",
+    "slug": "510-heavy-dtybts",
+    "name": "Heavy-DtyBts",
+    "rawName": "Heavy-DtyBts",
+    "category": "items or general candidate",
+    "description": "Boots that prevent effects of traps set in the field."
+  },
+  {
+    "id": "item-0511",
+    "slug": "511-blundrpolicy",
+    "name": "BlundrPolicy",
+    "rawName": "BlundrPolicy",
+    "category": "items or general candidate",
+    "description": "Raises Speed if the user misses due to Accuracy."
+  },
+  {
+    "id": "item-0512",
+    "slug": "512-room-service",
+    "name": "Room Service",
+    "rawName": "Room Service",
+    "category": "items or general candidate",
+    "description": "Lowers Speed if Trick Room is active."
+  },
+  {
+    "id": "item-0513",
+    "slug": "513-utltyumbrlla",
+    "name": "UtltyUmbrlla",
+    "rawName": "UtltyUmbrlla",
+    "category": "items or general candidate",
+    "description": "An umbrella that protects from weather effects."
+  },
+  {
+    "id": "item-0514",
+    "slug": "514-cheri-berry",
+    "name": "Cheri Berry",
+    "rawName": "Cheri Berry",
+    "category": "berries candidate",
+    "description": "A hold item that heals paralysis in battle."
+  },
+  {
+    "id": "item-0515",
+    "slug": "515-chesto-berry",
+    "name": "Chesto Berry",
+    "rawName": "Chesto Berry",
+    "category": "berries candidate",
+    "description": "A hold item that awakens Pok\u00e9mon in battle."
+  },
+  {
+    "id": "item-0516",
+    "slug": "516-pecha-berry",
+    "name": "Pecha Berry",
+    "rawName": "Pecha Berry",
+    "category": "berries candidate",
+    "description": "A hold item that heals poisoning in battle."
+  },
+  {
+    "id": "item-0517",
+    "slug": "517-rawst-berry",
+    "name": "Rawst Berry",
+    "rawName": "Rawst Berry",
+    "category": "berries candidate",
+    "description": "A hold item that heals a burn in battle."
+  },
+  {
+    "id": "item-0518",
+    "slug": "518-aspear-berry",
+    "name": "Aspear Berry",
+    "rawName": "Aspear Berry",
+    "category": "berries candidate",
+    "description": "A hold item that defrosts Pok\u00e9mon in battle."
+  },
+  {
+    "id": "item-0519",
+    "slug": "519-leppa-berry",
+    "name": "Leppa Berry",
+    "rawName": "Leppa Berry",
+    "category": "berries candidate",
+    "description": "A hold item that restores 10 PP in battle."
+  },
+  {
+    "id": "item-0520",
+    "slug": "520-oran-berry",
+    "name": "Oran Berry",
+    "rawName": "Oran Berry",
+    "category": "berries candidate",
+    "description": "A hold item that restores 10 HP in battle."
+  },
+  {
+    "id": "item-0521",
+    "slug": "521-persim-berry",
+    "name": "Persim Berry",
+    "rawName": "Persim Berry",
+    "category": "berries candidate",
+    "description": "A hold item that heals confusion in battle."
+  },
+  {
+    "id": "item-0522",
+    "slug": "522-lum-berry",
+    "name": "Lum Berry",
+    "rawName": "Lum Berry",
+    "category": "berries candidate",
+    "description": "A hold item that heals any status problem in battle."
+  },
+  {
+    "id": "item-0523",
+    "slug": "523-sitrus-berry",
+    "name": "Sitrus Berry",
+    "rawName": "Sitrus Berry",
+    "category": "berries candidate",
+    "description": "A hold item that restores the user's HP a little."
+  },
+  {
+    "id": "item-0524",
+    "slug": "524-figy-berry",
+    "name": "Figy Berry",
+    "rawName": "Figy Berry",
+    "category": "berries candidate",
+    "description": "A hold item that restores HP but may confuse."
+  },
+  {
+    "id": "item-0525",
+    "slug": "525-wiki-berry",
+    "name": "Wiki Berry",
+    "rawName": "Wiki Berry",
+    "category": "berries candidate",
+    "description": "A hold item that restores HP but may confuse."
+  },
+  {
+    "id": "item-0526",
+    "slug": "526-mago-berry",
+    "name": "Mago Berry",
+    "rawName": "Mago Berry",
+    "category": "berries candidate",
+    "description": "A hold item that restores HP but may confuse."
+  },
+  {
+    "id": "item-0527",
+    "slug": "527-aguav-berry",
+    "name": "Aguav Berry",
+    "rawName": "Aguav Berry",
+    "category": "berries candidate",
+    "description": "A hold item that restores HP but may confuse."
+  },
+  {
+    "id": "item-0528",
+    "slug": "528-iapapa-berry",
+    "name": "Iapapa Berry",
+    "rawName": "Iapapa Berry",
+    "category": "berries candidate",
+    "description": "A hold item that restores HP but may confuse."
+  },
+  {
+    "id": "item-0529",
+    "slug": "529-razz-berry",
+    "name": "Razz Berry",
+    "rawName": "Razz Berry",
+    "category": "berries candidate",
+    "description": "ingredient. Plant in loamy soil to grow Razz."
+  },
+  {
+    "id": "item-0530",
+    "slug": "530-bluk-berry",
+    "name": "Bluk Berry",
+    "rawName": "Bluk Berry",
+    "category": "berries candidate",
+    "description": "ingredient. Plant in loamy soil to grow Bluk."
+  },
+  {
+    "id": "item-0531",
+    "slug": "531-nanab-berry",
+    "name": "Nanab Berry",
+    "rawName": "Nanab Berry",
+    "category": "berries candidate",
+    "description": "ingredient. Plant in loamy soil to grow Nanab."
+  },
+  {
+    "id": "item-0532",
+    "slug": "532-wepear-berry",
+    "name": "Wepear Berry",
+    "rawName": "Wepear Berry",
+    "category": "berries candidate",
+    "description": "ingredient. Plant in loamy soil to grow Wepear."
+  },
+  {
+    "id": "item-0533",
+    "slug": "533-pinap-berry",
+    "name": "Pinap Berry",
+    "rawName": "Pinap Berry",
+    "category": "berries candidate",
+    "description": "ingredient. Plant in loamy soil to grow Pinap."
+  },
+  {
+    "id": "item-0534",
+    "slug": "534-pomeg-berry",
+    "name": "Pomeg Berry",
+    "rawName": "Pomeg Berry",
+    "category": "berries candidate",
+    "description": "Makes a Pok\u00e9mon friendly but lowers base HP."
+  },
+  {
+    "id": "item-0535",
+    "slug": "535-kelpsy-berry",
+    "name": "Kelpsy Berry",
+    "rawName": "Kelpsy Berry",
+    "category": "berries candidate",
+    "description": "Makes a Pok\u00e9mon friendly but lowers base Attack."
+  },
+  {
+    "id": "item-0536",
+    "slug": "536-qualot-berry",
+    "name": "Qualot Berry",
+    "rawName": "Qualot Berry",
+    "category": "berries candidate",
+    "description": "Makes a Pok\u00e9mon friendly but lowers base Defense."
+  },
+  {
+    "id": "item-0537",
+    "slug": "537-hondew-berry",
+    "name": "Hondew Berry",
+    "rawName": "Hondew Berry",
+    "category": "berries candidate",
+    "description": "Makes a Pok\u00e9mon friendly but lowers base Sp. Atk."
+  },
+  {
+    "id": "item-0538",
+    "slug": "538-grepa-berry",
+    "name": "Grepa Berry",
+    "rawName": "Grepa Berry",
+    "category": "berries candidate",
+    "description": "Makes a Pok\u00e9mon friendly but lowers base Sp. Def."
+  },
+  {
+    "id": "item-0539",
+    "slug": "539-tamato-berry",
+    "name": "Tamato Berry",
+    "rawName": "Tamato Berry",
+    "category": "berries candidate",
+    "description": "Makes a Pok\u00e9mon friendly but lowers base Speed."
+  },
+  {
+    "id": "item-0540",
+    "slug": "540-cornn-berry",
+    "name": "Cornn Berry",
+    "rawName": "Cornn Berry",
+    "category": "berries candidate",
+    "description": "ingredient. Plant in loamy soil to grow Cornn."
+  },
+  {
+    "id": "item-0541",
+    "slug": "541-magost-berry",
+    "name": "Magost Berry",
+    "rawName": "Magost Berry",
+    "category": "berries candidate",
+    "description": "ingredient. Plant in loamy soil to grow Magost."
+  },
+  {
+    "id": "item-0542",
+    "slug": "542-rabuta-berry",
+    "name": "Rabuta Berry",
+    "rawName": "Rabuta Berry",
+    "category": "berries candidate",
+    "description": "ingredient. Plant in loamy soil to grow Rabuta."
+  },
+  {
+    "id": "item-0543",
+    "slug": "543-nomel-berry",
+    "name": "Nomel Berry",
+    "rawName": "Nomel Berry",
+    "category": "berries candidate",
+    "description": "ingredient. Plant in loamy soil to grow Nomel."
+  },
+  {
+    "id": "item-0544",
+    "slug": "544-spelon-berry",
+    "name": "Spelon Berry",
+    "rawName": "Spelon Berry",
+    "category": "berries candidate",
+    "description": "ingredient. Plant in loamy soil to grow Spelon."
+  },
+  {
+    "id": "item-0545",
+    "slug": "545-pamtre-berry",
+    "name": "Pamtre Berry",
+    "rawName": "Pamtre Berry",
+    "category": "berries candidate",
+    "description": "ingredient. Plant in loamy soil to grow Pamtre."
+  },
+  {
+    "id": "item-0546",
+    "slug": "546-watmel-berry",
+    "name": "Watmel Berry",
+    "rawName": "Watmel Berry",
+    "category": "berries candidate",
+    "description": "ingredient. Plant in loamy soil to grow Watmel."
+  },
+  {
+    "id": "item-0547",
+    "slug": "547-durin-berry",
+    "name": "Durin Berry",
+    "rawName": "Durin Berry",
+    "category": "berries candidate",
+    "description": "ingredient. Plant in loamy soil to grow Durin."
+  },
+  {
+    "id": "item-0548",
+    "slug": "548-belue-berry",
+    "name": "Belue Berry",
+    "rawName": "Belue Berry",
+    "category": "berries candidate",
+    "description": "ingredient. Plant in loamy soil to grow Belue."
+  },
+  {
+    "id": "item-0549",
+    "slug": "549-chilan-berry",
+    "name": "Chilan Berry",
+    "rawName": "Chilan Berry",
+    "category": "berries candidate",
+    "description": "A hold item that weakens a Normal move."
+  },
+  {
+    "id": "item-0550",
+    "slug": "550-occa-berry",
+    "name": "Occa Berry",
+    "rawName": "Occa Berry",
+    "category": "berries candidate",
+    "description": "A hold item that weakens a Fire move if weak to it."
+  },
+  {
+    "id": "item-0551",
+    "slug": "551-passho-berry",
+    "name": "Passho Berry",
+    "rawName": "Passho Berry",
+    "category": "berries candidate",
+    "description": "A hold item that weakens a Water move if weak to it."
+  },
+  {
+    "id": "item-0552",
+    "slug": "552-wacan-berry",
+    "name": "Wacan Berry",
+    "rawName": "Wacan Berry",
+    "category": "berries candidate",
+    "description": "A hold item that weakens a Electric move if weak to it."
+  },
+  {
+    "id": "item-0553",
+    "slug": "553-rindo-berry",
+    "name": "Rindo Berry",
+    "rawName": "Rindo Berry",
+    "category": "berries candidate",
+    "description": "A hold item that weakens a Grass move if weak to it."
+  },
+  {
+    "id": "item-0554",
+    "slug": "554-yache-berry",
+    "name": "Yache Berry",
+    "rawName": "Yache Berry",
+    "category": "berries candidate",
+    "description": "A hold item that weakens a Ice move if weak to it."
+  },
+  {
+    "id": "item-0555",
+    "slug": "555-chople-berry",
+    "name": "Chople Berry",
+    "rawName": "Chople Berry",
+    "category": "berries candidate",
+    "description": "A hold item that weakens a Fighting move if weak to it."
+  },
+  {
+    "id": "item-0556",
+    "slug": "556-kebia-berry",
+    "name": "Kebia Berry",
+    "rawName": "Kebia Berry",
+    "category": "berries candidate",
+    "description": "A hold item that weakens a Poison move if weak to it."
+  },
+  {
+    "id": "item-0557",
+    "slug": "557-shuca-berry",
+    "name": "Shuca Berry",
+    "rawName": "Shuca Berry",
+    "category": "berries candidate",
+    "description": "A hold item that weakens a Ground move if weak to it."
+  },
+  {
+    "id": "item-0558",
+    "slug": "558-coba-berry",
+    "name": "Coba Berry",
+    "rawName": "Coba Berry",
+    "category": "berries candidate",
+    "description": "A hold item that weakens a Flying move if weak to it."
+  },
+  {
+    "id": "item-0559",
+    "slug": "559-payapa-berry",
+    "name": "Payapa Berry",
+    "rawName": "Payapa Berry",
+    "category": "berries candidate",
+    "description": "A hold item that weakens a Psychic move if weak to it."
+  },
+  {
+    "id": "item-0560",
+    "slug": "560-tanga-berry",
+    "name": "Tanga Berry",
+    "rawName": "Tanga Berry",
+    "category": "berries candidate",
+    "description": "A hold item that weakens a Bug move if weak to it."
+  },
+  {
+    "id": "item-0561",
+    "slug": "561-charti-berry",
+    "name": "Charti Berry",
+    "rawName": "Charti Berry",
+    "category": "berries candidate",
+    "description": "A hold item that weakens a Rock move if weak to it."
+  },
+  {
+    "id": "item-0562",
+    "slug": "562-kasib-berry",
+    "name": "Kasib Berry",
+    "rawName": "Kasib Berry",
+    "category": "berries candidate",
+    "description": "A hold item that weakens a Ghost move if weak to it."
+  },
+  {
+    "id": "item-0563",
+    "slug": "563-haban-berry",
+    "name": "Haban Berry",
+    "rawName": "Haban Berry",
+    "category": "berries candidate",
+    "description": "A hold item that weakens a Dragon move if weak to it."
+  },
+  {
+    "id": "item-0564",
+    "slug": "564-colbur-berry",
+    "name": "Colbur Berry",
+    "rawName": "Colbur Berry",
+    "category": "berries candidate",
+    "description": "A hold item that weakens a Dark move if weak to it."
+  },
+  {
+    "id": "item-0565",
+    "slug": "565-babiri-berry",
+    "name": "Babiri Berry",
+    "rawName": "Babiri Berry",
+    "category": "berries candidate",
+    "description": "A hold item that weakens a Steel move if weak to it."
+  },
+  {
+    "id": "item-0566",
+    "slug": "566-roseli-berry",
+    "name": "Roseli Berry",
+    "rawName": "Roseli Berry",
+    "category": "berries candidate",
+    "description": "A hold item that weakens a Fairy move if weak to it."
+  },
+  {
+    "id": "item-0567",
+    "slug": "567-liechi-berry",
+    "name": "Liechi Berry",
+    "rawName": "Liechi Berry",
+    "category": "berries candidate",
+    "description": "A hold item that raises Attack in a pinch."
+  },
+  {
+    "id": "item-0568",
+    "slug": "568-ganlon-berry",
+    "name": "Ganlon Berry",
+    "rawName": "Ganlon Berry",
+    "category": "berries candidate",
+    "description": "A hold item that raises Defense in a pinch."
+  },
+  {
+    "id": "item-0569",
+    "slug": "569-salac-berry",
+    "name": "Salac Berry",
+    "rawName": "Salac Berry",
+    "category": "berries candidate",
+    "description": "A hold item that raises Speed in a pinch."
+  },
+  {
+    "id": "item-0570",
+    "slug": "570-petaya-berry",
+    "name": "Petaya Berry",
+    "rawName": "Petaya Berry",
+    "category": "berries candidate",
+    "description": "A hold item that raises Sp. Atk in a pinch."
+  },
+  {
+    "id": "item-0571",
+    "slug": "571-apicot-berry",
+    "name": "Apicot Berry",
+    "rawName": "Apicot Berry",
+    "category": "berries candidate",
+    "description": "A hold item that raises Sp. Def in a pinch."
+  },
+  {
+    "id": "item-0572",
+    "slug": "572-lansat-berry",
+    "name": "Lansat Berry",
+    "rawName": "Lansat Berry",
+    "category": "berries candidate",
+    "description": "A hold item that ups the critical- hit rate in a pinch."
+  },
+  {
+    "id": "item-0573",
+    "slug": "573-starf-berry",
+    "name": "Starf Berry",
+    "rawName": "Starf Berry",
+    "category": "berries candidate",
+    "description": "A hold item that sharply boosts a stat in a pinch."
+  },
+  {
+    "id": "item-0574",
+    "slug": "574-enigma-berry",
+    "name": "Enigma Berry",
+    "rawName": "Enigma Berry",
+    "category": "berries candidate",
+    "description": "A hold item that heals from super effective moves."
+  },
+  {
+    "id": "item-0575",
+    "slug": "575-micle-berry",
+    "name": "Micle Berry",
+    "rawName": "Micle Berry",
+    "category": "berries candidate",
+    "description": "When held, it ups the Accuracy of a move in a pinch."
+  },
+  {
+    "id": "item-0576",
+    "slug": "576-custap-berry",
+    "name": "Custap Berry",
+    "rawName": "Custap Berry",
+    "category": "berries candidate",
+    "description": "It allows a Pok\u00e9mon in a pinch to move first just once."
+  },
+  {
+    "id": "item-0577",
+    "slug": "577-jaboca-berry",
+    "name": "Jaboca Berry",
+    "rawName": "Jaboca Berry",
+    "category": "berries candidate",
+    "description": "If hit by a physical move, it will hurt the attacker a bit."
+  },
+  {
+    "id": "item-0578",
+    "slug": "578-rowap-berry",
+    "name": "Rowap Berry",
+    "rawName": "Rowap Berry",
+    "category": "berries candidate",
+    "description": "If hit by a special move, it will hurt the attacker a bit."
+  },
+  {
+    "id": "item-0579",
+    "slug": "579-kee-berry",
+    "name": "Kee Berry",
+    "rawName": "Kee Berry",
+    "category": "berries candidate",
+    "description": "If hit by a physical move, it raises the Defense a bit."
+  },
+  {
+    "id": "item-0580",
+    "slug": "580-maranga-berry",
+    "name": "Maranga Berry",
+    "rawName": "Maranga Berry",
+    "category": "berries candidate",
+    "description": "If hit by a special move, it raises the Sp. Def. a bit."
+  },
+  {
+    "id": "item-0581",
+    "slug": "581-enigma-berry",
+    "name": "Enigma Berry",
+    "rawName": "Enigma Berry",
+    "category": "berries candidate",
+    "description": "ingredient. Plant in loamy soil to grow a mystery."
+  },
+  {
+    "id": "item-0582",
+    "slug": "582-tm01",
+    "name": "TM01",
+    "rawName": "TM01",
+    "category": "tm hm candidate",
+    "description": "Attacks with a horrible aura. May cause flinching."
+  },
+  {
+    "id": "item-0583",
+    "slug": "583-tm02",
+    "name": "TM02",
+    "rawName": "TM02",
+    "category": "tm hm candidate",
+    "description": "Hooks and slashes the foe with long, sharp claws."
+  },
+  {
+    "id": "item-0584",
+    "slug": "584-tm03",
+    "name": "TM03",
+    "rawName": "TM03",
+    "category": "tm hm candidate",
+    "description": "Shoots boiling water at the foe. May inflict a burn."
+  },
+  {
+    "id": "item-0585",
+    "slug": "585-tm04",
+    "name": "TM04",
+    "rawName": "TM04",
+    "category": "tm hm candidate",
+    "description": "Raises Sp. Atk and Sp. Def by focusing the mind."
+  },
+  {
+    "id": "item-0586",
+    "slug": "586-tm05",
+    "name": "TM05",
+    "rawName": "TM05",
+    "category": "tm hm candidate",
+    "description": "A savage roar that makes the foe flee to end the battle."
+  },
+  {
+    "id": "item-0587",
+    "slug": "587-tm06",
+    "name": "TM06",
+    "rawName": "TM06",
+    "category": "tm hm candidate",
+    "description": "Poisons the foe with a toxin that gradually worsens."
+  },
+  {
+    "id": "item-0588",
+    "slug": "588-tm07",
+    "name": "TM07",
+    "rawName": "TM07",
+    "category": "tm hm candidate",
+    "description": "Creates a hailstorm that damages all types except Ice."
+  },
+  {
+    "id": "item-0589",
+    "slug": "589-tm08",
+    "name": "TM08",
+    "rawName": "TM08",
+    "category": "tm hm candidate",
+    "description": "Bulks up the body to boost both Attack Defense."
+  },
+  {
+    "id": "item-0590",
+    "slug": "590-tm09",
+    "name": "TM09",
+    "rawName": "TM09",
+    "category": "tm hm candidate",
+    "description": "A snare attack that does more damage to heavier foes."
+  },
+  {
+    "id": "item-0591",
+    "slug": "591-tm10",
+    "name": "TM10",
+    "rawName": "TM10",
+    "category": "tm hm candidate",
+    "description": "The attack power varies among different Pok\u00e9mon."
+  },
+  {
+    "id": "item-0592",
+    "slug": "592-tm11",
+    "name": "TM11",
+    "rawName": "TM11",
+    "category": "tm hm candidate",
+    "description": "Raises the power of Fire-type moves for 5 turns."
+  },
+  {
+    "id": "item-0593",
+    "slug": "593-tm12",
+    "name": "TM12",
+    "rawName": "TM12",
+    "category": "tm hm candidate",
+    "description": "Enrages the foe so it can only use attack moves."
+  },
+  {
+    "id": "item-0594",
+    "slug": "594-tm13",
+    "name": "TM13",
+    "rawName": "TM13",
+    "category": "tm hm candidate",
+    "description": "Fires an icy cold beam that may freeze the foe."
+  },
+  {
+    "id": "item-0595",
+    "slug": "595-tm14",
+    "name": "TM14",
+    "rawName": "TM14",
+    "category": "tm hm candidate",
+    "description": "A brutal snow-and- wind attack that may freeze the foe."
+  },
+  {
+    "id": "item-0596",
+    "slug": "596-tm15",
+    "name": "TM15",
+    "rawName": "TM15",
+    "category": "tm hm candidate",
+    "description": "Powerful, but needs recharging the next turn."
+  },
+  {
+    "id": "item-0597",
+    "slug": "597-tm16",
+    "name": "TM16",
+    "rawName": "TM16",
+    "category": "tm hm candidate",
+    "description": "Creates a wall of light that lowers Sp. Atk damage."
+  },
+  {
+    "id": "item-0598",
+    "slug": "598-tm17",
+    "name": "TM17",
+    "rawName": "TM17",
+    "category": "tm hm candidate",
+    "description": "Negates all damage, but may fail if used in succession."
+  },
+  {
+    "id": "item-0599",
+    "slug": "599-tm18",
+    "name": "TM18",
+    "rawName": "TM18",
+    "category": "tm hm candidate",
+    "description": "Raises the power of Water-type moves for 5 turns."
+  },
+  {
+    "id": "item-0600",
+    "slug": "600-tm19",
+    "name": "TM19",
+    "rawName": "TM19",
+    "category": "tm hm candidate",
+    "description": "Recovers half the HP of the damage this move inflicts."
+  },
+  {
+    "id": "item-0601",
+    "slug": "601-tm20",
+    "name": "TM20",
+    "rawName": "TM20",
+    "category": "tm hm candidate",
+    "description": "Prevents status abnormality with a mystical power."
+  },
+  {
+    "id": "item-0602",
+    "slug": "602-tm21",
+    "name": "TM21",
+    "rawName": "TM21",
+    "category": "tm hm candidate",
+    "description": "The less the user likes you, the more powerful this move."
+  },
+  {
+    "id": "item-0603",
+    "slug": "603-tm22",
+    "name": "TM22",
+    "rawName": "TM22",
+    "category": "tm hm candidate",
+    "description": "Absorbs sunlight in the 1st turn, then attacks next turn."
+  },
+  {
+    "id": "item-0604",
+    "slug": "604-tm23",
+    "name": "TM23",
+    "rawName": "TM23",
+    "category": "tm hm candidate",
+    "description": "Restores the user's HP by half of its max HP."
+  },
+  {
+    "id": "item-0605",
+    "slug": "605-tm24",
+    "name": "TM24",
+    "rawName": "TM24",
+    "category": "tm hm candidate",
+    "description": "A powerful electric attack that may cause paralysis."
+  },
+  {
+    "id": "item-0606",
+    "slug": "606-tm25",
+    "name": "TM25",
+    "rawName": "TM25",
+    "category": "tm hm candidate",
+    "description": "Strikes the foe with a thunderbolt. It may paralyze."
+  },
+  {
+    "id": "item-0607",
+    "slug": "607-tm26",
+    "name": "TM26",
+    "rawName": "TM26",
+    "category": "tm hm candidate",
+    "description": "Causes a quake that has no effect on flying foes."
+  },
+  {
+    "id": "item-0608",
+    "slug": "608-tm27",
+    "name": "TM27",
+    "rawName": "TM27",
+    "category": "tm hm candidate",
+    "description": "The more the user likes you, the more powerful this move."
+  },
+  {
+    "id": "item-0609",
+    "slug": "609-tm28",
+    "name": "TM28",
+    "rawName": "TM28",
+    "category": "tm hm candidate",
+    "description": "Digs underground the 1st turn, then strikes next turn."
+  },
+  {
+    "id": "item-0610",
+    "slug": "610-tm29",
+    "name": "TM29",
+    "rawName": "TM29",
+    "category": "tm hm candidate",
+    "description": "A powerful psychic attack that may lower Sp. Def."
+  },
+  {
+    "id": "item-0611",
+    "slug": "611-tm30",
+    "name": "TM30",
+    "rawName": "TM30",
+    "category": "tm hm candidate",
+    "description": "Hurls a dark lump at the foe. It may lower Sp. Def."
+  },
+  {
+    "id": "item-0612",
+    "slug": "612-tm31",
+    "name": "TM31",
+    "rawName": "TM31",
+    "category": "tm hm candidate",
+    "description": "Destroys barriers like Light Screen and causes damage."
+  },
+  {
+    "id": "item-0613",
+    "slug": "613-tm32",
+    "name": "TM32",
+    "rawName": "TM32",
+    "category": "tm hm candidate",
+    "description": "Creates illusory copies to enhance elusiveness."
+  },
+  {
+    "id": "item-0614",
+    "slug": "614-tm33",
+    "name": "TM33",
+    "rawName": "TM33",
+    "category": "tm hm candidate",
+    "description": "Creates a wall of light that weakens physical attacks."
+  },
+  {
+    "id": "item-0615",
+    "slug": "615-tm34",
+    "name": "TM34",
+    "rawName": "TM34",
+    "category": "tm hm candidate",
+    "description": "Slashes the foe with crossed scythes claws, etc."
+  },
+  {
+    "id": "item-0616",
+    "slug": "616-tm35",
+    "name": "TM35",
+    "rawName": "TM35",
+    "category": "tm hm candidate",
+    "description": "Looses a stream of fire that may burn the foe."
+  },
+  {
+    "id": "item-0617",
+    "slug": "617-tm36",
+    "name": "TM36",
+    "rawName": "TM36",
+    "category": "tm hm candidate",
+    "description": "Hurls sludge at the foe. It may poison the foe."
+  },
+  {
+    "id": "item-0618",
+    "slug": "618-tm37",
+    "name": "TM37",
+    "rawName": "TM37",
+    "category": "tm hm candidate",
+    "description": "Causes a sandstorm that hits the foe over several turns."
+  },
+  {
+    "id": "item-0619",
+    "slug": "619-tm38",
+    "name": "TM38",
+    "rawName": "TM38",
+    "category": "tm hm candidate",
+    "description": "A powerful fire attack that may burn the foe."
+  },
+  {
+    "id": "item-0620",
+    "slug": "620-tm39",
+    "name": "TM39",
+    "rawName": "TM39",
+    "category": "tm hm candidate",
+    "description": "Stabs the foe with stones. Has a high critical hit ratio."
+  },
+  {
+    "id": "item-0621",
+    "slug": "621-tm40",
+    "name": "TM40",
+    "rawName": "TM40",
+    "category": "tm hm candidate",
+    "description": "An extremely fast attack that can't be avoided."
+  },
+  {
+    "id": "item-0622",
+    "slug": "622-tm41",
+    "name": "TM41",
+    "rawName": "TM41",
+    "category": "tm hm candidate",
+    "description": "Prevents the foe from using the same move in a row."
+  },
+  {
+    "id": "item-0623",
+    "slug": "623-tm42",
+    "name": "TM42",
+    "rawName": "TM42",
+    "category": "tm hm candidate",
+    "description": "Raises Attack when poisoned, burned, or paralyzed."
+  },
+  {
+    "id": "item-0624",
+    "slug": "624-tm43",
+    "name": "TM43",
+    "rawName": "TM43",
+    "category": "tm hm candidate",
+    "description": "An attack that absorbs over half the damage inflicted."
+  },
+  {
+    "id": "item-0625",
+    "slug": "625-tm44",
+    "name": "TM44",
+    "rawName": "TM44",
+    "category": "tm hm candidate",
+    "description": "The user sleeps for 2 turns to restore health and status."
+  },
+  {
+    "id": "item-0626",
+    "slug": "626-tm45",
+    "name": "TM45",
+    "rawName": "TM45",
+    "category": "tm hm candidate",
+    "description": "Makes it tough to attack a foe of the opposite gender."
+  },
+  {
+    "id": "item-0627",
+    "slug": "627-tm46",
+    "name": "TM46",
+    "rawName": "TM46",
+    "category": "tm hm candidate",
+    "description": "While attacking, it may steal the foe's held item."
+  },
+  {
+    "id": "item-0628",
+    "slug": "628-tm47",
+    "name": "TM47",
+    "rawName": "TM47",
+    "category": "tm hm candidate",
+    "description": "Spreads hard- edged wings and slams into the foe."
+  },
+  {
+    "id": "item-0629",
+    "slug": "629-tm48",
+    "name": "TM48",
+    "rawName": "TM48",
+    "category": "tm hm candidate",
+    "description": "Does damage then switches out the user."
+  },
+  {
+    "id": "item-0630",
+    "slug": "630-tm49",
+    "name": "TM49",
+    "rawName": "TM49",
+    "category": "tm hm candidate",
+    "description": "Damages foes by emitting a bright flash."
+  },
+  {
+    "id": "item-0631",
+    "slug": "631-tm50",
+    "name": "TM50",
+    "rawName": "TM50",
+    "category": "tm hm candidate",
+    "description": "Enables full-power attack, but sharply lowers Sp. Atk."
+  },
+  {
+    "id": "item-0632",
+    "slug": "632-tm51",
+    "name": "TM51",
+    "rawName": "TM51",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0633",
+    "slug": "633-tm52",
+    "name": "TM52",
+    "rawName": "TM52",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0634",
+    "slug": "634-tm53",
+    "name": "TM53",
+    "rawName": "TM53",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0635",
+    "slug": "635-tm54",
+    "name": "TM54",
+    "rawName": "TM54",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0636",
+    "slug": "636-tm55",
+    "name": "TM55",
+    "rawName": "TM55",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0637",
+    "slug": "637-tm56",
+    "name": "TM56",
+    "rawName": "TM56",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0638",
+    "slug": "638-tm57",
+    "name": "TM57",
+    "rawName": "TM57",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0639",
+    "slug": "639-tm58",
+    "name": "TM58",
+    "rawName": "TM58",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0640",
+    "slug": "640-tm59",
+    "name": "TM59",
+    "rawName": "TM59",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0641",
+    "slug": "641-tm60",
+    "name": "TM60",
+    "rawName": "TM60",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0642",
+    "slug": "642-tm61",
+    "name": "TM61",
+    "rawName": "TM61",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0643",
+    "slug": "643-tm62",
+    "name": "TM62",
+    "rawName": "TM62",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0644",
+    "slug": "644-tm63",
+    "name": "TM63",
+    "rawName": "TM63",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0645",
+    "slug": "645-tm64",
+    "name": "TM64",
+    "rawName": "TM64",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0646",
+    "slug": "646-tm65",
+    "name": "TM65",
+    "rawName": "TM65",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0647",
+    "slug": "647-tm66",
+    "name": "TM66",
+    "rawName": "TM66",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0648",
+    "slug": "648-tm67",
+    "name": "TM67",
+    "rawName": "TM67",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0649",
+    "slug": "649-tm68",
+    "name": "TM68",
+    "rawName": "TM68",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0650",
+    "slug": "650-tm69",
+    "name": "TM69",
+    "rawName": "TM69",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0651",
+    "slug": "651-tm70",
+    "name": "TM70",
+    "rawName": "TM70",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0652",
+    "slug": "652-tm71",
+    "name": "TM71",
+    "rawName": "TM71",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0653",
+    "slug": "653-tm72",
+    "name": "TM72",
+    "rawName": "TM72",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0654",
+    "slug": "654-tm73",
+    "name": "TM73",
+    "rawName": "TM73",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0655",
+    "slug": "655-tm74",
+    "name": "TM74",
+    "rawName": "TM74",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0656",
+    "slug": "656-tm75",
+    "name": "TM75",
+    "rawName": "TM75",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0657",
+    "slug": "657-tm76",
+    "name": "TM76",
+    "rawName": "TM76",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0658",
+    "slug": "658-tm77",
+    "name": "TM77",
+    "rawName": "TM77",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0659",
+    "slug": "659-tm78",
+    "name": "TM78",
+    "rawName": "TM78",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0660",
+    "slug": "660-tm79",
+    "name": "TM79",
+    "rawName": "TM79",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0661",
+    "slug": "661-tm80",
+    "name": "TM80",
+    "rawName": "TM80",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0662",
+    "slug": "662-tm81",
+    "name": "TM81",
+    "rawName": "TM81",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0663",
+    "slug": "663-tm82",
+    "name": "TM82",
+    "rawName": "TM82",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0664",
+    "slug": "664-tm83",
+    "name": "TM83",
+    "rawName": "TM83",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0665",
+    "slug": "665-tm84",
+    "name": "TM84",
+    "rawName": "TM84",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0666",
+    "slug": "666-tm85",
+    "name": "TM85",
+    "rawName": "TM85",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0667",
+    "slug": "667-tm86",
+    "name": "TM86",
+    "rawName": "TM86",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0668",
+    "slug": "668-tm87",
+    "name": "TM87",
+    "rawName": "TM87",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0669",
+    "slug": "669-tm88",
+    "name": "TM88",
+    "rawName": "TM88",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0670",
+    "slug": "670-tm89",
+    "name": "TM89",
+    "rawName": "TM89",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0671",
+    "slug": "671-tm90",
+    "name": "TM90",
+    "rawName": "TM90",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0672",
+    "slug": "672-tm91",
+    "name": "TM91",
+    "rawName": "TM91",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0673",
+    "slug": "673-tm92",
+    "name": "TM92",
+    "rawName": "TM92",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0674",
+    "slug": "674-tm93",
+    "name": "TM93",
+    "rawName": "TM93",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0675",
+    "slug": "675-tm94",
+    "name": "TM94",
+    "rawName": "TM94",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0676",
+    "slug": "676-tm95",
+    "name": "TM95",
+    "rawName": "TM95",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0677",
+    "slug": "677-tm96",
+    "name": "TM96",
+    "rawName": "TM96",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0678",
+    "slug": "678-tm97",
+    "name": "TM97",
+    "rawName": "TM97",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0679",
+    "slug": "679-tm98",
+    "name": "TM98",
+    "rawName": "TM98",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0680",
+    "slug": "680-tm99",
+    "name": "TM99",
+    "rawName": "TM99",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0681",
+    "slug": "681-tm100",
+    "name": "TM100",
+    "rawName": "TM100",
+    "category": "tm hm candidate",
+    "description": "?????"
+  },
+  {
+    "id": "item-0682",
+    "slug": "682-hm01",
+    "name": "HM01",
+    "rawName": "HM01",
+    "category": "tm hm candidate",
+    "description": "Attacks the foe with sharp blades or claws."
+  },
+  {
+    "id": "item-0683",
+    "slug": "683-hm02",
+    "name": "HM02",
+    "rawName": "HM02",
+    "category": "tm hm candidate",
+    "description": "Flies up on the first turn, then attacks next turn."
+  },
+  {
+    "id": "item-0684",
+    "slug": "684-hm03",
+    "name": "HM03",
+    "rawName": "HM03",
+    "category": "tm hm candidate",
+    "description": "Creates a huge wave, then crashes it down on the foe."
+  },
+  {
+    "id": "item-0685",
+    "slug": "685-hm04",
+    "name": "HM04",
+    "rawName": "HM04",
+    "category": "tm hm candidate",
+    "description": "Builds enormous power, then slams the foe."
+  },
+  {
+    "id": "item-0686",
+    "slug": "686-hm05",
+    "name": "HM05",
+    "rawName": "HM05",
+    "category": "tm hm candidate",
+    "description": "Looses a powerful blast of light that reduces accuracy."
+  },
+  {
+    "id": "item-0687",
+    "slug": "687-hm06",
+    "name": "HM06",
+    "rawName": "HM06",
+    "category": "tm hm candidate",
+    "description": "A rock-crushingly tough attack that may lower Defense."
+  },
+  {
+    "id": "item-0688",
+    "slug": "688-hm07",
+    "name": "HM07",
+    "rawName": "HM07",
+    "category": "tm hm candidate",
+    "description": "Attacks the foe with enough power to climb waterfalls."
+  },
+  {
+    "id": "item-0689",
+    "slug": "689-hm08",
+    "name": "HM08",
+    "rawName": "HM08",
+    "category": "tm hm candidate",
+    "description": "Dives underwater the 1st turn, then attacks next turn."
+  },
+  {
+    "id": "item-0690",
+    "slug": "690-oval-charm",
+    "name": "Oval Charm",
+    "rawName": "Oval Charm",
+    "category": "key items candidate",
+    "description": "Raises the chance of finding eggs at the daycare."
+  },
+  {
+    "id": "item-0691",
+    "slug": "691-shiny-charm",
+    "name": "Shiny Charm",
+    "rawName": "Shiny Charm",
+    "category": "key items candidate",
+    "description": "A charm that will raise the chance of Shiny Pok\u00e9mon."
+  },
+  {
+    "id": "item-0692",
+    "slug": "692-catchngcharm",
+    "name": "CatchngCharm",
+    "rawName": "CatchngCharm",
+    "category": "key items candidate",
+    "description": "A charm that raises the chance of Critical Captures."
+  },
+  {
+    "id": "item-0693",
+    "slug": "693-exp-charm",
+    "name": "Exp. Charm",
+    "rawName": "Exp. Charm",
+    "category": "key items candidate",
+    "description": "A charm that raises the amount of Exp. earned in battle."
+  },
+  {
+    "id": "item-0694",
+    "slug": "694-rotomcatalog",
+    "name": "RotomCatalog",
+    "rawName": "RotomCatalog",
+    "category": "key items candidate",
+    "description": "A catalog full of devices liked by Rotom."
+  },
+  {
+    "id": "item-0695",
+    "slug": "695-gracidea",
+    "name": "Gracidea",
+    "rawName": "Gracidea",
+    "category": "key items candidate",
+    "description": "Bouquets made with it are offered as a token of gratitude."
+  },
+  {
+    "id": "item-0696",
+    "slug": "696-reveal-glass",
+    "name": "Reveal Glass",
+    "rawName": "Reveal Glass",
+    "category": "key items candidate",
+    "description": "This glass returns a Pok\u00e9mon back to its original form."
+  },
+  {
+    "id": "item-0697",
+    "slug": "697-dna-splicers",
+    "name": "DNA Splicers",
+    "rawName": "DNA Splicers",
+    "category": "key items candidate",
+    "description": "Splicer that fuses Kyurem and a certain Pok\u00e9mon."
+  },
+  {
+    "id": "item-0698",
+    "slug": "698-zygarde-cube",
+    "name": "Zygarde Cube",
+    "rawName": "Zygarde Cube",
+    "category": "key items candidate",
+    "description": "An item to store Zygarde Cores and Cells."
+  },
+  {
+    "id": "item-0699",
+    "slug": "699-prison-bottle",
+    "name": "Prison Bottle",
+    "rawName": "Prison Bottle",
+    "category": "key items candidate",
+    "description": "A bottle used to seal a certain Pok\u00e9mon long ago."
+  },
+  {
+    "id": "item-0700",
+    "slug": "700-n-solarizer",
+    "name": "N-Solarizer",
+    "rawName": "N-Solarizer",
+    "category": "key items candidate",
+    "description": "A device to fuse and split Necrozma using a Solgaleo."
+  },
+  {
+    "id": "item-0701",
+    "slug": "701-n-lunarizer",
+    "name": "N-Lunarizer",
+    "rawName": "N-Lunarizer",
+    "category": "key items candidate",
+    "description": "A device to fuse and split Necrozma using a Lunala."
+  },
+  {
+    "id": "item-0702",
+    "slug": "702-reinsofunity",
+    "name": "ReinsOfUnity",
+    "rawName": "ReinsOfUnity",
+    "category": "key items candidate",
+    "description": "Reins that unite Calyrex with its beloved steed."
+  },
+  {
+    "id": "item-0703",
+    "slug": "703-mega-ring",
+    "name": "Mega Ring",
+    "rawName": "Mega Ring",
+    "category": "key items candidate",
+    "description": "Enables holding their Mega Stone to Mega Evolve."
+  },
+  {
+    "id": "item-0704",
+    "slug": "704-z-power-ring",
+    "name": "Z-Power Ring",
+    "rawName": "Z-Power Ring",
+    "category": "key items candidate",
+    "description": "A strange ring that enables Z-Move usage."
+  },
+  {
+    "id": "item-0705",
+    "slug": "705-dynamax-band",
+    "name": "Dynamax Band",
+    "rawName": "Dynamax Band",
+    "category": "key items candidate",
+    "description": "A band carrying a Wishing Star that allows Dynamaxing."
+  },
+  {
+    "id": "item-0706",
+    "slug": "706-bicycle",
+    "name": "Bicycle",
+    "rawName": "Bicycle",
+    "category": "key items candidate",
+    "description": "A folding bicycle that is faster than the Running Shoes."
+  },
+  {
+    "id": "item-0707",
+    "slug": "707-mach-bike",
+    "name": "Mach Bike",
+    "rawName": "Mach Bike",
+    "category": "key items candidate",
+    "description": "A folding bicycle that doubles your speed or better."
+  },
+  {
+    "id": "item-0708",
+    "slug": "708-acro-bike",
+    "name": "Acro Bike",
+    "rawName": "Acro Bike",
+    "category": "key items candidate",
+    "description": "A folding bicycle capable of jumps and wheelies."
+  },
+  {
+    "id": "item-0709",
+    "slug": "709-old-rod",
+    "name": "Old Rod",
+    "rawName": "Old Rod",
+    "category": "key items candidate",
+    "description": "Use by any body of water to fish for wild Pok\u00e9mon."
+  },
+  {
+    "id": "item-0710",
+    "slug": "710-good-rod",
+    "name": "Good Rod",
+    "rawName": "Good Rod",
+    "category": "key items candidate",
+    "description": "A decent fishing rod for catching wild Pok\u00e9mon."
+  },
+  {
+    "id": "item-0711",
+    "slug": "711-super-rod",
+    "name": "Super Rod",
+    "rawName": "Super Rod",
+    "category": "key items candidate",
+    "description": "The best fishing rod for catching wild Pok\u00e9mon."
+  },
+  {
+    "id": "item-0712",
+    "slug": "712-dowsing-mchn",
+    "name": "Dowsing MCHN",
+    "rawName": "Dowsing MCHN",
+    "category": "key items candidate",
+    "description": "A device that signals an invisible item by sound."
+  },
+  {
+    "id": "item-0713",
+    "slug": "713-town-map",
+    "name": "Town Map",
+    "rawName": "Town Map",
+    "category": "key items candidate",
+    "description": "Can be viewed anytime. Shows your present location."
+  },
+  {
+    "id": "item-0714",
+    "slug": "714-vs-seeker",
+    "name": "Vs. Seeker",
+    "rawName": "Vs. Seeker",
+    "category": "key items candidate",
+    "description": "A rechargeable unit that flags battle- ready Trainers."
+  },
+  {
+    "id": "item-0715",
+    "slug": "715-tm-case",
+    "name": "TM Case",
+    "rawName": "TM Case",
+    "category": "key items candidate",
+    "description": "A convenient case that holds TMs and HMs."
+  },
+  {
+    "id": "item-0716",
+    "slug": "716-berry-pouch",
+    "name": "Berry Pouch",
+    "rawName": "Berry Pouch",
+    "category": "key items candidate",
+    "description": "A convenient container that holds Berries."
+  },
+  {
+    "id": "item-0717",
+    "slug": "717-box-link",
+    "name": "Box Link",
+    "rawName": "<0x53><0x54> Box Link",
+    "category": "key items candidate",
+    "description": "This device grants access to the Storage System."
+  },
+  {
+    "id": "item-0718",
+    "slug": "718-coin-case",
+    "name": "Coin Case",
+    "rawName": "Coin Case",
+    "category": "key items candidate",
+    "description": "A case that holds up to 9,999 Coins."
+  },
+  {
+    "id": "item-0719",
+    "slug": "719-powder-jar",
+    "name": "Powder Jar",
+    "rawName": "Powder Jar",
+    "category": "key items candidate",
+    "description": "Stores Berry Powder made using a Berry Crusher."
+  },
+  {
+    "id": "item-0720",
+    "slug": "720-wailmer-pail",
+    "name": "Wailmer Pail",
+    "rawName": "Wailmer Pail",
+    "category": "key items candidate",
+    "description": "A tool used for watering Berries and plants."
+  },
+  {
+    "id": "item-0721",
+    "slug": "721-pok-radar",
+    "name": "Pok\u00e9 Radar",
+    "rawName": "Pok<0x1B> Radar",
+    "category": "key items candidate",
+    "description": "A tool used to search out Pok\u00e9mon hiding in grass."
+  },
+  {
+    "id": "item-0722",
+    "slug": "722-case",
+    "name": "Case",
+    "rawName": "<0x55><0x56><0x57><0x58><0x59> Case",
+    "category": "key items candidate",
+    "description": "A case for holding s made with a Berry Blender."
+  },
+  {
+    "id": "item-0723",
+    "slug": "723-soot-sack",
+    "name": "Soot Sack",
+    "rawName": "Soot Sack",
+    "category": "key items candidate",
+    "description": "A sack used to gather and hold volcanic ash."
+  },
+  {
+    "id": "item-0724",
+    "slug": "724-pok-flute",
+    "name": "Pok\u00e9 Flute",
+    "rawName": "Pok<0x1B> Flute",
+    "category": "key items candidate",
+    "description": "A sweet-sounding flute that awakens Pok\u00e9mon."
+  },
+  {
+    "id": "item-0725",
+    "slug": "725-fame-checker",
+    "name": "Fame Checker",
+    "rawName": "Fame Checker",
+    "category": "key items candidate",
+    "description": "Stores information on famous people for instant recall."
+  },
+  {
+    "id": "item-0726",
+    "slug": "726-teachy-tv",
+    "name": "Teachy TV",
+    "rawName": "Teachy TV",
+    "category": "key items candidate",
+    "description": "A TV set tuned to an advice program for Trainers."
+  },
+  {
+    "id": "item-0727",
+    "slug": "727-s-s-ticket",
+    "name": "S.S. Ticket",
+    "rawName": "S.S. Ticket",
+    "category": "key items candidate",
+    "description": "The ticket required for sailing on a ferry."
+  },
+  {
+    "id": "item-0728",
+    "slug": "728-eon-ticket",
+    "name": "Eon Ticket",
+    "rawName": "Eon Ticket",
+    "category": "key items candidate",
+    "description": "The ticket for a ferry to a distant southern island."
+  },
+  {
+    "id": "item-0729",
+    "slug": "729-mystic-ticket",
+    "name": "Mystic Ticket",
+    "rawName": "Mystic Ticket",
+    "category": "key items candidate",
+    "description": "A ticket required to board the ship to Navel Rock."
+  },
+  {
+    "id": "item-0730",
+    "slug": "730-aurora-ticket",
+    "name": "Aurora Ticket",
+    "rawName": "Aurora Ticket",
+    "category": "key items candidate",
+    "description": "A ticket required to board the ship to Birth Island."
+  },
+  {
+    "id": "item-0731",
+    "slug": "731-old-sea-map",
+    "name": "Old Sea Map",
+    "rawName": "Old Sea Map",
+    "category": "key items candidate",
+    "description": "A faded sea chart that shows the way to a certain island."
+  },
+  {
+    "id": "item-0732",
+    "slug": "732-letter",
+    "name": "Letter",
+    "rawName": "Letter",
+    "category": "key items candidate",
+    "description": "A letter to Steven from the President of the Devon Corp."
+  },
+  {
+    "id": "item-0733",
+    "slug": "733-devon-parts",
+    "name": "Devon Parts",
+    "rawName": "Devon Parts",
+    "category": "key items candidate",
+    "description": "A package that contains Devon's machine parts."
+  },
+  {
+    "id": "item-0734",
+    "slug": "734-go-goggles",
+    "name": "Go-Goggles",
+    "rawName": "Go-Goggles",
+    "category": "key items candidate",
+    "description": "Nifty goggles that protect eyes from desert sandstorms."
+  },
+  {
+    "id": "item-0735",
+    "slug": "735-devon-scope",
+    "name": "Devon Scope",
+    "rawName": "Devon Scope",
+    "category": "key items candidate",
+    "description": "A device by Devon that signals any unseeable Pok\u00e9mon."
+  },
+  {
+    "id": "item-0736",
+    "slug": "736-cell-key",
+    "name": "Cell Key",
+    "rawName": "Cell Key",
+    "category": "key items candidate",
+    "description": "A key that opens cell doors in the Phoenix Base."
+  },
+  {
+    "id": "item-0737",
+    "slug": "737-scanner",
+    "name": "Scanner",
+    "rawName": "Scanner",
+    "category": "key items candidate",
+    "description": "A device found inside the Abandoned Ship."
+  },
+  {
+    "id": "item-0738",
+    "slug": "738-storage-key",
+    "name": "Storage Key",
+    "rawName": "Storage Key",
+    "category": "key items candidate",
+    "description": "The key to the storage inside the Abandoned Ship."
+  },
+  {
+    "id": "item-0739",
+    "slug": "739-key-to-room-1",
+    "name": "Key to Room 1",
+    "rawName": "Key to Room 1",
+    "category": "key items candidate",
+    "description": "A key that opens a door inside the Abandoned Ship."
+  },
+  {
+    "id": "item-0740",
+    "slug": "740-key-to-room-2",
+    "name": "Key to Room 2",
+    "rawName": "Key to Room 2",
+    "category": "key items candidate",
+    "description": "A key that opens a door inside the Abandoned Ship."
+  },
+  {
+    "id": "item-0741",
+    "slug": "741-key-to-room-4",
+    "name": "Key to Room 4",
+    "rawName": "Key to Room 4",
+    "category": "key items candidate",
+    "description": "A key that opens a door inside the Abandoned Ship."
+  },
+  {
+    "id": "item-0742",
+    "slug": "742-key-to-room-6",
+    "name": "Key to Room 6",
+    "rawName": "Key to Room 6",
+    "category": "key items candidate",
+    "description": "A key that opens a door inside the Abandoned Ship."
+  },
+  {
+    "id": "item-0743",
+    "slug": "743-meteorite",
+    "name": "Meteorite",
+    "rawName": "Meteorite",
+    "category": "key items candidate",
+    "description": "A meteorite found at Meteor Falls."
+  },
+  {
+    "id": "item-0744",
+    "slug": "744-magma-emblem",
+    "name": "Magma Emblem",
+    "rawName": "Magma Emblem",
+    "category": "key items candidate",
+    "description": "A medal-like item in the same shape as Team Magma's mark."
+  },
+  {
+    "id": "item-0745",
+    "slug": "745-contest-pass",
+    "name": "Contest Pass",
+    "rawName": "Contest Pass",
+    "category": "key items candidate",
+    "description": "The pass required for entering Pok\u00e9mon Contests."
+  },
+  {
+    "id": "item-0746",
+    "slug": "746-notebook",
+    "name": "Notebook",
+    "rawName": "Notebook",
+    "category": "key items candidate",
+    "description": "Oliver's notebook given to you by Professor Elm."
+  },
+  {
+    "id": "item-0747",
+    "slug": "747-secret-key",
+    "name": "Secret Key",
+    "rawName": "Secret Key",
+    "category": "key items candidate",
+    "description": "The key to the Cinnabar Island Gym's entrance."
+  },
+  {
+    "id": "item-0748",
+    "slug": "748-trade-stone",
+    "name": "Trade Stone",
+    "rawName": "Trade Stone",
+    "category": "items or general candidate",
+    "description": "Makes certain species of Pok\u00e9mon evolve."
+  },
+  {
+    "id": "item-0749",
+    "slug": "749-fake-nugget",
+    "name": "Fake Nugget",
+    "rawName": "Fake Nugget",
+    "category": "key items candidate",
+    "description": "Clearly just a rock that is painted gold."
+  },
+  {
+    "id": "item-0750",
+    "slug": "750-peat-block",
+    "name": "Peat Block",
+    "rawName": "Peat Block",
+    "category": "items or general candidate",
+    "description": "Makes certain species of Pok\u00e9mon evolve."
+  },
+  {
+    "id": "item-0751",
+    "slug": "751-resort-pass",
+    "name": "Resort Pass",
+    "rawName": "Resort Pass",
+    "category": "key items candidate",
+    "description": "A membership pass used to enter Rage Resort."
+  },
+  {
+    "id": "item-0752",
+    "slug": "752-blk-augurite",
+    "name": "Blk Augurite",
+    "rawName": "Blk Augurite",
+    "category": "items or general candidate",
+    "description": "Makes certain species of Pok\u00e9mon evolve."
+  },
+  {
+    "id": "item-0753",
+    "slug": "753-typhlosionite",
+    "name": "Typhlosionite",
+    "rawName": "Typhlosionite",
+    "category": "items or general candidate",
+    "description": "This stone enables Typhlosion to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0754",
+    "slug": "754-meganiumite",
+    "name": "Meganiumite",
+    "rawName": "Meganiumite",
+    "category": "items or general candidate",
+    "description": "This stone enables Meganium to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0755",
+    "slug": "755-feraligatite",
+    "name": "Feraligatite",
+    "rawName": "Feraligatite",
+    "category": "items or general candidate",
+    "description": "This stone enables Feraligatr to Mega Evolve in battle."
+  },
+  {
+    "id": "item-0756",
+    "slug": "756-ruby",
+    "name": "Ruby",
+    "rawName": "Ruby",
+    "category": "key items candidate",
+    "description": "An exquisite, red- glowing gem that symbolizes passion."
+  },
+  {
+    "id": "item-0757",
+    "slug": "757-sapphire",
+    "name": "Sapphire",
+    "rawName": "Sapphire",
+    "category": "key items candidate",
+    "description": "A brilliant blue gem that symbolizes honesty."
+  }
+]

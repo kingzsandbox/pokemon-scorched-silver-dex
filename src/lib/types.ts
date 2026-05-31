@@ -1,0 +1,307 @@
+export type DexEntryId = string;
+export type PokemonId = DexEntryId;
+export type LocationId = DexEntryId;
+export type ItemId = DexEntryId;
+export type MoveId = DexEntryId;
+export type MachineId = DexEntryId;
+export type LearnsetId = DexEntryId;
+export type TrainerId = DexEntryId;
+export type LevelCapId = DexEntryId;
+export type PickupEntryId = DexEntryId;
+export type AbilityId = DexEntryId;
+
+export interface NamedEntry {
+  id: DexEntryId;
+  slug: string;
+  name: string;
+}
+
+export interface BaseStats {
+  hp: number;
+  attack: number;
+  defense: number;
+  specialAttack: number;
+  specialDefense: number;
+  speed: number;
+}
+
+export interface PokemonAbilitySlots {
+  ability1: string | null;
+  ability2: string | null;
+  hiddenAbility: string | null;
+}
+
+export interface PokemonEntry extends NamedEntry {
+  dexNumber: number;
+  types: string[];
+  baseStats: BaseStats;
+  abilities: string[];
+  abilitySlots?: PokemonAbilitySlots;
+  changeSummary: string;
+}
+
+export interface LocationEntry extends NamedEntry {
+  region: string;
+  description: string;
+}
+
+export interface ItemEntry extends NamedEntry {
+  category: string;
+  description: string;
+}
+
+export interface AbilityEntry extends NamedEntry {
+  description: string;
+  source: "mod" | "vanilla";
+}
+
+export type MoveStatus = "usable" | "reduced" | "removed";
+
+export interface MoveEntry extends NamedEntry {
+  type: string | null;
+  category: string | null;
+  power: number | null;
+  accuracy: number | null;
+  pp: number | null;
+  status: MoveStatus;
+  notes: string | null;
+}
+
+export interface AbilitySlotReference {
+  ability1: string | null;
+  ability2: string | null;
+  hiddenAbility: string | null;
+}
+
+export interface VanillaPokemonReference {
+  pokemonId: PokemonId;
+  sourceName: string;
+  baseStats: BaseStats;
+  abilitySlots: AbilitySlotReference;
+}
+
+export interface VanillaMoveReference {
+  moveId: MoveId;
+  effectSummary: string | null;
+  sourceUrl: string | null;
+}
+
+export interface PokemonEvolutionLink {
+  id: DexEntryId;
+  fromPokemonId: PokemonId;
+  toPokemonId: PokemonId;
+  method: string;
+}
+
+export type MachineKind = "tm" | "hm" | "mt";
+
+export interface MachineEntry extends NamedEntry {
+  code: string;
+  kind: MachineKind;
+  moveId: MoveId | null;
+  location: string | null;
+}
+
+export interface MoveCompatibilityEntry {
+  id: DexEntryId;
+  pokemonId: PokemonId;
+  machineId: MachineId;
+  moveId: MoveId | null;
+}
+
+export type LearnsetMethod = "level-up";
+
+export interface LearnsetEntry {
+  id: LearnsetId;
+  pokemonId: PokemonId;
+  moveId: MoveId | null;
+  moveName: string;
+  method: LearnsetMethod;
+  level: number | null;
+}
+
+export interface EncounterEntry {
+  id: DexEntryId;
+  locationId: LocationId;
+  pokemonId: PokemonId;
+  method: string;
+  minLevel: number;
+  maxLevel: number;
+  rate: number;
+  rawSpecies?: string;
+  heldItem?: string | null;
+  heldItems?: EncounterHeldItemDetail[];
+  sourceReference?: string | null;
+  sourceMethodFill?: string | null;
+}
+
+export interface DocumentedPokemonLocationEntry {
+  id: DexEntryId;
+  pokemonId: PokemonId;
+  pokemonName: string;
+  locationId: LocationId;
+  parentName: string;
+  areaLabel: string;
+  method: string;
+  sourceText: string;
+  sourceReference: string;
+}
+
+export interface EncounterHeldItemDetail {
+  itemName: string;
+  chanceLabel: string;
+  chanceValue: number | null;
+}
+
+export interface ItemLocationEntry {
+  id: DexEntryId;
+  itemId: ItemId;
+  locationId: LocationId;
+  notes: string;
+}
+
+export type SearchResultType =
+  | "pokemon"
+  | "location"
+  | "item"
+  | "move"
+  | "machine"
+  | "move_tutor"
+  | "ability"
+  | "trainer"
+  | "system";
+
+export interface SearchResult {
+  id: DexEntryId;
+  type: SearchResultType;
+  title: string;
+  subtitle: string;
+  slug: string;
+}
+
+export interface LocatedItem {
+  itemLocationId: DexEntryId;
+  locationId: LocationId;
+  notes: string;
+  item: ItemEntry;
+}
+
+export interface ItemLocationReference {
+  itemLocationId: DexEntryId;
+  notes: string;
+  location: LocationEntry;
+}
+
+export interface LocationAcquisitionEntry {
+  locationName: string;
+  mapGroup: number | null;
+  mapNumber: number | null;
+  shops: Array<{
+    shopId: string;
+    inventoryItems: Array<{
+      itemId: number;
+      itemName: string;
+    }>;
+    extractionConfidence: string | null;
+  }>;
+  staticGiftPokemon: Array<{
+    acquisitionId: string;
+    speciesId: number;
+    speciesName: string;
+    level: number | null;
+    extractionConfidence: string | null;
+  }>;
+  moveTutors: Array<{
+    tutorId: number;
+    moveId: number;
+    moveName: string;
+    requirementType: string | null;
+    conditionTextCandidate: string | null;
+    requirementConfidence: string | null;
+  }>;
+  scriptRewards: Array<{
+    rewardId: string;
+    rewardType: string;
+    itemId: number | null;
+    itemName: string | null;
+    quantity: number | null;
+    extractionConfidence: string | null;
+  }>;
+}
+
+export interface PokemonMachineCompatibility {
+  compatibilityId: DexEntryId;
+  machine: MachineEntry;
+}
+
+export interface PokemonAbilityDisplayRow {
+  label: "Ability 1" | "Ability 2" | "Hidden Ability";
+  value: string;
+}
+
+export interface PokemonStatDisplayRow {
+  label: string;
+  value: number;
+  delta: number | null;
+}
+
+export interface MoveMachineLink {
+  machine: MachineEntry;
+  compatiblePokemonIds: PokemonId[];
+}
+
+export interface PokemonLearnsetMove {
+  learnsetId: LearnsetId;
+  moveId: MoveId | null;
+  moveName: string;
+  method: LearnsetMethod;
+  level: number | null;
+}
+
+export interface MoveLearnsetLink {
+  learnsetId: LearnsetId;
+  pokemonId: PokemonId;
+  level: number | null;
+}
+
+export type TrainerRuleset = "singles" | "doubles";
+export type TrainerSource = "xy-trainers" | "restaurants" | "battle-chateau";
+export type TrainerBattleFormat = "single" | "double" | null;
+
+export interface TrainerPokemonEntry {
+  slot: number;
+  pokemonId: PokemonId | null;
+  pokemonName: string;
+  level: number | null;
+  gender: string | null;
+  ability: string | null;
+  heldItem: string | null;
+  moves: string[];
+}
+
+export interface TrainerEntry extends NamedEntry {
+  indexNumber: number | null;
+  location: string;
+  section: string | null;
+  source: TrainerSource;
+  ruleset: TrainerRuleset;
+  format: TrainerBattleFormat;
+  trainerClass: string | null;
+  team: TrainerPokemonEntry[];
+}
+
+export interface LevelCapEntry extends NamedEntry {
+  trainer: string;
+  location: string;
+  level: number;
+  pokemonCount: string;
+}
+
+export type PickupTableType = "common" | "rare";
+
+export interface PickupEntry extends NamedEntry {
+  table: PickupTableType;
+  rateLabel: string;
+  itemId: ItemId | null;
+  itemName: string;
+}

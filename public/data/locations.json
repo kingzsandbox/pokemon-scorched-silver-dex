@@ -1,0 +1,2791 @@
+[
+  {
+    "id": "location-doc-azalea-gym",
+    "slug": "doc-azalea-gym",
+    "name": "Azalea gym",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-azalea-house-karate-guy",
+    "slug": "doc-azalea-house-karate-guy",
+    "name": "Azalea house karate guy",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-blackthorn-beldum-held-item",
+    "slug": "doc-blackthorn-beldum-held-item",
+    "name": "Blackthorn Beldum Held Item",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-blackthorn-city-girl",
+    "slug": "doc-blackthorn-city-girl",
+    "name": "Blackthorn City girl",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-blackthorn-city-old-man",
+    "slug": "doc-blackthorn-city-old-man",
+    "name": "Blackthorn City old man",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-blackthorn-gym",
+    "slug": "doc-blackthorn-gym",
+    "name": "Blackthorn gym",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-burned-tower",
+    "slug": "doc-burned-tower",
+    "name": "Burned Tower",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-cherrygrove",
+    "slug": "doc-cherrygrove",
+    "name": "Cherrygrove",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-cherrygrove-house",
+    "slug": "doc-cherrygrove-house",
+    "name": "Cherrygrove house",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-cherrygrove-nerdy-guy",
+    "slug": "doc-cherrygrove-nerdy-guy",
+    "name": "Cherrygrove Nerdy Guy",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-cianwood-gym",
+    "slug": "doc-cianwood-gym",
+    "name": "Cianwood gym",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-cianwood-north-house",
+    "slug": "doc-cianwood-north-house",
+    "name": "Cianwood north house",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-cianwood-riolu-held-item",
+    "slug": "doc-cianwood-riolu-held-item",
+    "name": "Cianwood Riolu Held Item",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-dark-cave",
+    "slug": "doc-dark-cave",
+    "name": "Dark cave",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-dark-cave-north",
+    "slug": "doc-dark-cave-north",
+    "name": "dark cave north",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-darkoal-town-old-woman",
+    "slug": "doc-darkoal-town-old-woman",
+    "name": "Darkoal Town Old Woman",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-darkoal-town-trivia-game",
+    "slug": "doc-darkoal-town-trivia-game",
+    "name": "Darkoal Town Trivia Game",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-ecruteak-city",
+    "slug": "doc-ecruteak-city",
+    "name": "Ecruteak city",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-ecruteak-city-house",
+    "slug": "doc-ecruteak-city-house",
+    "name": "Ecruteak city house",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-ecruteak-gym",
+    "slug": "doc-ecruteak-gym",
+    "name": "Ecruteak gym",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-ecruteak-phoenix-base",
+    "slug": "doc-ecruteak-phoenix-base",
+    "name": "Ecruteak phoenix base",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-from-dad-phoenix-hideout",
+    "slug": "doc-from-dad-phoenix-hideout",
+    "name": "From Dad phoenix hideout",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-from-oliver-in-ruins-of-alph",
+    "slug": "doc-from-oliver-in-ruins-of-alph",
+    "name": "From Oliver in ruins of alph",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-goldenrod-department-store",
+    "slug": "doc-goldenrod-department-store",
+    "name": "Goldenrod Department Store",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-goldenrod-gym",
+    "slug": "doc-goldenrod-gym",
+    "name": "Goldenrod gym",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-goldenrod-phoenix-base",
+    "slug": "doc-goldenrod-phoenix-base",
+    "name": "Goldenrod phoenix base",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-goldenrod-sewer",
+    "slug": "doc-goldenrod-sewer",
+    "name": "Goldenrod sewer",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-goldenrod-top-left-house",
+    "slug": "doc-goldenrod-top-left-house",
+    "name": "Goldenrod top left house",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-ice-path",
+    "slug": "doc-ice-path",
+    "name": "Ice path",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-ilex-forest",
+    "slug": "doc-ilex-forest",
+    "name": "Ilex forest",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-kimono-girl-ecruteak",
+    "slug": "doc-kimono-girl-ecruteak",
+    "name": "Kimono girl ecruteak",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-kizu-forest",
+    "slug": "doc-kizu-forest",
+    "name": "Kizu forest",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-lazulan-city-festival",
+    "slug": "doc-lazulan-city-festival",
+    "name": "Lazulan City Festival",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-lazulan-city-lab",
+    "slug": "doc-lazulan-city-lab",
+    "name": "Lazulan City Lab",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-lighthouse-top",
+    "slug": "doc-lighthouse-top",
+    "name": "Lighthouse top",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-mahogany-gym",
+    "slug": "doc-mahogany-gym",
+    "name": "Mahogany gym",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-mt-mortar",
+    "slug": "doc-mt-mortar",
+    "name": "mt mortar",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-mt-silver-cave",
+    "slug": "doc-mt-silver-cave",
+    "name": "Mt. Silver Cave",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-mt-tempest",
+    "slug": "doc-mt-tempest",
+    "name": "Mt. Tempest",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-national-park",
+    "slug": "doc-national-park",
+    "name": "National Park",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-olivine-gym",
+    "slug": "doc-olivine-gym",
+    "name": "Olivine gym",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-olivine-karrablast-held-item",
+    "slug": "doc-olivine-karrablast-held-item",
+    "name": "Olivine Karrablast Held Item",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-olivine-shelmet-held-item",
+    "slug": "doc-olivine-shelmet-held-item",
+    "name": "Olivine Shelmet Held Item",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-olivine-sweet-shop",
+    "slug": "doc-olivine-sweet-shop",
+    "name": "Olivine Sweet Shop",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-olivine-sweet-shop-beauty",
+    "slug": "doc-olivine-sweet-shop-beauty",
+    "name": "Olivine Sweet Shop Beauty",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-rage-resort-hideout",
+    "slug": "doc-rage-resort-hideout",
+    "name": "Rage Resort Hideout",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-roujem-city-scary-story-woman",
+    "slug": "doc-roujem-city-scary-story-woman",
+    "name": "Roujem City Scary Story Woman",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-roujem-city-shipyard",
+    "slug": "doc-roujem-city-shipyard",
+    "name": "Roujem City Shipyard",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-roujem-city-stalker-girl",
+    "slug": "doc-roujem-city-stalker-girl",
+    "name": "Roujem City Stalker Girl",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-route-27",
+    "slug": "doc-route-27",
+    "name": "Route 27",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-route-28",
+    "slug": "doc-route-28",
+    "name": "Route 28",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-route-30",
+    "slug": "doc-route-30",
+    "name": "Route 30",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-route-31",
+    "slug": "doc-route-31",
+    "name": "Route 31",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-route-32",
+    "slug": "doc-route-32",
+    "name": "Route 32",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-route-32-woman",
+    "slug": "doc-route-32-woman",
+    "name": "Route 32 woman",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-route-34",
+    "slug": "doc-route-34",
+    "name": "Route 34",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-route-35",
+    "slug": "doc-route-35",
+    "name": "Route 35",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-route-35-fisherman",
+    "slug": "doc-route-35-fisherman",
+    "name": "Route 35 fisherman",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-route-38",
+    "slug": "doc-route-38",
+    "name": "Route 38",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-route-41",
+    "slug": "doc-route-41",
+    "name": "Route 41",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-route-42-hidden-item",
+    "slug": "doc-route-42-hidden-item",
+    "name": "Route 42 Hidden Item",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-route-45",
+    "slug": "doc-route-45",
+    "name": "Route 45",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-route-46",
+    "slug": "doc-route-46",
+    "name": "Route 46",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-route-d",
+    "slug": "doc-route-d",
+    "name": "Route D",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-route-e",
+    "slug": "doc-route-e",
+    "name": "Route E",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-ruins-of-alph",
+    "slug": "doc-ruins-of-alph",
+    "name": "Ruins of alph",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-safari-zone",
+    "slug": "doc-safari-zone",
+    "name": "Safari zone",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-safari-zone-entrance",
+    "slug": "doc-safari-zone-entrance",
+    "name": "Safari Zone Entrance",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-slowpoke-well",
+    "slug": "doc-slowpoke-well",
+    "name": "Slowpoke well",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-tohjo-falls",
+    "slug": "doc-tohjo-falls",
+    "name": "Tohjo Falls",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-union-cave",
+    "slug": "doc-union-cave",
+    "name": "Union cave",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-violet-city",
+    "slug": "doc-violet-city",
+    "name": "Violet City",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-violet-city-cut-tree",
+    "slug": "doc-violet-city-cut-tree",
+    "name": "Violet city, cut tree",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-violet-gym",
+    "slug": "doc-violet-gym",
+    "name": "Violet gym",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-doc-violet-rockruff-held-item",
+    "slug": "doc-violet-rockruff-held-item",
+    "name": "Violet Rockruff Held Item",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-violet-teacher",
+    "slug": "doc-violet-teacher",
+    "name": "Violet Teacher",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached location/item references; not a ROM map assertion."
+  },
+  {
+    "id": "location-doc-whirl-islands",
+    "slug": "doc-whirl-islands",
+    "name": "Whirl Islands",
+    "region": "Documentation",
+    "description": "Documentation-backed location note from attached item-location reference; not a ROM map-group assertion."
+  },
+  {
+    "id": "location-g00-m000",
+    "slug": "azalea-town-g00-m000",
+    "name": "Azalea Town",
+    "mapGroup": 0,
+    "mapNumber": 0,
+    "region": "Map group 0",
+    "description": "ROM map section: Azalea Town."
+  },
+  {
+    "id": "location-g00-m001",
+    "slug": "goldenrod-city-g00-m001",
+    "name": "Goldenrod City",
+    "mapGroup": 0,
+    "mapNumber": 1,
+    "region": "Map group 0",
+    "description": "ROM map section: Goldenrod City."
+  },
+  {
+    "id": "location-g00-m002",
+    "slug": "ecruteak-city-g00-m002",
+    "name": "Ecruteak City",
+    "mapGroup": 0,
+    "mapNumber": 2,
+    "region": "Map group 0",
+    "description": "ROM map section: Ecruteak City."
+  },
+  {
+    "id": "location-g00-m003",
+    "slug": "violet-city-g00-m003",
+    "name": "Violet City",
+    "mapGroup": 0,
+    "mapNumber": 3,
+    "region": "Map group 0",
+    "description": "ROM map section: Violet City."
+  },
+  {
+    "id": "location-g00-m004",
+    "slug": "olivine-city-g00-m004",
+    "name": "Olivine City",
+    "mapGroup": 0,
+    "mapNumber": 4,
+    "region": "Map group 0",
+    "description": "ROM map section: Olivine City."
+  },
+  {
+    "id": "location-g00-m005",
+    "slug": "darkoal-town-g00-m005",
+    "name": "Darkoal Town",
+    "mapGroup": 0,
+    "mapNumber": 5,
+    "region": "Map group 0",
+    "description": "ROM map section: Darkoal Town."
+  },
+  {
+    "id": "location-g00-m006",
+    "slug": "roujem-city-g00-m006",
+    "name": "Roujem City",
+    "mapGroup": 0,
+    "mapNumber": 6,
+    "region": "Map group 0",
+    "description": "ROM map section: Roujem City."
+  },
+  {
+    "id": "location-g00-m007",
+    "slug": "lazulan-city-g00-m007",
+    "name": "Lazulan City",
+    "mapGroup": 0,
+    "mapNumber": 7,
+    "region": "Map group 0",
+    "description": "ROM map section: Lazulan City."
+  },
+  {
+    "id": "location-g00-m008",
+    "slug": "indigo-plateau-g00-m008",
+    "name": "Indigo Plateau",
+    "mapGroup": 0,
+    "mapNumber": 8,
+    "region": "Map group 0",
+    "description": "ROM map section: Indigo Plateau."
+  },
+  {
+    "id": "location-g00-m009",
+    "slug": "new-bark-town-g00-m009",
+    "name": "New Bark Town",
+    "mapGroup": 0,
+    "mapNumber": 9,
+    "region": "Map group 0",
+    "description": "ROM map section: New Bark Town."
+  },
+  {
+    "id": "location-g00-m010",
+    "slug": "cherrygrove-city-g00-m010",
+    "name": "Cherrygrove City",
+    "mapGroup": 0,
+    "mapNumber": 10,
+    "region": "Map group 0",
+    "description": "ROM map section: Cherrygrove City."
+  },
+  {
+    "id": "location-g00-m011",
+    "slug": "mt-silver-g00-m011",
+    "name": "Mt. Silver",
+    "mapGroup": 0,
+    "mapNumber": 11,
+    "region": "Map group 0",
+    "description": "ROM map section: Mt. Silver."
+  },
+  {
+    "id": "location-g00-m012",
+    "slug": "cianwood-city-g00-m012",
+    "name": "Cianwood City",
+    "mapGroup": 0,
+    "mapNumber": 12,
+    "region": "Map group 0",
+    "description": "ROM map section: Cianwood City."
+  },
+  {
+    "id": "location-g00-m013",
+    "slug": "mahogany-town-g00-m013",
+    "name": "Mahogany Town",
+    "mapGroup": 0,
+    "mapNumber": 13,
+    "region": "Map group 0",
+    "description": "ROM map section: Mahogany Town."
+  },
+  {
+    "id": "location-g00-m014",
+    "slug": "blackthorn-city-g00-m014",
+    "name": "Blackthorn City",
+    "mapGroup": 0,
+    "mapNumber": 14,
+    "region": "Map group 0",
+    "description": "ROM map section: Blackthorn City."
+  },
+  {
+    "id": "location-g00-m015",
+    "slug": "apricotta-beach-g00-m015",
+    "name": "Apricotta Beach",
+    "mapGroup": 0,
+    "mapNumber": 15,
+    "region": "Map group 0",
+    "description": "ROM map section: Apricotta Beach."
+  },
+  {
+    "id": "location-g00-m016",
+    "slug": "route-29-g00-m016",
+    "name": "Route 29",
+    "mapGroup": 0,
+    "mapNumber": 16,
+    "region": "Map group 0",
+    "description": "ROM map section: Route 29."
+  },
+  {
+    "id": "location-g00-m017",
+    "slug": "route-30-g00-m017",
+    "name": "Route 30",
+    "mapGroup": 0,
+    "mapNumber": 17,
+    "region": "Map group 0",
+    "description": "ROM map section: Route 30."
+  },
+  {
+    "id": "location-g00-m018",
+    "slug": "route-46-g00-m018",
+    "name": "Route 46",
+    "mapGroup": 0,
+    "mapNumber": 18,
+    "region": "Map group 0",
+    "description": "ROM map section: Route 46."
+  },
+  {
+    "id": "location-g00-m019",
+    "slug": "route-32-g00-m019",
+    "name": "Route 32",
+    "mapGroup": 0,
+    "mapNumber": 19,
+    "region": "Map group 0",
+    "description": "ROM map section: Route 32."
+  },
+  {
+    "id": "location-g00-m020",
+    "slug": "route-37-g00-m020",
+    "name": "Route 37",
+    "mapGroup": 0,
+    "mapNumber": 20,
+    "region": "Map group 0",
+    "description": "ROM map section: Route 37."
+  },
+  {
+    "id": "location-g00-m021",
+    "slug": "route-31-g00-m021",
+    "name": "Route 31",
+    "mapGroup": 0,
+    "mapNumber": 21,
+    "region": "Map group 0",
+    "description": "ROM map section: Route 31."
+  },
+  {
+    "id": "location-g00-m022",
+    "slug": "route-36-g00-m022",
+    "name": "Route 36",
+    "mapGroup": 0,
+    "mapNumber": 22,
+    "region": "Map group 0",
+    "description": "ROM map section: Route 36."
+  },
+  {
+    "id": "location-g00-m023",
+    "slug": "route-33-g00-m023",
+    "name": "Route 33",
+    "mapGroup": 0,
+    "mapNumber": 23,
+    "region": "Map group 0",
+    "description": "ROM map section: Route 33."
+  },
+  {
+    "id": "location-g00-m024",
+    "slug": "route-39-g00-m024",
+    "name": "Route 39",
+    "mapGroup": 0,
+    "mapNumber": 24,
+    "region": "Map group 0",
+    "description": "ROM map section: Route 39."
+  },
+  {
+    "id": "location-g00-m025",
+    "slug": "rage-resort-g00-m025",
+    "name": "Rage Resort",
+    "mapGroup": 0,
+    "mapNumber": 25,
+    "region": "Map group 0",
+    "description": "ROM map section: Rage Resort."
+  },
+  {
+    "id": "location-g00-m026",
+    "slug": "mt-tempest-g00-m026",
+    "name": "Mt. Tempest",
+    "mapGroup": 0,
+    "mapNumber": 26,
+    "region": "Map group 0",
+    "description": "ROM map section: Mt. Tempest."
+  },
+  {
+    "id": "location-g00-m027",
+    "slug": "route-38-g00-m027",
+    "name": "Route 38",
+    "mapGroup": 0,
+    "mapNumber": 27,
+    "region": "Map group 0",
+    "description": "ROM map section: Route 38."
+  },
+  {
+    "id": "location-g00-m028",
+    "slug": "route-42-g00-m028",
+    "name": "Route 42",
+    "mapGroup": 0,
+    "mapNumber": 28,
+    "region": "Map group 0",
+    "description": "ROM map section: Route 42."
+  },
+  {
+    "id": "location-g00-m029",
+    "slug": "route-45-g00-m029",
+    "name": "Route 45",
+    "mapGroup": 0,
+    "mapNumber": 29,
+    "region": "Map group 0",
+    "description": "ROM map section: Route 45."
+  },
+  {
+    "id": "location-g00-m030",
+    "slug": "national-park-g00-m030",
+    "name": "National Park",
+    "mapGroup": 0,
+    "mapNumber": 30,
+    "region": "Map group 0",
+    "description": "ROM map section: National Park."
+  },
+  {
+    "id": "location-g00-m031",
+    "slug": "safari-entrance-g00-m031",
+    "name": "Safari Entrance",
+    "mapGroup": 0,
+    "mapNumber": 31,
+    "region": "Map group 0",
+    "description": "ROM map section: Safari Entrance."
+  },
+  {
+    "id": "location-g00-m032",
+    "slug": "route-34-g00-m032",
+    "name": "Route 34",
+    "mapGroup": 0,
+    "mapNumber": 32,
+    "region": "Map group 0",
+    "description": "ROM map section: Route 34."
+  },
+  {
+    "id": "location-g00-m033",
+    "slug": "route-35-g00-m033",
+    "name": "Route 35",
+    "mapGroup": 0,
+    "mapNumber": 33,
+    "region": "Map group 0",
+    "description": "ROM map section: Route 35."
+  },
+  {
+    "id": "location-g00-m034",
+    "slug": "route-27-g00-m034",
+    "name": "Route 27",
+    "mapGroup": 0,
+    "mapNumber": 34,
+    "region": "Map group 0",
+    "description": "ROM map section: Route 27."
+  },
+  {
+    "id": "location-g00-m035",
+    "slug": "route-26-g00-m035",
+    "name": "Route 26",
+    "mapGroup": 0,
+    "mapNumber": 35,
+    "region": "Map group 0",
+    "description": "ROM map section: Route 26."
+  },
+  {
+    "id": "location-g00-m036",
+    "slug": "route-d-g00-m036",
+    "name": "Route D",
+    "mapGroup": 0,
+    "mapNumber": 36,
+    "region": "Map group 0",
+    "description": "ROM map section: Route D."
+  },
+  {
+    "id": "location-g00-m037",
+    "slug": "kizu-forest-g00-m037",
+    "name": "Kizu Forest",
+    "mapGroup": 0,
+    "mapNumber": 37,
+    "region": "Map group 0",
+    "description": "ROM map section: Kizu Forest."
+  },
+  {
+    "id": "location-g00-m038",
+    "slug": "route-e-g00-m038",
+    "name": "Route E",
+    "mapGroup": 0,
+    "mapNumber": 38,
+    "region": "Map group 0",
+    "description": "ROM map section: Route E."
+  },
+  {
+    "id": "location-g00-m039",
+    "slug": "route-41-g00-m039",
+    "name": "Route 41",
+    "mapGroup": 0,
+    "mapNumber": 39,
+    "region": "Map group 0",
+    "description": "ROM map section: Route 41."
+  },
+  {
+    "id": "location-g00-m040",
+    "slug": "route-40-g00-m040",
+    "name": "Route 40",
+    "mapGroup": 0,
+    "mapNumber": 40,
+    "region": "Map group 0",
+    "description": "ROM map section: Route 40."
+  },
+  {
+    "id": "location-g00-m041",
+    "slug": "route-f-g00-m041",
+    "name": "Route F",
+    "mapGroup": 0,
+    "mapNumber": 41,
+    "region": "Map group 0",
+    "description": "ROM map section: Route F."
+  },
+  {
+    "id": "location-g00-m042",
+    "slug": "route-44-g00-m042",
+    "name": "Route 44",
+    "mapGroup": 0,
+    "mapNumber": 42,
+    "region": "Map group 0",
+    "description": "ROM map section: Route 44."
+  },
+  {
+    "id": "location-g00-m043",
+    "slug": "route-a-g00-m043",
+    "name": "Route A",
+    "mapGroup": 0,
+    "mapNumber": 43,
+    "region": "Map group 0",
+    "description": "ROM map section: Route A."
+  },
+  {
+    "id": "location-g00-m044",
+    "slug": "route-43-g00-m044",
+    "name": "Route 43",
+    "mapGroup": 0,
+    "mapNumber": 44,
+    "region": "Map group 0",
+    "description": "ROM map section: Route 43."
+  },
+  {
+    "id": "location-g00-m045",
+    "slug": "route-28-g00-m045",
+    "name": "Route 28",
+    "mapGroup": 0,
+    "mapNumber": 45,
+    "region": "Map group 0",
+    "description": "ROM map section: Route 28."
+  },
+  {
+    "id": "location-g00-m046",
+    "slug": "route-b-g00-m046",
+    "name": "Route B",
+    "mapGroup": 0,
+    "mapNumber": 46,
+    "region": "Map group 0",
+    "description": "ROM map section: Route B."
+  },
+  {
+    "id": "location-g00-m047",
+    "slug": "route-c-g00-m047",
+    "name": "Route C",
+    "mapGroup": 0,
+    "mapNumber": 47,
+    "region": "Map group 0",
+    "description": "ROM map section: Route C."
+  },
+  {
+    "id": "location-g00-m048",
+    "slug": "route-g-g00-m048",
+    "name": "Route G",
+    "mapGroup": 0,
+    "mapNumber": 48,
+    "region": "Map group 0",
+    "description": "ROM map section: Route G."
+  },
+  {
+    "id": "location-g00-m049",
+    "slug": "goldenvine-sea-g00-m049",
+    "name": "Goldenvine Sea",
+    "mapGroup": 0,
+    "mapNumber": 49,
+    "region": "Map group 0",
+    "description": "ROM map section: Goldenvine Sea."
+  },
+  {
+    "id": "location-g00-m050",
+    "slug": "underwater-g00-m050",
+    "name": "Underwater",
+    "mapGroup": 0,
+    "mapNumber": 50,
+    "region": "Map group 0",
+    "description": "ROM map section: Underwater."
+  },
+  {
+    "id": "location-g00-m051",
+    "slug": "underwater-g00-m051",
+    "name": "Underwater",
+    "mapGroup": 0,
+    "mapNumber": 51,
+    "region": "Map group 0",
+    "description": "ROM map section: Underwater."
+  },
+  {
+    "id": "location-g00-m052",
+    "slug": "underwater-g00-m052",
+    "name": "Underwater",
+    "mapGroup": 0,
+    "mapNumber": 52,
+    "region": "Map group 0",
+    "description": "ROM map section: Underwater."
+  },
+  {
+    "id": "location-g00-m053",
+    "slug": "underwater-g00-m053",
+    "name": "Underwater",
+    "mapGroup": 0,
+    "mapNumber": 53,
+    "region": "Map group 0",
+    "description": "ROM map section: Underwater."
+  },
+  {
+    "id": "location-g00-m054",
+    "slug": "underwater-g00-m054",
+    "name": "Underwater",
+    "mapGroup": 0,
+    "mapNumber": 54,
+    "region": "Map group 0",
+    "description": "ROM map section: Underwater."
+  },
+  {
+    "id": "location-g00-m055",
+    "slug": "underwater-g00-m055",
+    "name": "Underwater",
+    "mapGroup": 0,
+    "mapNumber": 55,
+    "region": "Map group 0",
+    "description": "ROM map section: Underwater."
+  },
+  {
+    "id": "location-g00-m056",
+    "slug": "underwater-g00-m056",
+    "name": "Underwater",
+    "mapGroup": 0,
+    "mapNumber": 56,
+    "region": "Map group 0",
+    "description": "ROM map section: Underwater."
+  },
+  {
+    "id": "location-g01-m001",
+    "slug": "new-bark-town-g01-m001",
+    "name": "New Bark Town",
+    "mapGroup": 1,
+    "mapNumber": 1,
+    "region": "Map group 1",
+    "description": "ROM map section: New Bark Town."
+  },
+  {
+    "id": "location-g02-m001",
+    "slug": "cherrygrove-city-g02-m001",
+    "name": "Cherrygrove City",
+    "mapGroup": 2,
+    "mapNumber": 1,
+    "region": "Map group 2",
+    "description": "ROM map section: Cherrygrove City."
+  },
+  {
+    "id": "location-g02-m002",
+    "slug": "cherrygrove-city-g02-m002",
+    "name": "Cherrygrove City",
+    "mapGroup": 2,
+    "mapNumber": 2,
+    "region": "Map group 2",
+    "description": "ROM map section: Cherrygrove City."
+  },
+  {
+    "id": "location-g02-m004",
+    "slug": "cherrygrove-city-g02-m004",
+    "name": "Cherrygrove City",
+    "mapGroup": 2,
+    "mapNumber": 4,
+    "region": "Map group 2",
+    "description": "ROM map section: Cherrygrove City."
+  },
+  {
+    "id": "location-g03-m004",
+    "slug": "mahogany-town-g03-m004",
+    "name": "Mahogany Town",
+    "mapGroup": 3,
+    "mapNumber": 4,
+    "region": "Map group 3",
+    "description": "ROM map section: Mahogany Town."
+  },
+  {
+    "id": "location-g04-m001",
+    "slug": "ecruteak-city-g04-m001",
+    "name": "Ecruteak City",
+    "mapGroup": 4,
+    "mapNumber": 1,
+    "region": "Map group 4",
+    "description": "ROM map section: Ecruteak City."
+  },
+  {
+    "id": "location-g04-m003",
+    "slug": "cianwood-city-g04-m003",
+    "name": "Cianwood City",
+    "mapGroup": 4,
+    "mapNumber": 3,
+    "region": "Map group 4",
+    "description": "ROM map section: Cianwood City."
+  },
+  {
+    "id": "location-g04-m004",
+    "slug": "cianwood-city-g04-m004",
+    "name": "Cianwood City",
+    "mapGroup": 4,
+    "mapNumber": 4,
+    "region": "Map group 4",
+    "description": "ROM map section: Cianwood City."
+  },
+  {
+    "id": "location-g04-m005",
+    "slug": "cianwood-city-g04-m005",
+    "name": "Cianwood City",
+    "mapGroup": 4,
+    "mapNumber": 5,
+    "region": "Map group 4",
+    "description": "ROM map section: Cianwood City."
+  },
+  {
+    "id": "location-g05-m000",
+    "slug": "apricotta-beach-g05-m000",
+    "name": "Apricotta Beach",
+    "mapGroup": 5,
+    "mapNumber": 0,
+    "region": "Map group 5",
+    "description": "ROM map section: Apricotta Beach."
+  },
+  {
+    "id": "location-g05-m004",
+    "slug": "mahogany-town-g05-m004",
+    "name": "Mahogany Town",
+    "mapGroup": 5,
+    "mapNumber": 4,
+    "region": "Map group 5",
+    "description": "ROM map section: Mahogany Town."
+  },
+  {
+    "id": "location-g05-m006",
+    "slug": "rage-resort-g05-m006",
+    "name": "Rage Resort",
+    "mapGroup": 5,
+    "mapNumber": 6,
+    "region": "Map group 5",
+    "description": "ROM map section: Rage Resort."
+  },
+  {
+    "id": "location-g05-m007",
+    "slug": "mahogany-town-g05-m007",
+    "name": "Mahogany Town",
+    "mapGroup": 5,
+    "mapNumber": 7,
+    "region": "Map group 5",
+    "description": "ROM map section: Mahogany Town."
+  },
+  {
+    "id": "location-g06-m000",
+    "slug": "blackthorn-city-g06-m000",
+    "name": "Blackthorn City",
+    "mapGroup": 6,
+    "mapNumber": 0,
+    "region": "Map group 6",
+    "description": "ROM map section: Blackthorn City."
+  },
+  {
+    "id": "location-g06-m003",
+    "slug": "blackthorn-city-g06-m003",
+    "name": "Blackthorn City",
+    "mapGroup": 6,
+    "mapNumber": 3,
+    "region": "Map group 6",
+    "description": "ROM map section: Blackthorn City."
+  },
+  {
+    "id": "location-g06-m004",
+    "slug": "blackthorn-city-g06-m004",
+    "name": "Blackthorn City",
+    "mapGroup": 6,
+    "mapNumber": 4,
+    "region": "Map group 6",
+    "description": "ROM map section: Blackthorn City."
+  },
+  {
+    "id": "location-g07-m000",
+    "slug": "apricotta-beach-g07-m000",
+    "name": "Apricotta Beach",
+    "mapGroup": 7,
+    "mapNumber": 0,
+    "region": "Map group 7",
+    "description": "ROM map section: Apricotta Beach."
+  },
+  {
+    "id": "location-g07-m003",
+    "slug": "apricotta-beach-g07-m003",
+    "name": "Apricotta Beach",
+    "mapGroup": 7,
+    "mapNumber": 3,
+    "region": "Map group 7",
+    "description": "ROM map section: Apricotta Beach."
+  },
+  {
+    "id": "location-g07-m007",
+    "slug": "apricotta-beach-g07-m007",
+    "name": "Apricotta Beach",
+    "mapGroup": 7,
+    "mapNumber": 7,
+    "region": "Map group 7",
+    "description": "ROM map section: Apricotta Beach."
+  },
+  {
+    "id": "location-g08-m003",
+    "slug": "azalea-town-g08-m003",
+    "name": "Azalea Town",
+    "mapGroup": 8,
+    "mapNumber": 3,
+    "region": "Map group 8",
+    "description": "ROM map section: Azalea Town."
+  },
+  {
+    "id": "location-g08-m004",
+    "slug": "azalea-town-g08-m004",
+    "name": "Azalea Town",
+    "mapGroup": 8,
+    "mapNumber": 4,
+    "region": "Map group 8",
+    "description": "ROM map section: Azalea Town."
+  },
+  {
+    "id": "location-g08-m006",
+    "slug": "azalea-town-g08-m006",
+    "name": "Azalea Town",
+    "mapGroup": 8,
+    "mapNumber": 6,
+    "region": "Map group 8",
+    "description": "ROM map section: Azalea Town."
+  },
+  {
+    "id": "location-g09-m002",
+    "slug": "goldenrod-city-g09-m002",
+    "name": "Goldenrod City",
+    "mapGroup": 9,
+    "mapNumber": 2,
+    "region": "Map group 9",
+    "description": "ROM map section: Goldenrod City."
+  },
+  {
+    "id": "location-g09-m008",
+    "slug": "cianwood-city-g09-m008",
+    "name": "Cianwood City",
+    "mapGroup": 9,
+    "mapNumber": 8,
+    "region": "Map group 9",
+    "description": "ROM map section: Cianwood City."
+  },
+  {
+    "id": "location-g09-m009",
+    "slug": "goldenrod-city-g09-m009",
+    "name": "Goldenrod City",
+    "mapGroup": 9,
+    "mapNumber": 9,
+    "region": "Map group 9",
+    "description": "ROM map section: Goldenrod City."
+  },
+  {
+    "id": "location-g09-m010",
+    "slug": "goldenrod-city-g09-m010",
+    "name": "Goldenrod City",
+    "mapGroup": 9,
+    "mapNumber": 10,
+    "region": "Map group 9",
+    "description": "ROM map section: Goldenrod City."
+  },
+  {
+    "id": "location-g09-m011",
+    "slug": "goldenrod-city-g09-m011",
+    "name": "Goldenrod City",
+    "mapGroup": 9,
+    "mapNumber": 11,
+    "region": "Map group 9",
+    "description": "ROM map section: Goldenrod City."
+  },
+  {
+    "id": "location-g09-m013",
+    "slug": "darkoal-town-g09-m013",
+    "name": "Darkoal Town",
+    "mapGroup": 9,
+    "mapNumber": 13,
+    "region": "Map group 9",
+    "description": "ROM map section: Darkoal Town."
+  },
+  {
+    "id": "location-g10-m002",
+    "slug": "ecruteak-city-g10-m002",
+    "name": "Ecruteak City",
+    "mapGroup": 10,
+    "mapNumber": 2,
+    "region": "Map group 10",
+    "description": "ROM map section: Ecruteak City."
+  },
+  {
+    "id": "location-g10-m003",
+    "slug": "goldenrod-city-g10-m003",
+    "name": "Goldenrod City",
+    "mapGroup": 10,
+    "mapNumber": 3,
+    "region": "Map group 10",
+    "description": "ROM map section: Goldenrod City."
+  },
+  {
+    "id": "location-g10-m004",
+    "slug": "ecruteak-city-g10-m004",
+    "name": "Ecruteak City",
+    "mapGroup": 10,
+    "mapNumber": 4,
+    "region": "Map group 10",
+    "description": "ROM map section: Ecruteak City."
+  },
+  {
+    "id": "location-g10-m005",
+    "slug": "ecruteak-city-g10-m005",
+    "name": "Ecruteak City",
+    "mapGroup": 10,
+    "mapNumber": 5,
+    "region": "Map group 10",
+    "description": "ROM map section: Ecruteak City."
+  },
+  {
+    "id": "location-g10-m006",
+    "slug": "ecruteak-city-g10-m006",
+    "name": "Ecruteak City",
+    "mapGroup": 10,
+    "mapNumber": 6,
+    "region": "Map group 10",
+    "description": "ROM map section: Ecruteak City."
+  },
+  {
+    "id": "location-g10-m007",
+    "slug": "ecruteak-city-g10-m007",
+    "name": "Ecruteak City",
+    "mapGroup": 10,
+    "mapNumber": 7,
+    "region": "Map group 10",
+    "description": "ROM map section: Ecruteak City."
+  },
+  {
+    "id": "location-g11-m000",
+    "slug": "violet-city-g11-m000",
+    "name": "Violet City",
+    "mapGroup": 11,
+    "mapNumber": 0,
+    "region": "Map group 11",
+    "description": "ROM map section: Violet City."
+  },
+  {
+    "id": "location-g11-m001",
+    "slug": "violet-city-g11-m001",
+    "name": "Violet City",
+    "mapGroup": 11,
+    "mapNumber": 1,
+    "region": "Map group 11",
+    "description": "ROM map section: Violet City."
+  },
+  {
+    "id": "location-g11-m002",
+    "slug": "violet-city-g11-m002",
+    "name": "Violet City",
+    "mapGroup": 11,
+    "mapNumber": 2,
+    "region": "Map group 11",
+    "description": "ROM map section: Violet City."
+  },
+  {
+    "id": "location-g11-m004",
+    "slug": "violet-city-g11-m004",
+    "name": "Violet City",
+    "mapGroup": 11,
+    "mapNumber": 4,
+    "region": "Map group 11",
+    "description": "ROM map section: Violet City."
+  },
+  {
+    "id": "location-g11-m005",
+    "slug": "violet-city-g11-m005",
+    "name": "Violet City",
+    "mapGroup": 11,
+    "mapNumber": 5,
+    "region": "Map group 11",
+    "description": "ROM map section: Violet City."
+  },
+  {
+    "id": "location-g11-m007",
+    "slug": "violet-city-g11-m007",
+    "name": "Violet City",
+    "mapGroup": 11,
+    "mapNumber": 7,
+    "region": "Map group 11",
+    "description": "ROM map section: Violet City."
+  },
+  {
+    "id": "location-g11-m008",
+    "slug": "ruins-of-alph-g11-m008",
+    "name": "Ruins of Alph",
+    "mapGroup": 11,
+    "mapNumber": 8,
+    "region": "Map group 11",
+    "description": "ROM map section: Ruins of Alph."
+  },
+  {
+    "id": "location-g11-m009",
+    "slug": "goldenrod-city-g11-m009",
+    "name": "Goldenrod City",
+    "mapGroup": 11,
+    "mapNumber": 9,
+    "region": "Map group 11",
+    "description": "ROM map section: Goldenrod City."
+  },
+  {
+    "id": "location-g11-m010",
+    "slug": "violet-city-g11-m010",
+    "name": "Violet City",
+    "mapGroup": 11,
+    "mapNumber": 10,
+    "region": "Map group 11",
+    "description": "ROM map section: Violet City."
+  },
+  {
+    "id": "location-g12-m001",
+    "slug": "olivine-city-g12-m001",
+    "name": "Olivine City",
+    "mapGroup": 12,
+    "mapNumber": 1,
+    "region": "Map group 12",
+    "description": "ROM map section: Olivine City."
+  },
+  {
+    "id": "location-g12-m002",
+    "slug": "olivine-city-g12-m002",
+    "name": "Olivine City",
+    "mapGroup": 12,
+    "mapNumber": 2,
+    "region": "Map group 12",
+    "description": "ROM map section: Olivine City."
+  },
+  {
+    "id": "location-g12-m004",
+    "slug": "olivine-city-g12-m004",
+    "name": "Olivine City",
+    "mapGroup": 12,
+    "mapNumber": 4,
+    "region": "Map group 12",
+    "description": "ROM map section: Olivine City."
+  },
+  {
+    "id": "location-g12-m005",
+    "slug": "olivine-city-g12-m005",
+    "name": "Olivine City",
+    "mapGroup": 12,
+    "mapNumber": 5,
+    "region": "Map group 12",
+    "description": "ROM map section: Olivine City."
+  },
+  {
+    "id": "location-g12-m006",
+    "slug": "olivine-city-g12-m006",
+    "name": "Olivine City",
+    "mapGroup": 12,
+    "mapNumber": 6,
+    "region": "Map group 12",
+    "description": "ROM map section: Olivine City."
+  },
+  {
+    "id": "location-g12-m007",
+    "slug": "olivine-city-g12-m007",
+    "name": "Olivine City",
+    "mapGroup": 12,
+    "mapNumber": 7,
+    "region": "Map group 12",
+    "description": "ROM map section: Olivine City."
+  },
+  {
+    "id": "location-g13-m006",
+    "slug": "darkoal-town-g13-m006",
+    "name": "Darkoal Town",
+    "mapGroup": 13,
+    "mapNumber": 6,
+    "region": "Map group 13",
+    "description": "ROM map section: Darkoal Town."
+  },
+  {
+    "id": "location-g13-m015",
+    "slug": "goldenrod-city-g13-m015",
+    "name": "Goldenrod City",
+    "mapGroup": 13,
+    "mapNumber": 15,
+    "region": "Map group 13",
+    "description": "ROM map section: Goldenrod City."
+  },
+  {
+    "id": "location-g13-m016",
+    "slug": "goldenrod-city-g13-m016",
+    "name": "Goldenrod City",
+    "mapGroup": 13,
+    "mapNumber": 16,
+    "region": "Map group 13",
+    "description": "ROM map section: Goldenrod City."
+  },
+  {
+    "id": "location-g13-m017",
+    "slug": "goldenrod-city-g13-m017",
+    "name": "Goldenrod City",
+    "mapGroup": 13,
+    "mapNumber": 17,
+    "region": "Map group 13",
+    "description": "ROM map section: Goldenrod City."
+  },
+  {
+    "id": "location-g13-m018",
+    "slug": "goldenrod-city-g13-m018",
+    "name": "Goldenrod City",
+    "mapGroup": 13,
+    "mapNumber": 18,
+    "region": "Map group 13",
+    "description": "ROM map section: Goldenrod City."
+  },
+  {
+    "id": "location-g13-m019",
+    "slug": "goldenrod-city-g13-m019",
+    "name": "Goldenrod City",
+    "mapGroup": 13,
+    "mapNumber": 19,
+    "region": "Map group 13",
+    "description": "ROM map section: Goldenrod City."
+  },
+  {
+    "id": "location-g14-m001",
+    "slug": "roujem-city-g14-m001",
+    "name": "Roujem City",
+    "mapGroup": 14,
+    "mapNumber": 1,
+    "region": "Map group 14",
+    "description": "ROM map section: Roujem City."
+  },
+  {
+    "id": "location-g14-m002",
+    "slug": "roujem-city-g14-m002",
+    "name": "Roujem City",
+    "mapGroup": 14,
+    "mapNumber": 2,
+    "region": "Map group 14",
+    "description": "ROM map section: Roujem City."
+  },
+  {
+    "id": "location-g14-m003",
+    "slug": "roujem-city-g14-m003",
+    "name": "Roujem City",
+    "mapGroup": 14,
+    "mapNumber": 3,
+    "region": "Map group 14",
+    "description": "ROM map section: Roujem City."
+  },
+  {
+    "id": "location-g14-m004",
+    "slug": "roujem-city-g14-m004",
+    "name": "Roujem City",
+    "mapGroup": 14,
+    "mapNumber": 4,
+    "region": "Map group 14",
+    "description": "ROM map section: Roujem City."
+  },
+  {
+    "id": "location-g14-m005",
+    "slug": "roujem-city-g14-m005",
+    "name": "Roujem City",
+    "mapGroup": 14,
+    "mapNumber": 5,
+    "region": "Map group 14",
+    "description": "ROM map section: Roujem City."
+  },
+  {
+    "id": "location-g14-m009",
+    "slug": "roujem-city-g14-m009",
+    "name": "Roujem City",
+    "mapGroup": 14,
+    "mapNumber": 9,
+    "region": "Map group 14",
+    "description": "ROM map section: Roujem City."
+  },
+  {
+    "id": "location-g15-m000",
+    "slug": "blackthorn-city-g15-m000",
+    "name": "Blackthorn City",
+    "mapGroup": 15,
+    "mapNumber": 0,
+    "region": "Map group 15",
+    "description": "ROM map section: Blackthorn City."
+  },
+  {
+    "id": "location-g15-m002",
+    "slug": "lazulan-city-g15-m002",
+    "name": "Lazulan City",
+    "mapGroup": 15,
+    "mapNumber": 2,
+    "region": "Map group 15",
+    "description": "ROM map section: Lazulan City."
+  },
+  {
+    "id": "location-g15-m004",
+    "slug": "lazulan-city-g15-m004",
+    "name": "Lazulan City",
+    "mapGroup": 15,
+    "mapNumber": 4,
+    "region": "Map group 15",
+    "description": "ROM map section: Lazulan City."
+  },
+  {
+    "id": "location-g15-m005",
+    "slug": "lazulan-city-g15-m005",
+    "name": "Lazulan City",
+    "mapGroup": 15,
+    "mapNumber": 5,
+    "region": "Map group 15",
+    "description": "ROM map section: Lazulan City."
+  },
+  {
+    "id": "location-g15-m006",
+    "slug": "lazulan-city-g15-m006",
+    "name": "Lazulan City",
+    "mapGroup": 15,
+    "mapNumber": 6,
+    "region": "Map group 15",
+    "description": "ROM map section: Lazulan City."
+  },
+  {
+    "id": "location-g15-m007",
+    "slug": "lazulan-city-g15-m007",
+    "name": "Lazulan City",
+    "mapGroup": 15,
+    "mapNumber": 7,
+    "region": "Map group 15",
+    "description": "ROM map section: Lazulan City."
+  },
+  {
+    "id": "location-g15-m008",
+    "slug": "lazulan-city-g15-m008",
+    "name": "Lazulan City",
+    "mapGroup": 15,
+    "mapNumber": 8,
+    "region": "Map group 15",
+    "description": "ROM map section: Lazulan City."
+  },
+  {
+    "id": "location-g15-m009",
+    "slug": "lazulan-city-g15-m009",
+    "name": "Lazulan City",
+    "mapGroup": 15,
+    "mapNumber": 9,
+    "region": "Map group 15",
+    "description": "ROM map section: Lazulan City."
+  },
+  {
+    "id": "location-g15-m010",
+    "slug": "lazulan-city-g15-m010",
+    "name": "Lazulan City",
+    "mapGroup": 15,
+    "mapNumber": 10,
+    "region": "Map group 15",
+    "description": "ROM map section: Lazulan City."
+  },
+  {
+    "id": "location-g15-m011",
+    "slug": "lazulan-city-g15-m011",
+    "name": "Lazulan City",
+    "mapGroup": 15,
+    "mapNumber": 11,
+    "region": "Map group 15",
+    "description": "ROM map section: Lazulan City."
+  },
+  {
+    "id": "location-g15-m012",
+    "slug": "lazulan-city-g15-m012",
+    "name": "Lazulan City",
+    "mapGroup": 15,
+    "mapNumber": 12,
+    "region": "Map group 15",
+    "description": "ROM map section: Lazulan City."
+  },
+  {
+    "id": "location-g16-m010",
+    "slug": "indigo-plateau-g16-m010",
+    "name": "Indigo Plateau",
+    "mapGroup": 16,
+    "mapNumber": 10,
+    "region": "Map group 16",
+    "description": "ROM map section: Indigo Plateau."
+  },
+  {
+    "id": "location-g16-m012",
+    "slug": "route-32-g16-m012",
+    "name": "Route 32",
+    "mapGroup": 16,
+    "mapNumber": 12,
+    "region": "Map group 16",
+    "description": "ROM map section: Route 32."
+  },
+  {
+    "id": "location-g17-m000",
+    "slug": "route-39-g17-m000",
+    "name": "Route 39",
+    "mapGroup": 17,
+    "mapNumber": 0,
+    "region": "Map group 17",
+    "description": "ROM map section: Route 39."
+  },
+  {
+    "id": "location-g17-m001",
+    "slug": "goldenrod-city-g17-m001",
+    "name": "Goldenrod City",
+    "mapGroup": 17,
+    "mapNumber": 1,
+    "region": "Map group 17",
+    "description": "ROM map section: Goldenrod City."
+  },
+  {
+    "id": "location-g18-m000",
+    "slug": "mt-tempest-g18-m000",
+    "name": "Mt. Tempest",
+    "mapGroup": 18,
+    "mapNumber": 0,
+    "region": "Map group 18",
+    "description": "ROM map section: Mt. Tempest."
+  },
+  {
+    "id": "location-g19-m000",
+    "slug": "route-38-g19-m000",
+    "name": "Route 38",
+    "mapGroup": 19,
+    "mapNumber": 0,
+    "region": "Map group 19",
+    "description": "ROM map section: Route 38."
+  },
+  {
+    "id": "location-g19-m001",
+    "slug": "mt-rage-g19-m001",
+    "name": "Mt. Rage",
+    "mapGroup": 19,
+    "mapNumber": 1,
+    "region": "Map group 19",
+    "description": "ROM map section: Mt. Rage."
+  },
+  {
+    "id": "location-g20-m000",
+    "slug": "goldenrod-city-g20-m000",
+    "name": "Goldenrod City",
+    "mapGroup": 20,
+    "mapNumber": 0,
+    "region": "Map group 20",
+    "description": "ROM map section: Goldenrod City."
+  },
+  {
+    "id": "location-g20-m001",
+    "slug": "goldenrod-city-g20-m001",
+    "name": "Goldenrod City",
+    "mapGroup": 20,
+    "mapNumber": 1,
+    "region": "Map group 20",
+    "description": "ROM map section: Goldenrod City."
+  },
+  {
+    "id": "location-g21-m000",
+    "slug": "route-39-g21-m000",
+    "name": "Route 39",
+    "mapGroup": 21,
+    "mapNumber": 0,
+    "region": "Map group 21",
+    "description": "ROM map section: Route 39."
+  },
+  {
+    "id": "location-g24-m000",
+    "slug": "mt-mortar-g24-m000",
+    "name": "Mt. Mortar",
+    "mapGroup": 24,
+    "mapNumber": 0,
+    "region": "Map group 24",
+    "description": "ROM map section: Mt. Mortar."
+  },
+  {
+    "id": "location-g24-m001",
+    "slug": "mt-mortar-g24-m001",
+    "name": "Mt. Mortar",
+    "mapGroup": 24,
+    "mapNumber": 1,
+    "region": "Map group 24",
+    "description": "ROM map section: Mt. Mortar."
+  },
+  {
+    "id": "location-g24-m002",
+    "slug": "mt-mortar-g24-m002",
+    "name": "Mt. Mortar",
+    "mapGroup": 24,
+    "mapNumber": 2,
+    "region": "Map group 24",
+    "description": "ROM map section: Mt. Mortar."
+  },
+  {
+    "id": "location-g24-m003",
+    "slug": "mt-mortar-g24-m003",
+    "name": "Mt. Mortar",
+    "mapGroup": 24,
+    "mapNumber": 3,
+    "region": "Map group 24",
+    "description": "ROM map section: Mt. Mortar."
+  },
+  {
+    "id": "location-g24-m004",
+    "slug": "tohjo-falls-g24-m004",
+    "name": "Tohjo Falls",
+    "mapGroup": 24,
+    "mapNumber": 4,
+    "region": "Map group 24",
+    "description": "ROM map section: Tohjo Falls."
+  },
+  {
+    "id": "location-g24-m007",
+    "slug": "union-cave-g24-m007",
+    "name": "Union Cave",
+    "mapGroup": 24,
+    "mapNumber": 7,
+    "region": "Map group 24",
+    "description": "ROM map section: Union Cave."
+  },
+  {
+    "id": "location-g24-m008",
+    "slug": "union-cave-g24-m008",
+    "name": "Union Cave",
+    "mapGroup": 24,
+    "mapNumber": 8,
+    "region": "Map group 24",
+    "description": "ROM map section: Union Cave."
+  },
+  {
+    "id": "location-g24-m009",
+    "slug": "union-cave-g24-m009",
+    "name": "Union Cave",
+    "mapGroup": 24,
+    "mapNumber": 9,
+    "region": "Map group 24",
+    "description": "ROM map section: Union Cave."
+  },
+  {
+    "id": "location-g24-m010",
+    "slug": "union-cave-g24-m010",
+    "name": "Union Cave",
+    "mapGroup": 24,
+    "mapNumber": 10,
+    "region": "Map group 24",
+    "description": "ROM map section: Union Cave."
+  },
+  {
+    "id": "location-g24-m011",
+    "slug": "ilex-forest-g24-m011",
+    "name": "Ilex Forest",
+    "mapGroup": 24,
+    "mapNumber": 11,
+    "region": "Map group 24",
+    "description": "ROM map section: Ilex Forest."
+  },
+  {
+    "id": "location-g24-m013",
+    "slug": "mt-rage-g24-m013",
+    "name": "Mt. Rage",
+    "mapGroup": 24,
+    "mapNumber": 13,
+    "region": "Map group 24",
+    "description": "ROM map section: Mt. Rage."
+  },
+  {
+    "id": "location-g24-m014",
+    "slug": "seared-cave-g24-m014",
+    "name": "Seared Cave",
+    "mapGroup": 24,
+    "mapNumber": 14,
+    "region": "Map group 24",
+    "description": "ROM map section: Seared Cave."
+  },
+  {
+    "id": "location-g24-m016",
+    "slug": "ruins-of-alph-g24-m016",
+    "name": "Ruins of Alph",
+    "mapGroup": 24,
+    "mapNumber": 16,
+    "region": "Map group 24",
+    "description": "ROM map section: Ruins of Alph."
+  },
+  {
+    "id": "location-g24-m017",
+    "slug": "ruins-of-alph-g24-m017",
+    "name": "Ruins of Alph",
+    "mapGroup": 24,
+    "mapNumber": 17,
+    "region": "Map group 24",
+    "description": "ROM map section: Ruins of Alph."
+  },
+  {
+    "id": "location-g24-m018",
+    "slug": "ruins-of-alph-g24-m018",
+    "name": "Ruins of Alph",
+    "mapGroup": 24,
+    "mapNumber": 18,
+    "region": "Map group 24",
+    "description": "ROM map section: Ruins of Alph."
+  },
+  {
+    "id": "location-g24-m019",
+    "slug": "ruins-of-alph-g24-m019",
+    "name": "Ruins of Alph",
+    "mapGroup": 24,
+    "mapNumber": 19,
+    "region": "Map group 24",
+    "description": "ROM map section: Ruins of Alph."
+  },
+  {
+    "id": "location-g24-m020",
+    "slug": "ruins-of-alph-g24-m020",
+    "name": "Ruins of Alph",
+    "mapGroup": 24,
+    "mapNumber": 20,
+    "region": "Map group 24",
+    "description": "ROM map section: Ruins of Alph."
+  },
+  {
+    "id": "location-g24-m021",
+    "slug": "ruins-of-alph-g24-m021",
+    "name": "Ruins of Alph",
+    "mapGroup": 24,
+    "mapNumber": 21,
+    "region": "Map group 24",
+    "description": "ROM map section: Ruins of Alph."
+  },
+  {
+    "id": "location-g24-m024",
+    "slug": "sprout-tower-g24-m024",
+    "name": "Sprout Tower",
+    "mapGroup": 24,
+    "mapNumber": 24,
+    "region": "Map group 24",
+    "description": "ROM map section: Sprout Tower."
+  },
+  {
+    "id": "location-g24-m025",
+    "slug": "sprout-tower-g24-m025",
+    "name": "Sprout Tower",
+    "mapGroup": 24,
+    "mapNumber": 25,
+    "region": "Map group 24",
+    "description": "ROM map section: Sprout Tower."
+  },
+  {
+    "id": "location-g24-m027",
+    "slug": "whirl-islands-g24-m027",
+    "name": "Whirl Islands",
+    "mapGroup": 24,
+    "mapNumber": 27,
+    "region": "Map group 24",
+    "description": "ROM map section: Whirl Islands."
+  },
+  {
+    "id": "location-g24-m028",
+    "slug": "whirl-islands-g24-m028",
+    "name": "Whirl Islands",
+    "mapGroup": 24,
+    "mapNumber": 28,
+    "region": "Map group 24",
+    "description": "ROM map section: Whirl Islands."
+  },
+  {
+    "id": "location-g24-m029",
+    "slug": "whirl-islands-g24-m029",
+    "name": "Whirl Islands",
+    "mapGroup": 24,
+    "mapNumber": 29,
+    "region": "Map group 24",
+    "description": "ROM map section: Whirl Islands."
+  },
+  {
+    "id": "location-g24-m030",
+    "slug": "whirl-islands-g24-m030",
+    "name": "Whirl Islands",
+    "mapGroup": 24,
+    "mapNumber": 30,
+    "region": "Map group 24",
+    "description": "ROM map section: Whirl Islands."
+  },
+  {
+    "id": "location-g24-m031",
+    "slug": "whirl-islands-g24-m031",
+    "name": "Whirl Islands",
+    "mapGroup": 24,
+    "mapNumber": 31,
+    "region": "Map group 24",
+    "description": "ROM map section: Whirl Islands."
+  },
+  {
+    "id": "location-g24-m032",
+    "slug": "whirl-islands-g24-m032",
+    "name": "Whirl Islands",
+    "mapGroup": 24,
+    "mapNumber": 32,
+    "region": "Map group 24",
+    "description": "ROM map section: Whirl Islands."
+  },
+  {
+    "id": "location-g24-m033",
+    "slug": "whirl-islands-g24-m033",
+    "name": "Whirl Islands",
+    "mapGroup": 24,
+    "mapNumber": 33,
+    "region": "Map group 24",
+    "description": "ROM map section: Whirl Islands."
+  },
+  {
+    "id": "location-g24-m034",
+    "slug": "whirl-islands-g24-m034",
+    "name": "Whirl Islands",
+    "mapGroup": 24,
+    "mapNumber": 34,
+    "region": "Map group 24",
+    "description": "ROM map section: Whirl Islands."
+  },
+  {
+    "id": "location-g24-m035",
+    "slug": "whirl-islands-g24-m035",
+    "name": "Whirl Islands",
+    "mapGroup": 24,
+    "mapNumber": 35,
+    "region": "Map group 24",
+    "description": "ROM map section: Whirl Islands."
+  },
+  {
+    "id": "location-g24-m036",
+    "slug": "whirl-islands-g24-m036",
+    "name": "Whirl Islands",
+    "mapGroup": 24,
+    "mapNumber": 36,
+    "region": "Map group 24",
+    "description": "ROM map section: Whirl Islands."
+  },
+  {
+    "id": "location-g24-m038",
+    "slug": "dragons-den-g24-m038",
+    "name": "Dragons Den",
+    "mapGroup": 24,
+    "mapNumber": 38,
+    "region": "Map group 24",
+    "description": "ROM map section: Dragons Den."
+  },
+  {
+    "id": "location-g24-m039",
+    "slug": "dragons-den-g24-m039",
+    "name": "Dragons Den",
+    "mapGroup": 24,
+    "mapNumber": 39,
+    "region": "Map group 24",
+    "description": "ROM map section: Dragons Den."
+  },
+  {
+    "id": "location-g24-m040",
+    "slug": "dragons-den-g24-m040",
+    "name": "Dragons Den",
+    "mapGroup": 24,
+    "mapNumber": 40,
+    "region": "Map group 24",
+    "description": "ROM map section: Dragons Den."
+  },
+  {
+    "id": "location-g24-m041",
+    "slug": "dragons-den-g24-m041",
+    "name": "Dragons Den",
+    "mapGroup": 24,
+    "mapNumber": 41,
+    "region": "Map group 24",
+    "description": "ROM map section: Dragons Den."
+  },
+  {
+    "id": "location-g24-m042",
+    "slug": "dragons-den-g24-m042",
+    "name": "Dragons Den",
+    "mapGroup": 24,
+    "mapNumber": 42,
+    "region": "Map group 24",
+    "description": "ROM map section: Dragons Den."
+  },
+  {
+    "id": "location-g24-m043",
+    "slug": "victory-road-g24-m043",
+    "name": "Victory Road",
+    "mapGroup": 24,
+    "mapNumber": 43,
+    "region": "Map group 24",
+    "description": "ROM map section: Victory Road."
+  },
+  {
+    "id": "location-g24-m044",
+    "slug": "victory-road-g24-m044",
+    "name": "Victory Road",
+    "mapGroup": 24,
+    "mapNumber": 44,
+    "region": "Map group 24",
+    "description": "ROM map section: Victory Road."
+  },
+  {
+    "id": "location-g24-m045",
+    "slug": "victory-road-g24-m045",
+    "name": "Victory Road",
+    "mapGroup": 24,
+    "mapNumber": 45,
+    "region": "Map group 24",
+    "description": "ROM map section: Victory Road."
+  },
+  {
+    "id": "location-g24-m046",
+    "slug": "ice-path-g24-m046",
+    "name": "Ice Path",
+    "mapGroup": 24,
+    "mapNumber": 46,
+    "region": "Map group 24",
+    "description": "ROM map section: Ice Path."
+  },
+  {
+    "id": "location-g24-m047",
+    "slug": "ice-path-g24-m047",
+    "name": "Ice Path",
+    "mapGroup": 24,
+    "mapNumber": 47,
+    "region": "Map group 24",
+    "description": "ROM map section: Ice Path."
+  },
+  {
+    "id": "location-g24-m048",
+    "slug": "ice-path-g24-m048",
+    "name": "Ice Path",
+    "mapGroup": 24,
+    "mapNumber": 48,
+    "region": "Map group 24",
+    "description": "ROM map section: Ice Path."
+  },
+  {
+    "id": "location-g24-m049",
+    "slug": "cerulean-cave-g24-m049",
+    "name": "Cerulean Cave",
+    "mapGroup": 24,
+    "mapNumber": 49,
+    "region": "Map group 24",
+    "description": "ROM map section: Cerulean Cave."
+  },
+  {
+    "id": "location-g24-m050",
+    "slug": "cerulean-cave-g24-m050",
+    "name": "Cerulean Cave",
+    "mapGroup": 24,
+    "mapNumber": 50,
+    "region": "Map group 24",
+    "description": "ROM map section: Cerulean Cave."
+  },
+  {
+    "id": "location-g24-m051",
+    "slug": "cerulean-cave-g24-m051",
+    "name": "Cerulean Cave",
+    "mapGroup": 24,
+    "mapNumber": 51,
+    "region": "Map group 24",
+    "description": "ROM map section: Cerulean Cave."
+  },
+  {
+    "id": "location-g24-m052",
+    "slug": "burned-tower-g24-m052",
+    "name": "Burned Tower",
+    "mapGroup": 24,
+    "mapNumber": 52,
+    "region": "Map group 24",
+    "description": "ROM map section: Burned Tower."
+  },
+  {
+    "id": "location-g24-m053",
+    "slug": "burned-tower-g24-m053",
+    "name": "Burned Tower",
+    "mapGroup": 24,
+    "mapNumber": 53,
+    "region": "Map group 24",
+    "description": "ROM map section: Burned Tower."
+  },
+  {
+    "id": "location-g24-m058",
+    "slug": "roujem-shipyard-g24-m058",
+    "name": "Roujem Shipyard",
+    "mapGroup": 24,
+    "mapNumber": 58,
+    "region": "Map group 24",
+    "description": "ROM map section: Roujem Shipyard."
+  },
+  {
+    "id": "location-g24-m061",
+    "slug": "roujem-shipyard-g24-m061",
+    "name": "Roujem Shipyard",
+    "mapGroup": 24,
+    "mapNumber": 61,
+    "region": "Map group 24",
+    "description": "ROM map section: Roujem Shipyard."
+  },
+  {
+    "id": "location-g24-m062",
+    "slug": "roujem-shipyard-g24-m062",
+    "name": "Roujem Shipyard",
+    "mapGroup": 24,
+    "mapNumber": 62,
+    "region": "Map group 24",
+    "description": "ROM map section: Roujem Shipyard."
+  },
+  {
+    "id": "location-g24-m063",
+    "slug": "roujem-shipyard-g24-m063",
+    "name": "Roujem Shipyard",
+    "mapGroup": 24,
+    "mapNumber": 63,
+    "region": "Map group 24",
+    "description": "ROM map section: Roujem Shipyard."
+  },
+  {
+    "id": "location-g24-m065",
+    "slug": "roujem-shipyard-g24-m065",
+    "name": "Roujem Shipyard",
+    "mapGroup": 24,
+    "mapNumber": 65,
+    "region": "Map group 24",
+    "description": "ROM map section: Roujem Shipyard."
+  },
+  {
+    "id": "location-g24-m066",
+    "slug": "roujem-shipyard-g24-m066",
+    "name": "Roujem Shipyard",
+    "mapGroup": 24,
+    "mapNumber": 66,
+    "region": "Map group 24",
+    "description": "ROM map section: Roujem Shipyard."
+  },
+  {
+    "id": "location-g24-m067",
+    "slug": "mt-tempest-g24-m067",
+    "name": "Mt. Tempest",
+    "mapGroup": 24,
+    "mapNumber": 67,
+    "region": "Map group 24",
+    "description": "ROM map section: Mt. Tempest."
+  },
+  {
+    "id": "location-g24-m071",
+    "slug": "slowpoke-well-g24-m071",
+    "name": "Slowpoke Well",
+    "mapGroup": 24,
+    "mapNumber": 71,
+    "region": "Map group 24",
+    "description": "ROM map section: Slowpoke Well."
+  },
+  {
+    "id": "location-g24-m072",
+    "slug": "slowpoke-well-g24-m072",
+    "name": "Slowpoke Well",
+    "mapGroup": 24,
+    "mapNumber": 72,
+    "region": "Map group 24",
+    "description": "ROM map section: Slowpoke Well."
+  },
+  {
+    "id": "location-g24-m083",
+    "slug": "ice-path-g24-m083",
+    "name": "Ice Path",
+    "mapGroup": 24,
+    "mapNumber": 83,
+    "region": "Map group 24",
+    "description": "ROM map section: Ice Path."
+  },
+  {
+    "id": "location-g24-m084",
+    "slug": "lighthouse-g24-m084",
+    "name": "Lighthouse",
+    "mapGroup": 24,
+    "mapNumber": 84,
+    "region": "Map group 24",
+    "description": "ROM map section: Lighthouse."
+  },
+  {
+    "id": "location-g24-m085",
+    "slug": "lighthouse-g24-m085",
+    "name": "Lighthouse",
+    "mapGroup": 24,
+    "mapNumber": 85,
+    "region": "Map group 24",
+    "description": "ROM map section: Lighthouse."
+  },
+  {
+    "id": "location-g24-m086",
+    "slug": "phoenix-hideout-g24-m086",
+    "name": "Phoenix Hideout",
+    "mapGroup": 24,
+    "mapNumber": 86,
+    "region": "Map group 24",
+    "description": "ROM map section: Phoenix Hideout."
+  },
+  {
+    "id": "location-g24-m087",
+    "slug": "phoenix-hideout-g24-m087",
+    "name": "Phoenix Hideout",
+    "mapGroup": 24,
+    "mapNumber": 87,
+    "region": "Map group 24",
+    "description": "ROM map section: Phoenix Hideout."
+  },
+  {
+    "id": "location-g24-m088",
+    "slug": "phoenix-hideout-g24-m088",
+    "name": "Phoenix Hideout",
+    "mapGroup": 24,
+    "mapNumber": 88,
+    "region": "Map group 24",
+    "description": "ROM map section: Phoenix Hideout."
+  },
+  {
+    "id": "location-g24-m089",
+    "slug": "phoenix-hideout-g24-m089",
+    "name": "Phoenix Hideout",
+    "mapGroup": 24,
+    "mapNumber": 89,
+    "region": "Map group 24",
+    "description": "ROM map section: Phoenix Hideout."
+  },
+  {
+    "id": "location-g24-m090",
+    "slug": "phoenix-hideout-g24-m090",
+    "name": "Phoenix Hideout",
+    "mapGroup": 24,
+    "mapNumber": 90,
+    "region": "Map group 24",
+    "description": "ROM map section: Phoenix Hideout."
+  },
+  {
+    "id": "location-g24-m091",
+    "slug": "phoenix-hideout-g24-m091",
+    "name": "Phoenix Hideout",
+    "mapGroup": 24,
+    "mapNumber": 91,
+    "region": "Map group 24",
+    "description": "ROM map section: Phoenix Hideout."
+  },
+  {
+    "id": "location-g24-m092",
+    "slug": "phoenix-hideout-g24-m092",
+    "name": "Phoenix Hideout",
+    "mapGroup": 24,
+    "mapNumber": 92,
+    "region": "Map group 24",
+    "description": "ROM map section: Phoenix Hideout."
+  },
+  {
+    "id": "location-g24-m093",
+    "slug": "phoenix-hideout-g24-m093",
+    "name": "Phoenix Hideout",
+    "mapGroup": 24,
+    "mapNumber": 93,
+    "region": "Map group 24",
+    "description": "ROM map section: Phoenix Hideout."
+  },
+  {
+    "id": "location-g24-m094",
+    "slug": "goldenrod-city-g24-m094",
+    "name": "Goldenrod City",
+    "mapGroup": 24,
+    "mapNumber": 94,
+    "region": "Map group 24",
+    "description": "ROM map section: Goldenrod City."
+  },
+  {
+    "id": "location-g24-m095",
+    "slug": "phoenix-base-g24-m095",
+    "name": "Phoenix Base",
+    "mapGroup": 24,
+    "mapNumber": 95,
+    "region": "Map group 24",
+    "description": "ROM map section: Phoenix Base."
+  },
+  {
+    "id": "location-g24-m096",
+    "slug": "phoenix-base-g24-m096",
+    "name": "Phoenix Base",
+    "mapGroup": 24,
+    "mapNumber": 96,
+    "region": "Map group 24",
+    "description": "ROM map section: Phoenix Base."
+  },
+  {
+    "id": "location-g24-m097",
+    "slug": "phoenix-base-g24-m097",
+    "name": "Phoenix Base",
+    "mapGroup": 24,
+    "mapNumber": 97,
+    "region": "Map group 24",
+    "description": "ROM map section: Phoenix Base."
+  },
+  {
+    "id": "location-g24-m098",
+    "slug": "ilex-forest-g24-m098",
+    "name": "Ilex Forest",
+    "mapGroup": 24,
+    "mapNumber": 98,
+    "region": "Map group 24",
+    "description": "ROM map section: Ilex Forest."
+  },
+  {
+    "id": "location-g24-m099",
+    "slug": "dark-cave-g24-m099",
+    "name": "Dark Cave",
+    "mapGroup": 24,
+    "mapNumber": 99,
+    "region": "Map group 24",
+    "description": "ROM map section: Dark Cave."
+  },
+  {
+    "id": "location-g24-m100",
+    "slug": "dark-cave-g24-m100",
+    "name": "Dark Cave",
+    "mapGroup": 24,
+    "mapNumber": 100,
+    "region": "Map group 24",
+    "description": "ROM map section: Dark Cave."
+  },
+  {
+    "id": "location-g24-m106",
+    "slug": "ilex-forest-g24-m106",
+    "name": "Ilex Forest",
+    "mapGroup": 24,
+    "mapNumber": 106,
+    "region": "Map group 24",
+    "description": "ROM map section: Ilex Forest."
+  },
+  {
+    "id": "location-g24-m107",
+    "slug": "mt-mortar-g24-m107",
+    "name": "Mt. Mortar",
+    "mapGroup": 24,
+    "mapNumber": 107,
+    "region": "Map group 24",
+    "description": "ROM map section: Mt. Mortar."
+  },
+  {
+    "id": "location-g25-m041",
+    "slug": "s-s-tidal-g25-m041",
+    "name": "S.S. Tidal",
+    "mapGroup": 25,
+    "mapNumber": 41,
+    "region": "Map group 25",
+    "description": "ROM script/warp context: ROM warps connect this map to the S.S. TIDAL cabin area; dialogue identifies the lower ship hull."
+  },
+  {
+    "id": "location-g25-m042",
+    "slug": "s-s-tidal-g25-m042",
+    "name": "S.S. Tidal",
+    "mapGroup": 25,
+    "mapNumber": 42,
+    "region": "Map group 25",
+    "description": "ROM script/warp context: ROM warps connect this map to S.S. TIDAL cabins; passenger dialogue and tutor script are cabin-local."
+  },
+  {
+    "id": "location-g26-m000",
+    "slug": "safari-zone-g26-m000",
+    "name": "Safari Zone",
+    "mapGroup": 26,
+    "mapNumber": 0,
+    "region": "Map group 26",
+    "description": "ROM map section: Safari Zone."
+  },
+  {
+    "id": "location-g26-m001",
+    "slug": "safari-zone-g26-m001",
+    "name": "Safari Zone",
+    "mapGroup": 26,
+    "mapNumber": 1,
+    "region": "Map group 26",
+    "description": "ROM map section: Safari Zone."
+  },
+  {
+    "id": "location-g26-m002",
+    "slug": "safari-zone-g26-m002",
+    "name": "Safari Zone",
+    "mapGroup": 26,
+    "mapNumber": 2,
+    "region": "Map group 26",
+    "description": "ROM map section: Safari Zone."
+  },
+  {
+    "id": "location-g26-m003",
+    "slug": "safari-zone-g26-m003",
+    "name": "Safari Zone",
+    "mapGroup": 26,
+    "mapNumber": 3,
+    "region": "Map group 26",
+    "description": "ROM map section: Safari Zone."
+  },
+  {
+    "id": "location-g26-m012",
+    "slug": "safari-zone-g26-m012",
+    "name": "Safari Zone",
+    "mapGroup": 26,
+    "mapNumber": 12,
+    "region": "Map group 26",
+    "description": "ROM map section: Safari Zone."
+  },
+  {
+    "id": "location-g26-m013",
+    "slug": "safari-zone-g26-m013",
+    "name": "Safari Zone",
+    "mapGroup": 26,
+    "mapNumber": 13,
+    "region": "Map group 26",
+    "description": "ROM map section: Safari Zone."
+  },
+  {
+    "id": "location-g26-m014",
+    "slug": "battle-tower-g26-m014",
+    "name": "Battle Tower",
+    "mapGroup": 26,
+    "mapNumber": 14,
+    "region": "Map group 26",
+    "description": "ROM map section: Battle Tower."
+  },
+  {
+    "id": "location-g26-m046",
+    "slug": "battle-tower-g26-m046",
+    "name": "Battle Tower",
+    "mapGroup": 26,
+    "mapNumber": 46,
+    "region": "Map group 26",
+    "description": "ROM map section: Battle Tower."
+  },
+  {
+    "id": "location-g26-m051",
+    "slug": "battle-tower-g26-m051",
+    "name": "Battle Tower",
+    "mapGroup": 26,
+    "mapNumber": 51,
+    "region": "Map group 26",
+    "description": "ROM map section: Battle Tower."
+  },
+  {
+    "id": "location-g26-m053",
+    "slug": "battle-tower-g26-m053",
+    "name": "Battle Tower",
+    "mapGroup": 26,
+    "mapNumber": 53,
+    "region": "Map group 26",
+    "description": "ROM map section: Battle Tower."
+  },
+  {
+    "id": "location-g26-m055",
+    "slug": "battle-tower-g26-m055",
+    "name": "Battle Tower",
+    "mapGroup": 26,
+    "mapNumber": 55,
+    "region": "Map group 26",
+    "description": "ROM map section: Battle Tower."
+  },
+  {
+    "id": "location-g26-m057",
+    "slug": "faraway-island-g26-m057",
+    "name": "Faraway Island",
+    "mapGroup": 26,
+    "mapNumber": 57,
+    "region": "Map group 26",
+    "description": "ROM map section: Faraway Island."
+  },
+  {
+    "id": "location-g26-m058",
+    "slug": "birth-island-g26-m058",
+    "name": "Birth Island",
+    "mapGroup": 26,
+    "mapNumber": 58,
+    "region": "Map group 26",
+    "description": "ROM map section: Birth Island."
+  },
+  {
+    "id": "location-g26-m059",
+    "slug": "birth-island-g26-m059",
+    "name": "Birth Island",
+    "mapGroup": 26,
+    "mapNumber": 59,
+    "region": "Map group 26",
+    "description": "ROM map section: Birth Island."
+  },
+  {
+    "id": "location-g26-m060",
+    "slug": "trainer-hill-g26-m060",
+    "name": "Trainer Hill",
+    "mapGroup": 26,
+    "mapNumber": 60,
+    "region": "Map group 26",
+    "description": "ROM script/warp context: ROM dialogue says this is TRAINER HILL and exposes Trainer Hill shops/reception scripts."
+  },
+  {
+    "id": "location-g26-m066",
+    "slug": "mt-silver-g26-m066",
+    "name": "Mt. Silver",
+    "mapGroup": 26,
+    "mapNumber": 66,
+    "region": "Map group 26",
+    "description": "ROM map section: Mt. Silver."
+  },
+  {
+    "id": "location-g26-m067",
+    "slug": "mt-silver-g26-m067",
+    "name": "Mt. Silver",
+    "mapGroup": 26,
+    "mapNumber": 67,
+    "region": "Map group 26",
+    "description": "ROM map section: Mt. Silver."
+  },
+  {
+    "id": "location-g26-m068",
+    "slug": "mt-silver-g26-m068",
+    "name": "Mt. Silver",
+    "mapGroup": 26,
+    "mapNumber": 68,
+    "region": "Map group 26",
+    "description": "ROM map section: Mt. Silver."
+  },
+  {
+    "id": "location-g26-m069",
+    "slug": "mt-silver-g26-m069",
+    "name": "Mt. Silver",
+    "mapGroup": 26,
+    "mapNumber": 69,
+    "region": "Map group 26",
+    "description": "ROM map section: Mt. Silver."
+  },
+  {
+    "id": "location-g26-m070",
+    "slug": "mt-silver-g26-m070",
+    "name": "Mt. Silver",
+    "mapGroup": 26,
+    "mapNumber": 70,
+    "region": "Map group 26",
+    "description": "ROM map section: Mt. Silver."
+  },
+  {
+    "id": "location-g26-m087",
+    "slug": "mt-silver-g26-m087",
+    "name": "Mt. Silver",
+    "mapGroup": 26,
+    "mapNumber": 87,
+    "region": "Map group 26",
+    "description": "ROM map section: Mt. Silver."
+  },
+  {
+    "id": "location-g26-m088",
+    "slug": "seashore-house-g26-m088",
+    "name": "Seashore House",
+    "mapGroup": 26,
+    "mapNumber": 88,
+    "region": "Map group 26",
+    "description": "ROM script/warp context: ROM dialogue identifies the SEASHORE HOUSE battle/shop room."
+  },
+  {
+    "id": "location-g28-m000",
+    "slug": "rage-resort-g28-m000",
+    "name": "Rage Resort",
+    "mapGroup": 28,
+    "mapNumber": 0,
+    "region": "Map group 28",
+    "description": "ROM map section: Rage Resort."
+  },
+  {
+    "id": "location-g29-m000",
+    "slug": "ecruteak-city-g29-m000",
+    "name": "Ecruteak City",
+    "mapGroup": 29,
+    "mapNumber": 0,
+    "region": "Map group 29",
+    "description": "ROM map section: Ecruteak City."
+  },
+  {
+    "id": "location-g29-m003",
+    "slug": "ecruteak-city-g29-m003",
+    "name": "Ecruteak City",
+    "mapGroup": 29,
+    "mapNumber": 3,
+    "region": "Map group 29",
+    "description": "ROM map section: Ecruteak City."
+  },
+  {
+    "id": "location-g29-m004",
+    "slug": "ecruteak-city-g29-m004",
+    "name": "Ecruteak City",
+    "mapGroup": 29,
+    "mapNumber": 4,
+    "region": "Map group 29",
+    "description": "ROM map section: Ecruteak City."
+  },
+  {
+    "id": "location-g29-m005",
+    "slug": "ecruteak-city-g29-m005",
+    "name": "Ecruteak City",
+    "mapGroup": 29,
+    "mapNumber": 5,
+    "region": "Map group 29",
+    "description": "ROM map section: Ecruteak City."
+  },
+  {
+    "id": "location-g29-m006",
+    "slug": "ecruteak-city-g29-m006",
+    "name": "Ecruteak City",
+    "mapGroup": 29,
+    "mapNumber": 6,
+    "region": "Map group 29",
+    "description": "ROM map section: Ecruteak City."
+  },
+  {
+    "id": "location-g29-m008",
+    "slug": "ecruteak-city-g29-m008",
+    "name": "Ecruteak City",
+    "mapGroup": 29,
+    "mapNumber": 8,
+    "region": "Map group 29",
+    "description": "ROM map section: Ecruteak City."
+  },
+  {
+    "id": "location-g29-m009",
+    "slug": "ecruteak-city-g29-m009",
+    "name": "Ecruteak City",
+    "mapGroup": 29,
+    "mapNumber": 9,
+    "region": "Map group 29",
+    "description": "ROM map section: Ecruteak City."
+  },
+  {
+    "id": "location-g29-m010",
+    "slug": "ecruteak-city-g29-m010",
+    "name": "Ecruteak City",
+    "mapGroup": 29,
+    "mapNumber": 10,
+    "region": "Map group 29",
+    "description": "ROM map section: Ecruteak City."
+  },
+  {
+    "id": "location-g29-m013",
+    "slug": "rage-resort-g29-m013",
+    "name": "Rage Resort",
+    "mapGroup": 29,
+    "mapNumber": 13,
+    "region": "Map group 29",
+    "description": "ROM map section: Rage Resort."
+  },
+  {
+    "id": "location-g31-m000",
+    "slug": "route-30-g31-m000",
+    "name": "Route 30",
+    "mapGroup": 31,
+    "mapNumber": 0,
+    "region": "Map group 31",
+    "description": "ROM map section: Route 30."
+  },
+  {
+    "id": "location-g32-m000",
+    "slug": "azalea-town-g32-m000",
+    "name": "Azalea Town",
+    "mapGroup": 32,
+    "mapNumber": 0,
+    "region": "Map group 32",
+    "description": "ROM map section: Azalea Town."
+  }
+]

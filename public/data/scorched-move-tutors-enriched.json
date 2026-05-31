@@ -1,0 +1,3138 @@
+[
+  {
+    "tutor_id": 0,
+    "move_id": 524,
+    "move_name": "Frost Breath",
+    "map_group": 0,
+    "map_number": 7,
+    "location_name_candidate": "Whirl Islands",
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [
+      {
+        "text_offset": "0x2CE566",
+        "decoded_text": "Come back tomorrow, and I should have\nmore for you.",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x212334"
+      },
+      {
+        "text_offset": "0x2CE539",
+        "decoded_text": "Hmm... Maybe just one more for good\nmeasure.",
+        "confidence": 0.96,
+        "reason": "terminated; item_like:HM",
+        "pointer_offset": "0x2122FB"
+      },
+      {
+        "text_offset": "0x2CE59A",
+        "decoded_text": "Tell me, have you planted the BERRIES I\ngave you?",
+        "confidence": 0.93,
+        "reason": "terminated; uppercase-token",
+        "pointer_offset": "0x21235F"
+      },
+      {
+        "text_offset": "0x2CE487",
+        "decoded_text": "We must always seek to give back to\nmother nature in whatever ways we can.\nOne way I like to give back to nature is\nby planting BERRIES.\nHere, you should plant more BERRIES\ntoo.",
+        "confidence": 0.98,
+        "reason": "terminated; uppercase-token; long-dialogue",
+        "pointer_offset": "0x2122CC"
+      }
+    ],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x2122DF",
+        "variable": "0x8000",
+        "value": 32781
+      },
+      {
+        "offset": "0x2122E4",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x21231B",
+        "variable": "0x8000",
+        "value": 524,
+        "item_name_if_item_id": "Figy Berry",
+        "move_name_if_move_id": "Frost Breath"
+      },
+      {
+        "offset": "0x212320",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x21233C",
+        "variable": "0x8000",
+        "value": 528,
+        "item_name_if_item_id": "Iapapa Berry",
+        "move_name_if_move_id": "Wild Charge"
+      },
+      {
+        "offset": "0x212341",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "high",
+      "requirement": "unknown",
+      "dialogue_context": "medium"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "Dialogue context is nearby decoded script text for UI context only; it is not proof of a requirement."
+    ],
+    "source_offsets": {
+      "script": "0x21231B",
+      "object": "0x60F55C"
+    },
+    "raw_record_hex": "1a00800c021a01800100090021"
+  },
+  {
+    "tutor_id": 1,
+    "move_id": 528,
+    "move_name": "Wild Charge",
+    "map_group": 0,
+    "map_number": 7,
+    "location_name_candidate": "Whirl Islands",
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [
+      {
+        "text_offset": "0x2CE566",
+        "decoded_text": "Come back tomorrow, and I should have\nmore for you.",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x212334"
+      },
+      {
+        "text_offset": "0x2CE59A",
+        "decoded_text": "Tell me, have you planted the BERRIES I\ngave you?",
+        "confidence": 0.93,
+        "reason": "terminated; uppercase-token",
+        "pointer_offset": "0x21235F"
+      },
+      {
+        "text_offset": "0x2CE614",
+        "decoded_text": "That's a shame.\nThere's still plenty of time left in the\nday though.",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x212372"
+      },
+      {
+        "text_offset": "0x2CE5CC",
+        "decoded_text": "How wonderful!\nMother nature will appreciate your\nkindness, dear child.",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x21237C"
+      }
+    ],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x2122DF",
+        "variable": "0x8000",
+        "value": 32781
+      },
+      {
+        "offset": "0x2122E4",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x21231B",
+        "variable": "0x8000",
+        "value": 524,
+        "item_name_if_item_id": "Figy Berry",
+        "move_name_if_move_id": "Frost Breath"
+      },
+      {
+        "offset": "0x212320",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x21233C",
+        "variable": "0x8000",
+        "value": 528,
+        "item_name_if_item_id": "Iapapa Berry",
+        "move_name_if_move_id": "Wild Charge"
+      },
+      {
+        "offset": "0x212341",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "high",
+      "requirement": "unknown",
+      "dialogue_context": "medium"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "Dialogue context is nearby decoded script text for UI context only; it is not proof of a requirement."
+    ],
+    "source_offsets": {
+      "script": "0x21233C",
+      "object": "0x60F55C"
+    },
+    "raw_record_hex": "1a008010021a01800100090021"
+  },
+  {
+    "tutor_id": 2,
+    "move_id": 28,
+    "move_name": "Sand Attack",
+    "map_group": 0,
+    "map_number": 10,
+    "location_name_candidate": "Surf Cherrygrove",
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [
+      {
+        "text_offset": "0x214597",
+        "decoded_text": "CHERRYGROVE CITY\n\"The City of Fragrant Flowers.\"",
+        "confidence": 1.0,
+        "reason": "terminated; locations:CITY,CHERRYGROVE; uppercase-token",
+        "pointer_offset": "0x21441F"
+      },
+      {
+        "text_offset": "0x29994C",
+        "decoded_text": "Too bad!\nThe BAG is full...",
+        "confidence": 0.985,
+        "reason": "terminated; battle_menu_system:BAG; uppercase-token",
+        "pointer_offset": "0x214469"
+      },
+      {
+        "text_offset": "0x214BA2",
+        "decoded_text": "Man, it gets exhausting having so many\ngirls chasing after me.",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x2143FC"
+      },
+      {
+        "text_offset": "0x214D34",
+        "decoded_text": "Man, lately my girlfriend can't seem to\nkeep her hands off of me.\nI had to get out of the house for some\nfresh air.",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x2143F2"
+      }
+    ],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x2143B5",
+        "variable": "0x8000",
+        "value": 608,
+        "item_name_if_item_id": "TM27",
+        "move_name_if_move_id": "BabyDollEyes"
+      },
+      {
+        "offset": "0x2143BA",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x2143C2",
+        "variable": "0x8000",
+        "value": 427,
+        "item_name_if_item_id": "Mystic Water",
+        "move_name_if_move_id": "Psycho Cut"
+      },
+      {
+        "offset": "0x2143C7",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x2143CF",
+        "variable": "0x8000",
+        "value": 234,
+        "item_name_if_item_id": "Prism Scale",
+        "move_name_if_move_id": "Morning Sun"
+      },
+      {
+        "offset": "0x2143D4",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x21440C",
+        "variable": "0x8000",
+        "value": 308,
+        "item_name_if_item_id": "Steelixite",
+        "move_name_if_move_id": "Hydro Cannon"
+      },
+      {
+        "offset": "0x214411",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x214439",
+        "variable": "0x8000",
+        "value": 28,
+        "item_name_if_item_id": "Potion",
+        "move_name_if_move_id": "Sand Attack"
+      },
+      {
+        "offset": "0x21443E",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "high",
+      "requirement": "unknown",
+      "dialogue_context": "medium"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "Dialogue context is nearby decoded script text for UI context only; it is not proof of a requirement."
+    ],
+    "source_offsets": {
+      "script": "0x214439",
+      "object": "0x60FA3C"
+    },
+    "raw_record_hex": "1a00801c001a01800100090021"
+  },
+  {
+    "tutor_id": 3,
+    "move_id": 460,
+    "move_name": "Spacial Rend",
+    "map_group": 0,
+    "map_number": 19,
+    "location_name_candidate": "Route 32",
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [
+      {
+        "text_offset": "0x2177C7",
+        "decoded_text": "SHANE: Hey!\nI can't believe you went and told MOM\non me!\nI was just playing around.\nStop being such a baby about\neverything and learn to stick up\nfor yourself.\nLoser.",
+        "confidence": 0.98,
+        "reason": "terminated; uppercase-token; long-dialogue",
+        "pointer_offset": "0x2170A5"
+      },
+      {
+        "text_offset": "0x217716",
+        "decoded_text": "Be careful, that White Herb can only be\nused once...",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x2170E0"
+      },
+      {
+        "text_offset": "0x217408",
+        "decoded_text": "I love taking walks on this bridge, it's\nalways so calming.",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x2170EA"
+      },
+      {
+        "text_offset": "0x21778E",
+        "decoded_text": "PRETTY PETAL FLOWER SHOP",
+        "confidence": 0.93,
+        "reason": "terminated; uppercase-token",
+        "pointer_offset": "0x217117"
+      }
+    ],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x2170C2",
+        "variable": "0x8000",
+        "value": 460,
+        "item_name_if_item_id": "White Herb",
+        "move_name_if_move_id": "Spacial Rend"
+      },
+      {
+        "offset": "0x2170C7",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x21714C",
+        "variable": "0x8000",
+        "value": 592,
+        "item_name_if_item_id": "TM11",
+        "move_name_if_move_id": "SteamErption"
+      },
+      {
+        "offset": "0x217151",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "high",
+      "requirement": "unknown",
+      "dialogue_context": "medium"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "Dialogue context is nearby decoded script text for UI context only; it is not proof of a requirement."
+    ],
+    "source_offsets": {
+      "script": "0x2170C2",
+      "object": "0x6106A4"
+    },
+    "raw_record_hex": "1a0080cc011a01800100090021"
+  },
+  {
+    "tutor_id": 4,
+    "move_id": 592,
+    "move_name": "SteamErption",
+    "map_group": 0,
+    "map_number": 19,
+    "location_name_candidate": "Route 32",
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [
+      {
+        "text_offset": "0x2175AB",
+        "decoded_text": "Such a lovely day today, I love being\nout in the sunlight.\nHere, you can have this. Bring the\nsunlight with you wherever you go.",
+        "confidence": 0.93,
+        "reason": "terminated; long-dialogue",
+        "pointer_offset": "0x217146"
+      },
+      {
+        "text_offset": "0x2174F0",
+        "decoded_text": "If only I had HM01, I could cut down\nthat little tree.\nI don't know whose bright idea it was to\nplant it there.",
+        "confidence": 1.0,
+        "reason": "terminated; item_like:HM; uppercase-token",
+        "pointer_offset": "0x217132"
+      },
+      {
+        "text_offset": "0x21762C",
+        "decoded_text": "By the way, a TM, TECHNICAL MACHINE,\ncan be used as many times as you want!",
+        "confidence": 1.0,
+        "reason": "terminated; item_like:TM; uppercase-token",
+        "pointer_offset": "0x21716A"
+      },
+      {
+        "text_offset": "0x2174A0",
+        "decoded_text": "I'm not a TRAINER, but if I were, I would\nbattle you since we made eye contact.",
+        "confidence": 1.0,
+        "reason": "terminated; trainer_labels:TRAINER; battle_menu_system:BATTLE; uppercase-token",
+        "pointer_offset": "0x217129"
+      }
+    ],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x2170C2",
+        "variable": "0x8000",
+        "value": 460,
+        "item_name_if_item_id": "White Herb",
+        "move_name_if_move_id": "Spacial Rend"
+      },
+      {
+        "offset": "0x2170C7",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x21714C",
+        "variable": "0x8000",
+        "value": 592,
+        "item_name_if_item_id": "TM11",
+        "move_name_if_move_id": "SteamErption"
+      },
+      {
+        "offset": "0x217151",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x21720B",
+        "variable": "0x8000",
+        "value": 604,
+        "item_name_if_item_id": "TM23",
+        "move_name_if_move_id": "ElctrcTrrain"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "high",
+      "requirement": "unknown",
+      "dialogue_context": "medium"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "Dialogue context is nearby decoded script text for UI context only; it is not proof of a requirement."
+    ],
+    "source_offsets": {
+      "script": "0x21714C",
+      "object": "0x610794"
+    },
+    "raw_record_hex": "1a008050021a01800100090021"
+  },
+  {
+    "tutor_id": 5,
+    "move_id": 586,
+    "move_name": "Boomburst",
+    "map_group": 0,
+    "map_number": 29,
+    "location_name_candidate": "Route 45",
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [
+      {
+        "text_offset": "0x21A6BD",
+        "decoded_text": "I don't have the HM for Flash, but I\nmake my Poochyena stay by the cave\nentrance.\nI can always find my way back to him by\nfollowing the sound of his roars...",
+        "confidence": 1.0,
+        "reason": "terminated; item_like:HM; locations:CAVE; uppercase-token; long-dialogue",
+        "pointer_offset": "0x21A48E"
+      },
+      {
+        "text_offset": "0x2CDA59",
+        "decoded_text": "Some BERRIES are pretty rare, you'll\nwant to plant those rare ones if you\never want any more.",
+        "confidence": 0.93,
+        "reason": "terminated; uppercase-token",
+        "pointer_offset": "0x21A479"
+      },
+      {
+        "text_offset": "0x21A75B",
+        "decoded_text": "That TM contains the move Roar.\nIt will make your opponent flee from\nbattle.\nIt's good to use when your matchup is\nless than ideal.",
+        "confidence": 1.0,
+        "reason": "terminated; item_like:TM; battle_menu_system:BATTLE; uppercase-token; long-dialogue",
+        "pointer_offset": "0x21A4B0"
+      },
+      {
+        "text_offset": "0x2CDA20",
+        "decoded_text": "Come back tomorrow, and I'll have\nanother BERRY for you!",
+        "confidence": 0.93,
+        "reason": "terminated; uppercase-token",
+        "pointer_offset": "0x21A46F"
+      }
+    ],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x21A453",
+        "variable": "0x8000",
+        "value": 32781
+      },
+      {
+        "offset": "0x21A458",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x21A494",
+        "variable": "0x8000",
+        "value": 586,
+        "item_name_if_item_id": "TM05",
+        "move_name_if_move_id": "Boomburst"
+      },
+      {
+        "offset": "0x21A499",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "high",
+      "requirement": "unknown",
+      "dialogue_context": "medium"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "Dialogue context is nearby decoded script text for UI context only; it is not proof of a requirement."
+    ],
+    "source_offsets": {
+      "script": "0x21A494",
+      "object": "0x611AA8"
+    },
+    "raw_record_hex": "1a00804a021a01800100090021"
+  },
+  {
+    "tutor_id": 6,
+    "move_id": 584,
+    "move_name": "Fairy Wind",
+    "map_group": 4,
+    "map_number": 1,
+    "location_name_candidate": "Map 4/1",
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [
+      {
+        "text_offset": "0x228000",
+        "decoded_text": "That TM contains the move Scald.\nIt is a very powerful WATER-type move\nthat may leave your foe with a burn.\nConsider it a special gift from myself.",
+        "confidence": 1.0,
+        "reason": "terminated; item_like:TM; battle_menu_system:TYPE,SPECIAL; uppercase-token; long-dialogue",
+        "pointer_offset": "0x22766F"
+      },
+      {
+        "text_offset": "0x228094",
+        "decoded_text": "Your aura reminds me of another person\nbesides myself.\nCould it be...",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x22760B"
+      },
+      {
+        "text_offset": "0x2283B4",
+        "decoded_text": "A loss, but not a brutal loss...",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x2276B2"
+      },
+      {
+        "text_offset": "0x227E45",
+        "decoded_text": "Marvelous, I knew my intuition was\ncorrect.\nWith your skill, I wouldn't be surprised\nto see you claim the title of Champion\nsome day.\nHere, you are certainly deserving of\nthis...",
+        "confidence": 1.0,
+        "reason": "terminated; trainer_labels:CHAMPION; long-dialogue",
+        "pointer_offset": "0x2275F8"
+      }
+    ],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x227656",
+        "variable": "0x8000",
+        "value": 584,
+        "item_name_if_item_id": "TM03",
+        "move_name_if_move_id": "Fairy Wind"
+      },
+      {
+        "offset": "0x22765B",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x22767A",
+        "variable": "0x8000",
+        "value": 584,
+        "item_name_if_item_id": "TM03",
+        "move_name_if_move_id": "Fairy Wind"
+      },
+      {
+        "offset": "0x22767F",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "high",
+      "requirement": "unknown",
+      "dialogue_context": "medium"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "Dialogue context is nearby decoded script text for UI context only; it is not proof of a requirement."
+    ],
+    "source_offsets": {
+      "script": "0x227656",
+      "object": "0x614B50"
+    },
+    "raw_record_hex": "1a008048021a01800100090021"
+  },
+  {
+    "tutor_id": 7,
+    "move_id": 584,
+    "move_name": "Fairy Wind",
+    "map_group": 4,
+    "map_number": 1,
+    "location_name_candidate": "Map 4/1",
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [
+      {
+        "text_offset": "0x228000",
+        "decoded_text": "That TM contains the move Scald.\nIt is a very powerful WATER-type move\nthat may leave your foe with a burn.\nConsider it a special gift from myself.",
+        "confidence": 1.0,
+        "reason": "terminated; item_like:TM; battle_menu_system:TYPE,SPECIAL; uppercase-token; long-dialogue",
+        "pointer_offset": "0x22766F"
+      },
+      {
+        "text_offset": "0x2283B4",
+        "decoded_text": "A loss, but not a brutal loss...",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x2276B2"
+      },
+      {
+        "text_offset": "0x228132",
+        "decoded_text": "Your aura reminds me of the previous\nChampion, Silver...",
+        "confidence": 0.96,
+        "reason": "terminated; trainer_labels:CHAMPION",
+        "pointer_offset": "0x2276C0"
+      },
+      {
+        "text_offset": "0x228094",
+        "decoded_text": "Your aura reminds me of another person\nbesides myself.\nCould it be...",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x22760B"
+      }
+    ],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x227656",
+        "variable": "0x8000",
+        "value": 584,
+        "item_name_if_item_id": "TM03",
+        "move_name_if_move_id": "Fairy Wind"
+      },
+      {
+        "offset": "0x22765B",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x22767A",
+        "variable": "0x8000",
+        "value": 584,
+        "item_name_if_item_id": "TM03",
+        "move_name_if_move_id": "Fairy Wind"
+      },
+      {
+        "offset": "0x22767F",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "high",
+      "requirement": "unknown",
+      "dialogue_context": "medium"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "Dialogue context is nearby decoded script text for UI context only; it is not proof of a requirement."
+    ],
+    "source_offsets": {
+      "script": "0x22767A",
+      "object": "0x614B50"
+    },
+    "raw_record_hex": "1a008048021a01800100090021"
+  },
+  {
+    "tutor_id": 8,
+    "move_id": 626,
+    "move_name": "DarkstLariat",
+    "map_group": 6,
+    "map_number": 0,
+    "location_name_candidate": "Map 6/0",
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [
+      {
+        "text_offset": "0x22A68C",
+        "decoded_text": "SCOTT: I visit here regularly in hopes\nof seeing tough TRAINERS in action\nin whatever the situation.",
+        "confidence": 1.0,
+        "reason": "terminated; trainer_labels:TRAINER; uppercase-token",
+        "pointer_offset": "0x22A1D7"
+      },
+      {
+        "text_offset": "0x2ECBA8",
+        "decoded_text": "The VERDANTURF BATTLE TENT\nrules are listed.",
+        "confidence": 1.0,
+        "reason": "terminated; battle_menu_system:BATTLE; uppercase-token",
+        "pointer_offset": "0x22A1ED"
+      }
+    ],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x22A176",
+        "variable": "0x8000",
+        "value": 626,
+        "item_name_if_item_id": "TM45",
+        "move_name_if_move_id": "DarkstLariat"
+      },
+      {
+        "offset": "0x22A17B",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "high",
+      "requirement": "unknown",
+      "dialogue_context": "medium"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "Dialogue context is nearby decoded script text for UI context only; it is not proof of a requirement."
+    ],
+    "source_offsets": {
+      "script": "0x22A176",
+      "object": "0x6152B4"
+    },
+    "raw_record_hex": "1a008072021a01800100090021"
+  },
+  {
+    "tutor_id": 9,
+    "move_id": 608,
+    "move_name": "BabyDollEyes",
+    "map_group": 7,
+    "map_number": 3,
+    "location_name_candidate": "Map 7/3",
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [
+      {
+        "text_offset": "0x22BE62",
+        "decoded_text": "Hmm...\nIt's not bad, but it's also not good.\nYou, as the TRAINER, need to put in\nsome more effort.",
+        "confidence": 1.0,
+        "reason": "terminated; item_like:HM; trainer_labels:TRAINER; uppercase-token",
+        "pointer_offset": "0x22BCDB"
+      },
+      {
+        "text_offset": "0x22C021",
+        "decoded_text": "AZURILL: Rurii.",
+        "confidence": 0.83,
+        "reason": "terminated; uppercase-token",
+        "pointer_offset": "0x22BD2F"
+      },
+      {
+        "text_offset": "0x22C031",
+        "decoded_text": "It appears to be very friendly with the\nTRAINER.",
+        "confidence": 1.0,
+        "reason": "terminated; trainer_labels:TRAINER; uppercase-token",
+        "pointer_offset": "0x22BD38"
+      },
+      {
+        "text_offset": "0x22C062",
+        "decoded_text": "AZURILL: Rururi!",
+        "confidence": 0.843,
+        "reason": "terminated; uppercase-token",
+        "pointer_offset": "0x22BD4A"
+      }
+    ],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x22BCB2",
+        "variable": "0x8000",
+        "value": 608,
+        "item_name_if_item_id": "TM27",
+        "move_name_if_move_id": "BabyDollEyes"
+      },
+      {
+        "offset": "0x22BCB7",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x22BCEB",
+        "variable": "0x8000",
+        "value": 602,
+        "item_name_if_item_id": "TM21",
+        "move_name_if_move_id": "MagneticFlux"
+      },
+      {
+        "offset": "0x22BCF0",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "high",
+      "requirement": "unknown",
+      "dialogue_context": "medium"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "Dialogue context is nearby decoded script text for UI context only; it is not proof of a requirement."
+    ],
+    "source_offsets": {
+      "script": "0x22BCB2",
+      "object": "0x615830"
+    },
+    "raw_record_hex": "1a008060021a01800100090021"
+  },
+  {
+    "tutor_id": 10,
+    "move_id": 602,
+    "move_name": "MagneticFlux",
+    "map_group": 7,
+    "map_number": 3,
+    "location_name_candidate": "Map 7/3",
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [
+      {
+        "text_offset": "0x22BE62",
+        "decoded_text": "Hmm...\nIt's not bad, but it's also not good.\nYou, as the TRAINER, need to put in\nsome more effort.",
+        "confidence": 1.0,
+        "reason": "terminated; item_like:HM; trainer_labels:TRAINER; uppercase-token",
+        "pointer_offset": "0x22BCDB"
+      },
+      {
+        "text_offset": "0x22C021",
+        "decoded_text": "AZURILL: Rurii.",
+        "confidence": 0.83,
+        "reason": "terminated; uppercase-token",
+        "pointer_offset": "0x22BD2F"
+      },
+      {
+        "text_offset": "0x22C031",
+        "decoded_text": "It appears to be very friendly with the\nTRAINER.",
+        "confidence": 1.0,
+        "reason": "terminated; trainer_labels:TRAINER; uppercase-token",
+        "pointer_offset": "0x22BD38"
+      },
+      {
+        "text_offset": "0x22C062",
+        "decoded_text": "AZURILL: Rururi!",
+        "confidence": 0.843,
+        "reason": "terminated; uppercase-token",
+        "pointer_offset": "0x22BD4A"
+      }
+    ],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x22BCB2",
+        "variable": "0x8000",
+        "value": 608,
+        "item_name_if_item_id": "TM27",
+        "move_name_if_move_id": "BabyDollEyes"
+      },
+      {
+        "offset": "0x22BCB7",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x22BCEB",
+        "variable": "0x8000",
+        "value": 602,
+        "item_name_if_item_id": "TM21",
+        "move_name_if_move_id": "MagneticFlux"
+      },
+      {
+        "offset": "0x22BCF0",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "high",
+      "requirement": "unknown",
+      "dialogue_context": "medium"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "Dialogue context is nearby decoded script text for UI context only; it is not proof of a requirement."
+    ],
+    "source_offsets": {
+      "script": "0x22BCEB",
+      "object": "0x615830"
+    },
+    "raw_record_hex": "1a00805a021a01800100090021"
+  },
+  {
+    "tutor_id": 11,
+    "move_id": 622,
+    "move_name": "Shore Up",
+    "map_group": 9,
+    "map_number": 2,
+    "location_name_candidate": "Map 9/2",
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [
+      {
+        "text_offset": "0x2EBDD5",
+        "decoded_text": "We look forward to your next visit.",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x231BF9"
+      },
+      {
+        "text_offset": "0x231FBA",
+        "decoded_text": "Wouldn't it be nice if they had more of\na selection?",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x231C5B"
+      },
+      {
+        "text_offset": "0x27EC32",
+        "decoded_text": "The Battle Swap rules are listed.",
+        "confidence": 0.96,
+        "reason": "terminated; battle_menu_system:BATTLE",
+        "pointer_offset": "0x231C65"
+      },
+      {
+        "text_offset": "0x27EC54",
+        "decoded_text": "Which heading do you want to read?",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x231C72"
+      }
+    ],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x231C19",
+        "variable": "0x8000",
+        "value": 622,
+        "item_name_if_item_id": "TM41",
+        "move_name_if_move_id": "Shore Up"
+      },
+      {
+        "offset": "0x231C1E",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "high",
+      "requirement": "unknown",
+      "dialogue_context": "medium"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "Dialogue context is nearby decoded script text for UI context only; it is not proof of a requirement."
+    ],
+    "source_offsets": {
+      "script": "0x231C19",
+      "object": "0x616204"
+    },
+    "raw_record_hex": "1a00806e021a01800100090021"
+  },
+  {
+    "tutor_id": 12,
+    "move_id": 399,
+    "move_name": "Dark Pulse",
+    "map_group": 9,
+    "map_number": 9,
+    "location_name_candidate": "Map 9/9",
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [
+      {
+        "text_offset": "0x236246",
+        "decoded_text": "CAPT. STERN: So you'll trade it for\nmy DEEPSEATOOTH?",
+        "confidence": 0.93,
+        "reason": "terminated; uppercase-token",
+        "pointer_offset": "0x235707"
+      },
+      {
+        "text_offset": "0x23627B",
+        "decoded_text": "CAPT. STERN: So you'll trade it for\nmy DEEPSEASCALE?",
+        "confidence": 0.93,
+        "reason": "terminated; uppercase-token",
+        "pointer_offset": "0x235747"
+      },
+      {
+        "text_offset": "0x235FE6",
+        "decoded_text": "CAPT. STERN: Oh, yes.\nMR. BRINEY came to our SHIPYARD.\nIt won't be long now before we finish\nmaking the ferry!",
+        "confidence": 0.93,
+        "reason": "terminated; uppercase-token",
+        "pointer_offset": "0x2356B0"
+      },
+      {
+        "text_offset": "0x2362B0",
+        "decoded_text": "CAPT. STERN: Which one do you want?",
+        "confidence": 0.93,
+        "reason": "terminated; uppercase-token",
+        "pointer_offset": "0x235790"
+      }
+    ],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x235718",
+        "variable": "0x8000",
+        "value": 399,
+        "item_name_if_item_id": "DeepSeaTooth",
+        "move_name_if_move_id": "Dark Pulse"
+      },
+      {
+        "offset": "0x23571D",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x235758",
+        "variable": "0x8000",
+        "value": 398,
+        "item_name_if_item_id": "DeepSeaScale",
+        "move_name_if_move_id": "Poison Jab"
+      },
+      {
+        "offset": "0x23575D",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "high",
+      "requirement": "unknown",
+      "dialogue_context": "medium"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "Dialogue context is nearby decoded script text for UI context only; it is not proof of a requirement."
+    ],
+    "source_offsets": {
+      "script": "0x235718",
+      "object": "0x616700"
+    },
+    "raw_record_hex": "1a00808f011a01800100090021"
+  },
+  {
+    "tutor_id": 13,
+    "move_id": 398,
+    "move_name": "Poison Jab",
+    "map_group": 9,
+    "map_number": 9,
+    "location_name_candidate": "Map 9/9",
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [
+      {
+        "text_offset": "0x23627B",
+        "decoded_text": "CAPT. STERN: So you'll trade it for\nmy DEEPSEASCALE?",
+        "confidence": 0.93,
+        "reason": "terminated; uppercase-token",
+        "pointer_offset": "0x235747"
+      },
+      {
+        "text_offset": "0x2362B0",
+        "decoded_text": "CAPT. STERN: Which one do you want?",
+        "confidence": 0.93,
+        "reason": "terminated; uppercase-token",
+        "pointer_offset": "0x235790"
+      },
+      {
+        "text_offset": "0x236246",
+        "decoded_text": "CAPT. STERN: So you'll trade it for\nmy DEEPSEATOOTH?",
+        "confidence": 0.93,
+        "reason": "terminated; uppercase-token",
+        "pointer_offset": "0x235707"
+      },
+      {
+        "text_offset": "0x235FE6",
+        "decoded_text": "CAPT. STERN: Oh, yes.\nMR. BRINEY came to our SHIPYARD.\nIt won't be long now before we finish\nmaking the ferry!",
+        "confidence": 0.93,
+        "reason": "terminated; uppercase-token",
+        "pointer_offset": "0x2356B0"
+      }
+    ],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x235718",
+        "variable": "0x8000",
+        "value": 399,
+        "item_name_if_item_id": "DeepSeaTooth",
+        "move_name_if_move_id": "Dark Pulse"
+      },
+      {
+        "offset": "0x23571D",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x235758",
+        "variable": "0x8000",
+        "value": 398,
+        "item_name_if_item_id": "DeepSeaScale",
+        "move_name_if_move_id": "Poison Jab"
+      },
+      {
+        "offset": "0x23575D",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "high",
+      "requirement": "unknown",
+      "dialogue_context": "medium"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "Dialogue context is nearby decoded script text for UI context only; it is not proof of a requirement."
+    ],
+    "source_offsets": {
+      "script": "0x235758",
+      "object": "0x616700"
+    },
+    "raw_record_hex": "1a00808e011a01800100090021"
+  },
+  {
+    "tutor_id": 14,
+    "move_id": 461,
+    "move_name": "Lunar Dance",
+    "map_group": 11,
+    "map_number": 2,
+    "location_name_candidate": "Map 11/2",
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [
+      {
+        "text_offset": "0x23AFCA",
+        "decoded_text": "MR. STONE: You delivered my LETTER?\nThank you kindly!\nThis is my way of thanking you.\nIt should help you, a TRAINER.",
+        "confidence": 1.0,
+        "reason": "terminated; trainer_labels:TRAINER,RED; uppercase-token",
+        "pointer_offset": "0x23AB38"
+      },
+      {
+        "text_offset": "0x23AFAA",
+        "decoded_text": "MR. STONE: I'm counting on you!",
+        "confidence": 0.93,
+        "reason": "terminated; uppercase-token",
+        "pointer_offset": "0x23AB23"
+      },
+      {
+        "text_offset": "0x23B3E2",
+        "decoded_text": "If you visit the SHIPYARD in SLATEPORT,\nyou should go see CAPT. STERN.",
+        "confidence": 0.93,
+        "reason": "terminated; uppercase-token",
+        "pointer_offset": "0x23AB8F"
+      },
+      {
+        "text_offset": "0x23B429",
+        "decoded_text": "DEVON's new products, the REPEAT BALL\nand TIMER BALL, have become hugely\npopular among TRAINERS.",
+        "confidence": 1.0,
+        "reason": "terminated; trainer_labels:TRAINER; uppercase-token",
+        "pointer_offset": "0x23AB99"
+      }
+    ],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x23AB3E",
+        "variable": "0x8000",
+        "value": 461,
+        "item_name_if_item_id": "Exp. Share",
+        "move_name_if_move_id": "Lunar Dance"
+      },
+      {
+        "offset": "0x23AB43",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "high",
+      "requirement": "unknown",
+      "dialogue_context": "medium"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "Dialogue context is nearby decoded script text for UI context only; it is not proof of a requirement."
+    ],
+    "source_offsets": {
+      "script": "0x23AB3E",
+      "object": "0x617184"
+    },
+    "raw_record_hex": "1a0080cd011a01800100090021"
+  },
+  {
+    "tutor_id": 15,
+    "move_id": 621,
+    "move_name": "HyprspceFury",
+    "map_group": 12,
+    "map_number": 1,
+    "location_name_candidate": "Map 12/1",
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [
+      {
+        "text_offset": "0x23FCCF",
+        "decoded_text": "I failed to reach your height again...",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x23F180"
+      },
+      {
+        "text_offset": "0x23FCF4",
+        "decoded_text": "WINONA: Even though I have lost,\nthe wings of my heart remain unbroken.\nI can rise and soar again and\nyet again.\nI am convinced of it!",
+        "confidence": 0.98,
+        "reason": "terminated; uppercase-token; long-dialogue",
+        "pointer_offset": "0x23F18A"
+      },
+      {
+        "text_offset": "0x23F3BC",
+        "decoded_text": "You...\nYou're strong...",
+        "confidence": 0.805,
+        "reason": "terminated",
+        "pointer_offset": "0x23F19B"
+      },
+      {
+        "text_offset": "0x23F3D0",
+        "decoded_text": "A TRAINER has to be smart to keep\nup with unexpected turns of events.\nDo you have the smarts to get to\nour LEADER?",
+        "confidence": 1.0,
+        "reason": "terminated; trainer_labels:TRAINER,LEADER; battle_menu_system:EXP; uppercase-token",
+        "pointer_offset": "0x23F1A1"
+      }
+    ],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x23F12F",
+        "variable": "0x8000",
+        "value": 621,
+        "item_name_if_item_id": "TM40",
+        "move_name_if_move_id": "HyprspceFury"
+      },
+      {
+        "offset": "0x23F134",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x23F153",
+        "variable": "0x8000",
+        "value": 621,
+        "item_name_if_item_id": "TM40",
+        "move_name_if_move_id": "HyprspceFury"
+      },
+      {
+        "offset": "0x23F158",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "high",
+      "requirement": "unknown",
+      "dialogue_context": "medium"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "Dialogue context is nearby decoded script text for UI context only; it is not proof of a requirement."
+    ],
+    "source_offsets": {
+      "script": "0x23F12F",
+      "object": "0x6178A0"
+    },
+    "raw_record_hex": "1a00806d021a01800100090021"
+  },
+  {
+    "tutor_id": 16,
+    "move_id": 621,
+    "move_name": "HyprspceFury",
+    "map_group": 12,
+    "map_number": 1,
+    "location_name_candidate": "Map 12/1",
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [
+      {
+        "text_offset": "0x23FCCF",
+        "decoded_text": "I failed to reach your height again...",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x23F180"
+      },
+      {
+        "text_offset": "0x23FCF4",
+        "decoded_text": "WINONA: Even though I have lost,\nthe wings of my heart remain unbroken.\nI can rise and soar again and\nyet again.\nI am convinced of it!",
+        "confidence": 0.98,
+        "reason": "terminated; uppercase-token; long-dialogue",
+        "pointer_offset": "0x23F18A"
+      },
+      {
+        "text_offset": "0x23F3BC",
+        "decoded_text": "You...\nYou're strong...",
+        "confidence": 0.805,
+        "reason": "terminated",
+        "pointer_offset": "0x23F19B"
+      },
+      {
+        "text_offset": "0x23F3D0",
+        "decoded_text": "A TRAINER has to be smart to keep\nup with unexpected turns of events.\nDo you have the smarts to get to\nour LEADER?",
+        "confidence": 1.0,
+        "reason": "terminated; trainer_labels:TRAINER,LEADER; battle_menu_system:EXP; uppercase-token",
+        "pointer_offset": "0x23F1A1"
+      }
+    ],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x23F12F",
+        "variable": "0x8000",
+        "value": 621,
+        "item_name_if_item_id": "TM40",
+        "move_name_if_move_id": "HyprspceFury"
+      },
+      {
+        "offset": "0x23F134",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x23F153",
+        "variable": "0x8000",
+        "value": 621,
+        "item_name_if_item_id": "TM40",
+        "move_name_if_move_id": "HyprspceFury"
+      },
+      {
+        "offset": "0x23F158",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "high",
+      "requirement": "unknown",
+      "dialogue_context": "medium"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "Dialogue context is nearby decoded script text for UI context only; it is not proof of a requirement."
+    ],
+    "source_offsets": {
+      "script": "0x23F153",
+      "object": "0x6178A0"
+    },
+    "raw_record_hex": "1a00806d021a01800100090021"
+  },
+  {
+    "tutor_id": 17,
+    "move_id": 216,
+    "move_name": "Return",
+    "map_group": 14,
+    "map_number": 9,
+    "location_name_candidate": "Map 14/9",
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [
+      {
+        "text_offset": "0x24BFEB",
+        "decoded_text": "I was taking a stroll down the beach\nwhen I found this.\nIt's not anything I need, so you can\nhave it.",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x24BB51"
+      },
+      {
+        "text_offset": "0x24C051",
+        "decoded_text": "The HOENN region has been famous for \nits meteor showers for a long time.",
+        "confidence": 1.0,
+        "reason": "terminated; locations:HOENN; uppercase-token",
+        "pointer_offset": "0x24BB73"
+      },
+      {
+        "text_offset": "0x24BF62",
+        "decoded_text": "Those MAGMA thugs have their sights\nset on our SPACE CENTER.\nBut we can't allow anything that minor\nto interfere with our rocket launch!",
+        "confidence": 1.0,
+        "reason": "terminated; trainer_labels:MAGMA; uppercase-token; long-dialogue",
+        "pointer_offset": "0x24BB27"
+      },
+      {
+        "text_offset": "0x24C09B",
+        "decoded_text": "TEAM MAGMA can't be allowed to steal\nthe rocket fuel.\nOh, by the way, you can have this stone\nI found on the beach.",
+        "confidence": 1.0,
+        "reason": "terminated; trainer_labels:MAGMA; uppercase-token",
+        "pointer_offset": "0x24BB90"
+      }
+    ],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x24BB57",
+        "variable": "0x8000",
+        "value": 216,
+        "item_name_if_item_id": "Sun Stone",
+        "move_name_if_move_id": "Return"
+      },
+      {
+        "offset": "0x24BB5C",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x24BB96",
+        "variable": "0x8000",
+        "value": 216,
+        "item_name_if_item_id": "Sun Stone",
+        "move_name_if_move_id": "Return"
+      },
+      {
+        "offset": "0x24BB9B",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "high",
+      "requirement": "unknown",
+      "dialogue_context": "medium"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "Dialogue context is nearby decoded script text for UI context only; it is not proof of a requirement."
+    ],
+    "source_offsets": {
+      "script": "0x24BB57",
+      "object": "0x619838"
+    },
+    "raw_record_hex": "1a0080d8001a01800100090021"
+  },
+  {
+    "tutor_id": 18,
+    "move_id": 216,
+    "move_name": "Return",
+    "map_group": 14,
+    "map_number": 9,
+    "location_name_candidate": "Map 14/9",
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [
+      {
+        "text_offset": "0x24C09B",
+        "decoded_text": "TEAM MAGMA can't be allowed to steal\nthe rocket fuel.\nOh, by the way, you can have this stone\nI found on the beach.",
+        "confidence": 1.0,
+        "reason": "terminated; trainer_labels:MAGMA; uppercase-token",
+        "pointer_offset": "0x24BB90"
+      },
+      {
+        "text_offset": "0x24C10F",
+        "decoded_text": "With TEAM MAGMA around, I guess\nstrolls on the beach aren't safe.",
+        "confidence": 1.0,
+        "reason": "terminated; trainer_labels:MAGMA; uppercase-token",
+        "pointer_offset": "0x24BBB2"
+      },
+      {
+        "text_offset": "0x24C051",
+        "decoded_text": "The HOENN region has been famous for \nits meteor showers for a long time.",
+        "confidence": 1.0,
+        "reason": "terminated; locations:HOENN; uppercase-token",
+        "pointer_offset": "0x24BB73"
+      },
+      {
+        "text_offset": "0x24BFEB",
+        "decoded_text": "I was taking a stroll down the beach\nwhen I found this.\nIt's not anything I need, so you can\nhave it.",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x24BB51"
+      }
+    ],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x24BB57",
+        "variable": "0x8000",
+        "value": 216,
+        "item_name_if_item_id": "Sun Stone",
+        "move_name_if_move_id": "Return"
+      },
+      {
+        "offset": "0x24BB5C",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x24BB96",
+        "variable": "0x8000",
+        "value": 216,
+        "item_name_if_item_id": "Sun Stone",
+        "move_name_if_move_id": "Return"
+      },
+      {
+        "offset": "0x24BB9B",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "high",
+      "requirement": "unknown",
+      "dialogue_context": "medium"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "Dialogue context is nearby decoded script text for UI context only; it is not proof of a requirement."
+    ],
+    "source_offsets": {
+      "script": "0x24BB96",
+      "object": "0x619838"
+    },
+    "raw_record_hex": "1a0080d8001a01800100090021"
+  },
+  {
+    "tutor_id": 19,
+    "move_id": 583,
+    "move_name": "Play Rough",
+    "map_group": 15,
+    "map_number": 0,
+    "location_name_candidate": "Map 15/0",
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x24DF16",
+        "variable": "0x8000",
+        "value": 583,
+        "item_name_if_item_id": "TM02",
+        "move_name_if_move_id": "Play Rough"
+      },
+      {
+        "offset": "0x24DF1B",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x24DF39",
+        "variable": "0x8000",
+        "value": 583,
+        "item_name_if_item_id": "TM02",
+        "move_name_if_move_id": "Play Rough"
+      },
+      {
+        "offset": "0x24DF3E",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "high",
+      "requirement": "unknown",
+      "dialogue_context": "none"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "No clean nearby decoded dialogue context was recovered by the conservative pointer scan."
+    ],
+    "source_offsets": {
+      "script": "0x24DF16",
+      "object": "0x619AA0"
+    },
+    "raw_record_hex": "1a008047021a01800100090021"
+  },
+  {
+    "tutor_id": 20,
+    "move_id": 583,
+    "move_name": "Play Rough",
+    "map_group": 15,
+    "map_number": 0,
+    "location_name_candidate": "Map 15/0",
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x24DF16",
+        "variable": "0x8000",
+        "value": 583,
+        "item_name_if_item_id": "TM02",
+        "move_name_if_move_id": "Play Rough"
+      },
+      {
+        "offset": "0x24DF1B",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x24DF39",
+        "variable": "0x8000",
+        "value": 583,
+        "item_name_if_item_id": "TM02",
+        "move_name_if_move_id": "Play Rough"
+      },
+      {
+        "offset": "0x24DF3E",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "high",
+      "requirement": "unknown",
+      "dialogue_context": "none"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "No clean nearby decoded dialogue context was recovered by the conservative pointer scan."
+    ],
+    "source_offsets": {
+      "script": "0x24DF39",
+      "object": "0x619AA0"
+    },
+    "raw_record_hex": "1a008047021a01800100090021"
+  },
+  {
+    "tutor_id": 21,
+    "move_id": 418,
+    "move_name": "Bullet Punch",
+    "map_group": 18,
+    "map_number": 0,
+    "location_name_candidate": "Map 18/0",
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [
+      {
+        "text_offset": "0x253F3B",
+        "decoded_text": "Mommy is stronger than Daddy.\nI'm stronger than Mommy.\nAnd Grandma's stronger than me!\nBut my big brother is even stronger\nthan Grandma.",
+        "confidence": 0.93,
+        "reason": "terminated; long-dialogue",
+        "pointer_offset": "0x253D35"
+      }
+    ],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x253CFE",
+        "variable": "0x8000",
+        "value": 418,
+        "item_name_if_item_id": "Macho Brace",
+        "move_name_if_move_id": "Bullet Punch"
+      },
+      {
+        "offset": "0x253D03",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "high",
+      "requirement": "unknown",
+      "dialogue_context": "medium"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "Dialogue context is nearby decoded script text for UI context only; it is not proof of a requirement."
+    ],
+    "source_offsets": {
+      "script": "0x253CFE",
+      "object": "0x61A77C"
+    },
+    "raw_record_hex": "1a0080a2011a01800100090021"
+  },
+  {
+    "tutor_id": 22,
+    "move_id": 628,
+    "move_name": "Ice Hammer",
+    "map_group": 24,
+    "map_number": 10,
+    "location_name_candidate": "Dark Cave",
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [
+      {
+        "text_offset": "0x255E40",
+        "decoded_text": "STEVEN: Okay, thank you.\nYou went through all this trouble to\ndeliver that. I need to thank you.\nLet me see...\nI'll give you this TM.\nIt contains my favorite move,\nSTEEL WING.",
+        "confidence": 1.0,
+        "reason": "terminated; item_like:TM; uppercase-token; long-dialogue",
+        "pointer_offset": "0x255D17"
+      },
+      {
+        "text_offset": "0x255DDD",
+        "decoded_text": "My name is STEVEN.\nI'm interested in rare stones,\nso I travel here and there.\nOh?\nA LETTER for me?",
+        "confidence": 0.93,
+        "reason": "terminated; uppercase-token",
+        "pointer_offset": "0x255D02"
+      },
+      {
+        "text_offset": "0x25600F",
+        "decoded_text": "Now, I've got to hurry along.",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x255D55"
+      },
+      {
+        "text_offset": "0x2C2B5B",
+        "decoded_text": "Want to stay here and keep\nme company?",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x255C8B"
+      }
+    ],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x255CE6",
+        "variable": "0x8000",
+        "value": 625,
+        "item_name_if_item_id": "TM44",
+        "move_name_if_move_id": "SpiritShackl"
+      },
+      {
+        "offset": "0x255CEB",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x255D1D",
+        "variable": "0x8000",
+        "value": 628,
+        "item_name_if_item_id": "TM47",
+        "move_name_if_move_id": "Ice Hammer"
+      },
+      {
+        "offset": "0x255D22",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "high",
+      "requirement": "unknown",
+      "dialogue_context": "medium"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "Dialogue context is nearby decoded script text for UI context only; it is not proof of a requirement."
+    ],
+    "source_offsets": {
+      "script": "0x255D1D",
+      "object": "0x61B1CC"
+    },
+    "raw_record_hex": "1a008074021a01800100090021"
+  },
+  {
+    "tutor_id": 23,
+    "move_id": 630,
+    "move_name": "HighHorsepwr",
+    "map_group": 25,
+    "map_number": 42,
+    "location_name_candidate": "Map 25/42",
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [
+      {
+        "text_offset": "0x2661D3",
+        "decoded_text": "Uh... Hi! I... I'm not acting suspicious!\nUh... You can have this! For free!\nIt... Honestly, I didn't SNATCH it from\nsomeone! I'd never do such a thing!\nIt's clean! You can use it!",
+        "confidence": 0.98,
+        "reason": "terminated; uppercase-token; long-dialogue",
+        "pointer_offset": "0x265B3A"
+      },
+      {
+        "text_offset": "0x266280",
+        "decoded_text": "SNATCH steals the beneficial effects\nof certain moves before they can be\nused by a foe or ally.",
+        "confidence": 0.93,
+        "reason": "terminated; uppercase-token",
+        "pointer_offset": "0x265B5C"
+      },
+      {
+        "text_offset": "0x265C2D",
+        "decoded_text": "There's a bed...\nLet's take a rest.",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x265B71"
+      },
+      {
+        "text_offset": "0x265C4F",
+        "decoded_text": "I often sail to LILYCOVE CITY.\nI enjoy attending CONTESTS,\nyou see.",
+        "confidence": 1.0,
+        "reason": "terminated; locations:CITY; uppercase-token",
+        "pointer_offset": "0x265B8A"
+      }
+    ],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x265B40",
+        "variable": "0x8000",
+        "value": 630,
+        "item_name_if_item_id": "TM49",
+        "move_name_if_move_id": "HighHorsepwr"
+      },
+      {
+        "offset": "0x265B45",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "high",
+      "requirement": "unknown",
+      "dialogue_context": "medium"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "Dialogue context is nearby decoded script text for UI context only; it is not proof of a requirement."
+    ],
+    "source_offsets": {
+      "script": "0x265B40",
+      "object": "0x6212F8"
+    },
+    "raw_record_hex": "1a008076021a01800100090021"
+  },
+  {
+    "tutor_id": 24,
+    "move_id": 572,
+    "move_name": "PetalBlizzrd",
+    "map_group": 26,
+    "map_number": 46,
+    "location_name_candidate": "Map 26/46",
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [
+      {
+        "text_offset": "0x2898FD",
+        "decoded_text": "Your BERRY POCKET seems to\nbe stuffed.",
+        "confidence": 0.93,
+        "reason": "terminated; uppercase-token",
+        "pointer_offset": "0x288CE4"
+      },
+      {
+        "text_offset": "0x289885",
+        "decoded_text": "I must say I have the gift of knowing\na good TRAINER when I see one.\nI'm so glad I had the foresight to\nbring you here!",
+        "confidence": 1.0,
+        "reason": "terminated; trainer_labels:TRAINER; uppercase-token",
+        "pointer_offset": "0x288CEE"
+      }
+    ],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x288C5D",
+        "variable": "0x8000",
+        "value": 572,
+        "item_name_if_item_id": "Lansat Berry",
+        "move_name_if_move_id": "PetalBlizzrd"
+      },
+      {
+        "offset": "0x288C62",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x288CC3",
+        "variable": "0x8000",
+        "value": 573,
+        "item_name_if_item_id": "Starf Berry",
+        "move_name_if_move_id": "Freeze-Dry"
+      },
+      {
+        "offset": "0x288CC8",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "high",
+      "requirement": "unknown",
+      "dialogue_context": "medium"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "Dialogue context is nearby decoded script text for UI context only; it is not proof of a requirement."
+    ],
+    "source_offsets": {
+      "script": "0x288C5D",
+      "object": "0x623EA4"
+    },
+    "raw_record_hex": "1a00803c021a01800100090021"
+  },
+  {
+    "tutor_id": 25,
+    "move_id": 573,
+    "move_name": "Freeze-Dry",
+    "map_group": 26,
+    "map_number": 46,
+    "location_name_candidate": "Map 26/46",
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [
+      {
+        "text_offset": "0x2898FD",
+        "decoded_text": "Your BERRY POCKET seems to\nbe stuffed.",
+        "confidence": 0.93,
+        "reason": "terminated; uppercase-token",
+        "pointer_offset": "0x288CE4"
+      },
+      {
+        "text_offset": "0x289885",
+        "decoded_text": "I must say I have the gift of knowing\na good TRAINER when I see one.\nI'm so glad I had the foresight to\nbring you here!",
+        "confidence": 1.0,
+        "reason": "terminated; trainer_labels:TRAINER; uppercase-token",
+        "pointer_offset": "0x288CEE"
+      }
+    ],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x288C5D",
+        "variable": "0x8000",
+        "value": 572,
+        "item_name_if_item_id": "Lansat Berry",
+        "move_name_if_move_id": "PetalBlizzrd"
+      },
+      {
+        "offset": "0x288C62",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x288CC3",
+        "variable": "0x8000",
+        "value": 573,
+        "item_name_if_item_id": "Starf Berry",
+        "move_name_if_move_id": "Freeze-Dry"
+      },
+      {
+        "offset": "0x288CC8",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "high",
+      "requirement": "unknown",
+      "dialogue_context": "medium"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "Dialogue context is nearby decoded script text for UI context only; it is not proof of a requirement."
+    ],
+    "source_offsets": {
+      "script": "0x288CC3",
+      "object": "0x623EA4"
+    },
+    "raw_record_hex": "1a00803d021a01800100090021"
+  },
+  {
+    "tutor_id": 26,
+    "move_id": 544,
+    "move_name": "Gear Grind",
+    "map_group": 31,
+    "map_number": 0,
+    "location_name_candidate": "Map 31/0",
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [
+      {
+        "text_offset": "0x2CDECE",
+        "decoded_text": "Ah! What a remarkable saying!\nInspirational, it is!\nI want you to have this.",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x295FFB"
+      },
+      {
+        "text_offset": "0x2CDF1B",
+        "decoded_text": "Oh! A good saying it is.\nYou're quite remarkable.\nI want you to have this.",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x295FC4"
+      },
+      {
+        "text_offset": "0x2CDF66",
+        "decoded_text": "Our four grandchildren should become\nmore accomplished than my husband.\nJoy never goes out of my life!",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x295F77"
+      },
+      {
+        "text_offset": "0x2CDE31",
+        "decoded_text": "The way my husband grows BERRIES,\noh, he's the best in the world.\nHe makes me proud, that he does.\nIncidentally, child, have you heard\na good saying lately?",
+        "confidence": 0.98,
+        "reason": "terminated; uppercase-token; long-dialogue",
+        "pointer_offset": "0x295F44"
+      }
+    ],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x295FD2",
+        "variable": "0x8000",
+        "value": 32781
+      },
+      {
+        "offset": "0x295FD7",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x296001",
+        "variable": "0x8000",
+        "value": 544,
+        "item_name_if_item_id": "Spelon Berry",
+        "move_name_if_move_id": "Gear Grind"
+      },
+      {
+        "offset": "0x296006",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x296032",
+        "variable": "0x8000",
+        "value": 545,
+        "item_name_if_item_id": "Pamtre Berry",
+        "move_name_if_move_id": "Searing Shot"
+      },
+      {
+        "offset": "0x296037",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x296063",
+        "variable": "0x8000",
+        "value": 546,
+        "item_name_if_item_id": "Watmel Berry",
+        "move_name_if_move_id": "Techno Blast"
+      },
+      {
+        "offset": "0x296068",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x296094",
+        "variable": "0x8000",
+        "value": 547,
+        "item_name_if_item_id": "Durin Berry",
+        "move_name_if_move_id": "Relic Song"
+      },
+      {
+        "offset": "0x296099",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "high",
+      "requirement": "unknown",
+      "dialogue_context": "medium"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "Dialogue context is nearby decoded script text for UI context only; it is not proof of a requirement."
+    ],
+    "source_offsets": {
+      "script": "0x296001",
+      "object": "0x625994"
+    },
+    "raw_record_hex": "1a008020021a01800100090021"
+  },
+  {
+    "tutor_id": 27,
+    "move_id": 545,
+    "move_name": "Searing Shot",
+    "map_group": 31,
+    "map_number": 0,
+    "location_name_candidate": "Map 31/0",
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [
+      {
+        "text_offset": "0x2CDECE",
+        "decoded_text": "Ah! What a remarkable saying!\nInspirational, it is!\nI want you to have this.",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x295FFB"
+      },
+      {
+        "text_offset": "0x2CDF1B",
+        "decoded_text": "Oh! A good saying it is.\nYou're quite remarkable.\nI want you to have this.",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x295FC4"
+      },
+      {
+        "text_offset": "0x2CDF66",
+        "decoded_text": "Our four grandchildren should become\nmore accomplished than my husband.\nJoy never goes out of my life!",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x295F77"
+      }
+    ],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x295FD2",
+        "variable": "0x8000",
+        "value": 32781
+      },
+      {
+        "offset": "0x295FD7",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x296001",
+        "variable": "0x8000",
+        "value": 544,
+        "item_name_if_item_id": "Spelon Berry",
+        "move_name_if_move_id": "Gear Grind"
+      },
+      {
+        "offset": "0x296006",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x296032",
+        "variable": "0x8000",
+        "value": 545,
+        "item_name_if_item_id": "Pamtre Berry",
+        "move_name_if_move_id": "Searing Shot"
+      },
+      {
+        "offset": "0x296037",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x296063",
+        "variable": "0x8000",
+        "value": 546,
+        "item_name_if_item_id": "Watmel Berry",
+        "move_name_if_move_id": "Techno Blast"
+      },
+      {
+        "offset": "0x296068",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x296094",
+        "variable": "0x8000",
+        "value": 547,
+        "item_name_if_item_id": "Durin Berry",
+        "move_name_if_move_id": "Relic Song"
+      },
+      {
+        "offset": "0x296099",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x2960C5",
+        "variable": "0x8000",
+        "value": 548,
+        "item_name_if_item_id": "Belue Berry",
+        "move_name_if_move_id": "Secret Sword"
+      },
+      {
+        "offset": "0x2960CA",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "high",
+      "requirement": "unknown",
+      "dialogue_context": "medium"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "Dialogue context is nearby decoded script text for UI context only; it is not proof of a requirement."
+    ],
+    "source_offsets": {
+      "script": "0x296032",
+      "object": "0x625994"
+    },
+    "raw_record_hex": "1a008021021a01800100090021"
+  },
+  {
+    "tutor_id": 28,
+    "move_id": 546,
+    "move_name": "Techno Blast",
+    "map_group": 31,
+    "map_number": 0,
+    "location_name_candidate": "Map 31/0",
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [
+      {
+        "text_offset": "0x2CDECE",
+        "decoded_text": "Ah! What a remarkable saying!\nInspirational, it is!\nI want you to have this.",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x295FFB"
+      },
+      {
+        "text_offset": "0x2CDF66",
+        "decoded_text": "Our four grandchildren should become\nmore accomplished than my husband.\nJoy never goes out of my life!",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x2960E7"
+      },
+      {
+        "text_offset": "0x2CDF1B",
+        "decoded_text": "Oh! A good saying it is.\nYou're quite remarkable.\nI want you to have this.",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x295FC4"
+      },
+      {
+        "text_offset": "0x29612B",
+        "decoded_text": "Whoa there!\nWhere do you think you're going?\nI was told to not let anyone upstairs.\n...\nFine, maybe this will convince you!",
+        "confidence": 0.93,
+        "reason": "terminated; long-dialogue",
+        "pointer_offset": "0x296103"
+      }
+    ],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x295FD2",
+        "variable": "0x8000",
+        "value": 32781
+      },
+      {
+        "offset": "0x295FD7",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x296001",
+        "variable": "0x8000",
+        "value": 544,
+        "item_name_if_item_id": "Spelon Berry",
+        "move_name_if_move_id": "Gear Grind"
+      },
+      {
+        "offset": "0x296006",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x296032",
+        "variable": "0x8000",
+        "value": 545,
+        "item_name_if_item_id": "Pamtre Berry",
+        "move_name_if_move_id": "Searing Shot"
+      },
+      {
+        "offset": "0x296037",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x296063",
+        "variable": "0x8000",
+        "value": 546,
+        "item_name_if_item_id": "Watmel Berry",
+        "move_name_if_move_id": "Techno Blast"
+      },
+      {
+        "offset": "0x296068",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x296094",
+        "variable": "0x8000",
+        "value": 547,
+        "item_name_if_item_id": "Durin Berry",
+        "move_name_if_move_id": "Relic Song"
+      },
+      {
+        "offset": "0x296099",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x2960C5",
+        "variable": "0x8000",
+        "value": 548,
+        "item_name_if_item_id": "Belue Berry",
+        "move_name_if_move_id": "Secret Sword"
+      },
+      {
+        "offset": "0x2960CA",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "high",
+      "requirement": "unknown",
+      "dialogue_context": "medium"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "Dialogue context is nearby decoded script text for UI context only; it is not proof of a requirement."
+    ],
+    "source_offsets": {
+      "script": "0x296063",
+      "object": "0x625994"
+    },
+    "raw_record_hex": "1a008022021a01800100090021"
+  },
+  {
+    "tutor_id": 29,
+    "move_id": 547,
+    "move_name": "Relic Song",
+    "map_group": 31,
+    "map_number": 0,
+    "location_name_candidate": "Map 31/0",
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [
+      {
+        "text_offset": "0x2CDF66",
+        "decoded_text": "Our four grandchildren should become\nmore accomplished than my husband.\nJoy never goes out of my life!",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x2960E7"
+      },
+      {
+        "text_offset": "0x29612B",
+        "decoded_text": "Whoa there!\nWhere do you think you're going?\nI was told to not let anyone upstairs.\n...\nFine, maybe this will convince you!",
+        "confidence": 0.93,
+        "reason": "terminated; long-dialogue",
+        "pointer_offset": "0x296103"
+      },
+      {
+        "text_offset": "0x2961A7",
+        "decoded_text": "I underestimated you because you're\njust a kid.",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x296107"
+      },
+      {
+        "text_offset": "0x296265",
+        "decoded_text": "Scram kid, the factory is closed right\nnow.\nYou're not a very good listener are you?\nMaybe you'll understand this!",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x29611A"
+      }
+    ],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x295FD7",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x296001",
+        "variable": "0x8000",
+        "value": 544,
+        "item_name_if_item_id": "Spelon Berry",
+        "move_name_if_move_id": "Gear Grind"
+      },
+      {
+        "offset": "0x296006",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x296032",
+        "variable": "0x8000",
+        "value": 545,
+        "item_name_if_item_id": "Pamtre Berry",
+        "move_name_if_move_id": "Searing Shot"
+      },
+      {
+        "offset": "0x296037",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x296063",
+        "variable": "0x8000",
+        "value": 546,
+        "item_name_if_item_id": "Watmel Berry",
+        "move_name_if_move_id": "Techno Blast"
+      },
+      {
+        "offset": "0x296068",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x296094",
+        "variable": "0x8000",
+        "value": 547,
+        "item_name_if_item_id": "Durin Berry",
+        "move_name_if_move_id": "Relic Song"
+      },
+      {
+        "offset": "0x296099",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x2960C5",
+        "variable": "0x8000",
+        "value": 548,
+        "item_name_if_item_id": "Belue Berry",
+        "move_name_if_move_id": "Secret Sword"
+      },
+      {
+        "offset": "0x2960CA",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "high",
+      "requirement": "unknown",
+      "dialogue_context": "medium"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "Dialogue context is nearby decoded script text for UI context only; it is not proof of a requirement."
+    ],
+    "source_offsets": {
+      "script": "0x296094",
+      "object": "0x625994"
+    },
+    "raw_record_hex": "1a008023021a01800100090021"
+  },
+  {
+    "tutor_id": 30,
+    "move_id": 548,
+    "move_name": "Secret Sword",
+    "map_group": 31,
+    "map_number": 0,
+    "location_name_candidate": "Map 31/0",
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [
+      {
+        "text_offset": "0x2CDF66",
+        "decoded_text": "Our four grandchildren should become\nmore accomplished than my husband.\nJoy never goes out of my life!",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x2960E7"
+      },
+      {
+        "text_offset": "0x29612B",
+        "decoded_text": "Whoa there!\nWhere do you think you're going?\nI was told to not let anyone upstairs.\n...\nFine, maybe this will convince you!",
+        "confidence": 0.93,
+        "reason": "terminated; long-dialogue",
+        "pointer_offset": "0x296103"
+      },
+      {
+        "text_offset": "0x2961A7",
+        "decoded_text": "I underestimated you because you're\njust a kid.",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x296107"
+      },
+      {
+        "text_offset": "0x296265",
+        "decoded_text": "Scram kid, the factory is closed right\nnow.\nYou're not a very good listener are you?\nMaybe you'll understand this!",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x29611A"
+      }
+    ],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x296006",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x296032",
+        "variable": "0x8000",
+        "value": 545,
+        "item_name_if_item_id": "Pamtre Berry",
+        "move_name_if_move_id": "Searing Shot"
+      },
+      {
+        "offset": "0x296037",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x296063",
+        "variable": "0x8000",
+        "value": 546,
+        "item_name_if_item_id": "Watmel Berry",
+        "move_name_if_move_id": "Techno Blast"
+      },
+      {
+        "offset": "0x296068",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x296094",
+        "variable": "0x8000",
+        "value": 547,
+        "item_name_if_item_id": "Durin Berry",
+        "move_name_if_move_id": "Relic Song"
+      },
+      {
+        "offset": "0x296099",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x2960C5",
+        "variable": "0x8000",
+        "value": 548,
+        "item_name_if_item_id": "Belue Berry",
+        "move_name_if_move_id": "Secret Sword"
+      },
+      {
+        "offset": "0x2960CA",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "high",
+      "requirement": "unknown",
+      "dialogue_context": "medium"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "Dialogue context is nearby decoded script text for UI context only; it is not proof of a requirement."
+    ],
+    "source_offsets": {
+      "script": "0x2960C5",
+      "object": "0x625994"
+    },
+    "raw_record_hex": "1a008024021a01800100090021"
+  },
+  {
+    "tutor_id": 31,
+    "move_id": 624,
+    "move_name": "BanefulBunkr",
+    "map_group": null,
+    "map_number": null,
+    "location_name_candidate": null,
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [
+      {
+        "text_offset": "0x29D3F5",
+        "decoded_text": "Oh, you don't want this?\nIf you change your mind, tell me, okay?",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x29D4AF"
+      },
+      {
+        "text_offset": "0x29D436",
+        "decoded_text": "Oh, you don't have any room for this.\nI'll hold on to it, so come back for it\nanother time, okay?",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x29D51B"
+      }
+    ],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x29D4B7",
+        "variable": "0x8000",
+        "value": 624,
+        "item_name_if_item_id": "TM43",
+        "move_name_if_move_id": "BanefulBunkr"
+      },
+      {
+        "offset": "0x29D4BC",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "medium",
+      "requirement": "unknown",
+      "dialogue_context": "medium"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "Dialogue context is nearby decoded script text for UI context only; it is not proof of a requirement."
+    ],
+    "source_offsets": {
+      "script": "0x29D4B7",
+      "object": null
+    },
+    "raw_record_hex": "1a008070021a01800100090021"
+  },
+  {
+    "tutor_id": 32,
+    "move_id": 14,
+    "move_name": "Swords Dance",
+    "map_group": null,
+    "map_number": null,
+    "location_name_candidate": null,
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [
+      {
+        "text_offset": "0x2A2580",
+        "decoded_text": "Please come back for your prize\nlater on.",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x2A0BEB"
+      },
+      {
+        "text_offset": "0x2A1DF7",
+        "decoded_text": "Which topic would you like?",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x2A0C31"
+      }
+    ],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x2A0B94",
+        "variable": "0x8000",
+        "value": 722,
+        "item_name_if_item_id": "<0x55><0x56><0x57><0x58><0x59> Case",
+        "move_name_if_move_id": "MeteorAssalt"
+      },
+      {
+        "offset": "0x2A0B99",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      },
+      {
+        "offset": "0x2A0BC5",
+        "variable": "0x8000",
+        "value": 14,
+        "item_name_if_item_id": "Luxury Ball",
+        "move_name_if_move_id": "Swords Dance"
+      },
+      {
+        "offset": "0x2A0BCA",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "medium",
+      "requirement": "unknown",
+      "dialogue_context": "medium"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "Dialogue context is nearby decoded script text for UI context only; it is not proof of a requirement."
+    ],
+    "source_offsets": {
+      "script": "0x2A0BC5",
+      "object": null
+    },
+    "raw_record_hex": "1a00800e001a01800100090021"
+  },
+  {
+    "tutor_id": 33,
+    "move_id": 14,
+    "move_name": "Swords Dance",
+    "map_group": null,
+    "map_number": null,
+    "location_name_candidate": null,
+    "requirement_type": "unknown",
+    "required_item_id": null,
+    "required_item_name": null,
+    "required_quantity": null,
+    "currency_type": null,
+    "cost_amount": null,
+    "condition_text_candidate": "No explicit requirement was recovered from extracted game data.",
+    "dialogue_context": [
+      {
+        "text_offset": "0x2A2AC8",
+        "decoded_text": "Please pick up your prize at\nthe reception counter later.\nPlease do compete again!",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x2A1B49"
+      },
+      {
+        "text_offset": "0x2A2A6D",
+        "decoded_text": "We confer on you this RIBBON\nas your prize!",
+        "confidence": 0.93,
+        "reason": "terminated; uppercase-token",
+        "pointer_offset": "0x2A1B83"
+      },
+      {
+        "text_offset": "0x2A2A13",
+        "decoded_text": "MC: Congratulations!\nPlease do compete again!",
+        "confidence": 0.88,
+        "reason": "terminated",
+        "pointer_offset": "0x2A1B08"
+      }
+    ],
+    "nearby_variable_loads": [
+      {
+        "offset": "0x2A1B56",
+        "variable": "0x8000",
+        "value": 14,
+        "item_name_if_item_id": "Luxury Ball",
+        "move_name_if_move_id": "Swords Dance"
+      },
+      {
+        "offset": "0x2A1B5B",
+        "variable": "0x8001",
+        "value": 1,
+        "item_name_if_item_id": "Pok<0x1B> Ball",
+        "move_name_if_move_id": "Pound"
+      }
+    ],
+    "confidence": {
+      "tutor_identity": "medium",
+      "requirement": "unknown",
+      "dialogue_context": "medium"
+    },
+    "caveats": [
+      "Tutor move identity is ROM/script-backed by the recovered setvar/callstd pattern.",
+      "No item, money, BP, shard, or other cost/condition operand was recovered for this row.",
+      "The constant variable 0x8001 = 1 appears in the teach/tutor call pattern and is not proven to be a cost or required quantity.",
+      "Dialogue context is nearby decoded script text for UI context only; it is not proof of a requirement."
+    ],
+    "source_offsets": {
+      "script": "0x2A1B56",
+      "object": null
+    },
+    "raw_record_hex": "1a00800e001a01800100090021"
+  }
+]

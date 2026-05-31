@@ -1,0 +1,2138 @@
+[
+  {
+    "id": "ability-0001",
+    "slug": "1-stench",
+    "name": "Stench",
+    "rawName": "Stench",
+    "description": "May cause a foe to flinch.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0002",
+    "slug": "2-drizzle",
+    "name": "Drizzle",
+    "rawName": "Drizzle",
+    "description": "Summons rain in battle.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0003",
+    "slug": "3-speed-boost",
+    "name": "Speed Boost",
+    "rawName": "Speed Boost",
+    "description": "Gradually boosts Speed.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0004",
+    "slug": "4-battle-armor",
+    "name": "Battle Armor",
+    "rawName": "Battle Armor",
+    "description": "Blocks critical hits.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0005",
+    "slug": "5-sturdy",
+    "name": "Sturdy",
+    "rawName": "Sturdy",
+    "description": "Negates 1-hit KO attacks.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0006",
+    "slug": "6-damp",
+    "name": "Damp",
+    "rawName": "Damp",
+    "description": "Prevents self-destruction.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0007",
+    "slug": "7-limber",
+    "name": "Limber",
+    "rawName": "Limber",
+    "description": "Prevents paralysis.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0008",
+    "slug": "8-sand-veil",
+    "name": "Sand Veil",
+    "rawName": "Sand Veil",
+    "description": "Ups evasion in a sandstorm.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0009",
+    "slug": "9-static",
+    "name": "Static",
+    "rawName": "Static",
+    "description": "Paralyzes on contact.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0010",
+    "slug": "10-volt-absorb",
+    "name": "Volt Absorb",
+    "rawName": "Volt Absorb",
+    "description": "Turns electricity into HP.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0011",
+    "slug": "11-water-absorb",
+    "name": "Water Absorb",
+    "rawName": "Water Absorb",
+    "description": "Changes water into HP.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0012",
+    "slug": "12-oblivious",
+    "name": "Oblivious",
+    "rawName": "Oblivious",
+    "description": "Prevents attraction.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0013",
+    "slug": "13-cloud-nine",
+    "name": "Cloud Nine",
+    "rawName": "Cloud Nine",
+    "description": "Negates weather effects.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0014",
+    "slug": "14-compound-eyes",
+    "name": "Compound Eyes",
+    "rawName": "Compound Eyes",
+    "description": "Raises accuracy.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0015",
+    "slug": "15-insomnia",
+    "name": "Insomnia",
+    "rawName": "Insomnia",
+    "description": "Prevents sleep.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0016",
+    "slug": "16-color-change",
+    "name": "Color Change",
+    "rawName": "Color Change",
+    "description": "Changes type to foe's move.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0017",
+    "slug": "17-immunity",
+    "name": "Immunity",
+    "rawName": "Immunity",
+    "description": "Prevents poisoning.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0018",
+    "slug": "18-flash-fire",
+    "name": "Flash Fire",
+    "rawName": "Flash Fire",
+    "description": "Powers up if hit by fire.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0019",
+    "slug": "19-shield-dust",
+    "name": "Shield Dust",
+    "rawName": "Shield Dust",
+    "description": "Prevents added effects.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0020",
+    "slug": "20-own-tempo",
+    "name": "Own Tempo",
+    "rawName": "Own Tempo",
+    "description": "Prevents confusion.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0021",
+    "slug": "21-suction-cups",
+    "name": "Suction Cups",
+    "rawName": "Suction Cups",
+    "description": "Firmly anchors the body.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0022",
+    "slug": "22-intimidate",
+    "name": "Intimidate",
+    "rawName": "Intimidate",
+    "description": "Lowers the foe's Attack.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0023",
+    "slug": "23-shadow-tag",
+    "name": "Shadow Tag",
+    "rawName": "Shadow Tag",
+    "description": "Prevents the foe's escape.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0024",
+    "slug": "24-rough-skin",
+    "name": "Rough Skin",
+    "rawName": "Rough Skin",
+    "description": "Hurts to touch.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0025",
+    "slug": "25-wonder-guard",
+    "name": "Wonder Guard",
+    "rawName": "Wonder Guard",
+    "description": "\"Supereffective\" hits.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0026",
+    "slug": "26-levitate",
+    "name": "Levitate",
+    "rawName": "Levitate",
+    "description": "Not hit by Ground attacks.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0027",
+    "slug": "27-effect-spore",
+    "name": "Effect Spore",
+    "rawName": "Effect Spore",
+    "description": "Leaves spores on contact.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0028",
+    "slug": "28-synchronize",
+    "name": "Synchronize",
+    "rawName": "Synchronize",
+    "description": "Passes on status problems.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0029",
+    "slug": "29-clear-body",
+    "name": "Clear Body",
+    "rawName": "Clear Body",
+    "description": "Prevents ability reduction.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0030",
+    "slug": "30-natural-cure",
+    "name": "Natural Cure",
+    "rawName": "Natural Cure",
+    "description": "Heals upon switching out.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0031",
+    "slug": "31-lightning-rod",
+    "name": "Lightning Rod",
+    "rawName": "Lightning Rod",
+    "description": "Draws electrical moves.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0032",
+    "slug": "32-serene-grace",
+    "name": "Serene Grace",
+    "rawName": "Serene Grace",
+    "description": "Promotes added effects.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0033",
+    "slug": "33-swift-swim",
+    "name": "Swift Swim",
+    "rawName": "Swift Swim",
+    "description": "Raises Speed in rain.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0034",
+    "slug": "34-chlorophyll",
+    "name": "Chlorophyll",
+    "rawName": "Chlorophyll",
+    "description": "Raises Speed in sunshine.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0035",
+    "slug": "35-illuminate",
+    "name": "Illuminate",
+    "rawName": "Illuminate",
+    "description": "Encounter rate increases.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0036",
+    "slug": "36-trace",
+    "name": "Trace",
+    "rawName": "Trace",
+    "description": "Copies special ability.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0037",
+    "slug": "37-huge-power",
+    "name": "Huge Power",
+    "rawName": "Huge Power",
+    "description": "Raises Attack.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0038",
+    "slug": "38-poison-point",
+    "name": "Poison Point",
+    "rawName": "Poison Point",
+    "description": "Poisons foe on contact.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0039",
+    "slug": "39-inner-focus",
+    "name": "Inner Focus",
+    "rawName": "Inner Focus",
+    "description": "Prevents flinching.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0040",
+    "slug": "40-magma-armor",
+    "name": "Magma Armor",
+    "rawName": "Magma Armor",
+    "description": "Prevents freezing.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0041",
+    "slug": "41-water-veil",
+    "name": "Water Veil",
+    "rawName": "Water Veil",
+    "description": "Prevents burns.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0042",
+    "slug": "42-magnet-pull",
+    "name": "Magnet Pull",
+    "rawName": "Magnet Pull",
+    "description": "Traps Steel-type Pokémon.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0043",
+    "slug": "43-soundproof",
+    "name": "Soundproof",
+    "rawName": "Soundproof",
+    "description": "Avoids sound-based moves.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0044",
+    "slug": "44-rain-dish",
+    "name": "Rain Dish",
+    "rawName": "Rain Dish",
+    "description": "Slight HP recovery in rain.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0045",
+    "slug": "45-sand-stream",
+    "name": "Sand Stream",
+    "rawName": "Sand Stream",
+    "description": "Summons a sandstorm.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0046",
+    "slug": "46-pressure",
+    "name": "Pressure",
+    "rawName": "Pressure",
+    "description": "Raises foe's PP usage.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0047",
+    "slug": "47-thick-fat",
+    "name": "Thick Fat",
+    "rawName": "Thick Fat",
+    "description": "Heat-and-cold protection.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0048",
+    "slug": "48-early-bird",
+    "name": "Early Bird",
+    "rawName": "Early Bird",
+    "description": "Awakens quickly from sleep.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0049",
+    "slug": "49-flame-body",
+    "name": "Flame Body",
+    "rawName": "Flame Body",
+    "description": "Burns the foe on contact.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0050",
+    "slug": "50-run-away",
+    "name": "Run Away",
+    "rawName": "Run Away",
+    "description": "Makes escaping easier.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0051",
+    "slug": "51-keen-eye",
+    "name": "Keen Eye",
+    "rawName": "Keen Eye",
+    "description": "Prevents loss of accuracy.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0052",
+    "slug": "52-hyper-cutter",
+    "name": "Hyper Cutter",
+    "rawName": "Hyper Cutter",
+    "description": "Prevents Attack reduction.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0053",
+    "slug": "53-pickup",
+    "name": "Pickup",
+    "rawName": "Pickup",
+    "description": "May pick up items.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0054",
+    "slug": "54-truant",
+    "name": "Truant",
+    "rawName": "Truant",
+    "description": "Moves only every two turns.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0055",
+    "slug": "55-hustle",
+    "name": "Hustle",
+    "rawName": "Hustle",
+    "description": "Trades accuracy for power.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0056",
+    "slug": "56-cute-charm",
+    "name": "Cute Charm",
+    "rawName": "Cute Charm",
+    "description": "Infatuates on contact.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0057",
+    "slug": "57-plus",
+    "name": "Plus",
+    "rawName": "Plus",
+    "description": "Powers up with Minus.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0058",
+    "slug": "58-minus",
+    "name": "Minus",
+    "rawName": "Minus",
+    "description": "Powers up with Plus.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0059",
+    "slug": "59-forecast",
+    "name": "Forecast",
+    "rawName": "Forecast",
+    "description": "Changes with the weather.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0060",
+    "slug": "60-sticky-hold",
+    "name": "Sticky Hold",
+    "rawName": "Sticky Hold",
+    "description": "Prevents item theft.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0061",
+    "slug": "61-shed-skin",
+    "name": "Shed Skin",
+    "rawName": "Shed Skin",
+    "description": "Heals the body by shedding.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0062",
+    "slug": "62-guts",
+    "name": "Guts",
+    "rawName": "Guts",
+    "description": "Ups Attack if suffering.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0063",
+    "slug": "63-marvel-scale",
+    "name": "Marvel Scale",
+    "rawName": "Marvel Scale",
+    "description": "Ups Defense if suffering.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0064",
+    "slug": "64-liquid-ooze",
+    "name": "Liquid Ooze",
+    "rawName": "Liquid Ooze",
+    "description": "Draining causes injury.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0065",
+    "slug": "65-overgrow",
+    "name": "Overgrow",
+    "rawName": "Overgrow",
+    "description": "Ups Grass moves in a pinch.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0066",
+    "slug": "66-blaze",
+    "name": "Blaze",
+    "rawName": "Blaze",
+    "description": "Ups Fire moves in a pinch.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0067",
+    "slug": "67-torrent",
+    "name": "Torrent",
+    "rawName": "Torrent",
+    "description": "Ups Water moves in a pinch.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0068",
+    "slug": "68-swarm",
+    "name": "Swarm",
+    "rawName": "Swarm",
+    "description": "Ups Bug moves in a pinch.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0069",
+    "slug": "69-rock-head",
+    "name": "Rock Head",
+    "rawName": "Rock Head",
+    "description": "Prevents recoil damage.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0070",
+    "slug": "70-drought",
+    "name": "Drought",
+    "rawName": "Drought",
+    "description": "Summons sunlight in battle.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0071",
+    "slug": "71-arena-trap",
+    "name": "Arena Trap",
+    "rawName": "Arena Trap",
+    "description": "Prevents fleeing.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0072",
+    "slug": "72-vital-spirit",
+    "name": "Vital Spirit",
+    "rawName": "Vital Spirit",
+    "description": "Prevents sleep.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0073",
+    "slug": "73-white-smoke",
+    "name": "White Smoke",
+    "rawName": "White Smoke",
+    "description": "Prevents ability reduction.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0074",
+    "slug": "74-pure-power",
+    "name": "Pure Power",
+    "rawName": "Pure Power",
+    "description": "Raises Attack.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0075",
+    "slug": "75-shell-armor",
+    "name": "Shell Armor",
+    "rawName": "Shell Armor",
+    "description": "Blocks critical hits.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0076",
+    "slug": "76-air-lock",
+    "name": "Air Lock",
+    "rawName": "Air Lock",
+    "description": "Negates weather effects.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0077",
+    "slug": "77-tangled-feet",
+    "name": "Tangled Feet",
+    "rawName": "Tangled Feet",
+    "description": "Ups evasion if confused.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0078",
+    "slug": "78-motor-drive",
+    "name": "Motor Drive",
+    "rawName": "Motor Drive",
+    "description": "Electricity raises Speed.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0079",
+    "slug": "79-rivalry",
+    "name": "Rivalry",
+    "rawName": "Rivalry",
+    "description": "Powers up against rivals.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0080",
+    "slug": "80-steadfast",
+    "name": "Steadfast",
+    "rawName": "Steadfast",
+    "description": "Flinching raises Speed.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0081",
+    "slug": "81-snow-cloak",
+    "name": "Snow Cloak",
+    "rawName": "Snow Cloak",
+    "description": "Ups evasion in Hail.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0082",
+    "slug": "82-gluttony",
+    "name": "Gluttony",
+    "rawName": "Gluttony",
+    "description": "Eats Berries early.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0083",
+    "slug": "83-anger-point",
+    "name": "Anger Point",
+    "rawName": "Anger Point",
+    "description": "Critical hits raise Attack.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0084",
+    "slug": "84-unburden",
+    "name": "Unburden",
+    "rawName": "Unburden",
+    "description": "Using a hold item ups Speed.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0085",
+    "slug": "85-heatproof",
+    "name": "Heatproof",
+    "rawName": "Heatproof",
+    "description": "Heat and burn protection.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0086",
+    "slug": "86-simple",
+    "name": "Simple",
+    "rawName": "Simple",
+    "description": "Prone to wild stat changes.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0087",
+    "slug": "87-dry-skin",
+    "name": "Dry Skin",
+    "rawName": "Dry Skin",
+    "description": "Prefers moisture to heat.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0088",
+    "slug": "88-download",
+    "name": "Download",
+    "rawName": "Download",
+    "description": "Adjusts power favorably.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0089",
+    "slug": "89-iron-fist",
+    "name": "Iron Fist",
+    "rawName": "Iron Fist",
+    "description": "Boosts punching moves.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0090",
+    "slug": "90-poison-heal",
+    "name": "Poison Heal",
+    "rawName": "Poison Heal",
+    "description": "Restores HP if poisoned.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0091",
+    "slug": "91-adaptability",
+    "name": "Adaptability",
+    "rawName": "Adaptability",
+    "description": "Boosts same type attacks.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0092",
+    "slug": "92-skill-link",
+    "name": "Skill Link",
+    "rawName": "Skill Link",
+    "description": "Multi-hit moves hit 5 times.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0093",
+    "slug": "93-hydration",
+    "name": "Hydration",
+    "rawName": "Hydration",
+    "description": "Cures status in rain.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0094",
+    "slug": "94-solar-power",
+    "name": "Solar Power",
+    "rawName": "Solar Power",
+    "description": "Powers up in sunshine.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0095",
+    "slug": "95-quick-feet",
+    "name": "Quick Feet",
+    "rawName": "Quick Feet",
+    "description": "Ups Speed if suffering.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0096",
+    "slug": "96-normalize",
+    "name": "Normalize",
+    "rawName": "Normalize",
+    "description": "Moves become Normal-type.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0097",
+    "slug": "97-sniper",
+    "name": "Sniper",
+    "rawName": "Sniper",
+    "description": "Boosts critical hits.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0098",
+    "slug": "98-magic-guard",
+    "name": "Magic Guard",
+    "rawName": "Magic Guard",
+    "description": "Only damaged by attacks.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0099",
+    "slug": "99-no-guard",
+    "name": "No Guard",
+    "rawName": "No Guard",
+    "description": "Ensures that all moves hit.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0100",
+    "slug": "100-stall",
+    "name": "Stall",
+    "rawName": "Stall",
+    "description": "Always moves last.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0101",
+    "slug": "101-technician",
+    "name": "Technician",
+    "rawName": "Technician",
+    "description": "Boosts weaker moves.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0102",
+    "slug": "102-leaf-guard",
+    "name": "Leaf Guard",
+    "rawName": "Leaf Guard",
+    "description": "Blocks status in sunshine.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0103",
+    "slug": "103-klutz",
+    "name": "Klutz",
+    "rawName": "Klutz",
+    "description": "Can't use hold items.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0104",
+    "slug": "104-mold-breaker",
+    "name": "Mold Breaker",
+    "rawName": "Mold Breaker",
+    "description": "Moves hit through abilities.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0105",
+    "slug": "105-super-luck",
+    "name": "Super Luck",
+    "rawName": "Super Luck",
+    "description": "Critical hits land often.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0106",
+    "slug": "106-aftermath",
+    "name": "Aftermath",
+    "rawName": "Aftermath",
+    "description": "Fainting damages the foe.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0107",
+    "slug": "107-anticipation",
+    "name": "Anticipation",
+    "rawName": "Anticipation",
+    "description": "Senses dangerous moves.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0108",
+    "slug": "108-forewarn",
+    "name": "Forewarn",
+    "rawName": "Forewarn",
+    "description": "Determines a foe's move.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0109",
+    "slug": "109-unaware",
+    "name": "Unaware",
+    "rawName": "Unaware",
+    "description": "Ignores stat changes.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0110",
+    "slug": "110-tinted-lens",
+    "name": "Tinted Lens",
+    "rawName": "Tinted Lens",
+    "description": "Ups \"not very effective\".",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0111",
+    "slug": "111-filter",
+    "name": "Filter",
+    "rawName": "Filter",
+    "description": "Weakens \"supereffective\".",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0112",
+    "slug": "112-slow-start",
+    "name": "Slow Start",
+    "rawName": "Slow Start",
+    "description": "Takes a while to get going.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0113",
+    "slug": "113-scrappy",
+    "name": "Scrappy",
+    "rawName": "Scrappy",
+    "description": "Hits Ghost-type Pokémon.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0114",
+    "slug": "114-storm-drain",
+    "name": "Storm Drain",
+    "rawName": "Storm Drain",
+    "description": "Draws in Water moves.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0115",
+    "slug": "115-ice-body",
+    "name": "Ice Body",
+    "rawName": "Ice Body",
+    "description": "Slight HP recovery in Hail.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0116",
+    "slug": "116-solid-rock",
+    "name": "Solid Rock",
+    "rawName": "Solid Rock",
+    "description": "Decreases damage taken from super-effective moves by 1/4.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0117",
+    "slug": "117-snow-warning",
+    "name": "Snow Warning",
+    "rawName": "Snow Warning",
+    "description": "Summons hail that lasts indefinitely upon entering battle.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0118",
+    "slug": "118-honey-gather",
+    "name": "Honey Gather",
+    "rawName": "Honey Gather",
+    "description": "The Pokémon may pick up Honey after battle.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0119",
+    "slug": "119-frisk",
+    "name": "Frisk",
+    "rawName": "Frisk",
+    "description": "Reveals an opponent's held item upon entering battle.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0120",
+    "slug": "120-reckless",
+    "name": "Reckless",
+    "rawName": "Reckless",
+    "description": "Strengthens recoil moves to 1.2× their power.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0121",
+    "slug": "121-multitype",
+    "name": "Multitype",
+    "rawName": "Multitype",
+    "description": "Changes Arceus's type and form to match its held Plate.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0122",
+    "slug": "122-flower-gift",
+    "name": "Flower Gift",
+    "rawName": "Flower Gift",
+    "description": "Increases friendly Pokémon's Attack and Special Defense to 1.5× during strong sunlight.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0123",
+    "slug": "123-bad-dreams",
+    "name": "Bad Dreams",
+    "rawName": "Bad Dreams",
+    "description": "Damages sleeping opponents for 1/8 their max HP after each turn.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0124",
+    "slug": "124-pickpocket",
+    "name": "Pickpocket",
+    "rawName": "Pickpocket",
+    "description": "Steals attacking Pokémon's held items on contact.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0125",
+    "slug": "125-sheer-force",
+    "name": "Sheer Force",
+    "rawName": "Sheer Force",
+    "description": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0126",
+    "slug": "126-contrary",
+    "name": "Contrary",
+    "rawName": "Contrary",
+    "description": "Inverts stat changes.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0127",
+    "slug": "127-unnerve",
+    "name": "Unnerve",
+    "rawName": "Unnerve",
+    "description": "Prevents opposing Pokémon from eating held Berries.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0128",
+    "slug": "128-defiant",
+    "name": "Defiant",
+    "rawName": "Defiant",
+    "description": "Raises Attack two stages upon having any stat lowered.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0129",
+    "slug": "129-defeatist",
+    "name": "Defeatist",
+    "rawName": "Defeatist",
+    "description": "Halves Attack and Special Attack at 50% max HP or less.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0130",
+    "slug": "130-cursed-body",
+    "name": "Cursed Body",
+    "rawName": "Cursed Body",
+    "description": "Has a 30% chance of Disabling any move that hits the Pokémon.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0131",
+    "slug": "131-healer",
+    "name": "Healer",
+    "rawName": "Healer",
+    "description": "Has a 30% chance of curing each adjacent ally of any major status ailment after each turn.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0132",
+    "slug": "132-friend-guard",
+    "name": "Friend Guard",
+    "rawName": "Friend Guard",
+    "description": "Decreases all direct damage taken by friendly Pokémon to 0.75×.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0133",
+    "slug": "133-weak-armor",
+    "name": "Weak Armor",
+    "rawName": "Weak Armor",
+    "description": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0134",
+    "slug": "134-heavy-metal",
+    "name": "Heavy Metal",
+    "rawName": "Heavy Metal",
+    "description": "Doubles the Pokémon's weight.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0135",
+    "slug": "135-light-metal",
+    "name": "Light Metal",
+    "rawName": "Light Metal",
+    "description": "Halves the Pokémon's weight.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0136",
+    "slug": "136-multiscale",
+    "name": "Multiscale",
+    "rawName": "Multiscale",
+    "description": "Halves damage taken from full HP.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0137",
+    "slug": "137-toxic-boost",
+    "name": "Toxic Boost",
+    "rawName": "Toxic Boost",
+    "description": "Increases Attack to 1.5× when poisoned.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0138",
+    "slug": "138-flare-boost",
+    "name": "Flare Boost",
+    "rawName": "Flare Boost",
+    "description": "Increases Special Attack to 1.5× when burned.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0139",
+    "slug": "139-harvest",
+    "name": "Harvest",
+    "rawName": "Harvest",
+    "description": "Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0140",
+    "slug": "140-telepathy",
+    "name": "Telepathy",
+    "rawName": "Telepathy",
+    "description": "Protects against friendly Pokémon's damaging moves.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0141",
+    "slug": "141-moody",
+    "name": "Moody",
+    "rawName": "Moody",
+    "description": "Raises a random stat two stages and lowers another one stage after each turn.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0142",
+    "slug": "142-overcoat",
+    "name": "Overcoat",
+    "rawName": "Overcoat",
+    "description": "Protects against damage from weather.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0143",
+    "slug": "143-poison-touch",
+    "name": "Poison Touch",
+    "rawName": "Poison Touch",
+    "description": "Has a 30% chance of poisoning target Pokémon upon contact.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0144",
+    "slug": "144-regenerator",
+    "name": "Regenerator",
+    "rawName": "Regenerator",
+    "description": "Heals for 1/3 max HP upon switching out.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0145",
+    "slug": "145-big-pecks",
+    "name": "Big Pecks",
+    "rawName": "Big Pecks",
+    "description": "Protects against Defense drops.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0146",
+    "slug": "146-sand-rush",
+    "name": "Sand Rush",
+    "rawName": "Sand Rush",
+    "description": "Doubles Speed during a sandstorm. Protects against sandstorm damage.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0147",
+    "slug": "147-wonder-skin",
+    "name": "Wonder Skin",
+    "rawName": "Wonder Skin",
+    "description": "Lowers incoming non-damaging moves' base accuracy to exactly 50%.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0148",
+    "slug": "148-analytic",
+    "name": "Analytic",
+    "rawName": "Analytic",
+    "description": "Strengthens moves to 1.3× their power when moving last.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0149",
+    "slug": "149-illusion",
+    "name": "Illusion",
+    "rawName": "Illusion",
+    "description": "Takes the appearance of the last conscious party Pokémon upon being sent out until hit by a damaging move.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0150",
+    "slug": "150-imposter",
+    "name": "Imposter",
+    "rawName": "Imposter",
+    "description": "Transforms upon entering battle.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0151",
+    "slug": "151-infiltrator",
+    "name": "Infiltrator",
+    "rawName": "Infiltrator",
+    "description": "Bypasses Light Screen, Reflect, and Safeguard.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0152",
+    "slug": "152-mummy",
+    "name": "Mummy",
+    "rawName": "Mummy",
+    "description": "Changes attacking Pokémon's abilities to Mummy on contact.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0153",
+    "slug": "153-moxie",
+    "name": "Moxie",
+    "rawName": "Moxie",
+    "description": "Raises Attack one stage upon KOing a Pokémon.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0154",
+    "slug": "154-justified",
+    "name": "Justified",
+    "rawName": "Justified",
+    "description": "Raises Attack one stage upon taking damage from a Dark move.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0155",
+    "slug": "155-rattled",
+    "name": "Rattled",
+    "rawName": "Rattled",
+    "description": "Raises Speed one stage upon being hit by a Dark, Ghost, or Bug move.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0156",
+    "slug": "156-magic-bounce",
+    "name": "Magic Bounce",
+    "rawName": "Magic Bounce",
+    "description": "Reflects most non-damaging moves back at their user.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0157",
+    "slug": "157-sap-sipper",
+    "name": "Sap Sipper",
+    "rawName": "Sap Sipper",
+    "description": "Absorbs Grass moves, raising Attack one stage.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0158",
+    "slug": "158-prankster",
+    "name": "Prankster",
+    "rawName": "Prankster",
+    "description": "Raises non-damaging moves' priority by one stage.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0159",
+    "slug": "159-sand-force",
+    "name": "Sand Force",
+    "rawName": "Sand Force",
+    "description": "Strengthens Rock, Ground, and Steel moves to 1.3× their power during a sandstorm. Protects against sandstorm damage.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0160",
+    "slug": "160-iron-barbs",
+    "name": "Iron Barbs",
+    "rawName": "Iron Barbs",
+    "description": "Damages attacking Pokémon for 1/8 their max HP on contact.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0161",
+    "slug": "161-zen-mode",
+    "name": "Zen Mode",
+    "rawName": "Zen Mode",
+    "description": "Changes Darmanitan's form after each turn depending on its HP: Zen Mode below 50% max HP, and Standard Mode otherwise.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0162",
+    "slug": "162-victory-star",
+    "name": "Victory Star",
+    "rawName": "Victory Star",
+    "description": "Increases moves' accuracy to 1.1× for friendly Pokémon.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0163",
+    "slug": "163-turboblaze",
+    "name": "Turboblaze",
+    "rawName": "Turboblaze",
+    "description": "Bypasses targets' abilities if they could hinder or prevent moves.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0164",
+    "slug": "164-teravolt",
+    "name": "Teravolt",
+    "rawName": "Teravolt",
+    "description": "Bypasses targets' abilities if they could hinder or prevent moves.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0165",
+    "slug": "165-aroma-veil",
+    "name": "Aroma Veil",
+    "rawName": "Aroma Veil",
+    "description": "Protects allies against moves that affect their mental state.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0166",
+    "slug": "166-flower-veil",
+    "name": "Flower Veil",
+    "rawName": "Flower Veil",
+    "description": "Protects friendly Grass Pokémon from having their stats lowered by other Pokémon.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0167",
+    "slug": "167-cheek-pouch",
+    "name": "Cheek Pouch",
+    "rawName": "Cheek Pouch",
+    "description": "Restores HP upon eating a Berry, in addition to the Berry's effect.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0168",
+    "slug": "168-protean",
+    "name": "Protean",
+    "rawName": "Protean",
+    "description": "Changes the bearer's type to match each move it uses.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0169",
+    "slug": "169-fur-coat",
+    "name": "Fur Coat",
+    "rawName": "Fur Coat",
+    "description": "Halves damage from physical attacks.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0170",
+    "slug": "170-magician",
+    "name": "Magician",
+    "rawName": "Magician",
+    "description": "Steals the target's held item when the bearer uses a damaging move.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0171",
+    "slug": "171-bulletproof",
+    "name": "Bulletproof",
+    "rawName": "Bulletproof",
+    "description": "Protects against bullet, ball, and bomb-based moves.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0172",
+    "slug": "172-competitive",
+    "name": "Competitive",
+    "rawName": "Competitive",
+    "description": "Raises Special Attack by two stages upon having any stat lowered.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0173",
+    "slug": "173-strong-jaw",
+    "name": "Strong Jaw",
+    "rawName": "Strong Jaw",
+    "description": "Strengthens biting moves to 1.5× their power.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0174",
+    "slug": "174-refrigerate",
+    "name": "Refrigerate",
+    "rawName": "Refrigerate",
+    "description": "Turns the bearer's Normal moves into Ice moves and strengthens them to 1.3× their power.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0175",
+    "slug": "175-sweet-veil",
+    "name": "Sweet Veil",
+    "rawName": "Sweet Veil",
+    "description": "Prevents friendly Pokémon from sleeping.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0176",
+    "slug": "176-stance-change",
+    "name": "Stance Change",
+    "rawName": "Stance Change",
+    "description": "Changes Aegislash to Blade Forme before using a damaging move, or Shield Forme before using King’s Shield.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0177",
+    "slug": "177-gale-wings",
+    "name": "Gale Wings",
+    "rawName": "Gale Wings",
+    "description": "Raises Flying moves' priority by one stage.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0178",
+    "slug": "178-mega-launcher",
+    "name": "Mega Launcher",
+    "rawName": "Mega Launcher",
+    "description": "Strengthens aura and pulse moves to 1.5× their power.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0179",
+    "slug": "179-grass-pelt",
+    "name": "Grass Pelt",
+    "rawName": "Grass Pelt",
+    "description": "Boosts Defense while Grassy Terrain is in effect.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0180",
+    "slug": "180-symbiosis",
+    "name": "Symbiosis",
+    "rawName": "Symbiosis",
+    "description": "Passes the bearer's held item to an ally when the ally uses up its item.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0181",
+    "slug": "181-tough-claws",
+    "name": "Tough Claws",
+    "rawName": "Tough Claws",
+    "description": "Strengthens moves that make contact to 1.33× their power.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0182",
+    "slug": "182-pixilate",
+    "name": "Pixilate",
+    "rawName": "Pixilate",
+    "description": "Turns the bearer's Normal moves into Fairy moves and strengthens them to 1.3× their power.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0183",
+    "slug": "183-gooey",
+    "name": "Gooey",
+    "rawName": "Gooey",
+    "description": "Lowers attacking Pokémon's Speed by one stage on contact.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0184",
+    "slug": "184-aerilate",
+    "name": "Aerilate",
+    "rawName": "Aerilate",
+    "description": "Turns the bearer's Normal moves into Flying moves and strengthens them to 1.3× their power.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0185",
+    "slug": "185-parental-bond",
+    "name": "Parental Bond",
+    "rawName": "Parental Bond",
+    "description": "Lets the bearer hit twice with damaging moves. The second hit has half power.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0186",
+    "slug": "186-dark-aura",
+    "name": "Dark Aura",
+    "rawName": "Dark Aura",
+    "description": "Strengthens Dark moves to 1.33× their power for all friendly and opposing Pokémon.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0187",
+    "slug": "187-fairy-aura",
+    "name": "Fairy Aura",
+    "rawName": "Fairy Aura",
+    "description": "Strengthens Fairy moves to 1.33× their power for all friendly and opposing Pokémon.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0188",
+    "slug": "188-aura-break",
+    "name": "Aura Break",
+    "rawName": "Aura Break",
+    "description": "Makes Dark Aura and Fairy Aura weaken moves of their respective types.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0189",
+    "slug": "189-primordial-sea",
+    "name": "Primordial Sea",
+    "rawName": "Primordial Sea",
+    "description": "Creates heavy rain, which has all the properties of Rain Dance, cannot be replaced, and causes damaging Fire moves to fail.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0190",
+    "slug": "190-desolate-land",
+    "name": "Desolate Land",
+    "rawName": "Desolate Land",
+    "description": "Creates extremely harsh sunlight, which has all the properties of Sunny Day, cannot be replaced, and causes damaging Water moves to fail.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0191",
+    "slug": "191-delta-stream",
+    "name": "Delta Stream",
+    "rawName": "Delta Stream",
+    "description": "Creates a mysterious air current, which cannot be replaced and causes moves to never be super effective against Flying Pokémon.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0192",
+    "slug": "192-stamina",
+    "name": "Stamina",
+    "rawName": "Stamina",
+    "description": "Raises this Pokémon's Defense by one stage when it takes damage from a move.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0193",
+    "slug": "193-wimp-out",
+    "name": "Wimp Out",
+    "rawName": "Wimp Out",
+    "description": "This Pokémon automatically switches out when its HP drops below half.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0194",
+    "slug": "194-emergency-exit",
+    "name": "Emergency Exit",
+    "rawName": "Emergency Exit",
+    "description": "This Pokémon automatically switches out when its HP drops below half.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0195",
+    "slug": "195-water-compaction",
+    "name": "Water Compaction",
+    "rawName": "Water Compaction",
+    "description": "Raises this Pokémon's Defense by two stages when it's hit by a Water move.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0196",
+    "slug": "196-merciless",
+    "name": "Merciless",
+    "rawName": "Merciless",
+    "description": "This Pokémon's moves critical hit against poisoned targets.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0197",
+    "slug": "197-shields-down",
+    "name": "Shields Down",
+    "rawName": "Shields Down",
+    "description": "Transforms this Minior between Core Form and Meteor Form. Prevents major status ailments and drowsiness while in Meteor Form.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0198",
+    "slug": "198-stakeout",
+    "name": "Stakeout",
+    "rawName": "Stakeout",
+    "description": "This Pokémon's moves have double power against Pokémon that switched in this turn.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0199",
+    "slug": "199-water-bubble",
+    "name": "Water Bubble",
+    "rawName": "Water Bubble",
+    "description": "Halves damage from Fire moves, doubles damage of Water moves, and prevents burns.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0200",
+    "slug": "200-steelworker",
+    "name": "Steelworker",
+    "rawName": "Steelworker",
+    "description": "This Pokémon's Steel moves have 1.5× power.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0201",
+    "slug": "201-berserk",
+    "name": "Berserk",
+    "rawName": "Berserk",
+    "description": "Raises this Pokémon's Special Attack by one stage every time its HP drops below half.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0202",
+    "slug": "202-slush-rush",
+    "name": "Slush Rush",
+    "rawName": "Slush Rush",
+    "description": "During Hail, this Pokémon has double Speed.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0203",
+    "slug": "203-long-reach",
+    "name": "Long Reach",
+    "rawName": "Long Reach",
+    "description": "This Pokémon's moves do not make contact.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0204",
+    "slug": "204-liquid-voice",
+    "name": "Liquid Voice",
+    "rawName": "Liquid Voice",
+    "description": "Sound-based moves become Water-type.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0205",
+    "slug": "205-triage",
+    "name": "Triage",
+    "rawName": "Triage",
+    "description": "This Pokémon's healing moves have their priority increased by 3.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0206",
+    "slug": "206-galvanize",
+    "name": "Galvanize",
+    "rawName": "Galvanize",
+    "description": "This Pokémon's Normal moves are Electric and have their power increased to 1.2×.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0207",
+    "slug": "207-surge-surfer",
+    "name": "Surge Surfer",
+    "rawName": "Surge Surfer",
+    "description": "Doubles this Pokémon's Speed on Electric Terrain.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0208",
+    "slug": "208-schooling",
+    "name": "Schooling",
+    "rawName": "Schooling",
+    "description": "Wishiwashi becomes Schooling Form when its HP is 25% or higher.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0209",
+    "slug": "209-disguise",
+    "name": "Disguise",
+    "rawName": "Disguise",
+    "description": "Prevents the first instance of battle damage.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0210",
+    "slug": "210-battle-bond",
+    "name": "Battle Bond",
+    "rawName": "Battle Bond",
+    "description": "Transforms this Pokémon into Ash-Greninja after fainting an opponent. Water Shuriken's power is 20 and always hits three times.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0211",
+    "slug": "211-power-construct",
+    "name": "Power Construct",
+    "rawName": "Power Construct",
+    "description": "Transforms 10% or 50% Zygarde into Complete Forme when its HP is below 50%.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0212",
+    "slug": "212-corrosion",
+    "name": "Corrosion",
+    "rawName": "Corrosion",
+    "description": "This Pokémon can inflict poison on Poison and Steel Pokémon.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0213",
+    "slug": "213-comatose",
+    "name": "Comatose",
+    "rawName": "Comatose",
+    "description": "This Pokémon always acts as though it were Asleep.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0214",
+    "slug": "214-queenly-majesty",
+    "name": "Queenly Majesty",
+    "rawName": "Queenly Majesty",
+    "description": "Opposing Pokémon cannot use priority attacks.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0215",
+    "slug": "215-innards-out",
+    "name": "Innards Out",
+    "rawName": "Innards Out",
+    "description": "When this Pokémon faints from an opponent's move, that opponent takes damage equal to the HP this Pokémon had remaining.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0216",
+    "slug": "216-dancer",
+    "name": "Dancer",
+    "rawName": "Dancer",
+    "description": "Whenever another Pokémon uses a dance move, this Pokémon will use the same move immediately afterwards.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0217",
+    "slug": "217-battery",
+    "name": "Battery",
+    "rawName": "Battery",
+    "description": "Ally Pokémon's moves have their power increased to 1.3×.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0218",
+    "slug": "218-fluffy",
+    "name": "Fluffy",
+    "rawName": "Fluffy",
+    "description": "Damage from contact moves is halved. Damage from Fire moves is doubled.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0219",
+    "slug": "219-dazzling",
+    "name": "Dazzling",
+    "rawName": "Dazzling",
+    "description": "Opposing Pokémon cannot use priority attacks.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0220",
+    "slug": "220-soul-heart",
+    "name": "Soul-Heart",
+    "rawName": "Soul-Heart",
+    "description": "This Pokémon's Special Attack rises by one stage every time any Pokémon faints.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0221",
+    "slug": "221-tangling-hair",
+    "name": "Tangling Hair",
+    "rawName": "Tangling Hair",
+    "description": "When this Pokémon takes regular damage from a contact move, the attacking Pokémon's Speed lowers by one stage.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0222",
+    "slug": "222-receiver",
+    "name": "Receiver",
+    "rawName": "Receiver",
+    "description": "When an ally faints, this Pokémon gains its Ability.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0223",
+    "slug": "223-power-of-alchemy",
+    "name": "Power Of Alchemy",
+    "rawName": "Power Of Alchemy",
+    "description": "When an ally faints, this Pokémon gains its Ability.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0224",
+    "slug": "224-beast-boost",
+    "name": "Beast Boost",
+    "rawName": "Beast Boost",
+    "description": "Raises this Pokémon's highest stat by one stage when it faints another Pokémon.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0225",
+    "slug": "225-rks-system",
+    "name": "RKS System",
+    "rawName": "RKS System",
+    "description": "Changes this Pokémon's type to match its held Memory.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0226",
+    "slug": "226-electric-surge",
+    "name": "Electric Surge",
+    "rawName": "Electric Surge",
+    "description": "When this Pokémon enters battle, it changes the terrain to Electric Terrain.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0227",
+    "slug": "227-psychic-surge",
+    "name": "Psychic Surge",
+    "rawName": "Psychic Surge",
+    "description": "When this Pokémon enters battle, it changes the terrain to Psychic Terrain.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0228",
+    "slug": "228-misty-surge",
+    "name": "Misty Surge",
+    "rawName": "Misty Surge",
+    "description": "When this Pokémon enters battle, it changes the terrain to Misty Terrain.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0229",
+    "slug": "229-grassy-surge",
+    "name": "Grassy Surge",
+    "rawName": "Grassy Surge",
+    "description": "When this Pokémon enters battle, it changes the terrain to Grassy Terrain.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0230",
+    "slug": "230-full-metal-body",
+    "name": "Full Metal Body",
+    "rawName": "Full Metal Body",
+    "description": "Other Pokémon cannot lower this Pokémon's stats.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0231",
+    "slug": "231-shadow-shield",
+    "name": "Shadow Shield",
+    "rawName": "Shadow Shield",
+    "description": "When this Pokémon has full HP, regular damage from moves is halved.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0232",
+    "slug": "232-prism-armor",
+    "name": "Prism Armor",
+    "rawName": "Prism Armor",
+    "description": "Reduces super-effective damage to 0.75×.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0233",
+    "slug": "233-neuroforce",
+    "name": "Neuroforce",
+    "rawName": "Neuroforce",
+    "description": "Increases super-effective damage dealt to 1.25×.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0234",
+    "slug": "234-intrepid-sword",
+    "name": "Intrepid Sword",
+    "rawName": "Intrepid Sword",
+    "description": "Boosts Attack in battle.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0235",
+    "slug": "235-dauntless-shield",
+    "name": "Dauntless Shield",
+    "rawName": "Dauntless Shield",
+    "description": "Boosts Defense in battle.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0236",
+    "slug": "236-libero",
+    "name": "Libero",
+    "rawName": "Libero",
+    "description": "Libero changes the Pokémon's type to that of its previously used attack.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0237",
+    "slug": "237-ball-fetch",
+    "name": "Ball Fetch",
+    "rawName": "Ball Fetch",
+    "description": "If the Pokémon is not holding an item, it will fetch the Poké Ball from the first failed throw of the battle.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0238",
+    "slug": "238-cotton-down",
+    "name": "Cotton Down",
+    "rawName": "Cotton Down",
+    "description": "When Ignores moves and abilities that draw in moves.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0239",
+    "slug": "239-propeller-tail",
+    "name": "Propeller Tail",
+    "rawName": "Propeller Tail",
+    "description": "Ignores moves and abilities that draw in moves.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0240",
+    "slug": "240-mirror-armor",
+    "name": "Mirror Armor",
+    "rawName": "Mirror Armor",
+    "description": "Reflects any stat-lowering effects.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0241",
+    "slug": "241-gulp-missile",
+    "name": "Gulp Missile",
+    "rawName": "Gulp Missile",
+    "description": "If a Cramorant with Gulp Missile uses Surf or Dive, it catches prey and changes its form depending on its remaining HP.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0242",
+    "slug": "242-stalwart",
+    "name": "Stalwart",
+    "rawName": "Stalwart",
+    "description": "Ignores moves and abilities that draw in moves.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0243",
+    "slug": "243-steam-engine",
+    "name": "Steam Engine",
+    "rawName": "Steam Engine",
+    "description": "Boosts the Speed stat drastically when the Pokémon is hit by a Fire- or Water-type move.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0244",
+    "slug": "244-punk-rock",
+    "name": "Punk Rock",
+    "rawName": "Punk Rock",
+    "description": "Boosts sound-based moves and halves damage from the same moves.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0245",
+    "slug": "245-sand-spit",
+    "name": "Sand Spit",
+    "rawName": "Sand Spit",
+    "description": "Creates a sandstorm when hit by an attack.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0246",
+    "slug": "246-ice-scales",
+    "name": "Ice Scales",
+    "rawName": "Ice Scales",
+    "description": "Halves damage from Special moves.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0247",
+    "slug": "247-ripen",
+    "name": "Ripen",
+    "rawName": "Ripen",
+    "description": "Doubles the effect of berries.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0248",
+    "slug": "248-ice-face",
+    "name": "Ice Face",
+    "rawName": "Ice Face",
+    "description": "The Pokémon’s ice head can take a physical attack as a substitute, but the attack also changes the Pokémon’s appearance. The ice will be restored when it snows.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0249",
+    "slug": "249-power-spot",
+    "name": "Power Spot",
+    "rawName": "Power Spot",
+    "description": "Just being next to the Pokémon powers up moves.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0250",
+    "slug": "250-mimicry",
+    "name": "Mimicry",
+    "rawName": "Mimicry",
+    "description": "Changes type depending on the terrain.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0251",
+    "slug": "251-screen-cleaner",
+    "name": "Screen Cleaner",
+    "rawName": "Screen Cleaner",
+    "description": "Nullifies effects of Light Screen, Reflect, and Aurora Veil.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0252",
+    "slug": "252-steely-spirit",
+    "name": "Steely Spirit",
+    "rawName": "Steely Spirit",
+    "description": "Powers up ally Pokémon's Steel-type moves.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0253",
+    "slug": "253-perish-body",
+    "name": "Perish Body",
+    "rawName": "Perish Body",
+    "description": "When hit by a move that makes direct contact, the Pokémon and the attacker will faint after three turns unless they switch out of battle.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0254",
+    "slug": "254-wandering-spirit",
+    "name": "Wandering Spirit",
+    "rawName": "Wandering Spirit",
+    "description": "Swaps abilities with opponents on contact.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0255",
+    "slug": "255-gorilla-tactics",
+    "name": "Gorilla Tactics",
+    "rawName": "Gorilla Tactics",
+    "description": "Boosts the Pokémon's Attack stat but only allows the use of the first selected move.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0256",
+    "slug": "256-neutralizing-gas",
+    "name": "Neutralizing Gas",
+    "rawName": "Neutralizing Gas",
+    "description": "Neutralizes abilities of all Pokémon in battle.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0257",
+    "slug": "257-pastel-veil",
+    "name": "Pastel Veil",
+    "rawName": "Pastel Veil",
+    "description": "Prevents the Pokémon and its allies from being poisoned.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0258",
+    "slug": "258-hunger-switch",
+    "name": "Hunger Switch",
+    "rawName": "Hunger Switch",
+    "description": "Causes Morpeko to change its form each turn, alternating between Full Belly Mode and Hangry Mode",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0259",
+    "slug": "259-quick-draw",
+    "name": "Quick Draw",
+    "rawName": "Quick Draw",
+    "description": "Enables the Pokémon to move first occasionally.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0260",
+    "slug": "260-unseen-fist",
+    "name": "Unseen Fist",
+    "rawName": "Unseen Fist",
+    "description": "Contact moves can strike through Protect/Detect.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0261",
+    "slug": "261-curious-medicine",
+    "name": "Curious Medicine",
+    "rawName": "Curious Medicine",
+    "description": "Resets all stat changes upon entering battlefield.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0262",
+    "slug": "262-transistor",
+    "name": "Transistor",
+    "rawName": "Transistor",
+    "description": "Powers up Electric-type moves.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0263",
+    "slug": "263-dragon-s-maw",
+    "name": "Dragon's Maw",
+    "rawName": "Dragon's Maw",
+    "description": "Powers up Dragon-type moves.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0264",
+    "slug": "264-chilling-neigh",
+    "name": "Chilling Neigh",
+    "rawName": "Chilling Neigh",
+    "description": "Boosts Attack after knocking out a Pokémon.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0265",
+    "slug": "265-grim-neigh",
+    "name": "Grim Neigh",
+    "rawName": "Grim Neigh",
+    "description": "Boosts Special Attack after knocking out a Pokémon.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0266",
+    "slug": "266-as-one",
+    "name": "As One",
+    "rawName": "As One",
+    "description": "This Ability combines the effects of both Calyrex's Unnerve Ability and Glastrier's Chilling Neigh Ability.",
+    "source": "mod"
+  },
+  {
+    "id": "ability-0267",
+    "slug": "267-as-one",
+    "name": "As One",
+    "rawName": "As One",
+    "description": "This Ability combines the effects of both Calyrex's Unnerve Ability and Spectrier's Grim Neigh Ability.",
+    "source": "mod"
+  }
+]
