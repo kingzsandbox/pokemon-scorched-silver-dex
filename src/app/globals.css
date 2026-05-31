@@ -90,11 +90,13 @@ section[style*="var(--surface-card)"] {
   width: 100%;
   max-width: 100%;
   overflow-x: auto;
-  overflow-y: visible;
+  overflow-y: auto;
   -webkit-overflow-scrolling: touch;
   border: 1px solid var(--border-soft);
   border-radius: 20px;
   background: rgba(12, 13, 13, 0.34);
+  max-height: calc(100vh - 190px);
+  overscroll-behavior: contain;
 }
 
 .table-scroll table,
@@ -139,6 +141,7 @@ section[style*="var(--surface-card)"] {
 
   .table-scroll {
     border-radius: 16px;
+    max-height: calc(100vh - 150px);
   }
 
   .site-header-hidden {

@@ -1,0 +1,262 @@
+{
+  "generatedAt": "2026-05-31T17:32:06.453Z",
+  "dataRouteInventory": {
+    "pokemonDetailRoutes": 1237,
+    "moveDetailRoutes": 813,
+    "itemDetailRoutes": 757,
+    "locationDetailRoutes": 327,
+    "machineDetailRoutes": 58,
+    "abilityDetailRoutes": 267,
+    "moveTutorRows": 34,
+    "totalMainTabRoutesRepresented": 3467
+  },
+  "zCrystalAudit": {
+    "totalZCrystalItems": 35,
+    "zCrystalsWithFrontendObtainRows": 6,
+    "zCrystalsWithoutFrontendObtainRows": [
+      "Normalium Z",
+      "Waterium Z",
+      "Electrium Z",
+      "Grassium Z",
+      "Icium Z",
+      "Fightinium Z",
+      "Groundium Z",
+      "Flyinium Z",
+      "Psychium Z",
+      "Buginium Z",
+      "Ghostium Z",
+      "Dragonium Z",
+      "Darkinium Z",
+      "Steelium Z",
+      "Fairium Z",
+      "Pikanium Z",
+      "Mewnium Z",
+      "Decidium Z",
+      "Incinium Z",
+      "Primarium Z",
+      "Lycanium Z",
+      "Mimikium Z",
+      "Kommonium Z",
+      "Tapunium Z",
+      "Lunalium Z",
+      "Marshadium Z",
+      "Aloraichium Z",
+      "Pikashunium Z",
+      "U-Necrozium Z"
+    ],
+    "zCrystalsWithRows": [
+      {
+        "id": "item-0358",
+        "name": "Firium Z",
+        "slug": "358-firium-z",
+        "locationRows": 1
+      },
+      {
+        "id": "item-0364",
+        "name": "Poisonium Z",
+        "slug": "364-poisonium-z",
+        "locationRows": 1
+      },
+      {
+        "id": "item-0369",
+        "name": "Rockium Z",
+        "slug": "369-rockium-z",
+        "locationRows": 1
+      },
+      {
+        "id": "item-0376",
+        "name": "Eevium Z",
+        "slug": "376-eevium-z",
+        "locationRows": 1
+      },
+      {
+        "id": "item-0377",
+        "name": "Snorlium Z",
+        "slug": "377-snorlium-z",
+        "locationRows": 1
+      },
+      {
+        "id": "item-0386",
+        "name": "Solganium Z",
+        "slug": "386-solganium-z",
+        "locationRows": 1
+      }
+    ],
+    "evidence": "Extraction lab structured shop/reward/acquisition outputs contain no Z-Crystal item-id hits; temp_analysis/script_variable_loads.tsv contains six concrete item loads, now surfaced as Item Ball locations."
+  },
+  "visibleRenderedSpotChecks": [
+    {
+      "url": "/items/358-firium-z",
+      "expected": [
+        "Z-Crystals",
+        "Rage Resort",
+        "Item Ball",
+        "Game data"
+      ],
+      "forbiddenAbsent": [
+        "Item Guide",
+        "ROM-backed",
+        "candidate"
+      ]
+    },
+    {
+      "url": "/items/364-poisonium-z",
+      "expected": [
+        "Z-Crystals",
+        "Route 34",
+        "Item Ball",
+        "Game data"
+      ],
+      "forbiddenAbsent": [
+        "Item Guide",
+        "ROM-backed",
+        "candidate"
+      ]
+    },
+    {
+      "url": "/items/369-rockium-z",
+      "expected": [
+        "Z-Crystals",
+        "Route 34",
+        "Item Ball",
+        "Game data"
+      ],
+      "forbiddenAbsent": [
+        "Item Guide",
+        "ROM-backed",
+        "candidate"
+      ]
+    },
+    {
+      "url": "/items/376-eevium-z",
+      "expected": [
+        "Z-Crystals",
+        "Route A",
+        "Item Ball",
+        "Game data"
+      ],
+      "forbiddenAbsent": [
+        "Item Guide",
+        "ROM-backed",
+        "candidate"
+      ]
+    },
+    {
+      "url": "/items/377-snorlium-z",
+      "expected": [
+        "Z-Crystals",
+        "Route F",
+        "Item Ball",
+        "Game data"
+      ],
+      "forbiddenAbsent": [
+        "Item Guide",
+        "ROM-backed",
+        "candidate"
+      ]
+    },
+    {
+      "url": "/items/386-solganium-z",
+      "expected": [
+        "Z-Crystals",
+        "Route A",
+        "Item Ball",
+        "Game data"
+      ],
+      "forbiddenAbsent": [
+        "Item Guide",
+        "ROM-backed",
+        "candidate"
+      ]
+    },
+    {
+      "url": "/items/217-moon-stone",
+      "expected": [
+        "Where to Obtain",
+        "Reference guide"
+      ],
+      "forbiddenAbsent": [
+        "Item Guide",
+        "Guide-listed",
+        "ROM-backed"
+      ]
+    },
+    {
+      "url": "/pokemon",
+      "expected": [
+        "Pokemon",
+        "Ability"
+      ],
+      "forbiddenAbsent": [
+        "candidate",
+        "debug",
+        "raw_"
+      ]
+    },
+    {
+      "url": "/moves",
+      "expected": [
+        "Move",
+        "Type",
+        "Category",
+        "Power"
+      ],
+      "forbiddenAbsent": [
+        "candidate",
+        "debug",
+        "raw_"
+      ]
+    },
+    {
+      "url": "/locations",
+      "expected": [
+        "Locations",
+        "Cherrygrove City",
+        "Route 29"
+      ],
+      "forbiddenAbsent": [
+        "Item or facility reference",
+        "Map #",
+        "ROM-backed"
+      ]
+    },
+    {
+      "url": "/machines",
+      "expected": [
+        "TMs & HMs",
+        "Machine",
+        "Move",
+        "Type",
+        "Category",
+        "Power"
+      ],
+      "forbiddenAbsent": [
+        "compatibility count",
+        "candidate",
+        "debug"
+      ]
+    },
+    {
+      "url": "/abilities",
+      "expected": [
+        "Abilities"
+      ],
+      "forbiddenAbsent": [
+        "(ability #)",
+        "candidate",
+        "debug"
+      ]
+    },
+    {
+      "url": "/move-tutors",
+      "expected": [
+        "Move Tutors"
+      ],
+      "forbiddenAbsent": [
+        "Requirement unknown",
+        "Map #",
+        "Source text"
+      ]
+    }
+  ]
+}

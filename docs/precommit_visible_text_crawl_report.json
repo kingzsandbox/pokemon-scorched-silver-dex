@@ -1,0 +1,206 @@
+{
+  "generatedAt": "2026-05-31T17:32:29.990Z",
+  "note": "Rendered visible text spot-check after build. Full route inventory is in precommit_heavy_crawl_report.json; serial every-route HTTP crawl was too slow for the local Next server, so this report verifies representative rendered pages plus all newly surfaced Z-Crystal rows.",
+  "checks": [
+    {
+      "url": "/items/358-firium-z",
+      "status": 200,
+      "forbiddenHits": [],
+      "contains": {
+        "zCrystals": true,
+        "whereToObtain": true,
+        "itemBall": true,
+        "noObtainListed": false,
+        "referenceGuide": false
+      },
+      "excerpt": "Scorched Silver Dex Scorched Silver Dex Pokemon Locations Items Moves TMs & HMs Abilities Move Tutors Search Firium Z Z-Crystals Upgrade Fire- type moves into Z-Moves. Where to Obtain Location How Details Source Rage Resort Item Ball — Game data Scorched Silver Dex QA build: 2026-05-30 17:05 PDT"
+    },
+    {
+      "url": "/items/364-poisonium-z",
+      "status": 200,
+      "forbiddenHits": [],
+      "contains": {
+        "zCrystals": true,
+        "whereToObtain": true,
+        "itemBall": true,
+        "noObtainListed": false,
+        "referenceGuide": false
+      },
+      "excerpt": "Scorched Silver Dex Scorched Silver Dex Pokemon Locations Items Moves TMs & HMs Abilities Move Tutors Search Poisonium Z Z-Crystals Upgrade Poison- type moves into Z-Moves. Where to Obtain Location How Details Source Route 34 Item Ball — Game data Scorched Silver Dex QA build: 2026-05-30 17:05 PDT"
+    },
+    {
+      "url": "/items/369-rockium-z",
+      "status": 200,
+      "forbiddenHits": [],
+      "contains": {
+        "zCrystals": true,
+        "whereToObtain": true,
+        "itemBall": true,
+        "noObtainListed": false,
+        "referenceGuide": false
+      },
+      "excerpt": "Scorched Silver Dex Scorched Silver Dex Pokemon Locations Items Moves TMs & HMs Abilities Move Tutors Search Rockium Z Z-Crystals Upgrade Rock- type moves into Z-Moves. Where to Obtain Location How Details Source Route 34 Item Ball — Game data Scorched Silver Dex QA build: 2026-05-30 17:05 PDT"
+    },
+    {
+      "url": "/items/376-eevium-z",
+      "status": 200,
+      "forbiddenHits": [],
+      "contains": {
+        "zCrystals": true,
+        "whereToObtain": true,
+        "itemBall": true,
+        "noObtainListed": false,
+        "referenceGuide": false
+      },
+      "excerpt": "Scorched Silver Dex Scorched Silver Dex Pokemon Locations Items Moves TMs & HMs Abilities Move Tutors Search Eevium Z Z-Crystals Upgrade Eevee&#x27;s Last Resort into a Z-Move. Where to Obtain Location How Details Source Route A Item Ball — Game data Scorched Silver Dex QA build: 2026-05-30 17:05 PD"
+    },
+    {
+      "url": "/items/377-snorlium-z",
+      "status": 200,
+      "forbiddenHits": [],
+      "contains": {
+        "zCrystals": true,
+        "whereToObtain": true,
+        "itemBall": true,
+        "noObtainListed": false,
+        "referenceGuide": false
+      },
+      "excerpt": "Scorched Silver Dex Scorched Silver Dex Pokemon Locations Items Moves TMs & HMs Abilities Move Tutors Search Snorlium Z Z-Crystals Upgrade Snorlax&#x27;s Giga Impact into a Z-Move. Where to Obtain Location How Details Source Route F Item Ball — Game data Scorched Silver Dex QA build: 2026-05-30 17:0"
+    },
+    {
+      "url": "/items/386-solganium-z",
+      "status": 200,
+      "forbiddenHits": [],
+      "contains": {
+        "zCrystals": true,
+        "whereToObtain": true,
+        "itemBall": true,
+        "noObtainListed": false,
+        "referenceGuide": false
+      },
+      "excerpt": "Scorched Silver Dex Scorched Silver Dex Pokemon Locations Items Moves TMs & HMs Abilities Move Tutors Search Solganium Z Z-Crystals Upgrade Solgaleo&#x27;s Sunsteel Strike into a Z-Move. Where to Obtain Location How Details Source Route A Item Ball — Game data Scorched Silver Dex QA build: 2026-05-3"
+    },
+    {
+      "url": "/items/357-normalium-z",
+      "status": 200,
+      "forbiddenHits": [],
+      "contains": {
+        "zCrystals": true,
+        "whereToObtain": true,
+        "itemBall": false,
+        "noObtainListed": true,
+        "referenceGuide": false
+      },
+      "excerpt": "Scorched Silver Dex Scorched Silver Dex Pokemon Locations Items Moves TMs & HMs Abilities Move Tutors Search Normalium Z Z-Crystals Upgrade Normal- type moves into Z-Moves. Where to Obtain No obtain source is listed for this item. Scorched Silver Dex QA build: 2026-05-30 17:05 PDT"
+    },
+    {
+      "url": "/items/217-moon-stone",
+      "status": 200,
+      "forbiddenHits": [],
+      "contains": {
+        "zCrystals": false,
+        "whereToObtain": true,
+        "itemBall": true,
+        "noObtainListed": false,
+        "referenceGuide": false
+      },
+      "excerpt": "Scorched Silver Dex Scorched Silver Dex Pokemon Locations Items Moves TMs & HMs Abilities Move Tutors Search Moon Stone Evolution Items Makes certain species of Pokémon evolve. Where to Obtain Location How Details Source mt mortar Found Mt. Mortar Game data Mt. Silver Cave Found Mt. Silver - Cave Ga"
+    },
+    {
+      "url": "/pokemon",
+      "status": 200,
+      "forbiddenHits": [],
+      "contains": {
+        "zCrystals": false,
+        "whereToObtain": false,
+        "itemBall": false,
+        "noObtainListed": false,
+        "referenceGuide": false
+      },
+      "excerpt": "Scorched Silver Dex Scorched Silver Dex Search Pokémon Bulbasaur # 1 Ivysaur # 2 Venusaur # 3 • 2 forms Mega Venusaur # 906 • 2 forms Charmander # 4 Charmeleon # 5 Charizard # 6 • 3 forms Mega Charizard X # 907 • 3 forms Mega Charizard Y # 908 • 3 forms Squirtle # 7 Wartortle # 8 Blastoise # 9 • 2 f"
+    },
+    {
+      "url": "/moves",
+      "status": 200,
+      "forbiddenHits": [],
+      "contains": {
+        "zCrystals": false,
+        "whereToObtain": false,
+        "itemBall": false,
+        "noObtainListed": false,
+        "referenceGuide": false
+      },
+      "excerpt": "Scorched Silver Dex Scorched Silver Dex Search All Moves Move Type Category Power Accuracy PP Effect Summary Pound 40 100 35 Pounds the foe with forelegs or tail. Karate Chop 50 100 25 A chopping attack with a high critical-hit ratio. Double Slap 15 85 10 Repeatedly slaps the foe 2 to 5 times. Comet"
+    },
+    {
+      "url": "/items",
+      "status": 200,
+      "forbiddenHits": [],
+      "contains": {
+        "zCrystals": true,
+        "whereToObtain": false,
+        "itemBall": false,
+        "noObtainListed": false,
+        "referenceGuide": false
+      },
+      "excerpt": "Scorched Silver Dex Scorched Silver Dex Search Items All Key Items Evolution Items Mega Stones Z-Crystals Berries Poke Balls Held Items Medicines Modifier Items Battle Items Valuables Key Items Armor Fossil A piece of a prehistoric Poké- mon&#x27;s head. Cell Key A key that opens cell doors in the P"
+    },
+    {
+      "url": "/locations",
+      "status": 200,
+      "forbiddenHits": [],
+      "contains": {
+        "zCrystals": false,
+        "whereToObtain": false,
+        "itemBall": false,
+        "noObtainListed": false,
+        "referenceGuide": false
+      },
+      "excerpt": "Scorched Silver Dex Scorched Silver Dex Search Locations Cherrygrove City Route 29 New Bark Town Route 30 Route 31 Dark Cave Violet City Sprout Tower Ruins of Alph Route 32 Union Cave Route 33 Azalea Town Slowpoke Well Ilex Forest Route 34 Goldenrod City Goldenrod City Sewer National Park Route 35 R"
+    },
+    {
+      "url": "/machines",
+      "status": 200,
+      "forbiddenHits": [],
+      "contains": {
+        "zCrystals": false,
+        "whereToObtain": false,
+        "itemBall": false,
+        "noObtainListed": false,
+        "referenceGuide": false
+      },
+      "excerpt": "Scorched Silver Dex Scorched Silver Dex Search TMs & HMs Browse TM and HM records by machine code, taught move, battle data, obtainment, and compatibility. Machine Move Type Category Power Acc. PP Effect TM01 TM Dark Pulse 80 100 15 Attacks with a horrible aura. May cause flinching. TM02 TM Dragon C"
+    },
+    {
+      "url": "/abilities",
+      "status": 200,
+      "forbiddenHits": [],
+      "contains": {
+        "zCrystals": false,
+        "whereToObtain": false,
+        "itemBall": false,
+        "noObtainListed": false,
+        "referenceGuide": false
+      },
+      "excerpt": "Scorched Silver Dex Scorched Silver Dex Search Abilities Adaptability Boosts same type attacks. Aerilate Turns the bearer&#x27;s Normal moves into Flying moves and strengthens them to 1.3× their power. Aftermath Fainting damages the foe. Air Lock Negates weather effects. Analytic Strengthens moves t"
+    },
+    {
+      "url": "/move-tutors",
+      "status": 200,
+      "forbiddenHits": [],
+      "contains": {
+        "zCrystals": false,
+        "whereToObtain": false,
+        "itemBall": false,
+        "noObtainListed": false,
+        "referenceGuide": false
+      },
+      "excerpt": "Scorched Silver Dex Scorched Silver Dex Search Move Tutors Apricotta Beach BabyDollEyes Type Category Power Accuracy PP Effect — 100 30 Lowers the foe&#x27;s Attack before it can move. MagneticFlux Type Category Power Accuracy PP Effect — — 20 Boosts the defenses of those with Plus or Minus. Azalea "
+    }
+  ],
+  "summary": {
+    "checked": 15,
+    "statusFailures": 0,
+    "forbiddenHitPages": 0
+  }
+}

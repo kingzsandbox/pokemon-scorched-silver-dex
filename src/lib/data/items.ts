@@ -870,7 +870,7 @@ function cleanObtainDetail(notes: string): { method: string; detail: string | nu
 
   const docMatch = trimmed.match(/^Documentation-backed location:\s*(.+?)\.\s*Source:\s*attached\s+ScorchedSilver_Items\.xls\s+row\s+\d+;\s*not ROM-backed\.?$/i);
   if (docMatch) {
-    return { method: "Item Guide", detail: docMatch[1].trim() || null };
+    return { method: "Found", detail: docMatch[1].trim() || null };
   }
 
   const scriptRewardMatch = trimmed.match(/^Script reward(?:\s+x(\d+))?/i);

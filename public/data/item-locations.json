@@ -26320,5 +26320,41 @@
     "itemId": "item-0004",
     "locationId": "location-g32-m000",
     "notes": "Shop - unknown; confidence medium_high"
+  },
+  {
+    "id": "romscript-zcrystal-0358-g00-m025-218c38",
+    "itemId": "item-0358",
+    "locationId": "location-g00-m025",
+    "notes": "ROM-backed item placement; visible_item_ball_script_pattern; script offset 0x218BF6; source offset 0x611114"
+  },
+  {
+    "id": "romscript-zcrystal-0364-g00-m032-21ad72",
+    "itemId": "item-0364",
+    "locationId": "location-g00-m032",
+    "notes": "ROM-backed item placement; visible_item_ball_script_pattern; script offset 0x21AD30; source offset 0x612110"
+  },
+  {
+    "id": "romscript-zcrystal-0369-g00-m032-21add4",
+    "itemId": "item-0369",
+    "locationId": "location-g00-m032",
+    "notes": "ROM-backed item placement; visible_item_ball_script_pattern; script offset 0x21AD92; source offset 0x6121E8"
+  },
+  {
+    "id": "romscript-zcrystal-0377-g00-m041-21d737",
+    "itemId": "item-0377",
+    "locationId": "location-g00-m041",
+    "notes": "ROM-backed item placement; visible_item_ball_script_pattern; script offset 0x21D6F5; source offset 0x6133F8"
+  },
+  {
+    "id": "romscript-zcrystal-0376-g00-m043-21d91e",
+    "itemId": "item-0376",
+    "locationId": "location-g00-m043",
+    "notes": "ROM-backed item placement; visible_item_ball_script_pattern; script offset 0x21D8DC; source offset 0x613578"
+  },
+  {
+    "id": "romscript-zcrystal-0386-g00-m043-21d980",
+    "itemId": "item-0386",
+    "locationId": "location-g00-m043",
+    "notes": "ROM-backed item placement; visible_item_ball_script_pattern; script offset 0x21D93E; source offset 0x613590"
   }
 ]

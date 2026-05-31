@@ -27,7 +27,7 @@ export default async function ItemDetailPage({ params }: ItemDetailPageProps) {
 
   const foundLocations = getItemObtainDetails(item.id);
   const sourceLabel = (source: "internal" | "vanilla") =>
-    source === "internal" ? "Game data" : "Item guide";
+    source === "internal" ? "Game data" : "Reference guide";
 
   return (
     <main style={{ margin: "0 auto", maxWidth: "900px", padding: "40px 24px 64px" }}>
