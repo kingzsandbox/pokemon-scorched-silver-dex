@@ -37,6 +37,16 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
 
   function typeLabel(type: SearchResultType): string {
     switch (type) {
+      case "pokemon":
+        return "Pokemon";
+      case "move":
+        return "Move";
+      case "item":
+        return "Item";
+      case "location":
+        return "Location";
+      case "ability":
+        return "Ability";
       case "move_tutor":
         return "Move Tutor";
       case "machine":
@@ -59,7 +69,7 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
         />
       </header>
 
-      <p style={{ color: "#586379" }}>
+      <p style={{ color: "var(--text-muted)" }}>
         {query ? `${results.length} result(s) for "${query}"` : "Enter a query to search the dex."}
       </p>
 
@@ -71,16 +81,17 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
             style={{
               display: "block",
               padding: "16px",
-              border: "1px solid #d7dcea",
-              borderRadius: "12px",
-              background: "#ffffff",
+              border: "1px solid var(--border-soft)",
+              borderRadius: "16px",
+              background: "var(--surface-card)",
+              boxShadow: "var(--shadow-soft)",
             }}
           >
             <strong style={{ display: "block", marginBottom: "4px" }}>{result.title}</strong>
-            <span style={{ display: "block", color: "#445067", marginBottom: "4px" }}>
+            <span style={{ display: "block", color: "var(--text-muted)", marginBottom: "4px" }}>
               {result.subtitle}
             </span>
-            <span style={{ color: "#6a7487", fontSize: "0.95rem", textTransform: "capitalize" }}>
+            <span style={{ color: "var(--text-subtle)", fontSize: "0.95rem" }}>
               {typeLabel(result.type)}
             </span>
           </Link>

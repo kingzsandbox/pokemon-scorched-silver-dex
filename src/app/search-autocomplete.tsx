@@ -81,7 +81,7 @@ function normalizeQuery(value: string): string {
 }
 
 function getHomePokemonHref(slug: string): string {
-  return `/?tab=pokedex&focus=${encodeURIComponent(slug)}#pokemon-row-${encodeURIComponent(slug)}`;
+  return `/pokemon/${slug}`;
 }
 
 function getSearchResultHref(result: Pick<SearchResult, "type" | "slug">): string {

@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { usePathname, useSearchParams } from "next/navigation";
+import { useEffect, useRef, useState } from "react";
 import SearchAutocomplete from "../app/search-autocomplete";
 import type { SearchResult } from "../lib/types";
 
@@ -43,12 +44,12 @@ function navLinkStyle(active: boolean) {
     minHeight: "38px",
     padding: "0 14px",
     borderRadius: "999px",
-    border: active ? "1px solid var(--accent-border)" : "1px solid var(--border-soft)",
-    background: active ? "linear-gradient(180deg, #f3f6f4 0%, #c9cfcd 100%)" : "var(--surface-glass)",
+    border: active ? "1px solid var(--gold-accent)" : "1px solid var(--border-soft)",
+    background: active ? "linear-gradient(180deg, rgba(244,246,245,0.95) 0%, rgba(203,209,207,0.96) 100%)" : "var(--surface-glass)",
     color: active ? "var(--button-text)" : "var(--text-body)",
     fontWeight: 700,
     textDecoration: "none",
-    boxShadow: active ? "0 10px 24px rgba(226,232,229,0.14)" : "var(--shadow-soft)",
+    boxShadow: active ? "0 0 0 1px rgba(214,180,92,0.18), 0 10px 24px rgba(226,232,229,0.14)" : "var(--shadow-soft)",
   } as const;
 }
 
@@ -56,6 +57,39 @@ export default function GlobalHeader({ searchIndex }: GlobalHeaderProps) {
   const pathname = usePathname();
   const searchParams = useSearchParams();
   const activeRootTab = searchParams.get("tab");
+  const [mobileHeaderVisible, setMobileHeaderVisible] = useState(true);
+  const lastScrollYRef = useRef(0);
+
+  useEffect(() => {
+    function onScroll() {
+      const currentY = window.scrollY;
+      const isMobile = window.matchMedia("(max-width: 760px)").matches;
+
+      if (!isMobile) {
+        setMobileHeaderVisible(true);
+        lastScrollYRef.current = currentY;
+        return;
+      }
+
+      const lastScrollY = lastScrollYRef.current;
+
+      if (currentY < 36 || currentY < lastScrollY - 8) {
+        setMobileHeaderVisible(true);
+      } else if (currentY > lastScrollY + 8 && currentY > 140) {
+        setMobileHeaderVisible(false);
+      }
+
+      lastScrollYRef.current = currentY;
+    }
+
+    onScroll();
+    window.addEventListener("scroll", onScroll, { passive: true });
+    window.addEventListener("resize", onScroll);
+    return () => {
+      window.removeEventListener("scroll", onScroll);
+      window.removeEventListener("resize", onScroll);
+    };
+  }, []);
 
   function isActive(item: (typeof navItems)[number]) {
     if (pathname === "/") {
@@ -71,7 +105,9 @@ export default function GlobalHeader({ searchIndex }: GlobalHeaderProps) {
   }
 
   return (
+    <>
     <header
+      className={mobileHeaderVisible ? "site-header" : "site-header site-header-hidden"}
       style={{
         position: "sticky",
         top: 0,
@@ -118,5 +154,16 @@ export default function GlobalHeader({ searchIndex }: GlobalHeaderProps) {
         />
       </div>
     </header>
+      {!mobileHeaderVisible ? (
+        <button
+          type="button"
+          className="mobile-nav-toggle"
+          aria-label="Show navigation"
+          onClick={() => setMobileHeaderVisible(true)}
+        >
+          Menu
+        </button>
+      ) : null}
+    </>
   );
 }

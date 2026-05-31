@@ -256,6 +256,55 @@ function moveSortButtonStyle(active: boolean) {
   } as const;
 }
 
+function normalizeLocalSearch(value: string): string {
+  return value.trim().toLowerCase();
+}
+
+function includesLocalSearch(parts: Array<string | number | null | undefined>, query: string): boolean {
+  if (!query) {
+    return true;
+  }
+
+  return parts
+    .filter((part) => part !== null && part !== undefined)
+    .join(" ")
+    .toLowerCase()
+    .includes(query);
+}
+
+function LocalTabSearch({
+  value,
+  onChange,
+  placeholder,
+}: {
+  value: string;
+  onChange: (value: string) => void;
+  placeholder: string;
+}) {
+  return (
+    <label style={{ display: "block", margin: "0 0 16px" }}>
+      <span style={{ display: "block", marginBottom: "6px", color: "var(--text-muted)", fontSize: "0.86rem", fontWeight: 700 }}>
+        Filter this page
+      </span>
+      <input
+        type="search"
+        value={value}
+        onChange={(event) => onChange(event.target.value)}
+        placeholder={placeholder}
+        style={{
+          width: "100%",
+          padding: "11px 14px",
+          border: "1px solid var(--border-soft)",
+          borderRadius: "14px",
+          background: "var(--surface-glass)",
+          color: "var(--text-body)",
+          boxShadow: "inset 0 1px 0 rgba(255,255,255,0.04)",
+        }}
+      />
+    </label>
+  );
+}
+
 function getMachineTypeIconSrc(type: string | null | undefined): string | null {
   if (!type) {
     return null;
@@ -517,7 +566,62 @@ export default function HomeShell({
   let tabContent: ReactNode;
   const [stickyTop, setStickyTop] = useState(0);
   const [moveSortKeys, setMoveSortKeys] = useState<MoveSortKey[]>([]);
-  const sortedMoves = useMemo(() => sortMoves(moves, moveSortKeys), [moves, moveSortKeys]);
+  const [localSearch, setLocalSearch] = useState("");
+  const normalizedLocalSearch = normalizeLocalSearch(localSearch);
+
+  useEffect(() => {
+    setLocalSearch("");
+  }, [activeTab, pokemonFilter]);
+
+  const filteredPokemon = useMemo(
+    () =>
+      pokemon.filter((entry) =>
+        includesLocalSearch(
+          [
+            entry.dexNumber,
+            getPokemonDisplayName(entry),
+            entry.name,
+            entry.types.join(" "),
+            entry.abilities.map((ability) => ability.value).join(" "),
+          ],
+          normalizedLocalSearch,
+        ),
+      ),
+    [pokemon, normalizedLocalSearch],
+  );
+  const filteredLocations = useMemo(
+    () => locations.filter((entry) => includesLocalSearch([entry.name, entry.region], normalizedLocalSearch)),
+    [locations, normalizedLocalSearch],
+  );
+  const filteredItems = useMemo(
+    () => items.filter((entry) => includesLocalSearch([entry.name, entry.category, entry.description], normalizedLocalSearch)),
+    [items, normalizedLocalSearch],
+  );
+  const filteredMoves = useMemo(
+    () =>
+      moves.filter((entry) =>
+        includesLocalSearch(
+          [entry.name, entry.type, entry.category, entry.power, entry.accuracy, entry.pp],
+          normalizedLocalSearch,
+        ),
+      ),
+    [moves, normalizedLocalSearch],
+  );
+  const filteredMachines = useMemo(
+    () =>
+      machines.filter((entry) =>
+        includesLocalSearch(
+          [entry.code, entry.moveName, entry.moveType, entry.category, entry.power, entry.accuracy, entry.pp, entry.effectSummary],
+          normalizedLocalSearch,
+        ),
+      ),
+    [machines, normalizedLocalSearch],
+  );
+  const filteredAbilities = useMemo(
+    () => abilities.filter((entry) => includesLocalSearch([entry.name, entry.description], normalizedLocalSearch)),
+    [abilities, normalizedLocalSearch],
+  );
+  const sortedMoves = useMemo(() => sortMoves(filteredMoves, moveSortKeys), [filteredMoves, moveSortKeys]);
 
   useEffect(() => {
     function updateStickyTop() {
@@ -550,7 +654,7 @@ export default function HomeShell({
     case "locations":
       tabContent = (
         <CompactLinkList
-          rows={locations.map((entry) => ({
+          rows={filteredLocations.map((entry) => ({
             id: entry.id,
             href: `/locations/${entry.slug}`,
             title: entry.name,
@@ -560,7 +664,7 @@ export default function HomeShell({
       );
       break;
     case "items":
-      tabContent = <ItemsReference items={items} />;
+      tabContent = <ItemsReference items={filteredItems} />;
       break;
     case "moves":
       tabContent = (
@@ -649,7 +753,7 @@ export default function HomeShell({
               </tr>
             </thead>
             <tbody>
-              {machines.map((entry) => (
+              {filteredMachines.map((entry) => (
                 <tr key={entry.id}>
                   <td style={tableCellStyle()}>
                     <Link href={`/machines/${entry.slug}`} style={{ color: "var(--text-body)", fontWeight: 800 }}>
@@ -675,7 +779,7 @@ export default function HomeShell({
     case "abilities":
       tabContent = (
         <CompactLinkList
-          rows={abilities.map((entry) => ({
+          rows={filteredAbilities.map((entry) => ({
             id: entry.id,
             href: `/abilities/${entry.slug}`,
             title: entry.name,
@@ -686,7 +790,7 @@ export default function HomeShell({
       break;
     case "pokedex":
     default:
-      tabContent = <HomePokedexTable pokemon={pokemon} focusedSlug={focusedSlug} pokemonFilter={pokemonFilter} />;
+      tabContent = <HomePokedexTable pokemon={filteredPokemon} focusedSlug={focusedSlug} pokemonFilter={pokemonFilter} />;
       break;
   }
 
@@ -702,6 +806,23 @@ export default function HomeShell({
           overflow: "visible",
         }}
       >
+        <LocalTabSearch
+          value={localSearch}
+          onChange={setLocalSearch}
+          placeholder={
+            activeTab === "pokedex"
+              ? "Filter Pokémon by name, type, ability, or number..."
+              : activeTab === "moves"
+                ? "Filter moves by name, type, category, power, or effect..."
+                : activeTab === "machines"
+                  ? "Filter TMs & HMs by code, move, type, category, or effect..."
+                  : activeTab === "items"
+                    ? "Filter items by name, category, or description..."
+                    : activeTab === "locations"
+                      ? "Filter locations by name..."
+                      : "Filter abilities by name or description..."
+          }
+        />
         {tabContent}
       </section>
     </main>

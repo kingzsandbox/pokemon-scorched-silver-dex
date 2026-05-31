@@ -6,6 +6,7 @@ import { getMoves } from "./data/moves";
 import { getAllPokemon } from "./data/pokemon";
 import { getLevelCaps } from "./data/systems";
 import { getTrainers } from "./data/trainers";
+import { getPokemonDisplayName, getPokemonFormKind } from "./presentation";
 import type { SearchResult } from "./types";
 
 let cachedSearchIndex: SearchResult[] | null = null;
@@ -15,7 +16,7 @@ export function normalizeQuery(value: string): string {
 }
 
 export function getHomePokemonHref(slug: string): string {
-  return `/?tab=pokedex&focus=${encodeURIComponent(slug)}#pokemon-row-${encodeURIComponent(slug)}`;
+  return `/pokemon/${slug}`;
 }
 
 export function getSearchResultHref(result: Pick<SearchResult, "type" | "slug">): string {
@@ -51,13 +52,25 @@ export function getSearchIndex(): SearchResult[] {
     return cachedSearchIndex;
   }
 
-  const pokemonResults: SearchResult[] = getAllPokemon().map((entry) => ({
+  const pokemonResults: SearchResult[] = getAllPokemon().map((entry) => {
+    const formKind = getPokemonFormKind(entry);
+    const formLabel =
+      formKind === "mega"
+        ? "Mega"
+        : formKind === "regional"
+          ? "Regional form"
+          : formKind === "alternate"
+            ? "Alternate form"
+            : "Pokemon";
+
+    return {
       id: entry.id,
       type: "pokemon",
-      title: entry.name,
-      subtitle: `#${entry.dexNumber} • ${entry.types.join(" / ")}`,
+      title: getPokemonDisplayName(entry),
+      subtitle: `#${entry.dexNumber} • ${formLabel} • ${entry.types.join(" / ")}`,
       slug: entry.slug,
-    }));
+    };
+  });
 
   const locationResults: SearchResult[] = getLocationGroups().map((entry) => ({
       id: entry.id,
