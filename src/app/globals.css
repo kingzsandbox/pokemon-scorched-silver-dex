@@ -104,6 +104,11 @@ section[style*="var(--surface-card)"] {
   width: max-content;
 }
 
+.table-scroll th,
+.table-scroll [role="row"][style*="sticky"] {
+  top: 0 !important;
+}
+
 .table-scroll::-webkit-scrollbar {
   height: 8px;
 }
@@ -171,13 +176,6 @@ section[style*="var(--surface-card)"] {
     display: none !important;
   }
 
-  .table-scroll th {
-    top: 0 !important;
-  }
-
-  .table-scroll [role="row"][style*="sticky"] {
-    top: 0 !important;
-  }
 }
 
 button,

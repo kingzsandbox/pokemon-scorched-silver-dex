@@ -19,7 +19,7 @@ function getMoveEffectText(moveId: string | null | undefined, fallback: string |
 
 const tableHeaderStyle = {
   position: "sticky",
-  top: "126px",
+  top: 0,
   zIndex: 8,
   padding: "12px 10px",
   borderBottom: "1px solid var(--border-soft)",
@@ -49,7 +49,7 @@ export default function MachinesPage() {
         Browse TM and HM records by machine code, taught move, battle data, obtainment, and compatibility.
       </p>
 
-      <div style={{ overflowX: "auto", marginTop: "24px", border: "1px solid var(--border-soft)", borderRadius: "14px" }}>
+      <div className="table-scroll" style={{ marginTop: "24px" }}>
         <table style={{ width: "100%", minWidth: "1180px", borderCollapse: "separate", borderSpacing: 0 }}>
           <thead>
             <tr>

@@ -962,6 +962,10 @@ function sortKeyForArea(groupName: string, areaLabel: string): number {
       "b2f": 2,
       "b3f": 3,
     },
+    "ilex forest": {
+      "past": 1,
+      "present": 2,
+    },
     "goldenrod department store": {
       "1f": 1,
       "2f": 2,

@@ -213,6 +213,10 @@ function isRenderableAreaLabel(groupName: string, value: string | null): value i
     return true;
   }
 
+  if (/^Ilex Forest$/i.test(groupName)) {
+    return /^(Past|Present)$/i.test(value);
+  }
+
   if (/^Lighthouse$/i.test(groupName)) {
     return /^(Lower Floors|Top)$/i.test(value);
   }
@@ -260,6 +264,31 @@ type DisplayEncounter = {
   maxLevel: number;
   entries: EncounterWithArea[];
 };
+
+function splitIlexForestEncounter(
+  encounter: EncounterWithArea,
+  selectedArea: string | null,
+): EncounterWithArea[] {
+  const normalizedMethod = encounter.method.toLowerCase();
+
+  if (normalizedMethod === "grass") {
+    const era = encounter.maxLevel <= 10 ? "Past" : "Present";
+    return selectedArea === null || selectedArea === era ? [{ ...encounter, areaLabel: era }] : [];
+  }
+
+  if (normalizedMethod === "surf" || normalizedMethod === "fishing") {
+    if (selectedArea) {
+      return [{ ...encounter, areaLabel: selectedArea }];
+    }
+
+    return [
+      { ...encounter, areaLabel: "Past" },
+      { ...encounter, areaLabel: "Present" },
+    ];
+  }
+
+  return selectedArea === null ? [encounter] : [];
+}
 
 function displayEncounterMethod(encounter: Pick<EncounterWithArea, "method" | "areaLabel" | "maxLevel">): string {
   if (/underwater/i.test(encounter.areaLabel)) {
@@ -491,31 +520,40 @@ export default async function LocationDetailPage({ params, searchParams }: Locat
     notFound();
   }
 
-  const renderedAreaLabels = [
+  const baseRenderedAreaLabels = [
     ...new Set(
       locationGroup.mappedChildren
         .map((child) => renderAreaLabel(locationGroup.name, child.areaLabel))
         .filter((label): label is string => label !== null),
     ),
   ];
+  const renderedAreaLabels = locationGroup.name === "Ilex Forest" ? ["Past", "Present"] : baseRenderedAreaLabels;
   const selectedArea =
     renderedAreaLabels.length > 1
       ? renderedAreaLabels.find((areaLabel) => slugifyArea(areaLabel) === resolvedSearchParams.area) ?? renderedAreaLabels[0]
       : null;
   const scopedMappedChildren = selectedArea
-    ? locationGroup.mappedChildren.filter((child) => renderAreaLabel(locationGroup.name, child.areaLabel) === selectedArea)
+    ? locationGroup.name === "Ilex Forest"
+      ? locationGroup.mappedChildren
+      : locationGroup.mappedChildren.filter((child) => renderAreaLabel(locationGroup.name, child.areaLabel) === selectedArea)
     : locationGroup.mappedChildren;
   const scopedChildren = selectedArea
-    ? locationGroup.children.filter((child) => renderAreaLabel(locationGroup.name, child.areaLabel) === selectedArea)
+    ? locationGroup.name === "Ilex Forest"
+      ? locationGroup.children
+      : locationGroup.children.filter((child) => renderAreaLabel(locationGroup.name, child.areaLabel) === selectedArea)
     : locationGroup.children;
 
-  const rawEncounters = scopedMappedChildren.flatMap((child) =>
+  const rawEncounterCandidates = scopedMappedChildren.flatMap((child) =>
     getEncountersByLocation(child.location.id).map((encounter) => ({
       ...encounter,
       areaLabel: child.areaLabel,
       mapLabel: child.mapLabel,
     })),
   );
+  const rawEncounters =
+    locationGroup.name === "Ilex Forest"
+      ? rawEncounterCandidates.flatMap((encounter) => splitIlexForestEncounter(encounter, selectedArea))
+      : rawEncounterCandidates;
   const encounters = combineEncounterRows(locationGroup.name, rawEncounters);
   const hasHeldItemColumn = encounters.some((encounter) => getDisplayHeldItems(encounter).length > 0);
   const facilityGroups = getLocationFacilityGroups(locationGroup.name);

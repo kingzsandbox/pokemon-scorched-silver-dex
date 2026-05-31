@@ -173,7 +173,7 @@ function tableHeaderCellStyle(stickyTop: number, align: "left" | "center" | "rig
   return {
     ...tableCellStyle(align),
     position: "sticky",
-    top: stickyTop,
+    top: 0,
     zIndex: 8,
     background: "var(--surface-table-header)",
     color: "var(--text-strong)",
@@ -408,7 +408,7 @@ function HomePokedexTable({
             display: "grid",
             gridTemplateColumns,
             position: "sticky",
-            top: stickyTop,
+            top: 0,
             zIndex: 100,
             background: "var(--surface-table-header)",
             boxShadow: "0 1px 0 var(--border-soft), 0 10px 18px rgba(0, 0, 0, 0.34)",

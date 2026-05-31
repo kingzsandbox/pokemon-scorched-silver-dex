@@ -17,7 +17,7 @@ function headerCellStyle(align: "left" | "center" | "right" = "left") {
   return {
     ...cellStyle(align),
     position: "sticky",
-    top: "126px",
+    top: 0,
     zIndex: 8,
     background: "var(--surface-table-header)",
     color: "var(--text-strong)",
